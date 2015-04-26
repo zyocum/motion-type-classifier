@@ -1,0 +1,4098 @@
+{
+    "\"Dictionary of American Slang,\"": {
+        "abbreviation": "DAS", 
+        "description": "<i>\"Dictionary of American Slang,\"</i> by Harold Wentworth and Stewart Berg Flexner, published 1960, revised four times since.", 
+        "terms": [
+            "DAS", 
+            "\"Dictionary of American Slang,\""
+        ], 
+        "type": "dictionary", 
+        "url": null
+    }, 
+    "\"New English Dictionary\"": {
+        "abbreviation": "OED", 
+        "description": "<i>\"Oxford English Dictionary,\"</i></a> the principal source for modern English etymologies, begun in 1879 (as the <i>\"New English Dictionary\"</i>); a second edition was published in the 1980s, and the work is ongoing. References to it on this site, unless otherwise noted, are to the 2nd print edition.", 
+        "terms": [
+            "OED", 
+            "\"Oxford English Dictionary,\"", 
+            "\"New English Dictionary\""
+        ], 
+        "type": "dictionary", 
+        "url": "<a href=\"http://www.oed.com/\">"
+    }, 
+    "\"Oxford English Dictionary,\"": {
+        "abbreviation": "OED", 
+        "description": "<i>\"Oxford English Dictionary,\"</i></a> the principal source for modern English etymologies, begun in 1879 (as the <i>\"New English Dictionary\"</i>); a second edition was published in the 1980s, and the work is ongoing. References to it on this site, unless otherwise noted, are to the 2nd print edition.", 
+        "terms": [
+            "OED", 
+            "\"Oxford English Dictionary,\"", 
+            "\"New English Dictionary\""
+        ], 
+        "type": "dictionary", 
+        "url": "<a href=\"http://www.oed.com/\">"
+    }, 
+    "*ped-": {
+        "abbreviation": "asterisk (*)", 
+        "description": "Words beginning with an asterisk are not attested in any written source, but they have been reconstructed by etymological analysis, such as Indo-European <i>*ped-</i>, the root of words for \"foot\" in most of its daughter tongues.", 
+        "terms": [
+            "asterisk (*)", 
+            "*ped-"
+        ], 
+        "type": "prefix", 
+        "url": null
+    }, 
+    "-ed": {
+        "abbreviation": "pp.", 
+        "description": "<i>Past participle</i>, a form of a verb that can be both a verb and an adjective, and which denotes action which has been completed. In Modern English, it commonly ends in <i>-ed</i> or <i>-en.</i> Thus, <i>asked</i> is the past participle of <i>ask.</i> French past participles commonly were adopted as finite verbs in Middle English.", 
+        "terms": [
+            "pp.", 
+            "Past participle", 
+            "-ed", 
+            "-en.", 
+            "asked", 
+            "ask."
+        ], 
+        "type": "suffix", 
+        "url": null
+    }, 
+    "-en.": {
+        "abbreviation": "pp.", 
+        "description": "<i>Past participle</i>, a form of a verb that can be both a verb and an adjective, and which denotes action which has been completed. In Modern English, it commonly ends in <i>-ed</i> or <i>-en.</i> Thus, <i>asked</i> is the past participle of <i>ask.</i> French past participles commonly were adopted as finite verbs in Middle English.", 
+        "terms": [
+            "pp.", 
+            "Past participle", 
+            "-ed", 
+            "-en.", 
+            "asked", 
+            "ask."
+        ], 
+        "type": "suffix", 
+        "url": null
+    }, 
+    "-er": {
+        "abbreviation": "agent noun", 
+        "description": "form expressing the notion \"doer of action.\" <i>Hunter</i> is an agent noun, and <i>-er</i> is an agentive suffix.", 
+        "terms": [
+            "agent noun", 
+            "Hunter", 
+            "-er"
+        ], 
+        "type": "suffix", 
+        "url": null
+    }, 
+    "-i.": {
+        "abbreviation": "metathesis", 
+        "description": "Inversion of segments within a word; Old English <i>þridda</i> became Modern English <i>third</i> through metathesis of <i>-r-</i> and <i>-i.</i>", 
+        "terms": [
+            "metathesis", 
+            "þridda", 
+            "third", 
+            "-r-", 
+            "-i."
+        ], 
+        "type": "suffix", 
+        "url": null
+    }, 
+    "-ing": {
+        "abbreviation": "prp.", 
+        "description": "<i>Present participle</i>, a form of a verb that can be a verb, an adverb, and even a noun (gerund), and which denotes action which is ongoing. In Modern English, most easily identified by its characteristic ending <i>-ing</i>. Thus, <i>asking</i> is the present participle of <i>ask.</i>", 
+        "terms": [
+            "prp.", 
+            "Present participle", 
+            "-ing", 
+            "asking", 
+            "ask."
+        ], 
+        "type": "suffix", 
+        "url": null
+    }, 
+    "-ing.": {
+        "abbreviation": "part.", 
+        "description": "<i>Participle</i>, a verbal form having some functions of both verbs and adjectives (in English, usually ending in <i>-ing.</i>)", 
+        "terms": [
+            "part.", 
+            "Participle", 
+            "-ing."
+        ], 
+        "type": "suffix", 
+        "url": null
+    }, 
+    "-less": {
+        "abbreviation": "priv.", 
+        "description": "<i>Privative</i>, indicating negation, absence, or loss, such as the prefix <i>un-</i> or the suffix <i>-less</i>.", 
+        "terms": [
+            "priv.", 
+            "Privative", 
+            "un-", 
+            "-less"
+        ], 
+        "type": "suffix", 
+        "url": null
+    }, 
+    "-r-": {
+        "abbreviation": "metathesis", 
+        "description": "Inversion of segments within a word; Old English <i>þridda</i> became Modern English <i>third</i> through metathesis of <i>-r-</i> and <i>-i.</i>", 
+        "terms": [
+            "metathesis", 
+            "þridda", 
+            "third", 
+            "-r-", 
+            "-i."
+        ], 
+        "type": "infix", 
+        "url": null
+    }, 
+    "-s": {
+        "abbreviation": "Possessive", 
+        "description": "form of a word designating possession or some similar relationship. Usually formed in English with an <i>-s</i> and an apostrophe; <i>John's</i> is possessive of <i>John.</i>", 
+        "terms": [
+            "Possessive", 
+            "-s", 
+            "John's", 
+            "John."
+        ], 
+        "type": "suffix", 
+        "url": null
+    }, 
+    "16c.": {
+        "abbreviation": "c.", 
+        "description": "<i>Century</i>, when following a number (<i>16c.</i>); <i>circa</i> when preceding one (<i>c.1500</i>).", 
+        "terms": [
+            "c.", 
+            "Century", 
+            "16c.", 
+            "circa", 
+            "c.1500"
+        ], 
+        "type": "date", 
+        "url": null
+    }, 
+    "Ablative": {
+        "abbreviation": "Ablative", 
+        "description": "the Latin case of adverbial relation, typically expressing the notion \"away from,\" or the source or place of an action.", 
+        "terms": [
+            "Ablative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "Abnaki": {
+        "abbreviation": "Abnaki", 
+        "description": "Algonquian language of northern New England and eastern Canada. ", 
+        "terms": [
+            "Abnaki"
+        ], 
+        "type": "Language", 
+        "url": null
+    }, 
+    "Accusative": {
+        "abbreviation": "acc.", 
+        "description": "<i>Accusative</i>, typically the case of the direct object, but also sometimes denoting \"motion towards.\" Nouns and adjectives in French, Spanish, and Italian, languages from which English borrowed heavily, generally were formed from the accusative case of a Latin word. ", 
+        "terms": [
+            "acc.", 
+            "Accusative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "Adjective": {
+        "abbreviation": "adj.", 
+        "description": "<i>Adjective</i>", 
+        "terms": [
+            "adj.", 
+            "Adjective"
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "Adverb": {
+        "abbreviation": "adv.", 
+        "description": "<i>Adverb</i>", 
+        "terms": [
+            "adv.", 
+            "Adverb"
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "Aeolic": {
+        "abbreviation": "Greek", 
+        "description": "Indo-European language spoken in Greece in the classical period, c. 8c. B.C.E.-4c. C.E. Among its dialects were <i>Ionian-Attic</i> (the language of Homer and the Athenian dramatists), <i>Aeolic</i> (used in Thessaly, Boeotia and Lesbos), and <i>Dorian</i> (the language of Sparta).", 
+        "terms": [
+            "Greek", 
+            "Ionian-Attic", 
+            "Aeolic", 
+            "Dorian"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.greek-language.com/\">"
+    }, 
+    "Afrikaans": {
+        "abbreviation": "Afrikaans", 
+        "description": "Germanic language of South Africa, an offshoot of Dutch, also known as <i>South African Dutch</i>. ", 
+        "terms": [
+            "Afrikaans", 
+            "South African Dutch"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Akkadian": {
+        "abbreviation": "Akkadian", 
+        "description": "Semitic language group spoken in ancient Mesopotamia, including Babylon and Assyria.", 
+        "terms": [
+            "Akkadian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Algonquian": {
+        "abbreviation": "Algonquian", 
+        "description": "widespread group of North American native languages.", 
+        "terms": [
+            "Algonquian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "American English": {
+        "abbreviation": "American English", 
+        "description": "the English language as spoken and written in the United States of America.", 
+        "terms": [
+            "American English"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "American Spanish": {
+        "abbreviation": "American Spanish", 
+        "description": "the Spanish language as spoken and written in the New World.", 
+        "terms": [
+            "American Spanish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Anglian": {
+        "abbreviation": "Anglian", 
+        "description": "the Old English dialect of the Angles; the dialect of Old English spoken in the Anglo-Saxon kingdom of East Anglia.", 
+        "terms": [
+            "Anglian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Anglo-French": {
+        "abbreviation": "Anglo-French", 
+        "description": "the French written in England from the Norman Conquest (1066) through the Middle Ages; the administrative and legal language of England 12c.-17c. Derived from the French of Normandy, which was influenced by Germanic.", 
+        "terms": [
+            "Anglo-French"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Anglo-Latin": {
+        "abbreviation": "Anglo-Latin", 
+        "description": "the form of Medieval Latin used in England during the Middle English period.", 
+        "terms": [
+            "Anglo-Latin"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Anglo-Norm.": {
+        "abbreviation": "Anglo-Norm.", 
+        "description": "<i>Anglo-Norman</i>, the dialect of Anglo-French spoken by the Norman settlers (French-speaking descendants of Scandinavians who settled in Normandy in the 9c.) in England after the Conquest (1066). For purposes of this site, essentially the same as Anglo-French.", 
+        "terms": [
+            "Anglo-Norm.", 
+            "Anglo-Norman"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Anglo-Norman": {
+        "abbreviation": "Anglo-Norm.", 
+        "description": "<i>Anglo-Norman</i>, the dialect of Anglo-French spoken by the Norman settlers (French-speaking descendants of Scandinavians who settled in Normandy in the 9c.) in England after the Conquest (1066). For purposes of this site, essentially the same as Anglo-French.", 
+        "terms": [
+            "Anglo-Norm.", 
+            "Anglo-Norman"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Arabic": {
+        "abbreviation": "Arabic", 
+        "description": "the Semitic language of the Arabs and the language of Islam.", 
+        "terms": [
+            "Arabic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Aramaic": {
+        "abbreviation": "Aramaic", 
+        "description": "Semitic language of the Middle East. Aramaic became the lingua franca of the Assyrian empire and later for centuries was the official language of the Persian kingdom and the daily language of Israel at the time of Christ.", 
+        "terms": [
+            "Aramaic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Arawakan": {
+        "abbreviation": "Arawakan", 
+        "description": "native language family of northern South America and the West Indies.", 
+        "terms": [
+            "Arawakan"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Armenian": {
+        "abbreviation": "Armenian", 
+        "description": "the Indo-European language of Armenia.", 
+        "terms": [
+            "Armenian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Assyrian": {
+        "abbreviation": "Assyrian", 
+        "description": "Akkadian dialect spoken in the empire that flourished on the Tigris River 7c. B.C.E.", 
+        "terms": [
+            "Assyrian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Attic": {
+        "abbreviation": "Attic", 
+        "description": "ancient Greek dialect of Athens and its region.", 
+        "terms": [
+            "Attic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Basque": {
+        "abbreviation": "Basque", 
+        "description": "non-Indo-European language of the Basque people.", 
+        "terms": [
+            "Basque"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Breton": {
+        "abbreviation": "Breton", 
+        "description": "Celtic language of Brittany, the last surviving Celtic language in continental Europe.", 
+        "terms": [
+            "Breton"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Cantonese": {
+        "abbreviation": "Cantonese", 
+        "description": "type of Chinese spoken in the southeastern province of Canton (Guangzhou), where Europeans and Chinese often interacted in early modern times.", 
+        "terms": [
+            "Cantonese"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Carib": {
+        "abbreviation": "Carib", 
+        "description": "South American native language spoken in northern South America and parts of Central America.", 
+        "terms": [
+            "Carib"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Catalan": {
+        "abbreviation": "Catalan", 
+        "description": "Romance language of Catalonia and some nearby places; closely related to Provencal.", 
+        "terms": [
+            "Catalan"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Causative": {
+        "abbreviation": "caus.", 
+        "description": "<i>Causative</i>, a form of a verb expressing the notion \"cause X to Y.\" The <i>en-</i> in <i>enrich</i> is a causative prefix.", 
+        "terms": [
+            "caus.", 
+            "Causative", 
+            "en-", 
+            "enrich"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Caxton": {
+        "abbreviation": "Caxton", 
+        "description": "<i>William Caxton</i> (d.1491), the first English printer, responsible for a number of spelling changes.", 
+        "terms": [
+            "Caxton", 
+            "William Caxton"
+        ], 
+        "type": "person", 
+        "url": null
+    }, 
+    "Celt.": {
+        "abbreviation": "Celt.", 
+        "description": "<i>Celtic</i>, Indo-European language branch that includes Irish, Scottish Gaelic, Welsh, and Breton. Also the language spoken by the ancestral group during the presumed period of unity.", 
+        "terms": [
+            "Celt.", 
+            "Celtic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Celtic": {
+        "abbreviation": "Celt.", 
+        "description": "<i>Celtic</i>, Indo-European language branch that includes Irish, Scottish Gaelic, Welsh, and Breton. Also the language spoken by the ancestral group during the presumed period of unity.", 
+        "terms": [
+            "Celt.", 
+            "Celtic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Century": {
+        "abbreviation": "c.", 
+        "description": "<i>Century</i>, when following a number (<i>16c.</i>); <i>circa</i> when preceding one (<i>c.1500</i>).", 
+        "terms": [
+            "c.", 
+            "Century", 
+            "16c.", 
+            "circa", 
+            "c.1500"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Cherokee": {
+        "abbreviation": "Cherokee", 
+        "description": "native Iroquoian language of the southern Appalachians.", 
+        "terms": [
+            "Cherokee"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Chinook": {
+        "abbreviation": "Chinook", 
+        "description": "native language of a North American people who lived along the Columbia River; also <i>Chinook jargon</i>, a lingua franca of the Pacific Northwest made up of English, French and native elements.", 
+        "terms": [
+            "Chinook", 
+            "Chinook jargon"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Chinook jargon": {
+        "abbreviation": "Chinook", 
+        "description": "native language of a North American people who lived along the Columbia River; also <i>Chinook jargon</i>, a lingua franca of the Pacific Northwest made up of English, French and native elements.", 
+        "terms": [
+            "Chinook", 
+            "Chinook jargon"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Church Latin": {
+        "abbreviation": "Church Latin", 
+        "description": "Late Latin as used in Christian ritual, discipline, and theology.", 
+        "terms": [
+            "Church Latin"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Combining": {
+        "abbreviation": "comb.", 
+        "description": "<i>Combining</i>, the form of a word when it combines with other words.", 
+        "terms": [
+            "comb.", 
+            "Combining"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Comparative": {
+        "abbreviation": "comp.", 
+        "description": "<i>Comparative</i>, the second degree of comparison of an adjective or adverb. <i>Longer</i> is the comparative of <i>long</i>.", 
+        "terms": [
+            "comp.", 
+            "Comparative", 
+            "Longer", 
+            "long"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Coptic": {
+        "abbreviation": "Coptic", 
+        "description": "Hamitic language descended from ancient Egyptian, now confined to liturgical use.", 
+        "terms": [
+            "Coptic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Cornish": {
+        "abbreviation": "Cornish", 
+        "description": "Celtic language spoken until late 18c. in Cornwall.", 
+        "terms": [
+            "Cornish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Coverdale": {
+        "abbreviation": "Coverdale", 
+        "description": "Myles (or Miles) <i>Coverdale</i> (c.1488–1569), translator who produced the first complete printed translation of the Bible into English.", 
+        "terms": [
+            "Coverdale", 
+            "Coverdale"
+        ], 
+        "type": "person", 
+        "url": null
+    }, 
+    "Croatian": {
+        "abbreviation": "Croatian", 
+        "description": "Serbo-Croatian as spoken in Croatia, and written in the Latin alphabet.", 
+        "terms": [
+            "Croatian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Czech": {
+        "abbreviation": "Czech", 
+        "description": "West Slavic language of old Bohemia (modern Czech Republic).", 
+        "terms": [
+            "Czech"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "DAS": {
+        "abbreviation": "DAS", 
+        "description": "<i>\"Dictionary of American Slang,\"</i> by Harold Wentworth and Stewart Berg Flexner, published 1960, revised four times since.", 
+        "terms": [
+            "DAS", 
+            "\"Dictionary of American Slang,\""
+        ], 
+        "type": "dictionary", 
+        "url": null
+    }, 
+    "Danish": {
+        "abbreviation": "Danish", 
+        "description": "North Germanic language spoken in Denmark.", 
+        "terms": [
+            "Danish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Dative": {
+        "abbreviation": "dat.", 
+        "description": "<i>Dative</i>, typically the case of the indirect object, but sometimes also denoting \"motion toward.\" In old Germanic languages, the \"fourth case,\" catch-all for I.E. dative, ablative, locative and other cases.", 
+        "terms": [
+            "dat.", 
+            "Dative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "Diminutive": {
+        "abbreviation": "Diminutive", 
+        "description": "a form of a word used to express smallness, as <i>ringlet</i> is the dim. of <i>ring</i>.", 
+        "terms": [
+            "Diminutive", 
+            "ringlet", 
+            "ring"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "Dorian": {
+        "abbreviation": "Greek", 
+        "description": "Indo-European language spoken in Greece in the classical period, c. 8c. B.C.E.-4c. C.E. Among its dialects were <i>Ionian-Attic</i> (the language of Homer and the Athenian dramatists), <i>Aeolic</i> (used in Thessaly, Boeotia and Lesbos), and <i>Dorian</i> (the language of Sparta).", 
+        "terms": [
+            "Greek", 
+            "Ionian-Attic", 
+            "Aeolic", 
+            "Dorian"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.greek-language.com/\">"
+    }, 
+    "Dravidian": {
+        "abbreviation": "Dravidian", 
+        "description": "(non-Indo-European) language family centered in southern India, including Tamil, Telugu.", 
+        "terms": [
+            "Dravidian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Dutch": {
+        "abbreviation": "Dutch", 
+        "description": "West Germanic language spoke in the Netherlands, descended from the Low German dialects of the Franks and Saxons.", 
+        "terms": [
+            "Dutch"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "East Frisian": {
+        "abbreviation": "East Frisian", 
+        "description": "variant of Frisian spoke on the islands off the North Sea coast of Germany.", 
+        "terms": [
+            "East Frisian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Ecclesiastical Greek": {
+        "abbreviation": "Ecclesiastical Greek", 
+        "description": "Greek as used by the early Christians.", 
+        "terms": [
+            "Ecclesiastical Greek"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Egypt.": {
+        "abbreviation": "Egypt.", 
+        "description": "<i>Egyptian</i>, Afroasiatic (Hamitic) language spoken in ancient Egypt.", 
+        "terms": [
+            "Egypt.", 
+            "Egyptian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Egyptian": {
+        "abbreviation": "Egypt.", 
+        "description": "<i>Egyptian</i>, Afroasiatic (Hamitic) language spoken in ancient Egypt.", 
+        "terms": [
+            "Egypt.", 
+            "Egyptian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "English": {
+        "abbreviation": "English", 
+        "description": "West Germanic language spoken in England after c.450, heavily influenced by French and somewhat by Scandinavian.", 
+        "terms": [
+            "English"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://ebbs.english.vt.edu/hel/hel.html\">"
+    }, 
+    "Especially": {
+        "abbreviation": "esp.", 
+        "description": "<i>Especially</i>", 
+        "terms": [
+            "esp.", 
+            "Especially"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Estonian": {
+        "abbreviation": "Estonian", 
+        "description": "Finno-Ugric (non-Indo-European) language of Estonia.", 
+        "terms": [
+            "Estonian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Etruscan": {
+        "abbreviation": "Etruscan", 
+        "description": "language spoken by an ancient people of what is now Tuscany, neighbors of the early Romans; the origin of their language is uncertain.", 
+        "terms": [
+            "Etruscan"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Faeroese": {
+        "abbreviation": "Faeroese", 
+        "description": "Scandinavian language of the Faeroe Islands.", 
+        "terms": [
+            "Faeroese"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Feminine": {
+        "abbreviation": "fem.", 
+        "description": "<i>Feminine</i>, the grammatical gender in highly inflected Indo-European languages that denotes females and many other words to which no distinction of sex is apparent.", 
+        "terms": [
+            "fem.", 
+            "Feminine"
+        ], 
+        "type": "gender", 
+        "url": null
+    }, 
+    "Finnish": {
+        "abbreviation": "Finnish", 
+        "description": "Finno-Ugric (non-Indo-European) language of Finland.", 
+        "terms": [
+            "Finnish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Flemish": {
+        "abbreviation": "Flemish", 
+        "description": "West Germanic dialect spoken in Flanders, generally regarded as the Belgian variant of Dutch rather than as a separate tongue.", 
+        "terms": [
+            "Flemish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Frankish": {
+        "abbreviation": "Frankish", 
+        "description": "West Germanic language of the Franks, inhabitants of northern Gaul 5c.-6c., their descendants ruled France, Germany, Italy in 9c., and the language contributed hundreds of words to French and strongly influenced the form of it that was brought to England as Anglo-French.", 
+        "terms": [
+            "Frankish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "French": {
+        "abbreviation": "French", 
+        "description": "Romanic language spoken chiefly in France.", 
+        "terms": [
+            "French"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Frequentative": {
+        "abbreviation": "freq.", 
+        "description": "<i>Frequentative</i>, case denoting recurring action.", 
+        "terms": [
+            "freq.", 
+            "Frequentative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "Frisian": {
+        "abbreviation": "Frisian", 
+        "description": "West Germanic language spoken in Friesland, the lowland coast of the North Sea and nearby islands, closely related to Dutch and Old English.", 
+        "terms": [
+            "Frisian"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.eurolang.net/Languages/Frisian.htm\">"
+    }, 
+    "Fulani": {
+        "abbreviation": "Fulani", 
+        "description": "language of northern Nigeria.", 
+        "terms": [
+            "Fulani"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Future": {
+        "abbreviation": "fut.", 
+        "description": "<i>Future</i>, the verb tense indicating time to come. English lacks a pure future tense, but Latin and other languages have it.", 
+        "terms": [
+            "fut.", 
+            "Future"
+        ], 
+        "type": "tense", 
+        "url": null
+    }, 
+    "Gaelic": {
+        "abbreviation": "Gaelic", 
+        "description": "Celtic language of Highland Scotland.", 
+        "terms": [
+            "Gaelic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Gallo-Roman": {
+        "abbreviation": "Gallo-Romance", 
+        "description": "or <i>Gallo-Roman</i>, the vernacular language of France c. 500-900 C.E.; intermediate between Vulgar Latin and Old French. ", 
+        "terms": [
+            "Gallo-Romance", 
+            "Gallo-Roman"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Gallo-Romance": {
+        "abbreviation": "Gallo-Romance", 
+        "description": "or <i>Gallo-Roman</i>, the vernacular language of France c. 500-900 C.E.; intermediate between Vulgar Latin and Old French. ", 
+        "terms": [
+            "Gallo-Romance", 
+            "Gallo-Roman"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Gaulish": {
+        "abbreviation": "Gaulish", 
+        "description": "Celtic language of ancient Gaul.", 
+        "terms": [
+            "Gaulish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Genitive": {
+        "abbreviation": "Genitive", 
+        "description": "the case of the complement, typically expressing \"possession\" or \"origin.\"", 
+        "terms": [
+            "Genitive"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "German": {
+        "abbreviation": "German", 
+        "description": "West Germanic language spoken in Germany, Austria, parts of Switzerland, technically \"New High German.\" A general rule when comparing English and German in their evolution from a common source is that English has been more conservative with its consonants, German with its vowels.", 
+        "terms": [
+            "German"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Germanic": {
+        "abbreviation": "Germanic", 
+        "description": "a branch of Indo-European, ancestral language of English, German, Dutch, Frisian, Scandinavian tongues and several extinct languages such as Gothic and Frankish.", 
+        "terms": [
+            "Germanic"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://sps.k12.mo.us/khs/gmcling/gmc.htm\">"
+    }, 
+    "Gerund": {
+        "abbreviation": "ger.", 
+        "description": "<i>Gerund</i>, a verbal noun, in English usually ending in <i>-ing.</i> ", 
+        "terms": [
+            "ger.", 
+            "Gerund", 
+            "-ing."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "Gothic": {
+        "abbreviation": "Gothic", 
+        "description": "the East Germanic language of the Goths, extinct since 16c., but because of early missionary work among them we have Gothic texts 200 years earlier than those in any other Germanic language, which are crucial to reconstructing Proto-Germanic.", 
+        "terms": [
+            "Gothic"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.terracom.net/~dorothea/david/gothic/intro.html\">"
+    }, 
+    "Greek": {
+        "abbreviation": "Greek", 
+        "description": "Indo-European language spoken in Greece in the classical period, c. 8c. B.C.E.-4c. C.E. Among its dialects were <i>Ionian-Attic</i> (the language of Homer and the Athenian dramatists), <i>Aeolic</i> (used in Thessaly, Boeotia and Lesbos), and <i>Dorian</i> (the language of Sparta).", 
+        "terms": [
+            "Greek", 
+            "Ionian-Attic", 
+            "Aeolic", 
+            "Dorian"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.greek-language.com/\">"
+    }, 
+    "Guarani": {
+        "abbreviation": "Guarani", 
+        "description": "native South American language of Paraguay, related to Tupi.", 
+        "terms": [
+            "Guarani"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Hawaiian": {
+        "abbreviation": "Hawaiian", 
+        "description": "Polynesian (non-Indo-European) language of the Hawaiian Islands.", 
+        "terms": [
+            "Hawaiian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Heaven forfend": {
+        "abbreviation": "optative", 
+        "description": "A mood expressing wishing. The archaic <i>Heaven forfend</i> would be an example of optative, though unlike some I.E. languages English has no specific markers for this case.", 
+        "terms": [
+            "optative", 
+            "Heaven forfend"
+        ], 
+        "type": "mood", 
+        "url": null
+    }, 
+    "Hebrew": {
+        "abbreviation": "Hebrew", 
+        "description": "classical Hebrew, ancient Semitic language of the Israelites.", 
+        "terms": [
+            "Hebrew"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Hung.": {
+        "abbreviation": "Hung.", 
+        "description": "<i>Hungarian</i>, Finno-Ugric (non-Indo-European) language spoken in Hungary; Magyar.", 
+        "terms": [
+            "Hung.", 
+            "Hungarian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Hungarian": {
+        "abbreviation": "Hung.", 
+        "description": "<i>Hungarian</i>, Finno-Ugric (non-Indo-European) language spoken in Hungary; Magyar.", 
+        "terms": [
+            "Hung.", 
+            "Hungarian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Hunter": {
+        "abbreviation": "agent noun", 
+        "description": "form expressing the notion \"doer of action.\" <i>Hunter</i> is an agent noun, and <i>-er</i> is an agentive suffix.", 
+        "terms": [
+            "agent noun", 
+            "Hunter", 
+            "-er"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "I": {
+        "abbreviation": "pers.", 
+        "description": "<i>Person</i>, the form a verb takes in indicating whether it refers to the person speaking, the person spoken to, or the person or thing spoken about. In Modern English <i>I</i> is the \"first person singular;\" <i>you</i> is the \"second person singular,\" <i>we</i> is the \"first person plural,\" etc.", 
+        "terms": [
+            "pers.", 
+            "Person", 
+            "I", 
+            "you", 
+            "we"
+        ], 
+        "type": "person", 
+        "url": null
+    }, 
+    "I was saying": {
+        "abbreviation": "imperfect", 
+        "description": "Tense/aspect category indicating progressive aspect: <i>I was saying</i> is in the \"past imperfect\" tense.", 
+        "terms": [
+            "imperfect", 
+            "I was saying"
+        ], 
+        "type": "aspect", 
+        "url": null
+    }, 
+    "I-mutation": {
+        "abbreviation": "I-mutation", 
+        "description": "also known as \"i-umlaut.\"", 
+        "terms": [
+            "I-mutation"
+        ], 
+        "type": null, 
+        "url": "<a href=\"imutate.php\">"
+    }, 
+    "I.E.": {
+        "abbreviation": "I.E.", 
+        "description": "<i>Indo-European</i></a>, the family of languages that includes most of the languages of modern Europe (English among them) and some current and extinct ones in western and southern Asia. All are presumed to share a common ancestor, PIE.", 
+        "terms": [
+            "I.E.", 
+            "Indo-European"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.bartleby.com/61/8.html\">"
+    }, 
+    "Ibo": {
+        "abbreviation": "Ibo", 
+        "description": "Kwa language of Nigeria.", 
+        "terms": [
+            "Ibo"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Imperative": {
+        "abbreviation": "imper.", 
+        "description": "<i>Imperative</i>, the verbal category expressing commands or orders.", 
+        "terms": [
+            "imper.", 
+            "Imperative"
+        ], 
+        "type": "category", 
+        "url": null
+    }, 
+    "Indicative": {
+        "abbreviation": "indic.", 
+        "description": "<i>Indicative</i>, the mood expressing assertion.", 
+        "terms": [
+            "indic.", 
+            "Indicative"
+        ], 
+        "type": "mood", 
+        "url": null
+    }, 
+    "Indo-European": {
+        "abbreviation": "I.E.", 
+        "description": "<i>Indo-European</i></a>, the family of languages that includes most of the languages of modern Europe (English among them) and some current and extinct ones in western and southern Asia. All are presumed to share a common ancestor, PIE.", 
+        "terms": [
+            "I.E.", 
+            "Indo-European"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.bartleby.com/61/8.html\">"
+    }, 
+    "Infinitive": {
+        "abbreviation": "inf.", 
+        "description": "<i>Infinitive</i>, the form of a verb that expresses existence or action.", 
+        "terms": [
+            "inf.", 
+            "Infinitive"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "Influenced": {
+        "abbreviation": "infl.", 
+        "description": "<i>Influenced</i>.", 
+        "terms": [
+            "infl.", 
+            "Influenced"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Intensive": {
+        "abbreviation": "intens.", 
+        "description": "<i>Intensive</i>, giving force or emphasis.", 
+        "terms": [
+            "intens.", 
+            "Intensive"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Intransitive": {
+        "abbreviation": "intrans.", 
+        "description": "<i>Intransitive</i>, of verbs, not taking a direct object.", 
+        "terms": [
+            "intrans.", 
+            "Intransitive"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Ionian-Attic": {
+        "abbreviation": "Greek", 
+        "description": "Indo-European language spoken in Greece in the classical period, c. 8c. B.C.E.-4c. C.E. Among its dialects were <i>Ionian-Attic</i> (the language of Homer and the Athenian dramatists), <i>Aeolic</i> (used in Thessaly, Boeotia and Lesbos), and <i>Dorian</i> (the language of Sparta).", 
+        "terms": [
+            "Greek", 
+            "Ionian-Attic", 
+            "Aeolic", 
+            "Dorian"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.greek-language.com/\">"
+    }, 
+    "Iran.": {
+        "abbreviation": "Iran.", 
+        "description": "<i>Iranian</i>, the branch of Indo-European languages spoken on and around the plateau of Iran, including modern Farsi and Kurdish.", 
+        "terms": [
+            "Iran.", 
+            "Iranian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Iranian": {
+        "abbreviation": "Iran.", 
+        "description": "<i>Iranian</i>, the branch of Indo-European languages spoken on and around the plateau of Iran, including modern Farsi and Kurdish.", 
+        "terms": [
+            "Iran.", 
+            "Iranian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Irish": {
+        "abbreviation": "Irish", 
+        "description": "the Celtic language spoken in Ireland.", 
+        "terms": [
+            "Irish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Iroquoian": {
+        "abbreviation": "Iroquoian", 
+        "description": "North American native language family.", 
+        "terms": [
+            "Iroquoian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Irregular": {
+        "abbreviation": "irreg.", 
+        "description": "<i>Irregular</i>", 
+        "terms": [
+            "irreg.", 
+            "Irregular"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Italian": {
+        "abbreviation": "Italian", 
+        "description": "the Romanic language spoken in Italy, it evolved out of the Tuscan dialect in the Renaissance.", 
+        "terms": [
+            "Italian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Japanese": {
+        "abbreviation": "Japanese", 
+        "description": "the native language of Japan, with no known outside connections.", 
+        "terms": [
+            "Japanese"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "John's": {
+        "abbreviation": "Possessive", 
+        "description": "form of a word designating possession or some similar relationship. Usually formed in English with an <i>-s</i> and an apostrophe; <i>John's</i> is possessive of <i>John.</i>", 
+        "terms": [
+            "Possessive", 
+            "-s", 
+            "John's", 
+            "John."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "John.": {
+        "abbreviation": "Possessive", 
+        "description": "form of a word designating possession or some similar relationship. Usually formed in English with an <i>-s</i> and an apostrophe; <i>John's</i> is possessive of <i>John.</i>", 
+        "terms": [
+            "Possessive", 
+            "-s", 
+            "John's", 
+            "John."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "Kentish": {
+        "abbreviation": "Kentish", 
+        "description": "The dialect of Old English spoken by the Jutes who formed the Anglo-Saxon kingdom of Kent.", 
+        "terms": [
+            "Kentish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Kurdish": {
+        "abbreviation": "Kurdish", 
+        "description": "Iranian (Indo-European) language of Kurdistan.", 
+        "terms": [
+            "Kurdish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Kwa": {
+        "abbreviation": "Kwa", 
+        "description": "Niger-Congo language group spoken along the south coast of  West Africa, which was a major supply region for American slavers.", 
+        "terms": [
+            "Kwa"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Late Latin": {
+        "abbreviation": "Late Latin", 
+        "description": "the literary Latin language as spoken and written c.300-c.700.", 
+        "terms": [
+            "Late Latin"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.georgetown.edu/labyrinth/library/latin/latin-lib.html\">"
+    }, 
+    "Latin": {
+        "abbreviation": "Latin", 
+        "description": "classical Latin, the Italic language of ancient Rome until about 4c.", 
+        "terms": [
+            "Latin"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Literally": {
+        "abbreviation": "lit.", 
+        "description": "<i>Literally</i>", 
+        "terms": [
+            "lit.", 
+            "Literally"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Lithuanian": {
+        "abbreviation": "Lithuanian", 
+        "description": "the Baltic language spoken in Lithuania.", 
+        "terms": [
+            "Lithuanian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Loan-translation": {
+        "abbreviation": "loan-transl.", 
+        "description": "<i>Loan-translation</i>, a literal piece-by piece translation from one language to another. O.E. <i>ymb-sniþan</i> \"around-cut\" is a loan-translation of Latin <i>circum-cidere.</i>", 
+        "terms": [
+            "loan-transl.", 
+            "Loan-translation", 
+            "ymb-sniþan", 
+            "circum-cidere."
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Locative": {
+        "abbreviation": "loc.", 
+        "description": "<i>Locative</i>, the case denoting \"location in.\"", 
+        "terms": [
+            "loc.", 
+            "Locative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "Longer": {
+        "abbreviation": "comp.", 
+        "description": "<i>Comparative</i>, the second degree of comparison of an adjective or adverb. <i>Longer</i> is the comparative of <i>long</i>.", 
+        "terms": [
+            "comp.", 
+            "Comparative", 
+            "Longer", 
+            "long"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Longest": {
+        "abbreviation": "superl.", 
+        "description": "<i>superlative,</i> the third degree of comparison of an adjective or adverb. <i>Longest</i> is the superlative of <i>long.</i>", 
+        "terms": [
+            "superl.", 
+            "superlative,", 
+            "Longest", 
+            "long."
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Low German": {
+        "abbreviation": "Low German", 
+        "description": "\"plattdeutsch,\" the modern descendant of Old Saxon.", 
+        "terms": [
+            "Low German"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Malay": {
+        "abbreviation": "Malay", 
+        "description": "Indonesian language of the Malay peninsula.", 
+        "terms": [
+            "Malay"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Mandarin": {
+        "abbreviation": "Mandarin", 
+        "description": "the Beijing-area dialect of Chinese, now regarded as the standard form.", 
+        "terms": [
+            "Mandarin"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Mandingo": {
+        "abbreviation": "Mandingo", 
+        "description": "Niger-Congo language group of West Africa.", 
+        "terms": [
+            "Mandingo"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Masculine": {
+        "abbreviation": "masc.", 
+        "description": "<i>Masculine</i>, the grammatical gender in highly inflected Indo-European languages that denotes males and used with many other words to which no distinction of sex is apparent.", 
+        "terms": [
+            "masc.", 
+            "Masculine"
+        ], 
+        "type": "gender", 
+        "url": null
+    }, 
+    "Medieval Latin": {
+        "abbreviation": "Medieval Latin", 
+        "description": "Latin as written and spoken c.700-c.1500.", 
+        "terms": [
+            "Medieval Latin"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Mercian": {
+        "abbreviation": "Mercian", 
+        "description": "The Anglian dialect of Old English spoken in the Anglo-Saxon kingdom of Mercia.", 
+        "terms": [
+            "Mercian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Mexican Spanish": {
+        "abbreviation": "Mexican Spanish", 
+        "description": "Spanish as spoken in Mexico.", 
+        "terms": [
+            "Mexican Spanish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Micmac": {
+        "abbreviation": "Micmac", 
+        "description": "Algonquian language of the Canadian Maritimes.", 
+        "terms": [
+            "Micmac"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Middle Dutch": {
+        "abbreviation": "Middle Dutch", 
+        "description": "the Dutch language as it was spoken and written c.1100-c.1500.", 
+        "terms": [
+            "Middle Dutch"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Middle English": {
+        "abbreviation": "Middle English", 
+        "description": "the English language as written and spoken c.1100-c.1500.", 
+        "terms": [
+            "Middle English"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://ets.umdl.umich.edu/m/med/\">"
+    }, 
+    "Middle French": {
+        "abbreviation": "Middle French", 
+        "description": "the French language as written and spoken c. 1400-c.1600.", 
+        "terms": [
+            "Middle French"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Middle High German": {
+        "abbreviation": "Middle High German", 
+        "description": "the High German language as written and spoken c.1100-c.1500.", 
+        "terms": [
+            "Middle High German"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Middle Irish": {
+        "abbreviation": "Middle Irish", 
+        "description": "Irish as written and spoken in the high Middle Ages.", 
+        "terms": [
+            "Middle Irish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Middle Low German": {
+        "abbreviation": "Middle Low German", 
+        "description": "the Low German language as written and spoken c.1100-c.1500.", 
+        "terms": [
+            "Middle Low German"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Mod.Eng.": {
+        "abbreviation": "Mod.Eng.", 
+        "description": "<i>Modern English</i>, language of Britain and British America since mid-16c.", 
+        "terms": [
+            "Mod.Eng.", 
+            "Modern English"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Modern English": {
+        "abbreviation": "N.E.", 
+        "description": "<i>New English</i>, same as <i>Modern English</i> (q.v.).", 
+        "terms": [
+            "N.E.", 
+            "New English", 
+            "Modern English"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Modern Greek": {
+        "abbreviation": "Modern Greek", 
+        "description": "language of Greece since c.1500.", 
+        "terms": [
+            "Modern Greek"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Modern Latin": {
+        "abbreviation": "Modern Latin", 
+        "description": "Latin language in use since c.1500, chiefly scientific.", 
+        "terms": [
+            "Modern Latin"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Muskogean": {
+        "abbreviation": "Muskogean", 
+        "description": "North American native language family originally in the southeastern U.S. and including Choctaw, Chickasaw, Creek, and Seminole.", 
+        "terms": [
+            "Muskogean"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "N.E.": {
+        "abbreviation": "N.E.", 
+        "description": "<i>New English</i>, same as <i>Modern English</i> (q.v.).", 
+        "terms": [
+            "N.E.", 
+            "New English", 
+            "Modern English"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "N.T.": {
+        "abbreviation": "N.T.", 
+        "description": "<i>New Testament</i>.", 
+        "terms": [
+            "N.T.", 
+            "New Testament"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Nahuatl": {
+        "abbreviation": "Nahuatl", 
+        "description": "Uto-Aztecan language of native Mexico; the language of the Aztecs and their neighbors.", 
+        "terms": [
+            "Nahuatl"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Neuter": {
+        "abbreviation": "neut.", 
+        "description": "<i>Neuter</i>, the third grammatical gender in highly inflected Indo-European languages.", 
+        "terms": [
+            "neut.", 
+            "Neuter"
+        ], 
+        "type": "gender", 
+        "url": null
+    }, 
+    "New English": {
+        "abbreviation": "N.E.", 
+        "description": "<i>New English</i>, same as <i>Modern English</i> (q.v.).", 
+        "terms": [
+            "N.E.", 
+            "New English", 
+            "Modern English"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "New Testament": {
+        "abbreviation": "N.T.", 
+        "description": "<i>New Testament</i>.", 
+        "terms": [
+            "N.T.", 
+            "New Testament"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Nominative": {
+        "abbreviation": "nom.", 
+        "description": "<i>Nominative</i>, the case that typically codes the grammatical function of the subject.", 
+        "terms": [
+            "nom.", 
+            "Nominative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "North Germanic": {
+        "abbreviation": "North Germanic", 
+        "description": "the subgroup of Germanic  comprising Norwegian, Danish, Swedish, Icelandic, Old Norse, etc.; also the language spoken by the ancestral group during the presumed period of unity.", 
+        "terms": [
+            "North Germanic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "North Sea Germanic": {
+        "abbreviation": "North Sea Germanic", 
+        "description": "the closely related languages of the Germanic tribes along the coastal and lowland regions of the North Sea coast of continental Europe before the period of the Anglo-Saxon migration, comprising Old Low Franconian, Old Saxon, Old Frisian, and Old English.", 
+        "terms": [
+            "North Sea Germanic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Northumbrian": {
+        "abbreviation": "Northumbrian", 
+        "description": "The Anglian dialect of Old English spoken in the Anglo-Saxon kingdom of Northumbria.", 
+        "terms": [
+            "Northumbrian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Noun": {
+        "abbreviation": "n.", 
+        "description": "<i>Noun</i>", 
+        "terms": [
+            "n.", 
+            "Noun"
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "O.Celt.": {
+        "abbreviation": "O.Celt.", 
+        "description": "<i>Old Celtic</i>, ancestral language of modern Irish, Scottish, Welsh and related languages.", 
+        "terms": [
+            "O.Celt.", 
+            "Old Celtic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "O.Fr.": {
+        "abbreviation": "O.Fr.", 
+        "description": "<i>Old French</i></a>, the French language as written and spoken c. 900-1400. More than 90 percent of it was from Vulgar Latin, with a smattering of Celtic and Germanic, plus some Medieval Latin learned terms.", 
+        "terms": [
+            "O.Fr.", 
+            "Old French"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.webpages.ttu.edu/joseppri/oldfrench/\">"
+    }, 
+    "O.Slav.": {
+        "abbreviation": "O.Slav.", 
+        "description": "<i>Old Slavic</i>, another name for <i>Old Church Slavonic</i> (q.v.).", 
+        "terms": [
+            "O.Slav.", 
+            "Old Slavic", 
+            "Old Church Slavonic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "O.Sp.": {
+        "abbreviation": "O.Sp.", 
+        "description": "<i>Old Spanish,</i> the Spanish language as written and spoken c.1145-16c.", 
+        "terms": [
+            "O.Sp.", 
+            "Old Spanish,"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "O.T.": {
+        "abbreviation": "O.T.", 
+        "description": "<i>Old Testament</i>", 
+        "terms": [
+            "O.T.", 
+            "Old Testament"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "OED": {
+        "abbreviation": "OED", 
+        "description": "<i>\"Oxford English Dictionary,\"</i></a> the principal source for modern English etymologies, begun in 1879 (as the <i>\"New English Dictionary\"</i>); a second edition was published in the 1980s, and the work is ongoing. References to it on this site, unless otherwise noted, are to the 2nd print edition.", 
+        "terms": [
+            "OED", 
+            "\"Oxford English Dictionary,\"", 
+            "\"New English Dictionary\""
+        ], 
+        "type": "dictionary", 
+        "url": "<a href=\"http://www.oed.com/\">"
+    }, 
+    "Objective": {
+        "abbreviation": "obj.", 
+        "description": "<i>Objective</i>, designating or of the case of the object of a transitive verb or preposition.", 
+        "terms": [
+            "obj.", 
+            "Objective"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "Obsolete": {
+        "abbreviation": "obs.", 
+        "description": "<i>Obsolete</i>, a word or form of a word no longer in use.", 
+        "terms": [
+            "obs.", 
+            "Obsolete"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Ojibwa": {
+        "abbreviation": "Ojibwa", 
+        "description": "native Algonquian language of the people on either side of Lake Superior.", 
+        "terms": [
+            "Ojibwa"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Celtic": {
+        "abbreviation": "O.Celt.", 
+        "description": "<i>Old Celtic</i>, ancestral language of modern Irish, Scottish, Welsh and related languages.", 
+        "terms": [
+            "O.Celt.", 
+            "Old Celtic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Church Slavonic": {
+        "abbreviation": "Old Church Slavonic", 
+        "description": "the earliest attested Slavic language, known from 9c. C.E. Used by the Slavs of Macedonia and Bulgaria.", 
+        "terms": [
+            "Old Church Slavonic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Danish": {
+        "abbreviation": "Old Danish", 
+        "description": "the form of West Norse spoken in Denmark after c.1000 C.E.", 
+        "terms": [
+            "Old Danish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Dutch": {
+        "abbreviation": "Old Dutch", 
+        "description": "also known as Old Low Franconian, the Germanic speech used on the North Sea coast of continental Europe c.700-c.1000.", 
+        "terms": [
+            "Old Dutch"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old English,": {
+        "abbreviation": "Old English,", 
+        "description": "the English language as written and spoken c.450-c.1100.", 
+        "terms": [
+            "Old English,"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.georgetown.edu/labyrinth/library/oe/oe.html\">"
+    }, 
+    "Old French": {
+        "abbreviation": "O.Fr.", 
+        "description": "<i>Old French</i></a>, the French language as written and spoken c. 900-1400. More than 90 percent of it was from Vulgar Latin, with a smattering of Celtic and Germanic, plus some Medieval Latin learned terms.", 
+        "terms": [
+            "O.Fr.", 
+            "Old French"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.webpages.ttu.edu/joseppri/oldfrench/\">"
+    }, 
+    "Old Frisian": {
+        "abbreviation": "Old Frisian", 
+        "description": "language akin to English spoken on the North Sea coast of modern Netherlands and Germany before 1500.", 
+        "terms": [
+            "Old Frisian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old High German": {
+        "abbreviation": "Old High German", 
+        "description": "the ancestor of the modern literary German language, spoken in the upland regions of Germany; German language as written and spoken from the earliest period to c.1100.", 
+        "terms": [
+            "Old High German"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://sps.k12.mo.us/khs/gmcling/ahd.htm\">"
+    }, 
+    "Old Irish": {
+        "abbreviation": "Old Irish", 
+        "description": "the Irish language as written and spoken from earliest times to 11c.", 
+        "terms": [
+            "Old Irish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Italian": {
+        "abbreviation": "Old Italian", 
+        "description": "the Italian language as written and spoken before 16c.", 
+        "terms": [
+            "Old Italian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Low German": {
+        "abbreviation": "Old Low German", 
+        "description": "the Low German language as written and spoken from earliest times to 12c.", 
+        "terms": [
+            "Old Low German"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Norse": {
+        "abbreviation": "Old Norse", 
+        "description": "the Norwegian language as written and spoken c.100 to 1500 C.E., the relevant phase of it being \"Viking Norse\" (700-1100), the language spoken by the invaders and colonizers of northern and eastern England c.875-950.  This was before the rapid divergence of West Norse (Norway and the colonies) and East Norse (Denmark and Sweden), so the language of the vikings in England was essentially the same, whether they came from Denmark or from Norway. Only a few of the loan words into English can be distinguished as being from one or the other group.", 
+        "terms": [
+            "Old Norse"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://hem.passagen.se/peter9/gram/\">"
+    }, 
+    "Old North French": {
+        "abbreviation": "Old North French", 
+        "description": "the dialect of northern France before the 1500s, especially that of coastal Normandy and Picardy.", 
+        "terms": [
+            "Old North French"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Persian": {
+        "abbreviation": "Old Persian", 
+        "description": "the Persian language as written and spoken from 7c. B.C.E. to 4c. B.C.E.", 
+        "terms": [
+            "Old Persian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Provençal": {
+        "abbreviation": "Old Provençal", 
+        "description": "Romanic language of the troubadours, spoken in southern France before c.1500.", 
+        "terms": [
+            "Old Provençal"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Prussian": {
+        "abbreviation": "Old Prussian", 
+        "description": "a West Baltic language similar to Lithuanian, extinct since 17c.", 
+        "terms": [
+            "Old Prussian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Saxon": {
+        "abbreviation": "Old Saxon", 
+        "description": "a West Germanic language, the earliest written form of Low German, spoken c.700-c.1100.", 
+        "terms": [
+            "Old Saxon"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Slavic": {
+        "abbreviation": "O.Slav.", 
+        "description": "<i>Old Slavic</i>, another name for <i>Old Church Slavonic</i> (q.v.).", 
+        "terms": [
+            "O.Slav.", 
+            "Old Slavic", 
+            "Old Church Slavonic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Spanish,": {
+        "abbreviation": "O.Sp.", 
+        "description": "<i>Old Spanish,</i> the Spanish language as written and spoken c.1145-16c.", 
+        "terms": [
+            "O.Sp.", 
+            "Old Spanish,"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Swedish": {
+        "abbreviation": "Old Swedish", 
+        "description": "the Swedish language as written and spoken c.900-c.1500.", 
+        "terms": [
+            "Old Swedish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Old Testament": {
+        "abbreviation": "O.T.", 
+        "description": "<i>Old Testament</i>", 
+        "terms": [
+            "O.T.", 
+            "Old Testament"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Originally": {
+        "abbreviation": "orig.", 
+        "description": "<i>Originally</i>", 
+        "terms": [
+            "orig.", 
+            "Originally"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Osc.": {
+        "abbreviation": "Osc.", 
+        "description": "<i>Oscan</i>, the Italic language of the Samnites in middle and southern Italy in pre-Roman times; related to Umbrian and in the same family as Latin.", 
+        "terms": [
+            "Osc.", 
+            "Oscan"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Oscan": {
+        "abbreviation": "Osc.", 
+        "description": "<i>Oscan</i>, the Italic language of the Samnites in middle and southern Italy in pre-Roman times; related to Umbrian and in the same family as Latin.", 
+        "terms": [
+            "Osc.", 
+            "Oscan"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "P.Gmc.": {
+        "abbreviation": "P.Gmc.", 
+        "description": "<i>Proto-Germanic</i>, hypothetical prehistoric ancestor of all Germanic languages, including English.", 
+        "terms": [
+            "P.Gmc.", 
+            "Proto-Germanic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "PIE": {
+        "abbreviation": "PIE", 
+        "description": "<i>Proto-Indo-European</i>, the hypothetical reconstructed ancestral language of the Indo-European family. The time scale is much debated, but the most recent date proposed for it is about 5,500 years ago.", 
+        "terms": [
+            "PIE", 
+            "Proto-Indo-European"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Participle": {
+        "abbreviation": "part.", 
+        "description": "<i>Participle</i>, a verbal form having some functions of both verbs and adjectives (in English, usually ending in <i>-ing.</i>)", 
+        "terms": [
+            "part.", 
+            "Participle", 
+            "-ing."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "Pashto": {
+        "abbreviation": "Pashto", 
+        "description": "Iranian (Indo-European) language of Afghanistan.", 
+        "terms": [
+            "Pashto"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Passive": {
+        "abbreviation": "pass.", 
+        "description": "<i>Passive</i>, the form of a verb which indicates that the subject is the recipient of the action. \"The tree was struck by lightning\" is a passive construction.", 
+        "terms": [
+            "pass.", 
+            "Passive"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "Past participle": {
+        "abbreviation": "pp.", 
+        "description": "<i>Past participle</i>, a form of a verb that can be both a verb and an adjective, and which denotes action which has been completed. In Modern English, it commonly ends in <i>-ed</i> or <i>-en.</i> Thus, <i>asked</i> is the past participle of <i>ask.</i> French past participles commonly were adopted as finite verbs in Middle English.", 
+        "terms": [
+            "pp.", 
+            "Past participle", 
+            "-ed", 
+            "-en.", 
+            "asked", 
+            "ask."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "Past tense": {
+        "abbreviation": "Past tense", 
+        "description": "indicating an action completed or in progress at a former time.", 
+        "terms": [
+            "Past tense"
+        ], 
+        "type": "tense", 
+        "url": null
+    }, 
+    "Pennsylvania Dutch": {
+        "abbreviation": "Pennsylvania Dutch", 
+        "description": "also, and more properly, <i>Pennsylvania German</i>, High German and Low Franconian dialect mingled with English words and deformed in pronunciation, spoken in the German-settled counties of interior Southeastern Pennsylvania.", 
+        "terms": [
+            "Pennsylvania Dutch", 
+            "Pennsylvania German"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Pennsylvania German": {
+        "abbreviation": "Pennsylvania Dutch", 
+        "description": "also, and more properly, <i>Pennsylvania German</i>, High German and Low Franconian dialect mingled with English words and deformed in pronunciation, spoken in the German-settled counties of interior Southeastern Pennsylvania.", 
+        "terms": [
+            "Pennsylvania Dutch", 
+            "Pennsylvania German"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Perfective": {
+        "abbreviation": "perf.", 
+        "description": "<i>Perfective</i>, the tense or formation expressing the notion of \"completion.\" <i>To eat</i> is non-perfective; <i>to eat up</i> is perfective.", 
+        "terms": [
+            "perf.", 
+            "Perfective", 
+            "To eat", 
+            "to eat up"
+        ], 
+        "type": "tense", 
+        "url": null
+    }, 
+    "Persian": {
+        "abbreviation": "Persian", 
+        "description": "also known as Farsi, modern Iranian language spoken in Iran and Afghanistan.", 
+        "terms": [
+            "Persian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Person": {
+        "abbreviation": "pers.", 
+        "description": "<i>Person</i>, the form a verb takes in indicating whether it refers to the person speaking, the person spoken to, or the person or thing spoken about. In Modern English <i>I</i> is the \"first person singular;\" <i>you</i> is the \"second person singular,\" <i>we</i> is the \"first person plural,\" etc.", 
+        "terms": [
+            "pers.", 
+            "Person", 
+            "I", 
+            "you", 
+            "we"
+        ], 
+        "type": "person", 
+        "url": null
+    }, 
+    "Phoenician": {
+        "abbreviation": "Phoenician", 
+        "description": "the extinct Semitic language of the Phoenicians, closely related to Hebrew.", 
+        "terms": [
+            "Phoenician"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Phrygian": {
+        "abbreviation": "Phrygian", 
+        "description": "Indo-European language formerly spoken in Anatolia.", 
+        "terms": [
+            "Phrygian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Piman": {
+        "abbreviation": "Piman", 
+        "description": "branch of Uto-Aztecan languages spoken in what is now southern Arizona and northern Mexico.", 
+        "terms": [
+            "Piman"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Plural": {
+        "abbreviation": "pl.", 
+        "description": "<i>Plural</i>, the form of a word that denotes it refers to more than one person or thing. Some languages have a <i>dual</i> number (there are relics of it in Old English), and in those the plural refers to more than two people or things.", 
+        "terms": [
+            "pl.", 
+            "Plural", 
+            "dual"
+        ], 
+        "type": "number", 
+        "url": null
+    }, 
+    "Polish": {
+        "abbreviation": "Polish", 
+        "description": "West Slavic language spoken in Poland.", 
+        "terms": [
+            "Polish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Portuguese": {
+        "abbreviation": "Portuguese", 
+        "description": "Romanic language spoken chiefly in Portugal and Brazil.", 
+        "terms": [
+            "Portuguese"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Possessive": {
+        "abbreviation": "Possessive", 
+        "description": "form of a word designating possession or some similar relationship. Usually formed in English with an <i>-s</i> and an apostrophe; <i>John's</i> is possessive of <i>John.</i>", 
+        "terms": [
+            "Possessive", 
+            "-s", 
+            "John's", 
+            "John."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "Preposition": {
+        "abbreviation": "prep.", 
+        "description": "<i>Preposition</i>, a word that connects a noun to another element of a sentence; in Modern English common prepositions include <i>in, by, for, with, to.</i>", 
+        "terms": [
+            "prep.", 
+            "Preposition", 
+            "in, by, for, with, to."
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "Present participle": {
+        "abbreviation": "prp.", 
+        "description": "<i>Present participle</i>, a form of a verb that can be a verb, an adverb, and even a noun (gerund), and which denotes action which is ongoing. In Modern English, most easily identified by its characteristic ending <i>-ing</i>. Thus, <i>asking</i> is the present participle of <i>ask.</i>", 
+        "terms": [
+            "prp.", 
+            "Present participle", 
+            "-ing", 
+            "asking", 
+            "ask."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "Present tense": {
+        "abbreviation": "pres.", 
+        "description": "<i>Present tense</i>", 
+        "terms": [
+            "pres.", 
+            "Present tense"
+        ], 
+        "type": "tense", 
+        "url": null
+    }, 
+    "Present-preterite": {
+        "abbreviation": "pres.-pret.", 
+        "description": "<i>Present-preterite</i>, a group of Germanic verbs (mostly auxiliaries such as <i>may, shall, can</i>) whose original pt. forms split off and became separate pres. tense verbs (<i>might, should, could</i>).", 
+        "terms": [
+            "pres.-pret.", 
+            "Present-preterite", 
+            "may, shall, can", 
+            "might, should, could"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "Preterite": {
+        "abbreviation": "pret.", 
+        "description": "<i>Preterite</i>, the simple past tense.", 
+        "terms": [
+            "pret.", 
+            "Preterite"
+        ], 
+        "type": "tense", 
+        "url": null
+    }, 
+    "Privative": {
+        "abbreviation": "priv.", 
+        "description": "<i>Privative</i>, indicating negation, absence, or loss, such as the prefix <i>un-</i> or the suffix <i>-less</i>.", 
+        "terms": [
+            "priv.", 
+            "Privative", 
+            "un-", 
+            "-less"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Pronoun": {
+        "abbreviation": "pron.", 
+        "description": "<i>Pronoun</i>", 
+        "terms": [
+            "pron.", 
+            "Pronoun"
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "Properly": {
+        "abbreviation": "prop.", 
+        "description": "<i>Properly</i>", 
+        "terms": [
+            "prop.", 
+            "Properly"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Proto-Germanic": {
+        "abbreviation": "P.Gmc.", 
+        "description": "<i>Proto-Germanic</i>, hypothetical prehistoric ancestor of all Germanic languages, including English.", 
+        "terms": [
+            "P.Gmc.", 
+            "Proto-Germanic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Proto-Indo-European": {
+        "abbreviation": "PIE", 
+        "description": "<i>Proto-Indo-European</i>, the hypothetical reconstructed ancestral language of the Indo-European family. The time scale is much debated, but the most recent date proposed for it is about 5,500 years ago.", 
+        "terms": [
+            "PIE", 
+            "Proto-Indo-European"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Proto-Italic": {
+        "abbreviation": "Proto-Italic", 
+        "description": "hypothetical prehistoric ancestor of all Italic languages, including Latin and its descendants, the Romance languages.", 
+        "terms": [
+            "Proto-Italic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Provençal": {
+        "abbreviation": "Provençal", 
+        "description": "Romance language of several dialects in southern France.", 
+        "terms": [
+            "Provençal"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Quechua": {
+        "abbreviation": "Quechua", 
+        "description": "South American native language spoken in the Andes; the language of the Inca Empire.", 
+        "terms": [
+            "Quechua"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Reduplicated": {
+        "abbreviation": "redupl.", 
+        "description": "<i>Reduplicated</i>, an inflectional device in which a syllable or part of a syllable is copied. Ancient Greek formed its perfect tenses by reduplication: <i>leipo</i> \"I leave,\" <i>le-loipa</i> \"I have left.\" It's rare in English, but examples would be <i>tom-tom</i> and <i>chitchat</i>.", 
+        "terms": [
+            "redupl.", 
+            "Reduplicated", 
+            "leipo", 
+            "le-loipa", 
+            "tom-tom", 
+            "chitchat"
+        ], 
+        "type": "inflection", 
+        "url": null
+    }, 
+    "Reflexive": {
+        "abbreviation": "refl.", 
+        "description": "<i>Reflexive</i>, form of a word which indicates the subject and object of a verb in a sentence are the same, so that a transitive verb is directed back on its subject. (\"John hurt himself\" is a reflexive sentence.)", 
+        "terms": [
+            "refl.", 
+            "Reflexive"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "Russian": {
+        "abbreviation": "Russian", 
+        "description": "East Slavic language of Russia.", 
+        "terms": [
+            "Russian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Sanskrit": {
+        "abbreviation": "Sanskrit", 
+        "description": "the classical Indian literary language from 4c. B.C.E.", 
+        "terms": [
+            "Sanskrit"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Scand.": {
+        "abbreviation": "Scand.", 
+        "description": "<i>Scandinavian</i>, also known as North Germanic, sub-group of Germanic spoken in Scandinavia consisting of Norwegian, Swedish, Danish.", 
+        "terms": [
+            "Scand.", 
+            "Scandinavian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Scandinavian": {
+        "abbreviation": "Scand.", 
+        "description": "<i>Scandinavian</i>, also known as North Germanic, sub-group of Germanic spoken in Scandinavia consisting of Norwegian, Swedish, Danish.", 
+        "terms": [
+            "Scand.", 
+            "Scandinavian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Scot.": {
+        "abbreviation": "Scot.", 
+        "description": "<i>Scottish</i>, the variety of English spoken by the people of Scotland. Not to be confused with Gaelic (q.v.), which is Celtic. A number of French words entered English through Scotland because of the political alliance and connection of Scotland and France 13c.-16c. ", 
+        "terms": [
+            "Scot.", 
+            "Scottish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Scottish": {
+        "abbreviation": "Scot.", 
+        "description": "<i>Scottish</i>, the variety of English spoken by the people of Scotland. Not to be confused with Gaelic (q.v.), which is Celtic. A number of French words entered English through Scotland because of the political alliance and connection of Scotland and France 13c.-16c. ", 
+        "terms": [
+            "Scot.", 
+            "Scottish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Semitic": {
+        "abbreviation": "Semitic", 
+        "description": "major subgroup of Afroasiatic language family, including Hebrew, Aramaic, Akkadian.", 
+        "terms": [
+            "Semitic"
+        ], 
+        "type": "language", 
+        "url": "<a href=\"http://www.bartleby.com/61/10.html\">"
+    }, 
+    "Serb.": {
+        "abbreviation": "Serb.", 
+        "description": "<i>Serbian</i>, eastern variant of Serbo-Croatian, a Slavic language, generally written in Cyrillic.", 
+        "terms": [
+            "Serb.", 
+            "Serbian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Serbian": {
+        "abbreviation": "Serb.", 
+        "description": "<i>Serbian</i>, eastern variant of Serbo-Croatian, a Slavic language, generally written in Cyrillic.", 
+        "terms": [
+            "Serb.", 
+            "Serbian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Serbo-Croatian": {
+        "abbreviation": "Serbo-Croatian", 
+        "description": "South Slavic language or group of dialects spoken in Serbia, Croatia, Montenegro, Bosnia, and Herzegovina. Official standard language of the former Yugoslavia.", 
+        "terms": [
+            "Serbo-Croatian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Singular": {
+        "abbreviation": "sing.", 
+        "description": "<i>Singular</i>, the form of a word that denotes it refers to only one person or thing.", 
+        "terms": [
+            "sing.", 
+            "Singular"
+        ], 
+        "type": "number", 
+        "url": null
+    }, 
+    "Sinhalese": {
+        "abbreviation": "Sinhalese", 
+        "description": "Indic language of Sri Lanka.", 
+        "terms": [
+            "Sinhalese"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Siouan": {
+        "abbreviation": "Siouan", 
+        "description": "North American native language group of the U.S. upper Midwest, including the language of the Sioux, Crow, Omaha and Osage peoples.", 
+        "terms": [
+            "Siouan"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Slav.": {
+        "abbreviation": "Slav.", 
+        "description": "<i>Slavic,</i> a principal branch of the Indo-European language family spoken in Eastern Europe. Includes Russian, Polish, Serbo-Croatian.", 
+        "terms": [
+            "Slav.", 
+            "Slavic,"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Slavic,": {
+        "abbreviation": "Slav.", 
+        "description": "<i>Slavic,</i> a principal branch of the Indo-European language family spoken in Eastern Europe. Includes Russian, Polish, Serbo-Croatian.", 
+        "terms": [
+            "Slav.", 
+            "Slavic,"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Slovak": {
+        "abbreviation": "Slovak", 
+        "description": "West Slavic language of Slovakia.", 
+        "terms": [
+            "Slovak"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "South African Dutch": {
+        "abbreviation": "Afrikaans", 
+        "description": "Germanic language of South Africa, an offshoot of Dutch, also known as <i>South African Dutch</i>. ", 
+        "terms": [
+            "Afrikaans", 
+            "South African Dutch"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Spanish": {
+        "abbreviation": "Spanish", 
+        "description": "also known as Castilian, Romanic language spoken in Spain and Spanish America.", 
+        "terms": [
+            "Spanish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Sumerian": {
+        "abbreviation": "Sumerian", 
+        "description": "non-Indo-European, non-Semitic language of ancient Sumer.", 
+        "terms": [
+            "Sumerian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Swedish": {
+        "abbreviation": "Swedish", 
+        "description": "North Germanic language spoken in Sweden.", 
+        "terms": [
+            "Swedish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Tagalog": {
+        "abbreviation": "Tagalog", 
+        "description": "Indonesian language of the Philippines.", 
+        "terms": [
+            "Tagalog"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Tai": {
+        "abbreviation": "Thai", 
+        "description": "Sino-Tibetan language of the <i>Tai</i> group spoken in Thailand.", 
+        "terms": [
+            "Thai", 
+            "Tai"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Tamil": {
+        "abbreviation": "Tamil", 
+        "description": "Dravidian (non-Indo-European) language of southern India and Sri Lanka.", 
+        "terms": [
+            "Tamil"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Telugu": {
+        "abbreviation": "Telugu", 
+        "description": "Dravidian (non-Indo-European) language of southern India.", 
+        "terms": [
+            "Telugu"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Thai": {
+        "abbreviation": "Thai", 
+        "description": "Sino-Tibetan language of the <i>Tai</i> group spoken in Thailand.", 
+        "terms": [
+            "Thai", 
+            "Tai"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Tibetan": {
+        "abbreviation": "Tibetan", 
+        "description": "Sino-Tibetan language of Tibet.", 
+        "terms": [
+            "Tibetan"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "To eat": {
+        "abbreviation": "perf.", 
+        "description": "<i>Perfective</i>, the tense or formation expressing the notion of \"completion.\" <i>To eat</i> is non-perfective; <i>to eat up</i> is perfective.", 
+        "terms": [
+            "perf.", 
+            "Perfective", 
+            "To eat", 
+            "to eat up"
+        ], 
+        "type": "tense", 
+        "url": null
+    }, 
+    "Transitive": {
+        "abbreviation": "trans.", 
+        "description": "<i>Transitive</i>, of verbs, taking a direct object.", 
+        "terms": [
+            "trans.", 
+            "Transitive"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Tupi": {
+        "abbreviation": "Tupi", 
+        "description": "native South American language of the Amazon basin; the northern branch of Tupi-Guarani.", 
+        "terms": [
+            "Tupi"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Turk.": {
+        "abbreviation": "Turk.", 
+        "description": "<i>Turkish</i>, Turkic (non-Indo-European) language spoken in Turkey.", 
+        "terms": [
+            "Turk.", 
+            "Turkish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Turkic": {
+        "abbreviation": "Turkic", 
+        "description": "branch of the Altaic language family spoken in Turkey and parts of south-central Asia. It includes Turkish, Uzbek, Kirghiz.", 
+        "terms": [
+            "Turkic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Turkish": {
+        "abbreviation": "Turk.", 
+        "description": "<i>Turkish</i>, Turkic (non-Indo-European) language spoken in Turkey.", 
+        "terms": [
+            "Turk.", 
+            "Turkish"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Twi": {
+        "abbreviation": "Twi", 
+        "description": "Kwa language of Ghana.", 
+        "terms": [
+            "Twi"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "U.S.": {
+        "abbreviation": "U.S.", 
+        "description": "<i>United States</i>", 
+        "terms": [
+            "U.S.", 
+            "United States"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Ukrainian": {
+        "abbreviation": "Ukrainian", 
+        "description": "East Slavic language spoken in Ukraine.", 
+        "terms": [
+            "Ukrainian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Ultimately": {
+        "abbreviation": "ult.", 
+        "description": "<i>Ultimately</i> or <i>ultimate</i>.", 
+        "terms": [
+            "ult.", 
+            "Ultimately", 
+            "ultimate"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "United States": {
+        "abbreviation": "U.S.", 
+        "description": "<i>United States</i>", 
+        "terms": [
+            "U.S.", 
+            "United States"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "Urdu": {
+        "abbreviation": "Urdu", 
+        "description": "Language of the Muslim conquerors of India; originally a dialect of Hindi with a large admixture of Arabic and Persian. From <i>zaban-i-urdu</i> \"language of the camp.\"", 
+        "terms": [
+            "Urdu", 
+            "zaban-i-urdu"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Uto-Aztecan": {
+        "abbreviation": "Uto-Aztecan", 
+        "description": "native North American language family of the southwestern U.S. and Mexico.", 
+        "terms": [
+            "Uto-Aztecan"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Verb": {
+        "abbreviation": "v.", 
+        "description": "<i>Verb</i>", 
+        "terms": [
+            "v.", 
+            "Verb"
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "Vocative": {
+        "abbreviation": "voc.", 
+        "description": "<i>Vocative</i>, the case or expression of \"direct address.\" In English it long ago merged with the nominative.", 
+        "terms": [
+            "voc.", 
+            "Vocative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "Vulgar Latin": {
+        "abbreviation": "Vulgar Latin", 
+        "description": "the everyday speech of the Roman people, as opposed to literary Latin.", 
+        "terms": [
+            "Vulgar Latin"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "W.Afr.": {
+        "abbreviation": "W.Afr.", 
+        "description": "<i>West African</i>, languages of the Guinea coast and inland regions of Africa, the principal source of slaves for the European colonies in the New World.", 
+        "terms": [
+            "W.Afr.", 
+            "West African"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "West African": {
+        "abbreviation": "W.Afr.", 
+        "description": "<i>West African</i>, languages of the Guinea coast and inland regions of Africa, the principal source of slaves for the European colonies in the New World.", 
+        "terms": [
+            "W.Afr.", 
+            "West African"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "West Frisian": {
+        "abbreviation": "West Frisian", 
+        "description": "dialect variant of Frisian spoken in the Netherlands.", 
+        "terms": [
+            "West Frisian"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "West Germanic": {
+        "abbreviation": "West Germanic", 
+        "description": "the subgroup of Germanic comprising English, Dutch, German, Yiddish, Frisian, etc.; also the language spoken by the ancestral group during the presumed period of unity. You can see a family tree of the W.Gmc. languages <a href=\"http://www.jebbo.co.uk/learn-oe/origins.htm\">here</a>.", 
+        "terms": [
+            "West Germanic"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "West Saxon": {
+        "abbreviation": "West Saxon", 
+        "description": "the dialect of Old English spoken in the Anglo-Saxon kingdom of Wessex.", 
+        "terms": [
+            "West Saxon"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "William Caxton": {
+        "abbreviation": "Caxton", 
+        "description": "<i>William Caxton</i> (d.1491), the first English printer, responsible for a number of spelling changes.", 
+        "terms": [
+            "Caxton", 
+            "William Caxton"
+        ], 
+        "type": "person", 
+        "url": null
+    }, 
+    "Wolof": {
+        "abbreviation": "Wolof", 
+        "description": "Niger-Congo language of Senegal and Gambia.", 
+        "terms": [
+            "Wolof"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Xhosa": {
+        "abbreviation": "Xhosa", 
+        "description": "Bantu language of South Africa.", 
+        "terms": [
+            "Xhosa"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "Yoruba": {
+        "abbreviation": "Yoruba", 
+        "description": "West African tonal language of the Kwa group, spoken in Nigeria.", 
+        "terms": [
+            "Yoruba"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "acc.": {
+        "abbreviation": "acc.", 
+        "description": "<i>Accusative</i>, typically the case of the direct object, but also sometimes denoting \"motion towards.\" Nouns and adjectives in French, Spanish, and Italian, languages from which English borrowed heavily, generally were formed from the accusative case of a Latin word. ", 
+        "terms": [
+            "acc.", 
+            "Accusative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "adj.": {
+        "abbreviation": "adj.", 
+        "description": "<i>Adjective</i>", 
+        "terms": [
+            "adj.", 
+            "Adjective"
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "adv.": {
+        "abbreviation": "adv.", 
+        "description": "<i>Adverb</i>", 
+        "terms": [
+            "adv.", 
+            "Adverb"
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "agent noun": {
+        "abbreviation": "agent noun", 
+        "description": "form expressing the notion \"doer of action.\" <i>Hunter</i> is an agent noun, and <i>-er</i> is an agentive suffix.", 
+        "terms": [
+            "agent noun", 
+            "Hunter", 
+            "-er"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "aphetic": {
+        "abbreviation": "aphetic", 
+        "description": "denoting a form of a word altered by loss of a short, unaccented vowel at the beginning (such as <i>squire</i> from <i>esquire</i>).", 
+        "terms": [
+            "aphetic", 
+            "squire", 
+            "esquire"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "ask.": {
+        "abbreviation": "pp.", 
+        "description": "<i>Past participle</i>, a form of a verb that can be both a verb and an adjective, and which denotes action which has been completed. In Modern English, it commonly ends in <i>-ed</i> or <i>-en.</i> Thus, <i>asked</i> is the past participle of <i>ask.</i> French past participles commonly were adopted as finite verbs in Middle English.", 
+        "terms": [
+            "pp.", 
+            "Past participle", 
+            "-ed", 
+            "-en.", 
+            "asked", 
+            "ask."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "asked": {
+        "abbreviation": "pp.", 
+        "description": "<i>Past participle</i>, a form of a verb that can be both a verb and an adjective, and which denotes action which has been completed. In Modern English, it commonly ends in <i>-ed</i> or <i>-en.</i> Thus, <i>asked</i> is the past participle of <i>ask.</i> French past participles commonly were adopted as finite verbs in Middle English.", 
+        "terms": [
+            "pp.", 
+            "Past participle", 
+            "-ed", 
+            "-en.", 
+            "asked", 
+            "ask."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "asking": {
+        "abbreviation": "prp.", 
+        "description": "<i>Present participle</i>, a form of a verb that can be a verb, an adverb, and even a noun (gerund), and which denotes action which is ongoing. In Modern English, most easily identified by its characteristic ending <i>-ing</i>. Thus, <i>asking</i> is the present participle of <i>ask.</i>", 
+        "terms": [
+            "prp.", 
+            "Present participle", 
+            "-ing", 
+            "asking", 
+            "ask."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "asterisk (*)": {
+        "abbreviation": "asterisk (*)", 
+        "description": "Words beginning with an asterisk are not attested in any written source, but they have been reconstructed by etymological analysis, such as Indo-European <i>*ped-</i>, the root of words for \"foot\" in most of its daughter tongues.", 
+        "terms": [
+            "asterisk (*)", 
+            "*ped-"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "back formation": {
+        "abbreviation": "back formation", 
+        "description": "The process by which an apparently complex word is erroneously split up and a new, simple form produced from it (<i>burgle</i> is a back formation of <i>burglar</i>).", 
+        "terms": [
+            "back formation", 
+            "burgle", 
+            "burglar"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "base": {
+        "abbreviation": "base", 
+        "description": "The unanalysable element which is the kernel of a word’s structure.", 
+        "terms": [
+            "base"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "burglar": {
+        "abbreviation": "back formation", 
+        "description": "The process by which an apparently complex word is erroneously split up and a new, simple form produced from it (<i>burgle</i> is a back formation of <i>burglar</i>).", 
+        "terms": [
+            "back formation", 
+            "burgle", 
+            "burglar"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "burgle": {
+        "abbreviation": "back formation", 
+        "description": "The process by which an apparently complex word is erroneously split up and a new, simple form produced from it (<i>burgle</i> is a back formation of <i>burglar</i>).", 
+        "terms": [
+            "back formation", 
+            "burgle", 
+            "burglar"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "c.": {
+        "abbreviation": "c.", 
+        "description": "<i>Century</i>, when following a number (<i>16c.</i>); <i>circa</i> when preceding one (<i>c.1500</i>).", 
+        "terms": [
+            "c.", 
+            "Century", 
+            "16c.", 
+            "circa", 
+            "c.1500"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "c.1500": {
+        "abbreviation": "c.", 
+        "description": "<i>Century</i>, when following a number (<i>16c.</i>); <i>circa</i> when preceding one (<i>c.1500</i>).", 
+        "terms": [
+            "c.", 
+            "Century", 
+            "16c.", 
+            "circa", 
+            "c.1500"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "caus.": {
+        "abbreviation": "caus.", 
+        "description": "<i>Causative</i>, a form of a verb expressing the notion \"cause X to Y.\" The <i>en-</i> in <i>enrich</i> is a causative prefix.", 
+        "terms": [
+            "caus.", 
+            "Causative", 
+            "en-", 
+            "enrich"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "cf.": {
+        "abbreviation": "cf.", 
+        "description": "abbreviation of L. <i>confer</i> \"compare.\" In other words, \"see this entry for more information.\"", 
+        "terms": [
+            "cf.", 
+            "confer"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "chitchat": {
+        "abbreviation": "redupl.", 
+        "description": "<i>Reduplicated</i>, an inflectional device in which a syllable or part of a syllable is copied. Ancient Greek formed its perfect tenses by reduplication: <i>leipo</i> \"I leave,\" <i>le-loipa</i> \"I have left.\" It's rare in English, but examples would be <i>tom-tom</i> and <i>chitchat</i>.", 
+        "terms": [
+            "redupl.", 
+            "Reduplicated", 
+            "leipo", 
+            "le-loipa", 
+            "tom-tom", 
+            "chitchat"
+        ], 
+        "type": "inflection", 
+        "url": null
+    }, 
+    "circa": {
+        "abbreviation": "c.", 
+        "description": "<i>Century</i>, when following a number (<i>16c.</i>); <i>circa</i> when preceding one (<i>c.1500</i>).", 
+        "terms": [
+            "c.", 
+            "Century", 
+            "16c.", 
+            "circa", 
+            "c.1500"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "circum-cidere.": {
+        "abbreviation": "loan-transl.", 
+        "description": "<i>Loan-translation</i>, a literal piece-by piece translation from one language to another. O.E. <i>ymb-sniþan</i> \"around-cut\" is a loan-translation of Latin <i>circum-cidere.</i>", 
+        "terms": [
+            "loan-transl.", 
+            "Loan-translation", 
+            "ymb-sniþan", 
+            "circum-cidere."
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "cognate": {
+        "abbreviation": "cognate", 
+        "description": "Having the same ancestor.", 
+        "terms": [
+            "cognate"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "comb.": {
+        "abbreviation": "comb.", 
+        "description": "<i>Combining</i>, the form of a word when it combines with other words.", 
+        "terms": [
+            "comb.", 
+            "Combining"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "comp.": {
+        "abbreviation": "comp.", 
+        "description": "<i>Comparative</i>, the second degree of comparison of an adjective or adverb. <i>Longer</i> is the comparative of <i>long</i>.", 
+        "terms": [
+            "comp.", 
+            "Comparative", 
+            "Longer", 
+            "long"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "confer": {
+        "abbreviation": "cf.", 
+        "description": "abbreviation of L. <i>confer</i> \"compare.\" In other words, \"see this entry for more information.\"", 
+        "terms": [
+            "cf.", 
+            "confer"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "dat.": {
+        "abbreviation": "dat.", 
+        "description": "<i>Dative</i>, typically the case of the indirect object, but sometimes also denoting \"motion toward.\" In old Germanic languages, the \"fourth case,\" catch-all for I.E. dative, ablative, locative and other cases.", 
+        "terms": [
+            "dat.", 
+            "Dative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "dissimilation": {
+        "abbreviation": "dissimilation", 
+        "description": "Process by which a word with a repeated sound changes one of the two; Latin <i>peregrinus</i> became Fr. <i>pelerin</i> (\"pilgrim\") by dissimilation.", 
+        "terms": [
+            "dissimilation", 
+            "peregrinus", 
+            "pelerin"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "dual": {
+        "abbreviation": "pl.", 
+        "description": "<i>Plural</i>, the form of a word that denotes it refers to more than one person or thing. Some languages have a <i>dual</i> number (there are relics of it in Old English), and in those the plural refers to more than two people or things.", 
+        "terms": [
+            "pl.", 
+            "Plural", 
+            "dual"
+        ], 
+        "type": "number", 
+        "url": null
+    }, 
+    "e.g.": {
+        "abbreviation": "e.g.", 
+        "description": "abbreviation of L. <i>exempli gratia</i> \"for the sake of example.\"", 
+        "terms": [
+            "e.g.", 
+            "exempli gratia"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "echoic": {
+        "abbreviation": "echoic", 
+        "description": "A word that sounds like what it means.", 
+        "terms": [
+            "echoic"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "en-": {
+        "abbreviation": "caus.", 
+        "description": "<i>Causative</i>, a form of a verb expressing the notion \"cause X to Y.\" The <i>en-</i> in <i>enrich</i> is a causative prefix.", 
+        "terms": [
+            "caus.", 
+            "Causative", 
+            "en-", 
+            "enrich"
+        ], 
+        "type": "prefix", 
+        "url": null
+    }, 
+    "enrich": {
+        "abbreviation": "caus.", 
+        "description": "<i>Causative</i>, a form of a verb expressing the notion \"cause X to Y.\" The <i>en-</i> in <i>enrich</i> is a causative prefix.", 
+        "terms": [
+            "caus.", 
+            "Causative", 
+            "en-", 
+            "enrich"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "esp.": {
+        "abbreviation": "esp.", 
+        "description": "<i>Especially</i>", 
+        "terms": [
+            "esp.", 
+            "Especially"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "esquire": {
+        "abbreviation": "aphetic", 
+        "description": "denoting a form of a word altered by loss of a short, unaccented vowel at the beginning (such as <i>squire</i> from <i>esquire</i>).", 
+        "terms": [
+            "aphetic", 
+            "squire", 
+            "esquire"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "et cetera": {
+        "abbreviation": "etc.", 
+        "description": "L. <i>et cetera</i> \"and the others.\"", 
+        "terms": [
+            "etc.", 
+            "et cetera"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "etc.": {
+        "abbreviation": "etc.", 
+        "description": "L. <i>et cetera</i> \"and the others.\"", 
+        "terms": [
+            "etc.", 
+            "et cetera"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "exempli gratia": {
+        "abbreviation": "e.g.", 
+        "description": "abbreviation of L. <i>exempli gratia</i> \"for the sake of example.\"", 
+        "terms": [
+            "e.g.", 
+            "exempli gratia"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "fem.": {
+        "abbreviation": "fem.", 
+        "description": "<i>Feminine</i>, the grammatical gender in highly inflected Indo-European languages that denotes females and many other words to which no distinction of sex is apparent.", 
+        "terms": [
+            "fem.", 
+            "Feminine"
+        ], 
+        "type": "gender", 
+        "url": null
+    }, 
+    "floris,": {
+        "abbreviation": "rhotacism", 
+        "description": "The tendency in spoken language for \"r\" to take the place of other sounds, especially \"s/z.\" Latin <i>flos</i> \"flower\" has genitive <i>floris,</i> an instance of rhotacism.", 
+        "terms": [
+            "rhotacism", 
+            "flos", 
+            "floris,"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "flos": {
+        "abbreviation": "rhotacism", 
+        "description": "The tendency in spoken language for \"r\" to take the place of other sounds, especially \"s/z.\" Latin <i>flos</i> \"flower\" has genitive <i>floris,</i> an instance of rhotacism.", 
+        "terms": [
+            "rhotacism", 
+            "flos", 
+            "floris,"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "freq.": {
+        "abbreviation": "freq.", 
+        "description": "<i>Frequentative</i>, case denoting recurring action.", 
+        "terms": [
+            "freq.", 
+            "Frequentative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "frequentative": {
+        "abbreviation": "iterative", 
+        "description": "marking repetition; generally identical with <i>frequentative</i>.", 
+        "terms": [
+            "iterative", 
+            "frequentative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "fut.": {
+        "abbreviation": "fut.", 
+        "description": "<i>Future</i>, the verb tense indicating time to come. English lacks a pure future tense, but Latin and other languages have it.", 
+        "terms": [
+            "fut.", 
+            "Future"
+        ], 
+        "type": "tense", 
+        "url": null
+    }, 
+    "ger.": {
+        "abbreviation": "ger.", 
+        "description": "<i>Gerund</i>, a verbal noun, in English usually ending in <i>-ing.</i> ", 
+        "terms": [
+            "ger.", 
+            "Gerund", 
+            "-ing."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "imitative": {
+        "abbreviation": "imitative", 
+        "description": "\"a convenient term to include <i>onomatopoeic</i> and <i>echoic</i>\" [Weekley].", 
+        "terms": [
+            "imitative", 
+            "onomatopoeic", 
+            "echoic"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "imper.": {
+        "abbreviation": "imper.", 
+        "description": "<i>Imperative</i>, the verbal category expressing commands or orders.", 
+        "terms": [
+            "imper.", 
+            "Imperative"
+        ], 
+        "type": "category", 
+        "url": null
+    }, 
+    "imperfect": {
+        "abbreviation": "imperfect", 
+        "description": "Tense/aspect category indicating progressive aspect: <i>I was saying</i> is in the \"past imperfect\" tense.", 
+        "terms": [
+            "imperfect", 
+            "I was saying"
+        ], 
+        "type": "aspect", 
+        "url": null
+    }, 
+    "in, by, for, with, to.": {
+        "abbreviation": "prep.", 
+        "description": "<i>Preposition</i>, a word that connects a noun to another element of a sentence; in Modern English common prepositions include <i>in, by, for, with, to.</i>", 
+        "terms": [
+            "prep.", 
+            "Preposition", 
+            "in, by, for, with, to."
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "inceptive": {
+        "abbreviation": "inceptive", 
+        "description": "<i>inchoative</i> Aspect expressing the notion \"entering into an action, beginning.\" Latin verbs ending in <i>-sco, -scere</i>.", 
+        "terms": [
+            "inceptive",
+            "inchoative"
+        ], 
+        "type": "aspect", 
+        "url": null
+    }, 
+    "inchoative": {
+        "abbreviation": "inceptive", 
+        "description": "<i>inchoative</i> Aspect expressing the notion \"entering into an action, beginning.\" Latin verbs ending in <i>-sco, -scere</i>.", 
+        "terms": [
+            "inceptive",
+            "inchoative"
+        ], 
+        "type": "aspect", 
+        "url": null
+    }, 
+    "indic.": {
+        "abbreviation": "indic.", 
+        "description": "<i>Indicative</i>, the mood expressing assertion.", 
+        "terms": [
+            "indic.", 
+            "Indicative"
+        ], 
+        "type": "mood", 
+        "url": null
+    }, 
+    "inf.": {
+        "abbreviation": "inf.", 
+        "description": "<i>Infinitive</i>, the form of a verb that expresses existence or action.", 
+        "terms": [
+            "inf.", 
+            "Infinitive"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "infl.": {
+        "abbreviation": "infl.", 
+        "description": "<i>Influenced</i>.", 
+        "terms": [
+            "infl.", 
+            "Influenced"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "instrumental": {
+        "abbreviation": "instrumental", 
+        "description": "case encoding the notion \"means by which x is done.\"", 
+        "terms": [
+            "instrumental"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "intens.": {
+        "abbreviation": "intens.", 
+        "description": "<i>Intensive</i>, giving force or emphasis.", 
+        "terms": [
+            "intens.", 
+            "Intensive"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "intrans.": {
+        "abbreviation": "intrans.", 
+        "description": "<i>Intransitive</i>, of verbs, not taking a direct object.", 
+        "terms": [
+            "intrans.", 
+            "Intransitive"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "irreg.": {
+        "abbreviation": "irreg.", 
+        "description": "<i>Irregular</i>", 
+        "terms": [
+            "irreg.", 
+            "Irregular"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "iterative": {
+        "abbreviation": "iterative", 
+        "description": "marking repetition; generally identical with <i>frequentative</i>.", 
+        "terms": [
+            "iterative", 
+            "frequentative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "le-loipa": {
+        "abbreviation": "redupl.", 
+        "description": "<i>Reduplicated</i>, an inflectional device in which a syllable or part of a syllable is copied. Ancient Greek formed its perfect tenses by reduplication: <i>leipo</i> \"I leave,\" <i>le-loipa</i> \"I have left.\" It's rare in English, but examples would be <i>tom-tom</i> and <i>chitchat</i>.", 
+        "terms": [
+            "redupl.", 
+            "Reduplicated", 
+            "leipo", 
+            "le-loipa", 
+            "tom-tom", 
+            "chitchat"
+        ], 
+        "type": "inflection", 
+        "url": null
+    }, 
+    "leipo": {
+        "abbreviation": "redupl.", 
+        "description": "<i>Reduplicated</i>, an inflectional device in which a syllable or part of a syllable is copied. Ancient Greek formed its perfect tenses by reduplication: <i>leipo</i> \"I leave,\" <i>le-loipa</i> \"I have left.\" It's rare in English, but examples would be <i>tom-tom</i> and <i>chitchat</i>.", 
+        "terms": [
+            "redupl.", 
+            "Reduplicated", 
+            "leipo", 
+            "le-loipa", 
+            "tom-tom", 
+            "chitchat"
+        ], 
+        "type": "inflection", 
+        "url": null
+    }, 
+    "lit.": {
+        "abbreviation": "lit.", 
+        "description": "<i>Literally</i>", 
+        "terms": [
+            "lit.", 
+            "Literally"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "loan-transl.": {
+        "abbreviation": "loan-transl.", 
+        "description": "<i>Loan-translation</i>, a literal piece-by piece translation from one language to another. O.E. <i>ymb-sniþan</i> \"around-cut\" is a loan-translation of Latin <i>circum-cidere.</i>", 
+        "terms": [
+            "loan-transl.", 
+            "Loan-translation", 
+            "ymb-sniþan", 
+            "circum-cidere."
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "loc.": {
+        "abbreviation": "loc.", 
+        "description": "<i>Locative</i>, the case denoting \"location in.\"", 
+        "terms": [
+            "loc.", 
+            "Locative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "long": {
+        "abbreviation": "comp.", 
+        "description": "<i>Comparative</i>, the second degree of comparison of an adjective or adverb. <i>Longer</i> is the comparative of <i>long</i>.", 
+        "terms": [
+            "comp.", 
+            "Comparative", 
+            "Longer", 
+            "long"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "long.": {
+        "abbreviation": "superl.", 
+        "description": "<i>superlative,</i> the third degree of comparison of an adjective or adverb. <i>Longest</i> is the superlative of <i>long.</i>", 
+        "terms": [
+            "superl.", 
+            "superlative,", 
+            "Longest", 
+            "long."
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "masc.": {
+        "abbreviation": "masc.", 
+        "description": "<i>Masculine</i>, the grammatical gender in highly inflected Indo-European languages that denotes males and used with many other words to which no distinction of sex is apparent.", 
+        "terms": [
+            "masc.", 
+            "Masculine"
+        ], 
+        "type": "gender", 
+        "url": null
+    }, 
+    "may, shall, can": {
+        "abbreviation": "pres.-pret.", 
+        "description": "<i>Present-preterite</i>, a group of Germanic verbs (mostly auxiliaries such as <i>may, shall, can</i>) whose original pt. forms split off and became separate pres. tense verbs (<i>might, should, could</i>).", 
+        "terms": [
+            "pres.-pret.", 
+            "Present-preterite", 
+            "may, shall, can", 
+            "might, should, could"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "metathesis": {
+        "abbreviation": "metathesis", 
+        "description": "Inversion of segments within a word; Old English <i>þridda</i> became Modern English <i>third</i> through metathesis of <i>-r-</i> and <i>-i.</i>", 
+        "terms": [
+            "metathesis", 
+            "þridda", 
+            "third", 
+            "-r-", 
+            "-i."
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "might, should, could": {
+        "abbreviation": "pres.-pret.", 
+        "description": "<i>Present-preterite</i>, a group of Germanic verbs (mostly auxiliaries such as <i>may, shall, can</i>) whose original pt. forms split off and became separate pres. tense verbs (<i>might, should, could</i>).", 
+        "terms": [
+            "pres.-pret.", 
+            "Present-preterite", 
+            "may, shall, can", 
+            "might, should, could"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "n.": {
+        "abbreviation": "n.", 
+        "description": "<i>Noun</i>", 
+        "terms": [
+            "n.", 
+            "Noun"
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "neut.": {
+        "abbreviation": "neut.", 
+        "description": "<i>Neuter</i>, the third grammatical gender in highly inflected Indo-European languages.", 
+        "terms": [
+            "neut.", 
+            "Neuter"
+        ], 
+        "type": "gender", 
+        "url": null
+    }, 
+    "nom.": {
+        "abbreviation": "nom.", 
+        "description": "<i>Nominative</i>, the case that typically codes the grammatical function of the subject.", 
+        "terms": [
+            "nom.", 
+            "Nominative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "obj.": {
+        "abbreviation": "obj.", 
+        "description": "<i>Objective</i>, designating or of the case of the object of a transitive verb or preposition.", 
+        "terms": [
+            "obj.", 
+            "Objective"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "obs.": {
+        "abbreviation": "obs.", 
+        "description": "<i>Obsolete</i>, a word or form of a word no longer in use.", 
+        "terms": [
+            "obs.", 
+            "Obsolete"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "onomatopoeic": {
+        "abbreviation": "imitative", 
+        "description": "\"a convenient term to include <i>onomatopoeic</i> and <i>echoic</i>\" [Weekley].", 
+        "terms": [
+            "imitative", 
+            "onomatopoeic", 
+            "echoic"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "optative": {
+        "abbreviation": "optative", 
+        "description": "A mood expressing wishing. The archaic <i>Heaven forfend</i> would be an example of optative, though unlike some I.E. languages English has no specific markers for this case.", 
+        "terms": [
+            "optative", 
+            "Heaven forfend"
+        ], 
+        "type": "mood", 
+        "url": null
+    }, 
+    "orig.": {
+        "abbreviation": "orig.", 
+        "description": "<i>Originally</i>", 
+        "terms": [
+            "orig.", 
+            "Originally"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "part.": {
+        "abbreviation": "part.", 
+        "description": "<i>Participle</i>, a verbal form having some functions of both verbs and adjectives (in English, usually ending in <i>-ing.</i>)", 
+        "terms": [
+            "part.", 
+            "Participle", 
+            "-ing."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "pass.": {
+        "abbreviation": "pass.", 
+        "description": "<i>Passive</i>, the form of a verb which indicates that the subject is the recipient of the action. \"The tree was struck by lightning\" is a passive construction.", 
+        "terms": [
+            "pass.", 
+            "Passive"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "pelerin": {
+        "abbreviation": "dissimilation", 
+        "description": "Process by which a word with a repeated sound changes one of the two; Latin <i>peregrinus</i> became Fr. <i>pelerin</i> (\"pilgrim\") by dissimilation.", 
+        "terms": [
+            "dissimilation", 
+            "peregrinus", 
+            "pelerin"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "peregrinus": {
+        "abbreviation": "dissimilation", 
+        "description": "Process by which a word with a repeated sound changes one of the two; Latin <i>peregrinus</i> became Fr. <i>pelerin</i> (\"pilgrim\") by dissimilation.", 
+        "terms": [
+            "dissimilation", 
+            "peregrinus", 
+            "pelerin"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "perf.": {
+        "abbreviation": "perf.", 
+        "description": "<i>Perfective</i>, the tense or formation expressing the notion of \"completion.\" <i>To eat</i> is non-perfective; <i>to eat up</i> is perfective.", 
+        "terms": [
+            "perf.", 
+            "Perfective", 
+            "To eat", 
+            "to eat up"
+        ], 
+        "type": "tense", 
+        "url": null
+    }, 
+    "pers.": {
+        "abbreviation": "pers.", 
+        "description": "<i>Person</i>, the form a verb takes in indicating whether it refers to the person speaking, the person spoken to, or the person or thing spoken about. In Modern English <i>I</i> is the \"first person singular;\" <i>you</i> is the \"second person singular,\" <i>we</i> is the \"first person plural,\" etc.", 
+        "terms": [
+            "pers.", 
+            "Person", 
+            "I", 
+            "you", 
+            "we"
+        ], 
+        "type": "person", 
+        "url": null
+    }, 
+    "pl.": {
+        "abbreviation": "pl.", 
+        "description": "<i>Plural</i>, the form of a word that denotes it refers to more than one person or thing. Some languages have a <i>dual</i> number (there are relics of it in Old English), and in those the plural refers to more than two people or things.", 
+        "terms": [
+            "pl.", 
+            "Plural", 
+            "dual"
+        ], 
+        "type": "number", 
+        "url": null
+    }, 
+    "pp.": {
+        "abbreviation": "pp.", 
+        "description": "<i>Past participle</i>, a form of a verb that can be both a verb and an adjective, and which denotes action which has been completed. In Modern English, it commonly ends in <i>-ed</i> or <i>-en.</i> Thus, <i>asked</i> is the past participle of <i>ask.</i> French past participles commonly were adopted as finite verbs in Middle English.", 
+        "terms": [
+            "pp.", 
+            "Past participle", 
+            "-ed", 
+            "-en.", 
+            "asked", 
+            "ask."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "prep.": {
+        "abbreviation": "prep.", 
+        "description": "<i>Preposition</i>, a word that connects a noun to another element of a sentence; in Modern English common prepositions include <i>in, by, for, with, to.</i>", 
+        "terms": [
+            "prep.", 
+            "Preposition", 
+            "in, by, for, with, to."
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "pres.": {
+        "abbreviation": "pres.", 
+        "description": "<i>Present tense</i>", 
+        "terms": [
+            "pres.", 
+            "Present tense"
+        ], 
+        "type": "tense", 
+        "url": null
+    }, 
+    "pres.-pret.": {
+        "abbreviation": "pres.-pret.", 
+        "description": "<i>Present-preterite</i>, a group of Germanic verbs (mostly auxiliaries such as <i>may, shall, can</i>) whose original pt. forms split off and became separate pres. tense verbs (<i>might, should, could</i>).", 
+        "terms": [
+            "pres.-pret.", 
+            "Present-preterite", 
+            "may, shall, can", 
+            "might, should, could"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "pret.": {
+        "abbreviation": "pret.", 
+        "description": "<i>Preterite</i>, the simple past tense.", 
+        "terms": [
+            "pret.", 
+            "Preterite"
+        ], 
+        "type": "tense", 
+        "url": null
+    }, 
+    "priv.": {
+        "abbreviation": "priv.", 
+        "description": "<i>Privative</i>, indicating negation, absence, or loss, such as the prefix <i>un-</i> or the suffix <i>-less</i>.", 
+        "terms": [
+            "priv.", 
+            "Privative", 
+            "un-", 
+            "-less"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "pron.": {
+        "abbreviation": "pron.", 
+        "description": "<i>Pronoun</i>", 
+        "terms": [
+            "pron.", 
+            "Pronoun"
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "prop.": {
+        "abbreviation": "prop.", 
+        "description": "<i>Properly</i>", 
+        "terms": [
+            "prop.", 
+            "Properly"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "prp.": {
+        "abbreviation": "prp.", 
+        "description": "<i>Present participle</i>, a form of a verb that can be a verb, an adverb, and even a noun (gerund), and which denotes action which is ongoing. In Modern English, most easily identified by its characteristic ending <i>-ing</i>. Thus, <i>asking</i> is the present participle of <i>ask.</i>", 
+        "terms": [
+            "prp.", 
+            "Present participle", 
+            "-ing", 
+            "asking", 
+            "ask."
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "q.v.": {
+        "abbreviation": "q.v.", 
+        "description": "abbreviation of L. <i>quod vide</i> \"which see.\"", 
+        "terms": [
+            "q.v.", 
+            "quod vide"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "quod vide": {
+        "abbreviation": "q.v.", 
+        "description": "abbreviation of L. <i>quod vide</i> \"which see.\"", 
+        "terms": [
+            "q.v.", 
+            "quod vide"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "redupl.": {
+        "abbreviation": "redupl.", 
+        "description": "<i>Reduplicated</i>, an inflectional device in which a syllable or part of a syllable is copied. Ancient Greek formed its perfect tenses by reduplication: <i>leipo</i> \"I leave,\" <i>le-loipa</i> \"I have left.\" It's rare in English, but examples would be <i>tom-tom</i> and <i>chitchat</i>.", 
+        "terms": [
+            "redupl.", 
+            "Reduplicated", 
+            "leipo", 
+            "le-loipa", 
+            "tom-tom", 
+            "chitchat"
+        ], 
+        "type": "inflection", 
+        "url": null
+    }, 
+    "refl.": {
+        "abbreviation": "refl.", 
+        "description": "<i>Reflexive</i>, form of a word which indicates the subject and object of a verb in a sentence are the same, so that a transitive verb is directed back on its subject. (\"John hurt himself\" is a reflexive sentence.)", 
+        "terms": [
+            "refl.", 
+            "Reflexive"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "rhotacism": {
+        "abbreviation": "rhotacism", 
+        "description": "The tendency in spoken language for \"r\" to take the place of other sounds, especially \"s/z.\" Latin <i>flos</i> \"flower\" has genitive <i>floris,</i> an instance of rhotacism.", 
+        "terms": [
+            "rhotacism", 
+            "flos", 
+            "floris,"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "ring": {
+        "abbreviation": "Diminutive", 
+        "description": "a form of a word used to express smallness, as <i>ringlet</i> is the dim. of <i>ring</i>.", 
+        "terms": [
+            "Diminutive", 
+            "ringlet", 
+            "ring"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "ringlet": {
+        "abbreviation": "Diminutive", 
+        "description": "a form of a word used to express smallness, as <i>ringlet</i> is the dim. of <i>ring</i>.", 
+        "terms": [
+            "Diminutive", 
+            "ringlet", 
+            "ring"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "root": {
+        "abbreviation": "root", 
+        "description": "An historical term which refers to the etymological source of base elements in languages.", 
+        "terms": [
+            "root"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "sing.": {
+        "abbreviation": "sing.", 
+        "description": "<i>Singular</i>, the form of a word that denotes it refers to only one person or thing.", 
+        "terms": [
+            "sing.", 
+            "Singular"
+        ], 
+        "type": "number", 
+        "url": null
+    }, 
+    "squire": {
+        "abbreviation": "aphetic", 
+        "description": "denoting a form of a word altered by loss of a short, unaccented vowel at the beginning (such as <i>squire</i> from <i>esquire</i>).", 
+        "terms": [
+            "aphetic", 
+            "squire", 
+            "esquire"
+        ], 
+        "type": "form", 
+        "url": null
+    }, 
+    "subjunctive": {
+        "abbreviation": "subjunctive", 
+        "description": "The mood typically denoting notions like unreality, doubt.", 
+        "terms": [
+            "subjunctive"
+        ], 
+        "type": "mood", 
+        "url": null
+    }, 
+    "superl.": {
+        "abbreviation": "superl.", 
+        "description": "<i>superlative,</i> the third degree of comparison of an adjective or adverb. <i>Longest</i> is the superlative of <i>long.</i>", 
+        "terms": [
+            "superl.", 
+            "superlative,", 
+            "Longest", 
+            "long."
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "superlative,": {
+        "abbreviation": "superl.", 
+        "description": "<i>superlative,</i> the third degree of comparison of an adjective or adverb. <i>Longest</i> is the superlative of <i>long.</i>", 
+        "terms": [
+            "superl.", 
+            "superlative,", 
+            "Longest", 
+            "long."
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "third": {
+        "abbreviation": "metathesis", 
+        "description": "Inversion of segments within a word; Old English <i>þridda</i> became Modern English <i>third</i> through metathesis of <i>-r-</i> and <i>-i.</i>", 
+        "terms": [
+            "metathesis", 
+            "þridda", 
+            "third", 
+            "-r-", 
+            "-i."
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "to eat up": {
+        "abbreviation": "perf.", 
+        "description": "<i>Perfective</i>, the tense or formation expressing the notion of \"completion.\" <i>To eat</i> is non-perfective; <i>to eat up</i> is perfective.", 
+        "terms": [
+            "perf.", 
+            "Perfective", 
+            "To eat", 
+            "to eat up"
+        ], 
+        "type": "tense", 
+        "url": null
+    }, 
+    "tom-tom": {
+        "abbreviation": "redupl.", 
+        "description": "<i>Reduplicated</i>, an inflectional device in which a syllable or part of a syllable is copied. Ancient Greek formed its perfect tenses by reduplication: <i>leipo</i> \"I leave,\" <i>le-loipa</i> \"I have left.\" It's rare in English, but examples would be <i>tom-tom</i> and <i>chitchat</i>.", 
+        "terms": [
+            "redupl.", 
+            "Reduplicated", 
+            "leipo", 
+            "le-loipa", 
+            "tom-tom", 
+            "chitchat"
+        ], 
+        "type": "inflection", 
+        "url": null
+    }, 
+    "trans.": {
+        "abbreviation": "trans.", 
+        "description": "<i>Transitive</i>, of verbs, taking a direct object.", 
+        "terms": [
+            "trans.", 
+            "Transitive"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "transl.": {
+        "abbreviation": "transl.", 
+        "description": "<i>translation</i>", 
+        "terms": [
+            "transl.", 
+            "translation"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "translation": {
+        "abbreviation": "transl.", 
+        "description": "<i>translation</i>", 
+        "terms": [
+            "transl.", 
+            "translation"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "ult.": {
+        "abbreviation": "ult.", 
+        "description": "<i>Ultimately</i> or <i>ultimate</i>.", 
+        "terms": [
+            "ult.", 
+            "Ultimately", 
+            "ultimate"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "ultimate": {
+        "abbreviation": "ult.", 
+        "description": "<i>Ultimately</i> or <i>ultimate</i>.", 
+        "terms": [
+            "ult.", 
+            "Ultimately", 
+            "ultimate"
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "un-": {
+        "abbreviation": "priv.", 
+        "description": "<i>Privative</i>, indicating negation, absence, or loss, such as the prefix <i>un-</i> or the suffix <i>-less</i>.", 
+        "terms": [
+            "priv.", 
+            "Privative", 
+            "un-", 
+            "-less"
+        ], 
+        "type": "prefix", 
+        "url": null
+    }, 
+    "v.": {
+        "abbreviation": "v.", 
+        "description": "<i>Verb</i>", 
+        "terms": [
+            "v.", 
+            "Verb"
+        ], 
+        "type": "POS", 
+        "url": null
+    }, 
+    "voc.": {
+        "abbreviation": "voc.", 
+        "description": "<i>Vocative</i>, the case or expression of \"direct address.\" In English it long ago merged with the nominative.", 
+        "terms": [
+            "voc.", 
+            "Vocative"
+        ], 
+        "type": "case", 
+        "url": null
+    }, 
+    "we": {
+        "abbreviation": "pers.", 
+        "description": "<i>Person</i>, the form a verb takes in indicating whether it refers to the person speaking, the person spoken to, or the person or thing spoken about. In Modern English <i>I</i> is the \"first person singular;\" <i>you</i> is the \"second person singular,\" <i>we</i> is the \"first person plural,\" etc.", 
+        "terms": [
+            "pers.", 
+            "Person", 
+            "I", 
+            "you", 
+            "we"
+        ], 
+        "type": "person", 
+        "url": null
+    }, 
+    "ymb-sniþan": {
+        "abbreviation": "loan-transl.", 
+        "description": "<i>Loan-translation</i>, a literal piece-by piece translation from one language to another. O.E. <i>ymb-sniþan</i> \"around-cut\" is a loan-translation of Latin <i>circum-cidere.</i>", 
+        "terms": [
+            "loan-transl.", 
+            "Loan-translation", 
+            "ymb-sniþan", 
+            "circum-cidere."
+        ], 
+        "type": null, 
+        "url": null
+    }, 
+    "you": {
+        "abbreviation": "pers.", 
+        "description": "<i>Person</i>, the form a verb takes in indicating whether it refers to the person speaking, the person spoken to, or the person or thing spoken about. In Modern English <i>I</i> is the \"first person singular;\" <i>you</i> is the \"second person singular,\" <i>we</i> is the \"first person plural,\" etc.", 
+        "terms": [
+            "pers.", 
+            "Person", 
+            "I", 
+            "you", 
+            "we"
+        ], 
+        "type": "person", 
+        "url": null
+    }, 
+    "zaban-i-urdu": {
+        "abbreviation": "Urdu", 
+        "description": "Language of the Muslim conquerors of India; originally a dialect of Hindi with a large admixture of Arabic and Persian. From <i>zaban-i-urdu</i> \"language of the camp.\"", 
+        "terms": [
+            "Urdu", 
+            "zaban-i-urdu"
+        ], 
+        "type": "language", 
+        "url": null
+    }, 
+    "þridda": {
+        "abbreviation": "metathesis", 
+        "description": "Inversion of segments within a word; Old English <i>þridda</i> became Modern English <i>third</i> through metathesis of <i>-r-</i> and <i>-i.</i>", 
+        "terms": [
+            "metathesis", 
+            "þridda", 
+            "third", 
+            "-r-", 
+            "-i."
+        ], 
+        "type": null, 
+        "url": null
+    }
+}
