@@ -1,0 +1,28 @@
+{
+    "-ea-": [
+        {
+            "definition": "digraph introduced early 16c., originally having the sound of long \"a\" and meant to distinguish words spelled -e- or -ee- with that sound from those with the sound of long \"e\"; for example break, great. Since c. 1700, the sound in some of them has drifted to long \"e\" (read, hear) or sometimes short \"e\" (bread, wealth).", 
+            "infix": "ea", 
+            "languages": [], 
+            "pos": null, 
+            "term": "-ea-"
+        }
+    ], 
+    "-sch-": [
+        {
+            "definition": "this letter group can represent five distinct sounds in English; it first was used by Middle English writers to render Old English sc-, the pronunciation of which then simplified to \"-sh-\" (an evolution that also took place in Middle Dutch and Middle High German). Sometimes it was miswritten for -ch-. It also was taken in from German (schnapps) and Yiddish (schlemiel). In words derived from classical languages, it represents Latin sch-, Greek skh- but in some of these words (such as schism) the English spelling is a restoration and the pronunciation does not follow it.", 
+            "infix": "sch", 
+            "languages": [
+                "English", 
+                "German", 
+                "Greek", 
+                "Latin", 
+                "Middle Dutch", 
+                "Middle English", 
+                "Middle High German"
+            ], 
+            "pos": null, 
+            "term": "-sch-"
+        }
+    ]
+}

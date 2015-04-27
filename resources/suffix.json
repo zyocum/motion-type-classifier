@@ -1,0 +1,3120 @@
+{
+    "'em": [
+        {
+            "definition": "Middle English; since 17c. taken as a colloquial abbreviation of them, but originally at least in part a form of hem, dative and accusative of the third person plural pronoun.", 
+            "languages": [
+                "Middle English"
+            ], 
+            "pos": "pron.", 
+            "suffix": "em", 
+            "term": "'em"
+        }
+    ], 
+    "'tis": [
+        {
+            "definition": "mid-15c., contraction of it is.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "tis", 
+            "term": "'tis"
+        }
+    ], 
+    "'twas": [
+        {
+            "definition": "contraction of it was.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "twas", 
+            "term": "'twas"
+        }
+    ], 
+    "'twere": [
+        {
+            "definition": "contraction of it were.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "twere", 
+            "term": "'twere"
+        }
+    ], 
+    "'twixt": [
+        {
+            "definition": "also twixt, c. 1300, short for betwixt.", 
+            "languages": [], 
+            "pos": "prep.", 
+            "suffix": "twixt", 
+            "term": "'twixt"
+        }
+    ], 
+    "-ability": [
+        {
+            "definition": "word-forming element expressing ability, fitness, or capacity, from Latin -abilitas, forming nouns from adjectives ending in -abilis (see -able). Not etymologically related to ability, though popularly connected with it.", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ability", 
+            "term": "-ability"
+        }
+    ], 
+    "-able": [
+        {
+            "definition": "word-forming element expressing ability, capacity, fitness, from French, from Latin -ibilis, -abilis, forming adjectives from verbs, from PIE *-tro-, a suffix used to form nouns of instrument.\r\n\r\nIn Latin, infinitives in -are took -abilis, others -ibilis; in English, -able tends to be used with native (and other non-Latin) words, -ible with words of obvious Latin origin (but there are exceptions). The Latin suffix is not etymologically connected with able, but it long has been popularly associated with it, and this has contributed to its survival as a living suffix. It is related to the second syllable of rudder and saddle.", 
+            "languages": [
+                "English", 
+                "French", 
+                "Latin", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "able", 
+            "term": "-able"
+        }
+    ], 
+    "-acea": [
+        {
+            "definition": "word-forming element denoting orders and classes in zoology, from Latin -acea, neuter plural of -aceus \"belonging to, of the nature of\" (enlarged from adjectival suffix -ax, genitive -acis); neuter plural because of a presumed animalia, a neuter plural noun. Thus, crustacea \"shellfish\" are *crustacea animalia \"crusty animals.\" In botany, the suffix is -aceae, from the fem. plural of -aceus, with reference to Latin plantae, which is a fem. plural.", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "acea", 
+            "term": "-acea"
+        }
+    ], 
+    "-aceous": [
+        {
+            "definition": "word-forming element denoting \"belonging to, of the nature of,\" from Latin -aceus, enlarged form of adjectival suffix -ax (genitive -acis); see -acea. Especially in biology, \"pertaining to X order of plants or animals.\"", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "aceous", 
+            "term": "-aceous"
+        }
+    ], 
+    "-acious": [
+        {
+            "definition": "adjectival word-forming element meaning \"given to, inclined to, abounding in,\" from Latin -aci- (nominative -ax), noun ending used with verbal stems, + -ous.", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "acious", 
+            "term": "-acious"
+        }
+    ], 
+    "-ad": [
+        {
+            "definition": "word-forming element denoting collective numerals (Olympiad), plant families, and names of poems, from Greek -as (genitive -ados), a suffix forming fem. nouns; also used in fem. patronymics (Dryad, Naiad, also, in plural, Pleiades, Hyades).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "ad", 
+            "term": "-ad"
+        }
+    ], 
+    "-ade": [
+        {
+            "definition": "word-forming element denoting an action or product of an action, from Latin -ata (source of French -ade, Spanish -ada, Italian -ata), fem. past participle ending used in forming nouns. A living suffix in French, from which many words have come into English (such as lemonade). Latin -atus, past participle suffix of verbs of the 1st conjugation also became -ade in French (Spanish -ado, Italian -ato) and came to be used as a suffix denoting persons or groups participating in an action (such as brigade, desperado).   ", 
+            "languages": [
+                "English", 
+                "French", 
+                "Italian", 
+                "Latin", 
+                "Spanish"
+            ], 
+            "pos": null, 
+            "suffix": "ade", 
+            "term": "-ade"
+        }
+    ], 
+    "-ado": [
+        {
+            "definition": "in commando, desperado, tornado, and other words of Spanish and Portuguese origin, \"person or group participating in an action,\" from Latin -atus, past participle suffix of verbs of the first conjugation (see -ade).", 
+            "languages": [
+                "Latin", 
+                "Portuguese", 
+                "Spanish"
+            ], 
+            "pos": null, 
+            "suffix": "ado", 
+            "term": "-ado"
+        }
+    ], 
+    "-ae": [
+        {
+            "definition": "occasional plural suffix of words ending in -a, most of which, in English, are from Latin nominative fem. singular nouns, which in Latin form their plurals in -ae. But plurals in -s were established early in English for many of them (such as idea, arena) and many have crossed over since. Now it is not possible to insist on purity one way or the other without breeding monsters.", 
+            "languages": [
+                "English", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ae", 
+            "term": "-ae"
+        }
+    ], 
+    "-age": [
+        {
+            "definition": "word-forming element in nouns of act, process, function, condition, from Old French and French -age, from Late Latin -aticum \"belonging to, related to,\" originally neuter adjectival suffix, from PIE *-at- (source of Latin -atus, past participle suffix of verbs of the first conjugation) + *-(i)ko-, secondary suffix forming adjectives (see -ic).", 
+            "languages": [
+                "French", 
+                "Late Latin", 
+                "Latin", 
+                "Old French", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "age", 
+            "term": "-age"
+        }
+    ], 
+    "-aholic": [
+        {
+            "definition": "word-forming element abstracted from alcoholic; first in sugarholic (1965), foodoholic (sic., 1965); later in workaholic (1968), golfaholic (1971), chocoholic (1971), and shopaholic (1984).", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "aholic", 
+            "term": "-aholic"
+        }
+    ], 
+    "-al": [
+        {
+            "definition": "suffix forming adjectives from nouns or other adjectives, \"of, like, related to, pertaining to,\" Middle English -al, -el, from French or directly from Latin -alis (see -al (2)).", 
+            "languages": [
+                "French", 
+                "Latin", 
+                "Middle English"
+            ], 
+            "pos": null, 
+            "suffix": "al", 
+            "term": "-al"
+        }, 
+        {
+            "definition": "suffix forming nouns of action from verbs, mostly from Latin and French, meaning \"act of ______ing\" (such as survival, referral), Middle English -aille, from French feminine singular -aille, from Latin -alia, neuter plural of adjective suffix -alis, also used in English as a noun suffix. Nativized in English and used with Germanic verbs (as in bestowal, betrothal).", 
+            "languages": [
+                "English", 
+                "French", 
+                "Germanic", 
+                "Latin", 
+                "Middle English"
+            ], 
+            "pos": null, 
+            "suffix": "al", 
+            "term": "-al"
+        }, 
+        {
+            "definition": "word-forming element in chemistry to indicate \"presence of an aldehyde group\" (from aldehyde). The suffix also is commonly used in forming the names of drugs, often narcotics (such as barbital), a tendency that apparently began in German and might have been suggested by chloral (n.).", 
+            "languages": [
+                "German"
+            ], 
+            "pos": null, 
+            "suffix": "al", 
+            "term": "-al"
+        }
+    ], 
+    "-algia": [
+        {
+            "definition": "word-forming element denoting \"pain,\" from Greek algos \"pain,\" algein \"to feel pain,\" of unknown origin. Related to alegein \"to care about,\" originally \"to feel pain.\"", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "algia", 
+            "term": "-algia"
+        }
+    ], 
+    "-amide": [
+        {
+            "definition": "also amide, in chemical use, 1850, word-forming element denoting a compound obtained by replacing one hydrogen atom in ammonia with an element or radical, from French amide, from ammonia + -ide.", 
+            "languages": [
+                "French"
+            ], 
+            "pos": null, 
+            "suffix": "amide", 
+            "term": "-amide"
+        }
+    ], 
+    "-an": [
+        {
+            "definition": "word-forming element meaning \"pertaining to,\" from Latin -anus, in some cases via French -ain, -en.", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "an", 
+            "term": "-an"
+        }
+    ], 
+    "-ana": [
+        {
+            "definition": "or ana, word-forming element denoting \"collection of sayings, gossip, etc. connected with a person or place,\" early 18c., originally the neuter plural ending of Latin adjectives ending in -anus \"pertaining to,\" from PIE adjectival suffix *-no-.", 
+            "languages": [
+                "Latin", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "ana", 
+            "term": "-ana"
+        }
+    ], 
+    "-ance": [
+        {
+            "definition": "word-forming element attached to verbs to form abstract nouns of process or fact (convergence from converge), or of state or quality (absence from absent); ultimately from Latin -antia and -entia, which depended on the vowel in the stem word, from PIE *-nt-, adjectival suffix.\r\n\r\nAs Old French evolved from Latin, these were leveled to -ance, but later French borrowings from Latin (some of them subsequently passed to English) used the appropriate Latin form of the ending, as did words borrowed by English directly from Latin (diligence, absence).\r\n\r\nEnglish thus inherited a confused mass of words from French and further confused it since c. 1500 by restoring -ence selectively in some forms of these words to conform with Latin. Thus dependant, but independence, etc.", 
+            "languages": [
+                "English", 
+                "French", 
+                "Latin", 
+                "Old French", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "ance", 
+            "term": "-ance"
+        }
+    ], 
+    "-ancy": [
+        {
+            "definition": "word-forming element denoting quality or state, from Latin -antia, forming abstract nouns on past participle adjectives in -antem, appearing in English mostly in words borrowed directly from Latin (those passing through French usually have -ance or -ence; see -ance).", 
+            "languages": [
+                "English", 
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ancy", 
+            "term": "-ancy"
+        }
+    ], 
+    "-ane": [
+        {
+            "definition": "word-forming element in chemical use, indicating a chain of carbon atoms with no double bonds, proposed 1866 by German chemist August Wilhelm von Hofmann (1818-1892) to go with -ene, -ine (2), -one.", 
+            "languages": [
+                "German"
+            ], 
+            "pos": null, 
+            "suffix": "ane", 
+            "term": "-ane"
+        }
+    ], 
+    "-ant": [
+        {
+            "definition": "agent or instrumental suffix, from Old French and French -ant, from Latin -antem, accusative of -ans, present participle suffix of many Latin verbs.", 
+            "languages": [
+                "French", 
+                "Latin", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "ant", 
+            "term": "-ant"
+        }
+    ], 
+    "-ar": [
+        {
+            "definition": "word-formation element meaning \"pertaining to, of the nature of,\" from Latin -arem, -aris \"of the kind of, belonging to,\" a secondary form of -alis, dissimilated form used after syllables with an -l- (such as insularis for *insulalis, stellaris for *stellalis).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ar", 
+            "term": "-ar"
+        }
+    ], 
+    "-arch": [
+        {
+            "definition": "word-forming element meaning \"a ruler,\" from Greek arkhos \"leader, chief, ruler,\" from arkhe \"beginning, origin, first place\" (see archon).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "arch", 
+            "term": "-arch"
+        }
+    ], 
+    "-archy": [
+        {
+            "definition": "word-forming element meaning \"rule,\" from Latin -archia, from Greek -arkhia \"rule,\" from arkhos \"leader, chief, ruler,\" from arkhe \"beginning, origin, first place\" (see archon).", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "archy", 
+            "term": "-archy"
+        }
+    ], 
+    "-ard": [
+        {
+            "definition": "also -art, from Old French -ard, -art, from German -hard, -hart \"hardy,\" forming the second element in many personal names, often used as an intensifier, but in Middle High German and Dutch used as a pejorative element in common nouns, and thus passing into Middle English in bastard, coward, blaffard (\"one who stammers\"), etc. It thus became a living element in English, as in buzzard, drunkard.", 
+            "languages": [
+                "Dutch", 
+                "English", 
+                "German", 
+                "Middle English", 
+                "Middle High German", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "ard", 
+            "term": "-ard"
+        }
+    ], 
+    "-ary": [
+        {
+            "definition": "adjective and noun word-forming element, in most cases from Latin -arius, -aria, -arium \"connected with, pertaining to; the man engaged in,\" from PIE relational adjective suffix *-yo- \"of or belonging to.\" It appears in words borrowed from Latin in Middle English. In later borrowings from Latin to French, it became -aire and passed into Middle English as -arie, subsequently -ary.", 
+            "languages": [
+                "French", 
+                "Latin", 
+                "Middle English", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "ary", 
+            "term": "-ary"
+        }
+    ], 
+    "-ase": [
+        {
+            "definition": "word-forming element used in naming enzymes, from ending of diastase.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ase", 
+            "term": "-ase"
+        }
+    ], 
+    "-ast": [
+        {
+            "definition": "agential suffix, cognate with -ist, from French -ast, from Latin -asta, from Greek -astes.", 
+            "languages": [
+                "French", 
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ast", 
+            "term": "-ast"
+        }
+    ], 
+    "-aster": [
+        {
+            "definition": "word-forming element expressing incomplete resemblance (such as poetaster), usually diminutive and deprecatory, from Latin, from Greek -aster, suffix originally forming nouns from verbs ending in -azein, later generalized as a pejorative suffix, as in Greek patraster \"he who plays the father.\"", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "aster", 
+            "term": "-aster"
+        }
+    ], 
+    "-ate": [
+        {
+            "definition": "word-forming element used in forming nouns from Latin words ending in -atus, -atum (such as estate, primate, senate). Those that came to English via Old and Middle French often arrived with -at, but an -e was added after c. 1400 to indicate the long vowel. The suffix also can mark adjectives, formed from Latin past participals in -atus, -ata (such as desolate, moderate, separate), again, they often were adopted in Middle English as -at, with an -e appended after c. 1400.", 
+            "languages": [
+                "English", 
+                "Latin", 
+                "Middle English", 
+                "Middle French"
+            ], 
+            "pos": null, 
+            "suffix": "ate", 
+            "term": "-ate"
+        }, 
+        {
+            "definition": "verbal suffix for Latin verbs in -are, identical with -ate (1). Old English commonly made verbs from adjectives by adding a verbal ending to the word (such as gnornian \"be sad, mourn,\" gnorn \"sad, depressed\"), but as the inflections wore off English words in late Old and early Middle English, there came to be no difference between the adjective and the verb in dry, empty, warm, etc. Thus accustomed to the identity of adjectival and verbal forms of a word, the English, when they began to expand their Latin-based vocabulary after c. 1500, simply made verbs from Latin past-participial adjectives without changing their form (such as aggravate, substantiate) and it became the custom that Latin verbs were anglicized from their past participle stems.", 
+            "languages": [
+                "English", 
+                "Latin", 
+                "Middle English"
+            ], 
+            "pos": null, 
+            "suffix": "ate", 
+            "term": "-ate"
+        }, 
+        {
+            "definition": "in chemistry, word-forming element used to form the names of salts from acids in -ic; from Latin -atus, -atum, suffix used in forming adjectives and thence nouns; identical with -ate (1).\r\n\r\nThe substance formed, for example, by the action of acetic acid (vinegar) on lead was described in the 18th century as plumbum acetatum, i.e. acetated lead. Acetatum was then taken as a noun meaning \"the acetated (product),\" i.e. acetate. [W.E. Flood, \"The Origins of Chemical Names,\" London, 1963]\r\n", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ate", 
+            "term": "-ate"
+        }
+    ], 
+    "-athon": [
+        {
+            "definition": "also -thon, word-forming element denoting prolonged activity and usually some measure of endurance, abstracted from marathon; for example walkathon (1931), skatathon (1933); talkathon (1948); telethon (1949).\r\n", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "athon", 
+            "term": "-athon"
+        }
+    ], 
+    "-ation": [
+        {
+            "definition": "word-forming element for making nouns of action; see -ion.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ation", 
+            "term": "-ation"
+        }
+    ], 
+    "-ative": [
+        {
+            "definition": "word-forming element meaning \"of or related to; tending to,\" from Latin -ativus. ", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ative", 
+            "term": "-ative"
+        }
+    ], 
+    "-cene": [
+        {
+            "definition": "word-forming element in geology, introduced by Sir Charles Lyell (1797-1875), from Latinized form of Greek kainos \"new,\" cognate with Latin recens (see recent).", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "cene", 
+            "term": "-cene"
+        }
+    ], 
+    "-centric": [
+        {
+            "definition": "word-forming element meaning \"having a center (of a certain kind); centered on,\" from Latinized form of Greek kentrikos \"pertaining to a center,\" from kentron (see center (n.)).", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "centric", 
+            "term": "-centric"
+        }
+    ], 
+    "-cide": [
+        {
+            "definition": "word-forming element meaning \"killer,\" from French -cide, from Latin -cida \"cutter, killer, slayer,\" from -cidere, comb. form of caedere \"to strike down, chop, beat, hew, fell, slay,\" from PIE *kae-id-, from root *(s)k(h)ai- \"to strike\" (Pokorny, not in Watkins; cognates: Sanskrit skhidati \"beats, tears,\" Lithuanian kaisti \"shave,\" German heien \"beat\"). For Latin vowel change, see acquisition. The element also can represent \"killing,\" from French -cide, from Latin -cidium \"a cutting, a killing.\"", 
+            "languages": [
+                "French", 
+                "German", 
+                "Latin", 
+                "Lithuanian", 
+                "PIE", 
+                "Sanskrit"
+            ], 
+            "pos": null, 
+            "suffix": "cide", 
+            "term": "-cide"
+        }
+    ], 
+    "-cracy": [
+        {
+            "definition": "word-forming element forming nouns meaning \"rule or government by,\" from French -cratie or directly from Medieval Latin -cratia, from Greek -kratia \"power, might; rule, sway; power over; a power, authority,\" from kratos \"strength,\" from PIE *kre-tes- \"power, strength,\" suffixed form of root *kar-/*ker- \"hard\" (see hard). The connective -o- has come to be viewed as part of it. Productive in English from c. 1800.", 
+            "languages": [
+                "English", 
+                "French", 
+                "Greek", 
+                "Medieval Latin", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "cracy", 
+            "term": "-cracy"
+        }
+    ], 
+    "-cule": [
+        {
+            "definition": "word-forming element used to make diminutives, from French -cule or directly from Latin -culus (masc.), -cula (fem.), -culum (neuter); these appear to be variants of the diminutive suffix -ulus (see -ule) used after -i-, -e-, -u-, and consonant stems [Gildersleeve], or might be a double-diminutive involving \"an ancient diminutive suffix *-qo-\" [Palmer, \"The Latin Language\"].\r\n\r\nThere also was a Latin instrumentive suffix -culo-, -culum in baculum \"walking stick,\" gubernaculum \"rudder, helm; management, government,\" operculum \"cover, lid,\" obstaculum \"a hindrance, obstacle,\" oraculum \"divine announcement.\"", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "cule", 
+            "term": "-cule"
+        }
+    ], 
+    "-cy": [
+        {
+            "definition": "abstract noun suffix of quality or rank, from Latin -cia, -tia, from Greek -kia, -tia, from abstract ending -ia + stem ending -c- or -t-. The native correspondents are -ship, -hood.", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "cy", 
+            "term": "-cy"
+        }
+    ], 
+    "-derm": [
+        {
+            "definition": "word-forming element meaning \"skin,\" from Greek derma \"skin, hide, leather\" (see derma).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "derm", 
+            "term": "-derm"
+        }
+    ], 
+    "-dom": [
+        {
+            "definition": "abstract suffix of state, from Old English dom \"statute, judgment\" (see doom (n.)). Already active as a suffix in Old English (as in freodom, wisdom). Cognate with German -tum (Old High German tuom).", 
+            "languages": [
+                "English", 
+                "German", 
+                "Old High German"
+            ], 
+            "pos": null, 
+            "suffix": "dom", 
+            "term": "-dom"
+        }
+    ], 
+    "-ean": [
+        {
+            "definition": "variant of -an after names ending in -ea, -es, -eus.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ean", 
+            "term": "-ean"
+        }
+    ], 
+    "-ectomy": [
+        {
+            "definition": "word-forming element meaning \"surgical removal,\" from Greek -ektomia \"a cutting out of,\" from ektemnein \"to cut out,\" from ek \"out\" (see ex-) + temnein \"to cut\" (see tome).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "ectomy", 
+            "term": "-ectomy"
+        }
+    ], 
+    "-ed": [
+        {
+            "definition": "past participle suffix of weak verbs, from Old English -ed, -ad, -od (leveled to -ed in Middle English), from Proto-Germanic *-da- (cognates: Old High German -ta, German -t, Old Norse -þa, Gothic -da, -þs), from PIE *-to-, \"suffix forming adjectives marking the accomplishment of the notion of the base\" [Watkins] (cognates: Sanskrit -tah, Greek -tos, Latin -tus; see -th (1)).\r\n\r\nOriginally fully pronounced, as still in beloved (which, with blessed, accursed, and a few others retains the full pronunciation through liturgical readings). In Old English already first and third person singular past tense forms of some \"weak\" verbs was -te, a variant of -de (see -ed), often accompanied by a change in vowel sound (as in modern keep/kept, sleep/slept). A tendency to shorten final consonants has left English with many past tense forms spelled in -ed but pronounced \"-t.\" In some older words both forms exist, with different shades of meaning, as in gilded/gilt, burned/burnt.", 
+            "languages": [
+                "English", 
+                "German", 
+                "Gothic", 
+                "Greek", 
+                "Latin", 
+                "Middle English", 
+                "Old High German", 
+                "Old Norse", 
+                "PIE", 
+                "Proto-Germanic", 
+                "Sanskrit"
+            ], 
+            "pos": null, 
+            "suffix": "ed", 
+            "term": "-ed"
+        }
+    ], 
+    "-ee": [
+        {
+            "definition": "word-forming element in legal English (and in imitation of it), representing the Anglo-French -é ending of past participles used as nouns. As these sometimes were coupled with agent nouns in -or, the two suffixes came to be used as a pair to denote the initiator and the recipient of an action.", 
+            "languages": [
+                "Anglo-French", 
+                "English"
+            ], 
+            "pos": null, 
+            "suffix": "ee", 
+            "term": "-ee"
+        }
+    ], 
+    "-een": [
+        {
+            "definition": "anglicized form of French -in, -ine, ultimately from Latin -inus, -ina.", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "een", 
+            "term": "-een"
+        }
+    ], 
+    "-eer": [
+        {
+            "definition": "noun word-forming element meaning \"one who\" (operates, produces, deals in); anglicized form of French -ier, from Latin -arius, -iarius; compare -ary.", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "eer", 
+            "term": "-eer"
+        }
+    ], 
+    "-el": [
+        {
+            "definition": "instrumental suffix, from Old English -ol, -ul, -el, representing PIE *-lo- (see -ule). In modern English usually -le except after -n-.", 
+            "languages": [
+                "English", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "el", 
+            "term": "-el"
+        }, 
+        {
+            "definition": "diminutive suffix (though in Modern English not always perceived as such), from Old French -el (fem. -elle, Modern French -el, -eau), from Latin -ellus, -ella, -ellum, diminutive suffix, from PIE *-olo-lo-, itself a double diminutive, from *-lo- (see -ule).", 
+            "languages": [
+                "French", 
+                "Latin", 
+                "Modern English", 
+                "Old French", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "el", 
+            "term": "-el"
+        }
+    ], 
+    "-ella": [
+        {
+            "definition": "diminutive word-forming element, from Latin -ella, fem. of -ellus.", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ella", 
+            "term": "-ella"
+        }
+    ], 
+    "-eme": [
+        {
+            "definition": "in linguistics, noted as an active suffix and word-formation element from 1953; from French -ème \"unit, sound,\" from phonème (see phoneme).", 
+            "languages": [
+                "French"
+            ], 
+            "pos": null, 
+            "suffix": "eme", 
+            "term": "-eme"
+        }
+    ], 
+    "-emia": [
+        {
+            "definition": "word-forming element in medicine meaning \"condition of the blood,\" Modern Latin comb. form of Greek haima (genitive haimatos) \"blood,\" possibly from hypothetical PIE root *sai- (3) \"thick liquid.\"", 
+            "languages": [
+                "Greek", 
+                "Modern Latin", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "emia", 
+            "term": "-emia"
+        }
+    ], 
+    "-en": [
+        {
+            "definition": "word-forming element making verbs (such as darken, weaken) from adjectives or nouns, from Old English -nian, from Proto-Germanic *-inojan (also source of Old Norse -na), from PIE adjectival suffix *-no-. Most active in Middle English.", 
+            "languages": [
+                "English", 
+                "Middle English", 
+                "Old Norse", 
+                "PIE", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "en", 
+            "term": "-en"
+        }, 
+        {
+            "definition": "suffix added to nouns to produce adjectives meaning \"made of, of the nature of\" (such as golden, oaken, woolen), corresponding to Latin -anus, -inus, Greek -inos; from Proto-Germanic *-ina-, from PIE *-no-, adjectival suffix. Common in Old and Middle English (e.g. fyren \"on fire; made of fire\"), the few surviving uses are largely discarded in everyday use, and the simple form of the noun doubles as adjective (gold ring, wool sweater). Some are used in special contexts (brazen, wooden).", 
+            "languages": [
+                "Greek", 
+                "Latin", 
+                "Middle English", 
+                "PIE", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "en", 
+            "term": "-en"
+        }
+    ], 
+    "-ence": [
+        {
+            "definition": "see -ance.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ence", 
+            "term": "-ence"
+        }
+    ], 
+    "-ency": [
+        {
+            "definition": "word-forming element denoting quality or state, from Latin -entia. Derivatively identical with -ence; also see -ancy.", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ency", 
+            "term": "-ency"
+        }
+    ], 
+    "-ene": [
+        {
+            "definition": "hydrocarbon suffix, from Greek name-forming element -ene. It has no real meaning in itself; in chemistry terminology probably abstracted from methylene (1834). Put in systematic use by Hofmann (1865).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "ene", 
+            "term": "-ene"
+        }
+    ], 
+    "-ent": [
+        {
+            "definition": "word-forming element making adjectives from nouns or verbs, from French -ent and directly from Latin -entem (nominative -ens), present participle ending of verbs in -ere/-ire. Old French changed it in many words to -ant, but after c. 1500 some of these in English were changed back to what was supposed to be correct Latin. See -ant.", 
+            "languages": [
+                "English", 
+                "French", 
+                "Latin", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "ent", 
+            "term": "-ent"
+        }
+    ], 
+    "-er": [
+        {
+            "definition": "English agent noun ending, corresponding to Latin -or. In native words it represents Old English -ere (Old Northumbrian also -are) \"man who has to do with,\" from Proto-Germanic *-ari (cognates: German -er, Swedish -are, Danish -ere), from Proto-Germanic *-arjoz. Some believe this root is identical with, and perhaps a borrowing of, Latin -arius (see -ary).\r\n\r\nGenerally used with native Germanic words. In words of Latin origin, verbs derived from past participle stems of Latin ones (including most verbs in -ate) usually take the Latin ending -or, as do Latin verbs that passed through French (such as governor); but there are many exceptions (eraser, laborer, promoter, deserter; sailor, bachelor), some of which were conformed from Latin to English in late Middle English.\r\n\r\nThe use of -or and -ee in legal language (such as lessor/lessee) to distinguish actors and recipients of action has given the -or ending a tinge of professionalism, and this makes it useful in doubling words that have a professional and a non-professional sense (such as advisor/adviser, conductor/conducter, incubator/incubater, elevator/elevater).", 
+            "languages": [
+                "Danish", 
+                "English", 
+                "French", 
+                "German", 
+                "Germanic", 
+                "Latin", 
+                "Middle English", 
+                "Northumbrian", 
+                "Proto-Germanic", 
+                "Swedish"
+            ], 
+            "pos": null, 
+            "suffix": "er", 
+            "term": "-er"
+        }, 
+        {
+            "definition": "comparative suffix, from Old English -ra (masc.), -re (fem., neuter), from Proto-Germanic *-izon (cognates: Gothic -iza, Old Saxon -iro, Old Norse -ri, Old High German -iro, German -er), from PIE *-yos-, comparative adjective suffix. Originally also with umlaut change in stem, but this was mostly lost in Old English by historical times and has now vanished (except in better and elder).\r\n\r\nFor most comparatives of one or two syllables, use of -er seems to be fading as the oral element in our society relies on more before adjectives to express the comparative; thus prettier is more pretty, cooler is more cool [Barnhart].\r\n", 
+            "languages": [
+                "English", 
+                "German", 
+                "Gothic", 
+                "Old High German", 
+                "Old Norse", 
+                "Old Saxon", 
+                "PIE", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "er", 
+            "term": "-er"
+        }, 
+        {
+            "definition": "suffix used to make jocular or familiar formations from common or proper names (soccer being one), first attested 1860s, English schoolboy slang, \"Introduced from Rugby School into Oxford University slang, orig. at University College, in Michaelmas Term, 1875\" [OED, with unusual precision].", 
+            "languages": [
+                "English"
+            ], 
+            "pos": null, 
+            "suffix": "er", 
+            "term": "-er"
+        }
+    ], 
+    "-eroo": [
+        {
+            "definition": "\"factitious slang suffix\" (OED), sometimes affectionate, forming nouns indicating \"a humorous or remarkable instance\" of what is indicated, in use by 1940s, perhaps from buckaroo. An earlier suffix in a similar sense is -erino (after 1900), apparently from -er + Italian suffix -ino.", 
+            "languages": [
+                "Italian"
+            ], 
+            "pos": null, 
+            "suffix": "eroo", 
+            "term": "-eroo"
+        }
+    ], 
+    "-ery": [
+        {
+            "definition": "word-forming element making nouns meaning \"place for, art of, condition of, quantity of,\" from Middle English -erie, from Latin -arius (see -ary). Also sometimes in modern colloquial use \"the collectivity of\" or \"an example of.\"", 
+            "languages": [
+                "Latin", 
+                "Middle English"
+            ], 
+            "pos": null, 
+            "suffix": "ery", 
+            "term": "-ery"
+        }
+    ], 
+    "-escence": [
+        {
+            "definition": "word-forming element meaning \"process or state of being,\" from Latin -escentia, from -escentem (see -escent).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "escence", 
+            "term": "-escence"
+        }
+    ], 
+    "-escent": [
+        {
+            "definition": "word-forming element meaning \"beginning, becoming, tending to be,\" from Latin -escentem (nominative -escens), ending of present participles of verbs in -escere.", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "escent", 
+            "term": "-escent"
+        }
+    ], 
+    "-ese": [
+        {
+            "definition": "word-forming element, from Old French -eis (Modern French -ois, -ais), from Vulgar Latin, from Latin -ensem, -ensis \"belonging to\" or \"originating in.\"", 
+            "languages": [
+                "French", 
+                "Latin", 
+                "Old French", 
+                "Vulgar Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ese", 
+            "term": "-ese"
+        }
+    ], 
+    "-esque": [
+        {
+            "definition": "word-forming element meaning \"resembling or suggesting the style of,\" from French -esque \"like, in the manner of,\" from Italian -esco, which, with Medieval Latin -iscus, is from Frankish or some other Germanic source (compare Old High German -isc, German -isch; see -ish).", 
+            "languages": [
+                "Frankish", 
+                "French", 
+                "German", 
+                "Germanic", 
+                "Italian", 
+                "Medieval Latin", 
+                "Old High German"
+            ], 
+            "pos": null, 
+            "suffix": "esque", 
+            "term": "-esque"
+        }
+    ], 
+    "-ess": [
+        {
+            "definition": "fem. suffix, from French -esse, from Late Latin -issa, from Greek -issa (cognate with Old English fem. agent suffix -icge); rare in classical Greek but more common later, in diakonissa \"deaconess\" and other Church terms picked up by Latin.", 
+            "languages": [
+                "English", 
+                "French", 
+                "Greek", 
+                "Late Latin", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ess", 
+            "term": "-ess"
+        }
+    ], 
+    "-et": [
+        {
+            "definition": "word-forming element, originally a diminutive suffix but not now always felt as one, Middle English, from Old French -et (fem. -ete; Modern French -et, -ette), from Vulgar Latin *-ittum/*-itta (source also of Spanish -eto/-eta, Italian -etto/-etta), of unknown origin. The French forms are reduced to -et in English, but later borrowings of French words in -ette tend to keep that ending.", 
+            "languages": [
+                "English", 
+                "French", 
+                "Italian", 
+                "Middle English", 
+                "Old French", 
+                "Spanish", 
+                "Vulgar Latin"
+            ], 
+            "pos": null, 
+            "suffix": "et", 
+            "term": "-et"
+        }
+    ], 
+    "-etic": [
+        {
+            "definition": "word-forming element meaning \"pertaining to,\" from Greek -etikos, adjectival suffix for nouns ending in -esis.", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "etic", 
+            "term": "-etic"
+        }
+    ], 
+    "-ette": [
+        {
+            "definition": "diminutive word-forming element, from Old French -ette (fem.), used indiscriminately in Old French with masculine form -et (see -et). As a general rule, older words borrowed from French have -et in English, while ones taken in since 17c. have -ette. In use with native words since late 19c., especially among persons who coin new product names, who tend to give it a sense of \"imitation, a sort of\" (for example flannelette \"imitation flannel of cotton,\" 1876). Also in words like sermonette, which, OED remarks, \"can scarcely be said to be in good use, though often met with in newspapers.\"", 
+            "languages": [
+                "English", 
+                "French", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "ette", 
+            "term": "-ette"
+        }
+    ], 
+    "-facient": [
+        {
+            "definition": "word-forming element meaning \"a doer, one who or that which does,\" from Latin -facientem (nominative -faciens), comb. form of present participle of facere \"to make\" (see factitious).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "facient", 
+            "term": "-facient"
+        }
+    ], 
+    "-faction": [
+        {
+            "definition": "word-forming element making nouns of action from verbs, from Latin -factionem (nominative -factio), from facere \"to make\" (see factitious).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "faction", 
+            "term": "-faction"
+        }
+    ], 
+    "-fest": [
+        {
+            "definition": "word-forming element in colloquial compounds (hen-fest, gabfest, etc.), from 1889, American English, borrowed from German Fest \"festival,\" abstracted from Volksfest, etc., from Middle High German vëst, from Latin festum (see festivity).", 
+            "languages": [
+                "American English", 
+                "German", 
+                "Latin", 
+                "Middle High German"
+            ], 
+            "pos": null, 
+            "suffix": "fest", 
+            "term": "-fest"
+        }
+    ], 
+    "-fic": [
+        {
+            "definition": "adjectival word-forming element meaning \"making, creating,\" from French -fique and directly from Latin -ficus, from unstressed form of facere \"to make\" (see -fy).", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "fic", 
+            "term": "-fic"
+        }
+    ], 
+    "-fication": [
+        {
+            "definition": "word-forming element meaning \"a making or causing,\" from Latin -ficationem (nominative -ficatio), forming nouns of action from verbs in -ficare (compare -fy); ultimately from facere \"to make, do\" (see factitious).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "fication", 
+            "term": "-fication"
+        }
+    ], 
+    "-fid": [
+        {
+            "definition": "word-forming element meaning \"split, divided into parts,\" from Latin -fidus, related to findere \"to split\" (see fissure).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "fid", 
+            "term": "-fid"
+        }
+    ], 
+    "-fold": [
+        {
+            "definition": "multiplicative word-forming element attached to numerals, from Old English -feald, Northumbrian -fald, from Proto-Germanic *-falthaz (cognates: Old Saxon -fald, Old Frisian -fald, Old Norse -faldr, Dutch -voud, German -falt, Gothic falþs), comb. form of *falthan, from PIE *polt-, extended form of root *pel- (3) \"to fold\" (cognates: Greek -paltos, -plos; Latin -plus; see fold (v.)). Native words with it have been crowded out by Latinate double, triple, etc., but it persists in manifold, hundredfold, etc.", 
+            "languages": [
+                "Dutch", 
+                "English", 
+                "German", 
+                "Gothic", 
+                "Greek", 
+                "Latin", 
+                "Northumbrian", 
+                "Old Frisian", 
+                "Old Norse", 
+                "Old Saxon", 
+                "PIE", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "fold", 
+            "term": "-fold"
+        }
+    ], 
+    "-form": [
+        {
+            "definition": "word-forming element meaning \"-like, -shaped, in the form of,\" from French -forme and directly from Latin -formis \"-like, shaped,\" from forma \"form\" (see form (n.)). Properly preceded by an -i-.", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "form", 
+            "term": "-form"
+        }
+    ], 
+    "-fuge": [
+        {
+            "definition": "word-forming element meaning \"that which drives away or out,\" from Modern Latin -fugus, with sense from Latin fugare \"to put to flight\" (see febrifuge) but form from Latin fugere \"to flee\" (see fugitive (adj.)).", 
+            "languages": [
+                "Latin", 
+                "Modern Latin"
+            ], 
+            "pos": null, 
+            "suffix": "fuge", 
+            "term": "-fuge"
+        }
+    ], 
+    "-ful": [
+        {
+            "definition": "word-forming element attached to nouns (and in modern English to verb stems) and meaning \"full of, having, characterized by,\" also \"amount or volume contained\" (handful, bellyful); from Old English -full, -ful, which is full (adj.) become a suffix by being coalesced with a preceding noun, but originally a separate word. Cognate with German -voll, Old Norse -fullr, Danish -fuld. Most English -ful adjectives at one time or another had both passive (\"full of x\") and active (\"causing x; full of occasion for x\") senses.\r\n\r\nIt is rare in Old English and Middle English, where full was much more commonly attached at the head of a word (for example Old English fulbrecan \"to violate,\" fulslean \"to kill outright,\" fulripod \"mature;\" Middle English had ful-comen \"attain (a state), realize (a truth),\" ful-lasting \"durability,\" ful-thriven \"complete, perfect,\" etc.).", 
+            "languages": [
+                "Danish", 
+                "English", 
+                "German", 
+                "Middle English", 
+                "Old Norse"
+            ], 
+            "pos": null, 
+            "suffix": "ful", 
+            "term": "-ful"
+        }
+    ], 
+    "-fy": [
+        {
+            "definition": "word-forming element meaning \"make, make into,\" from French -fier, from Latin -ficare, from unstressed form of facere \"to make, do\" (see factitious).", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "fy", 
+            "term": "-fy"
+        }
+    ], 
+    "-gamous": [
+        {
+            "definition": "word-forming element meaning \"marrying,\" from Greek gamos \"marriage, a wedding\" (see gamete) + -ous.", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "gamous", 
+            "term": "-gamous"
+        }
+    ], 
+    "-gamy": [
+        {
+            "definition": "word-forming element meaning \"marriage; fertilization,\" from Greek -gamia, from gamos \"marriage\" (see gamete).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "gamy", 
+            "term": "-gamy"
+        }
+    ], 
+    "-gate": [
+        {
+            "definition": "suffix attached to any word to indicate \"scandal involving,\" 1973, abstracted from Watergate, the Washington, D.C., building complex that was home of the National Headquarters of the Democratic Party when it was burglarized June 17, 1972, by operatives later found to be working for the staff and re-election campaign of U.S. President Richard Nixon.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "gate", 
+            "term": "-gate"
+        }
+    ], 
+    "-gen": [
+        {
+            "definition": "word-forming element technically meaning \"something produced,\" but mainly, in modern use, \"thing that produces or causes,\" from French -gène (18c.), from Greek -genes \"born of, produced by,\" which is from the same source as genos \"birth,\" genea \"race, family,\" from PIE *gene- (see genus). First used in late 18th century French chemistry (see oxygen), it probably involves a misunderstanding of -genes, as though it meant \"that which produces.\"", 
+            "languages": [
+                "French", 
+                "Greek", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "gen", 
+            "term": "-gen"
+        }
+    ], 
+    "-genesis": [
+        {
+            "definition": "word-forming element meaning \"birth, origin, creation,\" from Greek genesis (see genesis). ", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "genesis", 
+            "term": "-genesis"
+        }
+    ], 
+    "-genic": [
+        {
+            "definition": "word-forming element meaning \"producing, pertaining to generation;\" see -gen + -ic.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "genic", 
+            "term": "-genic"
+        }
+    ], 
+    "-genous": [
+        {
+            "definition": "word-forming element meaning \"generating, producing, yielding;\" see -gen + -ous. In modern formations, making adjectives corresponding to words in -gen. In some older words, from Lat Latin -genus, from Latin -gena \"born\" (for example indigenous).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "genous", 
+            "term": "-genous"
+        }
+    ], 
+    "-geny": [
+        {
+            "definition": "word-forming element meaning \"genesis, origin, mode of production,\" forming corresponding abstract nouns to words in -gen, from French -génie and Modern Latin -genia, from Greek -geneia, from -genes \"born, produced,\" the form in compounds of genos (see genus).", 
+            "languages": [
+                "French", 
+                "Greek", 
+                "Modern Latin"
+            ], 
+            "pos": null, 
+            "suffix": "geny", 
+            "term": "-geny"
+        }
+    ], 
+    "-gon": [
+        {
+            "definition": "word-forming element meaning \"angle, corner,\" from Greek gonia \"corner, angle,\" from PIE root *genu- (1) \"knee; angle\" (see knee (n.)).", 
+            "languages": [
+                "Greek", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "gon", 
+            "term": "-gon"
+        }
+    ], 
+    "-gram": [
+        {
+            "definition": "noun suffix, \"that which is written or marked, from Greek gramma \"that which is drawn; a picture, a drawing; that which is written, a character, an alphabet letter, written letter, piece of writing;\" in plural, \"letters,\" also \"papers, documents of any kind,\" also \"learning,\" from stem of graphein \"to draw or write\" (see -graphy). In some words directly from Greek use of the word in compounds, in others a modern formation. Alternative -gramme is a French form. From telegram (1850s) the element was abstracted by 1979 (in Gorillagram, a proprietary name in U.S.), and put to wide use in forming new words, such as stripagram (1981). The construction violates Greek grammar, as an adverb could not properly form part of a compound noun.", 
+            "languages": [
+                "French", 
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "gram", 
+            "term": "-gram"
+        }
+    ], 
+    "-gramme": [
+        {
+            "definition": "see -gram.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "gramme", 
+            "term": "-gramme"
+        }
+    ], 
+    "-graph": [
+        {
+            "definition": "modern word-forming element meaning \"instrument for recording; that which marks or describes; something written,\" from Greek -graphos \"-writing, -writer\" (as in autographos \"written with one's own hand\"), from graphe \"writing, the art of writing, a writing,\" from graphein \"to write, express by written characters,\" earlier \"to draw, represent by lines drawn\" (see -graphy). Adopted widely (Dutch -graaf, German -graph, French -graphe, Spanish -grafo). Related: -grapher; -graphic; -graphical.", 
+            "languages": [
+                "Dutch", 
+                "French", 
+                "German", 
+                "Greek", 
+                "Spanish"
+            ], 
+            "pos": null, 
+            "suffix": "graph", 
+            "term": "-graph"
+        }
+    ], 
+    "-graphy": [
+        {
+            "definition": "word-forming element meaning \"process of writing or recording\" or \"a writing, recording, or description\" (in modern use especially in forming names of descriptive sciences), from French or German -graphie, from Greek -graphia \"description of,\" used in abstract nouns from graphein \"write, express by written characters,\" earlier \"to draw, represent by lines drawn,\" originally \"to scrape, scratch\" (on clay tablets with a stylus), from PIE root *gerbh- \"to scratch, carve\" (see carve).", 
+            "languages": [
+                "French", 
+                "German", 
+                "Greek", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "graphy", 
+            "term": "-graphy"
+        }
+    ], 
+    "-handed": [
+        {
+            "definition": "in compounds, \"having hands\" (of a certain type), mid-14c., from hand (n.).", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "handed", 
+            "term": "-handed"
+        }
+    ], 
+    "-head": [
+        {
+            "definition": "word-forming element meaning \"state or condition of being,\" Middle English -hede, Old English -had, cognate with -hood and German -heit. The only surviving words with it are maidenhead and godhead.", 
+            "languages": [
+                "English", 
+                "German", 
+                "Middle English"
+            ], 
+            "pos": null, 
+            "suffix": "head", 
+            "term": "-head"
+        }
+    ], 
+    "-hood": [
+        {
+            "definition": "word-forming element meaning \"state or condition of being,\" from Old English -had \"condition, position,\" cognate with German -heit, Dutch -heid, all from Proto-Germanic *haidus \"manner, quality,\" literally \"bright appearance,\" from PIE (s)kai- (1) \"bright, shining.\" Originally a free-standing word (see hade); in Modern English it survives only in this suffix.", 
+            "languages": [
+                "Dutch", 
+                "English", 
+                "German", 
+                "Modern English", 
+                "PIE", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "hood", 
+            "term": "-hood"
+        }
+    ], 
+    "-ia": [
+        {
+            "definition": "word-forming element in names of countries, diseases, flowers, from Latin and Greek -ia, which forms abstract nouns of feminine gender. In paraphernalia, Mammalia, etc. it represents the Latin and Greek plural suffix of nouns in -ium or -ion.\r\n\r\nChinese forms country names by adding guo \"country\" to the stressed syllable of the place name, hence Meiguo \"America,\" from mei, the stressed syllable of America (minus -r-, which does not exist in Chinese). Similarly Yingguo \"England,\" Faguo \"France.\" Continent names are similarly formed, with zhou \"continent\" (such as Meizhou \"America (continent),\" Feizhou \"Africa,\" Ouzhou \"Europe\").\r\n", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ia", 
+            "term": "-ia"
+        }
+    ], 
+    "-ial": [
+        {
+            "definition": "variant of -al (1).", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ial", 
+            "term": "-ial"
+        }
+    ], 
+    "-ian": [
+        {
+            "definition": "variant of suffix -an used with stem endings in -i, from Latin -ianus (-anus). In Middle English, frequently -ien, from words borrowed via French.", 
+            "languages": [
+                "French", 
+                "Latin", 
+                "Middle English"
+            ], 
+            "pos": null, 
+            "suffix": "ian", 
+            "term": "-ian"
+        }
+    ], 
+    "-iana": [
+        {
+            "definition": "form of -ana with nouns whose adjectival forms end in -ian.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "iana", 
+            "term": "-iana"
+        }
+    ], 
+    "-iasis": [
+        {
+            "definition": "medical Latin word-forming element meaning \"process; morbid condition,\" from Greek -iasis, from aorist of verbs in -iao, which often express disease.", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "iasis", 
+            "term": "-iasis"
+        }
+    ], 
+    "-iatric": [
+        {
+            "definition": "word-forming element from Greek iatrikos \"healing,\" from iatros \"physician, healer\" (related to iatreun \"treat medically,\" and iasthai \"heal, treat\"); of uncertain origin, perhaps from iaomai \"to cure,\" related to iaino \"heat, warm, cheer,\" probably from a root meaning \"enliven, animate.\"", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "iatric", 
+            "term": "-iatric"
+        }
+    ], 
+    "-iatry": [
+        {
+            "definition": "word-forming element meaning \"medical treatment,\" from French -iatrie, from Greek iatreia \"healing, medical treatment\" (see -iatric).", 
+            "languages": [
+                "French", 
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "iatry", 
+            "term": "-iatry"
+        }
+    ], 
+    "-ible": [
+        {
+            "definition": "suffix forming adjectives from verbs, borrowed in Middle English from Old French -ible and directly from Latin -ibilis; see -able.", 
+            "languages": [
+                "Latin", 
+                "Middle English", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "ible", 
+            "term": "-ible"
+        }
+    ], 
+    "-ic": [
+        {
+            "definition": "adjective suffix, \"having to do with, having the nature of, being, made of, caused by, similar to\" (in chemistry, indicating a higher valence than names in -ous), from French -ique and directly from Latin -icus, which in many cases represents Greek -ikos \"in the manner of; pertaining to.\" From PIE *-(i)ko, which also yielded Slavic -isku, adjectival suffix indicating origin, the source of the -sky (Russian -skii) in many surnames.", 
+            "languages": [
+                "French", 
+                "Greek", 
+                "Latin", 
+                "PIE", 
+                "Russian", 
+                "Slav."
+            ], 
+            "pos": null, 
+            "suffix": "ic", 
+            "term": "-ic"
+        }
+    ], 
+    "-ical": [
+        {
+            "definition": "adjectival suffix, mostly the same as -ic but sometimes with specialized sense (such as historic/historical), Middle English, from Late Latin -icalis, from Latin -icus + -alis.", 
+            "languages": [
+                "Late Latin", 
+                "Latin", 
+                "Middle English"
+            ], 
+            "pos": null, 
+            "suffix": "ical", 
+            "term": "-ical"
+        }
+    ], 
+    "-ics": [
+        {
+            "definition": "in the names of sciences or disciplines (acoustics, aerobics, economics, etc.) it represents a 16c. revival of the classical custom of using the neuter plural of adjectives with -ikos (see -ic) to mean \"matters relevant to\" and also as the titles of treatises about them. Subject matters that acquired their names in English before c. 1500, however, tend to remain in singular (such as arithmetic, logic).", 
+            "languages": [
+                "English"
+            ], 
+            "pos": null, 
+            "suffix": "ics", 
+            "term": "-ics"
+        }
+    ], 
+    "-id": [
+        {
+            "definition": "word-forming element meaning \"belonging to, connected with, member of a group or class\" (plural -idae), from French -ide and directly from Latin -ides, masculine patronymic, from Greek -ides. In astronomy, of meteor showers, it represents Latin -idis, Greek -idos, the genitive of the feminine patronymic suffix.", 
+            "languages": [
+                "French", 
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "id", 
+            "term": "-id"
+        }
+    ], 
+    "-idae": [
+        {
+            "definition": "word-forming element used to form family names in zoology, Latin plural noun suffix, plural of -ides (see -id).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "idae", 
+            "term": "-idae"
+        }
+    ], 
+    "-ide": [
+        {
+            "definition": "suffix used to form names of simple compounds of an element with another element or radical; originally abstracted from oxide, the first so classified.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ide", 
+            "term": "-ide"
+        }
+    ], 
+    "-ie": [
+        {
+            "definition": "alternative spelling of -y; now mostly of -y (3), but formerly of others.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ie", 
+            "term": "-ie"
+        }
+    ], 
+    "-ier": [
+        {
+            "definition": "word-forming element indicating occupation, from French and Old French -ier, from Latin -arius (also see -er (1)). Nativized and used to form English words (glazier, hosier, etc.; also see -yer).", 
+            "languages": [
+                "English", 
+                "French", 
+                "Latin", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "ier", 
+            "term": "-ier"
+        }
+    ], 
+    "-ify": [
+        {
+            "definition": "variant of suffix -fy used with stem endings in -i. In modern formations in English the -i- sometimes is regarded erroneously as part of the affix.", 
+            "languages": [
+                "English"
+            ], 
+            "pos": null, 
+            "suffix": "ify", 
+            "term": "-ify"
+        }
+    ], 
+    "-ile": [
+        {
+            "definition": "suffix denoting ability, capacity, from French -il or directly from Latin -ilis. ", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ile", 
+            "term": "-ile"
+        }
+    ], 
+    "-in": [
+        {
+            "definition": "suffix attached to a verb, first attested 1960 with sit-in (which probably was influenced by sit-down strike); used first of protests, extended c.1965 to any gathering.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "in", 
+            "term": "-in"
+        }, 
+        {
+            "definition": "chemical suffix, usually indicating a neutral substance, antibiotic, vitamin, or hormone; see -ine (2).", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "in", 
+            "term": "-in"
+        }
+    ], 
+    "-ina": [
+        {
+            "definition": "fem. suffix in titles and names, from Latin -ina.", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ina", 
+            "term": "-ina"
+        }
+    ], 
+    "-ine": [
+        {
+            "definition": "suffix used to form adjectives from nouns, from French -ine, fem. of -in, or directly from Latin -inus \"of, like\" (see -en (2)).", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ine", 
+            "term": "-ine"
+        }, 
+        {
+            "definition": "chemical suffix, sometimes -in, though modern use distinguishes them; early 19c., from French -ine, from Latin -ina, fem. form of suffix used to form adjectives from nouns (identical with -ine (1)). In French, the suffix commonly was used to form words for derived substances, hence its extended use in chemistry, where it was applied unsystematically at first (as in aniline), but now has more restricted use.", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ine", 
+            "term": "-ine"
+        }
+    ], 
+    "-ing": [
+        {
+            "definition": "suffix attached to verbs to mean their action, result, product, material, etc., from Old English -ing, -ung, from Proto-Germanic *unga (cognates: Old Norse -ing, Dutch -ing, German -ung). Originally used to form nouns from verbs and to denote completed or habitual action. Its use has been greatly expanded in Middle and Modern English.", 
+            "languages": [
+                "Dutch", 
+                "English", 
+                "German", 
+                "Modern English", 
+                "Old Norse", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "ing", 
+            "term": "-ing"
+        }, 
+        {
+            "definition": "suffix used form the present participle of verbs, from Old English -ende (cognates: German -end, Gothic -and, Sanskrit -ant, Greek -on, Latin -ans). It evolved into -ing in 13c.-14c.", 
+            "languages": [
+                "English", 
+                "German", 
+                "Gothic", 
+                "Greek", 
+                "Latin", 
+                "Sanskrit"
+            ], 
+            "pos": null, 
+            "suffix": "ing", 
+            "term": "-ing"
+        }
+    ], 
+    "-ion": [
+        {
+            "definition": "suffix forming nouns of state, condition, or action from verbs, from Latin -ionem (nominative -io, genitive -ionis), sometimes via French -ion.", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ion", 
+            "term": "-ion"
+        }
+    ], 
+    "-ise": [
+        {
+            "definition": "see -ize.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ise", 
+            "term": "-ise"
+        }
+    ], 
+    "-ish": [
+        {
+            "definition": "adjectival suffix, from Old English -isc, common Germanic (cognates: Old Norse -iskr, German -isch, Gothic -isks), cognate with Greek diminutive suffix -iskos. Colloquially attached to hours to denote approximation, 1916.", 
+            "languages": [
+                "English", 
+                "German", 
+                "Germanic", 
+                "Gothic", 
+                "Greek", 
+                "Old Norse"
+            ], 
+            "pos": null, 
+            "suffix": "ish", 
+            "term": "-ish"
+        }
+    ], 
+    "-ism": [
+        {
+            "definition": "suffix forming nouns of action, state, condition, doctrine, from French -isme or directly from Latin -isma, -ismus, from Greek -isma, from stem of verbs in -izein. Used as an independent word, chiefly disparagingly, from 1670s.", 
+            "languages": [
+                "French", 
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ism", 
+            "term": "-ism"
+        }
+    ], 
+    "-ist": [
+        {
+            "definition": "word-forming element meaning \"one who does or makes,\" also used to indicate adherence to a certain doctrine or custom, from French -iste and directly from Latin -ista, from Greek -istes, from -is-, ending of the stem of verbs in -izein, + agential suffix -tes. Variant -ister (as in chorister, barrister) is from Old French -istre, on false analogy of ministre. Variant -ista is from Spanish, popularized in American English 1970s by names of Latin-American revolutionary movements.", 
+            "languages": [
+                "American English", 
+                "French", 
+                "Greek", 
+                "Latin", 
+                "Old French", 
+                "Spanish"
+            ], 
+            "pos": null, 
+            "suffix": "ist", 
+            "term": "-ist"
+        }
+    ], 
+    "-istic": [
+        {
+            "definition": "adjectival suffix, from French -istique or directly from Latin -isticus, from Greek -istikos, which is adjective suffix -ikos (see -ic) added to noun suffix -istes (see -ist).", 
+            "languages": [
+                "French", 
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "istic", 
+            "term": "-istic"
+        }
+    ], 
+    "-ite": [
+        {
+            "definition": "from French -ite and directly from Latin -ita, from Greek -ites (fem. -itis), forming adjectives and nouns meaning \"connected with or belonging to.\" Especially used in classical times to form ethnic and local designations (for example in Septuagint translations of Hebrew names in -i) and for names of gems and minerals.", 
+            "languages": [
+                "French", 
+                "Greek", 
+                "Hebrew", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ite", 
+            "term": "-ite"
+        }, 
+        {
+            "definition": "salt suffix, from French -ite, alteration of -ate (see -ate (3)).", 
+            "languages": [
+                "French"
+            ], 
+            "pos": null, 
+            "suffix": "ite", 
+            "term": "-ite"
+        }
+    ], 
+    "-itis": [
+        {
+            "definition": "noun suffix denoting diseases characterized by inflammation, Modern Latin, from Greek -itis, feminine of adjectival suffix -ites \"pertaining to.\" Feminine because it was used with feminine noun nosos \"disease,\" especially in Greek arthritis (nosos) \"(disease) of the joints,\" which was one of the earliest borrowings into English and from which the suffix was abstracted in other uses.", 
+            "languages": [
+                "English", 
+                "Greek", 
+                "Modern Latin"
+            ], 
+            "pos": null, 
+            "suffix": "itis", 
+            "term": "-itis"
+        }
+    ], 
+    "-ity": [
+        {
+            "definition": "suffix forming abstract nouns from adjectives, meaning \"condition or quality of being ______,\" from Middle English -ite, from Old French -ité and directly from Latin -itatem (nominative -itas), suffix denoting state or condition, composed of connective -i- + -tas (see -ty (2)).\r\n\r\nRoughly, the word in -ity usually means the quality of being what the adjective describes, or concretely an instance of the quality, or collectively all the instances; & the word in -ism means the disposition, or collectively all those who feel it. [Fowler]\n", 
+            "languages": [
+                "Latin", 
+                "Middle English", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "ity", 
+            "term": "-ity"
+        }
+    ], 
+    "-ive": [
+        {
+            "definition": "sufix forming adjectives from verbs, meaning \"pertaining to, tending to,\" in some cases from Old French -if, but usually directly from Latin -ivus. In some words borrowed from French at an early date it has been reduced to -y (as in hasty, tardy).", 
+            "languages": [
+                "French", 
+                "Latin", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "ive", 
+            "term": "-ive"
+        }
+    ], 
+    "-ization": [
+        {
+            "definition": "suffix forming nouns of action, process, or state; see -ize + -ation.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ization", 
+            "term": "-ization"
+        }
+    ], 
+    "-ize": [
+        {
+            "definition": "word-forming element used to make verbs, Middle English -isen, from Old French -iser, from Late Latin -izare, from Greek -izein.\r\n\r\nEnglish picked up the French form, but partially reverted to the correct Greek -z- spelling from late 16c. In Britain, despite the opposition (at least formerly) of OED, Encyclopaedia Britannica, the \"Times of London,\" and Fowler, -ise remains dominant. Fowler thinks this is to avoid the difficulty of remembering the short list of common words not from Greek which must be spelled with an -s- (such as advertise, devise, surprise).", 
+            "languages": [
+                "English", 
+                "French", 
+                "Greek", 
+                "Late Latin", 
+                "Middle English", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "ize", 
+            "term": "-ize"
+        }
+    ], 
+    "-kin": [
+        {
+            "definition": "diminutive suffix, first attested late 12c. in proper names adopted from Flanders and Holland, probably from Middle Dutch -kin, properly a double-diminutive, from -k + -in. Equivalent to German -chen. Also borrowed in Old French as -quin, where it usually has a bad sense.\r\n\r\nThis suffix, which is almost barren in French, has been more largely developed in the Picard patois, which uses it for new forms, such as verquin, a shabby little glass (verre); painequin, a bad little loaf (pain); Pierrequin poor little Pierre, &c.; [\"An Etymological Dictionary of the French Language,\" transl. G.W. Kitchin, Oxford, 1878]\r\n\r\nUsed in later Middle English with common nouns. In some words it is directly from Dutch or Flemish.", 
+            "languages": [
+                "Dutch", 
+                "Flemish", 
+                "French", 
+                "German", 
+                "Middle Dutch", 
+                "Middle English", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "kin", 
+            "term": "-kin"
+        }
+    ], 
+    "-later": [
+        {
+            "definition": "word-forming element meaning \"worshipper,\" from Greek -latres \"worshipper of,\" related to latreia \"worship\" (see -latry).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "later", 
+            "term": "-later"
+        }
+    ], 
+    "-latry": [
+        {
+            "definition": "word-forming element meaning \"worship of,\" used as an element in native formations from 19c. (such as bardolatry), from Greek -latreia \"worship, service paid to the gods, hired labor,\" related to latron (n.) \"pay, hire,\" latris \"servant, worshipper,\" from PIE *le- (1) \"to get\" (see larceny).", 
+            "languages": [
+                "Greek", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "latry", 
+            "term": "-latry"
+        }
+    ], 
+    "-le": [
+        {
+            "definition": "instrumental word-forming element, the usual modern form of -el (1), a suffix originally used in Old English to form agent nouns.", 
+            "languages": [
+                "English"
+            ], 
+            "pos": null, 
+            "suffix": "le", 
+            "term": "-le"
+        }
+    ], 
+    "-less": [
+        {
+            "definition": "word-forming element meaning \"lacking, cannot be, does not,\" from Old English -leas, from leas \"free (from), devoid (of), false, feigned,\" from Proto-Germanic *lausaz (cognates: Dutch -loos, German -los \"-less,\" Old Norse lauss \"loose, free, vacant, dissolute,\" Middle Dutch los, German los \"loose, free,\" Gothic laus \"empty, vain\"). Related to loose and lease.", 
+            "languages": [
+                "Dutch", 
+                "English", 
+                "German", 
+                "Gothic", 
+                "Middle Dutch", 
+                "Old Norse", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "less", 
+            "term": "-less"
+        }
+    ], 
+    "-let": [
+        {
+            "definition": "diminutive word-forming element, Middle English, from Old French -elet, a double-diminutive formation, from -el (from Latin -ellus; see -el (2)) + -et (see -et).", 
+            "languages": [
+                "Latin", 
+                "Middle English", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "let", 
+            "term": "-let"
+        }
+    ], 
+    "-ling": [
+        {
+            "definition": "diminutive word-forming element, early 14c., from Old English -ling a nominal suffix (not originally diminutive), from Proto-Germanic *-linga-; attested in historical Germanic languages as a simple suffix, but probably representing a fusion of two suffixes: 1. that represented by English -el (1), as in thimble, handle; and 2. -ing, suffix indicating \"person or thing of a specific kind or origin;\" in masculine nouns also \"son of\" (as in farthing, atheling, Old English horing \"adulterer, fornicator\"), from PIE *-(i)ko- (see -ic).\r\n\r\nBoth these suffixes had occasional diminutive force, but this was only slightly evident in Old English -ling and its equivalents in Germanic languages except Norse, where it commonly was used as a diminutive suffix, especially in words designating the young of animals (such as gæslingr \"gosling\"). Thus it is possible that the diminutive use that developed in Middle English is from Old Norse.", 
+            "languages": [
+                "English", 
+                "Germanic", 
+                "Middle English", 
+                "Old Norse", 
+                "PIE", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "ling", 
+            "term": "-ling"
+        }
+    ], 
+    "-lite": [
+        {
+            "definition": "word-forming element meaning \"stone,\" from French -lite, variant of -lithe, from Greek lithos \"stone\" (see litho-).", 
+            "languages": [
+                "French", 
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "lite", 
+            "term": "-lite"
+        }
+    ], 
+    "-lith": [
+        {
+            "definition": "word-forming element meaning \"stone, rock,\" from Modern Latin -lithus or French -lithe (see -lith).", 
+            "languages": [
+                "French", 
+                "Modern Latin"
+            ], 
+            "pos": null, 
+            "suffix": "lith", 
+            "term": "-lith"
+        }
+    ], 
+    "-logue": [
+        {
+            "definition": "word-forming element meaning \"one who is immersed in or driven by,\" mostly from French-derived words, ultimately from Greek -logos, -logon. Now mostly superseded by -loger, -logist except in ideologue and a few others. As a combining element meaning \"kind of discourse,\" it is from French -logue, from Greek -logos.", 
+            "languages": [
+                "French", 
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "logue", 
+            "term": "-logue"
+        }
+    ], 
+    "-logy": [
+        {
+            "definition": "word-forming element meaning \"a speaking, discourse, treatise, doctrine, theory, science,\" from Greek -logia (often via French -logie or Medieval Latin -logia), from root of legein \"to speak;\" thus, \"the character or deportment of one who speaks or treats of (a certain subject);\" see lecture (n.). ", 
+            "languages": [
+                "French", 
+                "Greek", 
+                "Medieval Latin"
+            ], 
+            "pos": null, 
+            "suffix": "logy", 
+            "term": "-logy"
+        }
+    ], 
+    "-long": [
+        {
+            "definition": "adverbial suffix indicating direction, from Old Norse -langr, from langr \"long\" (adj.); see long (adj.). Displaced native -ling.", 
+            "languages": [
+                "Old Norse"
+            ], 
+            "pos": null, 
+            "suffix": "long", 
+            "term": "-long"
+        }
+    ], 
+    "-ly": [
+        {
+            "definition": "suffix forming adjectives from nouns and meaning \"having qualities of, appropriate to, fitting;\" irregularly descended from Old English -lic, from Proto-Germanic *-liko- (Old Frisian -lik, Dutch -lijk, Old High German -lih, German -lich, Old Norse -ligr), related to *likom- \"appearance, form\" (Old English lich \"corpse, body;\" see lich, which is a cognate; see also like (adj.), with which it is identical).", 
+            "languages": [
+                "Dutch", 
+                "English", 
+                "German", 
+                "Old Frisian", 
+                "Old High German", 
+                "Old Norse", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "ly", 
+            "term": "-ly"
+        }, 
+        {
+            "definition": "adverbial suffix, Middle English, from Old English -lice, from Proto-Germanic *-liko- (cognates: Old Frisian -like, Old Saxon -liko, Dutch -lijk, Old High German -licho, German -lich, Old Norse -liga, Gothic -leiko); see -ly (1). Cognate with lich, and identical with like (adj.). Weekley notes as \"curious\" that Germanic uses a word essentially meaning \"body\" for the adverbial formation, while Romanic uses one meaning \"mind\" (as in French constamment from Latin constanti mente). The modern English form emerged in late Middle English, probably from influence of Old Norse -liga.", 
+            "languages": [
+                "Dutch", 
+                "English", 
+                "French", 
+                "German", 
+                "Germanic", 
+                "Gothic", 
+                "Latin", 
+                "Middle English", 
+                "Old Frisian", 
+                "Old High German", 
+                "Old Norse", 
+                "Old Saxon", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "ly", 
+            "term": "-ly"
+        }
+    ], 
+    "-lyse": [
+        {
+            "definition": "see -lyze.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "lyse", 
+            "term": "-lyse"
+        }
+    ], 
+    "-lysis": [
+        {
+            "definition": "scientific/medical word-forming element meaning \"loosening, dissolving, dissolution,\" from Greek lysis \"a loosening, setting free, releasing, dissolution,\" from lyein \"to unfasten, loose, loosen, untie\" (see lose).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "lysis", 
+            "term": "-lysis"
+        }
+    ], 
+    "-lytic": [
+        {
+            "definition": "word-forming element used in making adjectives corresponding to nouns in -lysis, from Greek -lytikos, from lytikos \"able to loose, loosing,\" from lytos \"loosed,\" verbal adjective of lyein \"to unfasten, loose, loosen, untie\" (see lose).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "lytic", 
+            "term": "-lytic"
+        }
+    ], 
+    "-lyze": [
+        {
+            "definition": "word-forming element for making verbs corresponding to nouns in -lysis. Chiefly U.S.; the British preferring -lyse.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "lyze", 
+            "term": "-lyze"
+        }
+    ], 
+    "-machy": [
+        {
+            "definition": "word-forming element meaning \"battle, war, contest,\" from Latinized form of Greek -makhia, from makhe \"a battle, fight,\" related to makhesthai \"to fight,\" from PIE root *magh- (2) \"to fight.\"", 
+            "languages": [
+                "Greek", 
+                "Latin", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "machy", 
+            "term": "-machy"
+        }
+    ], 
+    "-mancy": [
+        {
+            "definition": "word-forming element meaning \"divination by means of,\" from Old French -mancie, from Late Latin -mantia, from Greek manteia \"oracle, divination,\" from mantis \"seer, prophet, soothsayer,\" related to mania \"madness, frenzy\" (see mania).", 
+            "languages": [
+                "Greek", 
+                "Late Latin", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "mancy", 
+            "term": "-mancy"
+        }
+    ], 
+    "-ment": [
+        {
+            "definition": "suffix forming nouns, originally from French and representing Latin -mentum, which was added to verb stems sometimes to represent the result or product of the action. French inserts an -e- between the verbal root and the suffix (as in commenc-e-ment from commenc-er; with verbs in ir, -i- is inserted instead (as in sent-i-ment from sentir). Used with English verb stems from 16c. (for example merriment, which also illustrates the habit of turning -y to -i- before this suffix).", 
+            "languages": [
+                "English", 
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ment", 
+            "term": "-ment"
+        }
+    ], 
+    "-meter": [
+        {
+            "definition": "word-forming element meaning \"device or instrument for measuring;\" commonly -ometer, occasionally -imeter; from French -mètre, from Greek metron \"a measure\" (see meter (n.2)).", 
+            "languages": [
+                "French", 
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "meter", 
+            "term": "-meter"
+        }
+    ], 
+    "-metric": [
+        {
+            "definition": "word-forming element representing -metry + -ic.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "metric", 
+            "term": "-metric"
+        }
+    ], 
+    "-metry": [
+        {
+            "definition": "word-forming element meaning \"process of measuring,\" Middle English -metrie, from Middle French -metrie, from Latin -metria, from Greek -metria \"a measuring of,\" from -metros \"measurer of,\" from metron \"measure\" (see meter (n.2)).", 
+            "languages": [
+                "Greek", 
+                "Latin", 
+                "Middle English", 
+                "Middle French"
+            ], 
+            "pos": null, 
+            "suffix": "metry", 
+            "term": "-metry"
+        }
+    ], 
+    "-most": [
+        {
+            "definition": "superlative suffix of adjectives and adverbs, Middle English alteration (by influence of unrelated most) of Old English -mest, a double superlative, from -mo, -ma (cognate with Latin -mus; compare Old English forma \"first,\" meduma \"midmost\") + -est.", 
+            "languages": [
+                "English", 
+                "Latin", 
+                "Middle English"
+            ], 
+            "pos": null, 
+            "suffix": "most", 
+            "term": "-most"
+        }
+    ], 
+    "-ness": [
+        {
+            "definition": "word-forming element denoting action, quality, or state, attached to an adjective or past participle to form an abstract noun, from Old English -nes(s), from Proto-Germanic *in-assu- (cognates: Old Saxon -nissi, Middle Dutch -nisse, Dutch -nis, Old High German -nissa, German -nis, Gothic -inassus), from *-in-, noun stem, + *-assu-, abstract noun suffix, probably from the same root as Latin -tudo (see -tude).", 
+            "languages": [
+                "Dutch", 
+                "English", 
+                "German", 
+                "Gothic", 
+                "Latin", 
+                "Middle Dutch", 
+                "Old High German", 
+                "Old Saxon", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "ness", 
+            "term": "-ness"
+        }
+    ], 
+    "-nik": [
+        {
+            "definition": "as in beatnik, etc., suffix used in word formation from c.1945, from Yiddish -nik (as in nudnik \"a bore\"), from Russian -nik, common personal suffix meaning \"person or thing associated with or involved in\" (compare nudnik; kolkhoznik \"member of a kolkhoz\"). Rocketed to popularity with sputnik (q.v.).", 
+            "languages": [
+                "Russian"
+            ], 
+            "pos": null, 
+            "suffix": "nik", 
+            "term": "-nik"
+        }
+    ], 
+    "-ocracy": [
+        {
+            "definition": "word-forming element; -cracy with a connective -o-.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ocracy", 
+            "term": "-ocracy"
+        }
+    ], 
+    "-oholic": [
+        {
+            "definition": "word-forming element abstracted from alcoholic (q.v.); also see -aholic, which has tended to replace it in word formation.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "oholic", 
+            "term": "-oholic"
+        }
+    ], 
+    "-oid": [
+        {
+            "definition": "word-forming element meaning \"like, like that of, thing like a ______,\" from Latinized form of Greek -oeides, from eidos \"form,\" related to idein \"to see,\" eidenai \"to know;\" literally \"to see,\" from PIE *weid-es-, from root *weid- \"to see, to know\" (see vision). The -o- is connective or a stem vowel from the previous element.", 
+            "languages": [
+                "Greek", 
+                "Latin", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "oid", 
+            "term": "-oid"
+        }
+    ], 
+    "-oidal": [
+        {
+            "definition": "word-forming element making adjectives from nouns in -oid; see -oid + -al (1).", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "oidal", 
+            "term": "-oidal"
+        }
+    ], 
+    "-ol": [
+        {
+            "definition": "word-forming element in chemistry, variously representing alcohol, phenol, or in some cases Latin oleum \"oil\" (see oil (n.)).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ol", 
+            "term": "-ol"
+        }
+    ], 
+    "-ola": [
+        {
+            "definition": "commercial suffix, probably originally in pianola (q.v.).", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ola", 
+            "term": "-ola"
+        }
+    ], 
+    "-ologist": [
+        {
+            "definition": "word-forming element; see -ology + -ist.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ologist", 
+            "term": "-ologist"
+        }
+    ], 
+    "-ology": [
+        {
+            "definition": "word-forming element indicating \"branch of knowledge, science,\" now the usual form of -logy. Originally used c. 1800 in nonce formations (commonsensology, etc.), it gained legitimacy by influence of the proper formation in geology, mythology, etc., where the -o- is a stem vowel in the previous element.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ology", 
+            "term": "-ology"
+        }
+    ], 
+    "-oma": [
+        {
+            "definition": "word-forming element, from Greek -oma, with lengthened stem vowel + -ma, suffix forming neuter nouns and nouns that indicate result of verbal action (equivalent of Latin -men); especially taken in medical use as \"morbid growth, tumor,\" based on sarcoma, carcinoma.", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "oma", 
+            "term": "-oma"
+        }
+    ], 
+    "-on": [
+        {
+            "definition": "subatomic particle suffix, from ion.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "on", 
+            "term": "-on"
+        }
+    ], 
+    "-one": [
+        {
+            "definition": "chemical suffix, from Greek -one, female patronymic (as in anemone, \"daughter of the wind,\" from anemos); in chemical use denoting a \"weaker\" derivative. Its use in forming acetone (1830s) gave rise to the specialized chemical sense.", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "one", 
+            "term": "-one"
+        }
+    ], 
+    "-oon": [
+        {
+            "definition": "spelling conventional in 15c.-17c. English to add emphasis to borrowed French nouns ending in stressed -on; also used to represent Italian -one, Spanish ón; all from Latin -onem. Used in rare cases to form English words, such as spittoon, octoroon.", 
+            "languages": [
+                "English", 
+                "French", 
+                "Italian", 
+                "Latin", 
+                "Spanish"
+            ], 
+            "pos": null, 
+            "suffix": "oon", 
+            "term": "-oon"
+        }
+    ], 
+    "-or": [
+        {
+            "definition": "word-forming element making nouns of quality, state, or condition, from Middle English -our, from Old French -our (Modern French -eur), from Latin -orem (nominative -or), a suffix added to pp. verbal stems. Also in some cases from Latin -atorem (nominative -ator).\r\n\r\nIn U.S., via Noah Webster, -or is nearly universal (but not in glamour, curious, generous), while in Britain -our is used in most cases (but with many exceptions: author, error, senator, ancestor, horror etc.). The -our form predominated after c. 1300, but Mencken reports that the first three folios of Shakespeare's plays used both spellings indiscriminately and with equal frequency; only in the Fourth Folio of 1685 does -our become consistent.\r\n\r\nA partial revival of -or on the Latin model took place from 16c. (governour began to lose its -u- 16c. and it was gone by 19c.), and also among phonetic spellers in both England and America (John Wesley wrote that -or was \"a fashionable impropriety\" in England in 1791).\r\n\r\nWebster criticized the habit of deleting -u- in -our words in his first speller (\"A Grammatical Institute of the English Language,\" commonly called the Blue-Black Speller) in 1783. His own deletion of the -u- began with the revision of 1804, and was enshrined in the influential \"Comprehensive Dictionary of the English Language\" (1806), which also established in the U.S. -ic for British -ick and -er for -re, along with many other attempts at reformed spelling which never caught on (such as masheen for machine). His attempt to justify them on the grounds of etymology and the custom of great writers does not hold up.\r\n\r\nFowler notes the British drop the -u- when forming adjectives ending in -orous (humorous) and derivatives in -ation and -ize, in which cases the Latin origin is respected (such as vaporize). When the Americans began to consistently spell it one way, however, the British reflexively hardened their insistence on the other. \"The American abolition of -our in such words as honour and favour has probably retarded rather than quickened English progress in the same direction.\" [Fowler]", 
+            "languages": [
+                "English", 
+                "French", 
+                "Latin", 
+                "Middle English", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "or", 
+            "term": "-or"
+        }
+    ], 
+    "-ory": [
+        {
+            "definition": "adjective and noun suffix, \"having to do with, characterized by, tending to, place for,\" from Middle English -orie, from Old North French -ory, -orie (Old French -oir, -oire), from Latin -orius, -oria, -orium.\r\n\r\nLatin adjectives in -orius, according to \"An Etymological Dictionary of the French Language,\" tended to \"indicate a quality proper to the action accomplished by the agent; as oratorius from orator; laudatorius from laudator. The neuter of these adjectives was early employed as a substantive, and usually denoted the place of residence of the agent or the instrument that he uses; as praetorium from praetor; dormitorium from dormitor; auditorium, dolatorium.\r\n\r\n\"These newer words, already frequent under the Empire, became exceedingly numerous at a later time, especially in ecclesiastical and scholastic Latin; as purgatorium, refectorium, laboratorium, observatorium, &c.;\" [transl. G.W. Kitchin, Oxford, 1878]", 
+            "languages": [
+                "French", 
+                "Latin", 
+                "Middle English", 
+                "Old French", 
+                "Old North French"
+            ], 
+            "pos": null, 
+            "suffix": "ory", 
+            "term": "-ory"
+        }
+    ], 
+    "-ose": [
+        {
+            "definition": "word-forming element used to make adjectives from nouns, with the meaning \"full of, abounding in, having qualities of,\" from Latin -osus (see -ous).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ose", 
+            "term": "-ose"
+        }, 
+        {
+            "definition": "standard ending in chemical names of sugars, originally simply a noun-forming suffix, taken up by French chemists mid-19c.; it has no etymological connection with sugar. It appears around the same time in two chemical names, cellulose, which would owe it to the French suffix, and glucose, where it would be a natural result from the Greek original. Flood favors origin from glucose.", 
+            "languages": [
+                "French", 
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "ose", 
+            "term": "-ose"
+        }
+    ], 
+    "-osis": [
+        {
+            "definition": "word-forming element expressing state or condition, in medical terminology denoting \"a state of disease,\" from Latin -osis and directly from Greek -osis, formed from the aorist of verbs ending in -o. It corresponds to Latin -atio.", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "osis", 
+            "term": "-osis"
+        }
+    ], 
+    "-osity": [
+        {
+            "definition": "word-forming element making nouns from adjectives in -ous, -ose (1); from French -osité, from Latin -ositatem (nominative -ositas), properly -ose + -ity.", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "osity", 
+            "term": "-osity"
+        }
+    ], 
+    "-our": [
+        {
+            "definition": "see -or.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "our", 
+            "term": "-our"
+        }
+    ], 
+    "-ous": [
+        {
+            "definition": "word-forming element making adjectives from nouns, meaning \"having, full of, having to do with, doing, inclined to,\" from Old French -ous, -eux, from Latin -osus (compare -ose (1)). In chemistry, \"having a lower valence than forms expressed in -ic.\"", 
+            "languages": [
+                "Latin", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "ous", 
+            "term": "-ous"
+        }
+    ], 
+    "-parous": [
+        {
+            "definition": "word-forming element meaning \"bearing, producing,\" from Latin -parus (as in viviparus \"bringing forth young alive\"), from parere \"to produce, bring forth\" (see pare).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "parous", 
+            "term": "-parous"
+        }
+    ], 
+    "-path": [
+        {
+            "definition": "word-forming element used in modern formations to mean \"one suffering from\" (a disease or condition), from Greek -pathes, from pathos \"suffering\" (see pathos). Also \"one versed in\" (a certain type of treatment), in which cases it is a back-formation from -pathy in the related sense.", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "path", 
+            "term": "-path"
+        }
+    ], 
+    "-pathic": [
+        {
+            "definition": "word-forming element from Latin pathicus, from Greek pathikos \"suffering, remaining passive,\" from pathein \"to suffer\" (see pathos).", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "pathic", 
+            "term": "-pathic"
+        }
+    ], 
+    "-pathy": [
+        {
+            "definition": "word-forming element meaning \"feeling, suffering, emotion; disorder, disease,\" from Latin -pathia, from Greek -patheia \"act of suffering, feeling\" (see pathos). Meaning \"system of treatment of disease\" is abstracted from homeopathy (q.v.).", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "pathy", 
+            "term": "-pathy"
+        }
+    ], 
+    "-phage": [
+        {
+            "definition": "word-forming element meaning \"eater,\" from stem of Greek phagein \"to eat\" (see -phagous).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "phage", 
+            "term": "-phage"
+        }
+    ], 
+    "-phagous": [
+        {
+            "definition": "word-forming element meaning \"eating, feeding on,\" from Latin -phagus, from Greek -phagos \"eater of,\" from phagein \"to eat,\" literally \"to have a share of food,\" from PIE root *bhag- \"to share out, apportion, distribute,\" also \"to get a share\" (cognates: Sanskrit bhajati \"assigns, allots, apportions, enjoys, loves,\" bhagah \"allotter, distributor, master, lord,\" bhaksati \"eats, drinks, enjoys;\" Persian bakhshidan \"to give;\" Old Church Slavonic bogatu \"rich\").", 
+            "languages": [
+                "Greek", 
+                "Latin", 
+                "Old Church Slavonic", 
+                "PIE", 
+                "Persian", 
+                "Sanskrit"
+            ], 
+            "pos": null, 
+            "suffix": "phagous", 
+            "term": "-phagous"
+        }
+    ], 
+    "-phane": [
+        {
+            "definition": "word-forming element meaning \"having the appearance of,\" from Greek -phanes, from phainein \"to show,\" phainesthai \"to appear\" (see phantasm).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "phane", 
+            "term": "-phane"
+        }
+    ], 
+    "-phemia": [
+        {
+            "definition": "word-forming element meaning \"speech,\" from Greek -phemia, from pheme \"speech,\" from stem of phemi \"I speak,\" cognate with Latin fari \"to speak,\" fama \"report, reputation,\" from PIE root *bha- (2) \"to speak, tell, say\" (see fame (n.)).", 
+            "languages": [
+                "Greek", 
+                "Latin", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "phemia", 
+            "term": "-phemia"
+        }
+    ], 
+    "-phile": [
+        {
+            "definition": "also -phil, word-forming element meaning \"one that loves, likes, or is attracted to,\" via French -phile and Medieval Latin -philus in this sense, from Greek -philos, common suffix in personal names (such as Theophilos), from philos \"loving, dear,\" from philein \"to love,\" of unknown origin.", 
+            "languages": [
+                "French", 
+                "Greek", 
+                "Medieval Latin"
+            ], 
+            "pos": null, 
+            "suffix": "phile", 
+            "term": "-phile"
+        }
+    ], 
+    "-philia": [
+        {
+            "definition": "word-forming element meaning \"friendship, fondness, tendency toward,\" and in recent use \"abnormal attraction to,\" from Greek philia \"affection,\" from philos \"loving,\" of uncertain origin. Related: -philic.", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "philia", 
+            "term": "-philia"
+        }
+    ], 
+    "-phobe": [
+        {
+            "definition": "word-forming element meaning \"one who fears or hates,\" from French -phobe, from Latin -phobus, from Greek -phobos \"fearing,\" from phobos \"fear, panic, flight,\" phobein \"put to flight, frighten\" (see phobia).", 
+            "languages": [
+                "French", 
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "phobe", 
+            "term": "-phobe"
+        }
+    ], 
+    "-phobia": [
+        {
+            "definition": "word-forming element meaning \"excessive or irrational fear of,\" from Latin -phobia and directly from Greek -phobia \"panic fear of,\" from phobos \"fear\" (see phobia). In widespread popular use with native words from c. 1800. Related: -phobic.", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "phobia", 
+            "term": "-phobia"
+        }
+    ], 
+    "-phone": [
+        {
+            "definition": "word-forming element meaning \"voice, sound,\" also \"speaker of,\" from Greek phone \"voice, sound,\" from PIE root *bha- (2) \"to speak, say, tell\" (cognates: Latin for, fari \"to speak,\" fama \"talk, report;\" see fame (n.)).", 
+            "languages": [
+                "Greek", 
+                "Latin", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "phone", 
+            "term": "-phone"
+        }
+    ], 
+    "-phyte": [
+        {
+            "definition": "word-forming element meaning \"plant, plant characteristic; planting, growth; abnormal growth,\" from Greek phyton \"plant\" (see phyto-).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "phyte", 
+            "term": "-phyte"
+        }
+    ], 
+    "-plasia": [
+        {
+            "definition": "word-forming element in biology and medicine denoting \"formation, growth, development,\" from Modern Latin -plasia, from Greek plasis \"molding, formation,\" from plassein \"to mold\" (see plasma).", 
+            "languages": [
+                "Greek", 
+                "Modern Latin"
+            ], 
+            "pos": null, 
+            "suffix": "plasia", 
+            "term": "-plasia"
+        }
+    ], 
+    "-plasm": [
+        {
+            "definition": "word-forming element meaning \"a growth, a development; something molded,\" from Greek -plasma, from plasma \"something molded or created\" (see plasma).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "plasm", 
+            "term": "-plasm"
+        }
+    ], 
+    "-plast": [
+        {
+            "definition": "word-forming element denoting \"something made,\" from Greek plastos \"formed, molded,\" verbal adjective from plassein \"to mold\" (see plasma). Used to form names of small particles of living matter.", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "plast", 
+            "term": "-plast"
+        }
+    ], 
+    "-plasty": [
+        {
+            "definition": "word-forming element meaning \"act or process of forming,\" also \"plastic surgery\" applied to a specific part, from Greek -plastia, from plastos \"molded, formed,\" verbal adjective from plassein \"to mold\" (see plasma). ", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "plasty", 
+            "term": "-plasty"
+        }
+    ], 
+    "-plus": [
+        {
+            "definition": "word-forming element, Latin -plus \"-fold,\" from *-plo-, combining form of PIE *pel- (3) \"to fold\" (see fold (v.)). Cognate with Old English -feald, Greek -paltos, -plos.", 
+            "languages": [
+                "English", 
+                "Greek", 
+                "Latin", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "plus", 
+            "term": "-plus"
+        }
+    ], 
+    "-poietic": [
+        {
+            "definition": "word-forming element meaning \"making, producing,\" from Latinized form of Greek poietikos \"capable of making, creative, productive,\" from poiein \"to make, create\" (see poet).", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "poietic", 
+            "term": "-poietic"
+        }
+    ], 
+    "-polis": [
+        {
+            "definition": "word-forming element meaning \"City,\" from Greek polis \"city\" (see polis).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "polis", 
+            "term": "-polis"
+        }
+    ], 
+    "-rama": [
+        {
+            "definition": "noun suffix meaning \"sight, view, spectacular display or instance of,\" 1824, abstracted from panorama (q.v.), ultimately from Greek horama \"sight, spectacle, that which is seen.\"", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "rama", 
+            "term": "-rama"
+        }
+    ], 
+    "-re": [
+        {
+            "definition": "word-ending that sometimes distinguish British from American English. In the U.S., the change from -re to -er (to match pronunciation) in words such as fibre, centre, theatre began late 18c.; under urging of Noah Webster (1804 edition of his speller, and especially the 1806 dictionary), it was established over the next 25 years. The -re spelling, like -our, however, had the authority of Johnson's dictionary behind it and remained in Britain, where it came to be a point of national pride, contra the Yankees.\r\n\r\nDespite Webster's efforts, -re was retained in words with -c- or -g- (such as ogre, acre, the latter of which Webster insisted to the end of his days ought to be aker, and it was so printed in editions of the dictionary during his lifetime). The -re spelling generally is more justified by conservative etymology, based on French antecedents. It is met today in the U.S. only in Theatre as an element in the proper names of entertainment showplaces, where it is perhaps felt to inspire a perception of bon ton.", 
+            "languages": [
+                "American English", 
+                "French"
+            ], 
+            "pos": null, 
+            "suffix": "re", 
+            "term": "-re"
+        }
+    ], 
+    "-rel": [
+        {
+            "definition": "also -erel, diminutive or deprecatory word-forming element, in some cases from Old French -erel (Modern French -ereau) or -erelle, but mostly used with native stems.", 
+            "languages": [
+                "French", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "rel", 
+            "term": "-rel"
+        }
+    ], 
+    "-ry": [
+        {
+            "definition": "reduced form of -ery.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ry", 
+            "term": "-ry"
+        }
+    ], 
+    "-saurus": [
+        {
+            "definition": "element used in forming dinosaur names, from Latinized comb. form of Greek sauros \"lizard,\" of unknown origin; possibly related to saulos \"twisting, wavering.\"", 
+            "languages": [
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "saurus", 
+            "term": "-saurus"
+        }
+    ], 
+    "-scope": [
+        {
+            "definition": "word-forming element indicating \"an instrument for seeing,\" from Late Latin -scopium, from Greek -skopion, from skopein \"to look at, examine\" (see scope (n.1)).", 
+            "languages": [
+                "Greek", 
+                "Late Latin"
+            ], 
+            "pos": null, 
+            "suffix": "scope", 
+            "term": "-scope"
+        }
+    ], 
+    "-scopy": [
+        {
+            "definition": "word-forming element meaning \"viewing, examining, observing,\" from Modern Latin -scopium, from Greek -skopion, from skopein \"to look at, examine\" (see scope (n.1)).", 
+            "languages": [
+                "Greek", 
+                "Modern Latin"
+            ], 
+            "pos": null, 
+            "suffix": "scopy", 
+            "term": "-scopy"
+        }
+    ], 
+    "-ship": [
+        {
+            "definition": "word-forming element meaning \"quality, condition; act, power, skill; office, position; relation between,\" Middle English -schipe, from Old English -sciepe, Anglian -scip \"state, condition of being,\" from Proto-Germanic *-skapaz (cognates: Old Norse -skapr, Danish -skab, Old Frisian -skip, Dutch -schap, German -schaft), from *skap- \"to create, ordain, appoint,\" from PIE root *(s)kep- (see shape (v.)).", 
+            "languages": [
+                "Anglian", 
+                "Danish", 
+                "Dutch", 
+                "English", 
+                "German", 
+                "Middle English", 
+                "Old Frisian", 
+                "Old Norse", 
+                "PIE", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "ship", 
+            "term": "-ship"
+        }
+    ], 
+    "-sis": [
+        {
+            "definition": "suffix in Greek-derived nouns denoting action, process, state, condition, from Greek -sis, which is identical in meaning with Latin -entia, English -ing (1).", 
+            "languages": [
+                "English", 
+                "Greek", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "sis", 
+            "term": "-sis"
+        }
+    ], 
+    "-sk": [
+        {
+            "definition": "reflexive suffix in words of Danish origin (such as bask, literally \"to bathe oneself\"), contracted from Old Norse sik, reflexive pronoun corresponding to Gothic sik, Old High German sih, German sich \"himself, herself, itself,\" from PIE root *s(w)e- (source of Latin se \"himself;\" see idiom). ", 
+            "languages": [
+                "Danish", 
+                "German", 
+                "Gothic", 
+                "Latin", 
+                "Old High German", 
+                "Old Norse", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "sk", 
+            "term": "-sk"
+        }
+    ], 
+    "-some": [
+        {
+            "definition": "word-forming element used in making adjectives from nouns or adjectives (and sometimes verbs) and meaning \"tending to; causing; to a considerable degree,\" from Old English -sum, identical with som (see some). Cognate with Old Frisian -sum, German -sam, Old Norse -samr; also related to same.", 
+            "languages": [
+                "English", 
+                "German", 
+                "Old Frisian", 
+                "Old Norse"
+            ], 
+            "pos": null, 
+            "suffix": "some", 
+            "term": "-some"
+        }, 
+        {
+            "definition": "suffix added to numerals meaning \"a group of (that number),\" as in twosome, from pronoun use of Old English sum \"some\" (see some). Originally a separate word used with the genitive plural (as in sixa sum \"six-some\"); the inflection disappeared in Middle English and the pronoun was absorbed. Use of some with a number meaning \"approximately\" also was in Old English.", 
+            "languages": [
+                "English", 
+                "Middle English"
+            ], 
+            "pos": null, 
+            "suffix": "some", 
+            "term": "-some"
+        }, 
+        {
+            "definition": "word-forming element meaning \"the body,\" Modern Latin, from Greek soma \"the body\" (see somato-).", 
+            "languages": [
+                "Greek", 
+                "Modern Latin"
+            ], 
+            "pos": null, 
+            "suffix": "some", 
+            "term": "-some"
+        }
+    ], 
+    "-sophy": [
+        {
+            "definition": "word-forming element meaning \"knowledge,\" from Old French -sophie, from Latin -sophia, from Greek -sophia, from sophia \"skill, wisdom, knowledge\" (see Sophia).", 
+            "languages": [
+                "Greek", 
+                "Latin", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "sophy", 
+            "term": "-sophy"
+        }
+    ], 
+    "-spirited": [
+        {
+            "definition": "\"having a spirit (of a specified type),\" from spirit (n.).", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "spirited", 
+            "term": "-spirited"
+        }
+    ], 
+    "-spoken": [
+        {
+            "definition": "in compounds, \"speaking\" (in a certain way), late-15c., from past participle of speak (v.).", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "spoken", 
+            "term": "-spoken"
+        }
+    ], 
+    "-stan": [
+        {
+            "definition": "place-name element in Afghanistan, Pakistan, etc., from Persian -stan \"country,\" from Indo-Iranian *stanam \"place,\" literally \"where one stands,\" from PIE *sta-no-, suffixed form of root *sta- \"to stand\" (see stet).", 
+            "languages": [
+                "Iranian", 
+                "PIE", 
+                "Persian"
+            ], 
+            "pos": null, 
+            "suffix": "stan", 
+            "term": "-stan"
+        }
+    ], 
+    "-stat": [
+        {
+            "definition": "word-forming element used in making names of devices for stabilizing or regulating (such as thermostat), from Greek statos \"standing, stationary,\" from PIE *ste-to-, suffixed form of root *sta- \"to stand\" (see stet). First used in heliostat \"an instrument for causing the sun to appear stationary\" (1742).", 
+            "languages": [
+                "Greek", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "stat", 
+            "term": "-stat"
+        }
+    ], 
+    "-ster": [
+        {
+            "definition": "Old English -istre, from Proto-Germanic *-istrijon, feminine agent suffix used as the equivalent of masculine -ere (see -er (1)). Also used in Middle English to form nouns of action (meaning \"a person who ...\") without regard for gender.\r\n\r\nThe genderless agent noun use apparently was a broader application of the original feminine suffix, beginning in the north of England, but linguists disagree over whether this indicates female domination of weaving and baking trades, as represented in surnames such as Webster, Baxter, Brewster, etc. (though spinster probably carries an originally female ending). Also whitester \"one who bleaches cloth.\" In Modern English, the suffix has been productive in forming derivative nouns (gamester, punster, etc.).", 
+            "languages": [
+                "English", 
+                "Middle English", 
+                "Modern English", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "ster", 
+            "term": "-ster"
+        }
+    ], 
+    "-teen": [
+        {
+            "definition": "word-forming element making cardinal numbers from 13 to 19, meaning \"ten more than,\" from Old English -tene, -tiene, from Proto-Germanic *tekhuniz (cognates: Old Saxon -tein, Dutch -tien, Old High German -zehan, German -zehn, Gothic -taihun), an inflected form of the root of ten; cognate with Latin -decim (source of Italian -dici, Spanish -ce, French -ze).", 
+            "languages": [
+                "Dutch", 
+                "English", 
+                "French", 
+                "German", 
+                "Gothic", 
+                "Italian", 
+                "Latin", 
+                "Old High German", 
+                "Old Saxon", 
+                "Proto-Germanic", 
+                "Spanish"
+            ], 
+            "pos": null, 
+            "suffix": "teen", 
+            "term": "-teen"
+        }
+    ], 
+    "-teenth": [
+        {
+            "definition": "word-forming element making ordinal numbers from 13 to 19, from -teen + -th (1), displacing Old English -teoða, -teoðe (West Saxon), related to teogoða (Anglian) \"tenth.\"", 
+            "languages": [
+                "Anglian", 
+                "English", 
+                "West Saxon"
+            ], 
+            "pos": null, 
+            "suffix": "teenth", 
+            "term": "-teenth"
+        }
+    ], 
+    "-th": [
+        {
+            "definition": "word-forming element making ordinal numbers (fourth, tenth, etc.), Old English -ða, from Proto-Germanic *-tha- (cognates: Gothic -da, -ta, Old High German -do, -to, Old Norse -di, -ti), from PIE *-to-, also *-eto-, *-oto-, suffix forming adjectives \"marking the accomplishment of the notion of the base\" [Watkins]. Cognate with Sanskrit thah, Greek -tos, Latin -tus; Sanskrit ta-, Lithuanian and Old Church Slavonic to, Greek to \"the,\" Latin talis \"such;\" Greek telikos \"so old,\" Old Church Slavonic toli \"so,\" toliku \"so much,\" Russian toliko \"only;\" also see -ed.", 
+            "languages": [
+                "English", 
+                "Gothic", 
+                "Greek", 
+                "Latin", 
+                "Lithuanian", 
+                "Old Church Slavonic", 
+                "Old High German", 
+                "Old Norse", 
+                "PIE", 
+                "Proto-Germanic", 
+                "Russian", 
+                "Sanskrit"
+            ], 
+            "pos": null, 
+            "suffix": "th", 
+            "term": "-th"
+        }, 
+        {
+            "definition": "suffix forming nouns of action, state, or quality from verbs or adjectives (such as depth, strength, truth), from Old English -ðu, -ð, from Proto-Germanic *-itho (cognates: Old Norse -þ, Old High German -ida, Gothic -iþa), abstract noun suffix, from PIE *-ita (cognates: Sanskrit -tati-; Greek -tet-; Latin -tati-, as in libertatem \"liberty\" from liber \"free\"). Sometimes in English reduced to -t, especially after -h- (as in height).", 
+            "languages": [
+                "English", 
+                "Gothic", 
+                "Greek", 
+                "Latin", 
+                "Old High German", 
+                "Old Norse", 
+                "PIE", 
+                "Proto-Germanic", 
+                "Sanskrit"
+            ], 
+            "pos": null, 
+            "suffix": "th", 
+            "term": "-th"
+        }
+    ], 
+    "-tion": [
+        {
+            "definition": "syllable formed when the word-forming element -ion (from Latin -io) is fixed to a base or to another suffix ending in -t or -te.", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "tion", 
+            "term": "-tion"
+        }
+    ], 
+    "-tomy": [
+        {
+            "definition": "word-forming element meaning \"a cutting\" (especially a surgical incision or removal), from Greek -tomia \"a cutting of,\" from tome \"a cutting, section\" (see tome).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "tomy", 
+            "term": "-tomy"
+        }
+    ], 
+    "-trix": [
+        {
+            "definition": "fem. agential suffix, from Latin, corresponding to masc. -tor (see -or).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "trix", 
+            "term": "-trix"
+        }
+    ], 
+    "-tron": [
+        {
+            "definition": "word-forming element in compounds coined in physics, \"having to do with electrons or subatomic particles,\" 1939, abstracted unetymologically from electron (Greek -tron was an instrumentive suffix).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "tron", 
+            "term": "-tron"
+        }
+    ], 
+    "-trope": [
+        {
+            "definition": "word-forming element meaning \"that which turns,\" from Greek tropos (see trope).", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "trope", 
+            "term": "-trope"
+        }
+    ], 
+    "-trophy": [
+        {
+            "definition": "word-forming element meaning \"food, nourishment,\" from Greek -trophia, from trophe \"food, nourishment,\" related to trephein \"make thrive, nourish, rear; to make solid, congeal, thicken.\"", 
+            "languages": [
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "trophy", 
+            "term": "-trophy"
+        }
+    ], 
+    "-tude": [
+        {
+            "definition": "syllable formed when the word-forming element -ude, making abstract nouns from adjectives and participles, is fixed to a base or to another suffix ending in -t or -te; from French -ude, from Latin -udo (stem -udin-). The equivalent of native -ness.", 
+            "languages": [
+                "French", 
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "tude", 
+            "term": "-tude"
+        }
+    ], 
+    "-tuple": [
+        {
+            "definition": "1863, word-forming element abstracted from quintuple, etc.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "tuple", 
+            "term": "-tuple"
+        }
+    ], 
+    "-ty": [
+        {
+            "definition": "suffix representing \"ten\" in cardinal numbers that are multiples of 10 (sixty, seventy, etc.), from Old English -tig, from a Germanic root (cognates: Old Saxon, Dutch -tig, Old Frisian -tich, Old Norse -tigr, Old High German -zug, German -zig) that existed as a distinct word in Gothic (tigjus) and Old Norse (tigir) meaning \"tens, decades.\" Compare tithe (n.).\r\n\r\nEnglish, like many other Germanic languages, retains traces of a base-12 number system. The most obvious instance is eleven and twelve which ought to be the first two numbers of the \"teens\" series. Their Old English forms, enleofan and twel(eo)f(an), are more transparent: \"leave one\" and \"leave two.\"\r\n\r\nOld English also had hund endleofantig for \"110\" and hund twelftig for \"120.\" One hundred was hund teantig. The -tig formation ran through 12 cycles, and could have bequeathed us numbers *eleventy (\"110\") and *twelfty (\"120\") had it endured, but already during the Anglo-Saxon period it was being obscured.\r\n\r\nOld Norse used hundrað for \"120\" and þusend for \"1,200.\" Tvauhundrað was \"240\" and þriuhundrað was \"360.\" Older Germanic legal texts distinguished a \"common hundred\" (100) from a \"great hundred\" (120). This duodecimal system is \"perhaps due to contact with Babylonia\" [Lass, \"Old English\"].", 
+            "languages": [
+                "Dutch", 
+                "English", 
+                "German", 
+                "Germanic", 
+                "Gothic", 
+                "Old Frisian", 
+                "Old High German", 
+                "Old Norse", 
+                "Old Saxon"
+            ], 
+            "pos": null, 
+            "suffix": "ty", 
+            "term": "-ty"
+        }, 
+        {
+            "definition": "suffix used in forming abstract nouns from adjectives (such as safety, surety), Middle English -tie, -te, from Old French -te (Modern French -té), from Latin -tatem (nominative -tas, genitive -tatis), cognate with Greek -tes, Sanskrit -tati-. Also see -ity.", 
+            "languages": [
+                "French", 
+                "Greek", 
+                "Latin", 
+                "Middle English", 
+                "Old French", 
+                "Sanskrit"
+            ], 
+            "pos": null, 
+            "suffix": "ty", 
+            "term": "-ty"
+        }
+    ], 
+    "-ular": [
+        {
+            "definition": "word-forming element, see -ule + -ar.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "ular", 
+            "term": "-ular"
+        }
+    ], 
+    "-ule": [
+        {
+            "definition": "word-forming element meaning \"small, little\" (in capsule, module, etc.), from French -ule, from Latin diminutive suffix -ulus (fem. -ula, neuter -ulum), from PIE *-(o)lo-, from *-lo-, secondary suffix forming diminutives, which also is the source of the first element in native diminutive suffix -ling.", 
+            "languages": [
+                "French", 
+                "Latin", 
+                "PIE"
+            ], 
+            "pos": null, 
+            "suffix": "ule", 
+            "term": "-ule"
+        }
+    ], 
+    "-ulent": [
+        {
+            "definition": "word-forming element meaning \"full of, abounding in,\" from Latin adjective suffix -ulentus \"full of.\"", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "ulent", 
+            "term": "-ulent"
+        }
+    ], 
+    "-ure": [
+        {
+            "definition": "suffix forming abstract nouns of action, from Old French -ure, from Latin -ura, an ending of fem. nouns denoting employment or result.", 
+            "languages": [
+                "Latin", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "ure", 
+            "term": "-ure"
+        }
+    ], 
+    "-ville": [
+        {
+            "definition": "suffix sporadically in vogue since c.1840 in U.S. colloquial word formation (such as dullsville, palookaville), abstracted from the -ville in place names (Louisville, Greenville, etc.), from Old French ville \"town,\" from Latin villa (see villa).", 
+            "languages": [
+                "Latin", 
+                "Old French"
+            ], 
+            "pos": null, 
+            "suffix": "ville", 
+            "term": "-ville"
+        }
+    ], 
+    "-vorous": [
+        {
+            "definition": "word-forming element meaning \"eating,\" from Latin -vorous, from stem of vorare \"to devour\" (see voracity).", 
+            "languages": [
+                "Latin"
+            ], 
+            "pos": null, 
+            "suffix": "vorous", 
+            "term": "-vorous"
+        }
+    ], 
+    "-ward": [
+        {
+            "definition": "adverbial suffix expressing direction, Old English -weard \"toward,\" literally \"turned toward,\" sometimes -weardes, with genitive singular ending of neuter adjectives, from Proto-Germanic *warth (cognates: Old Saxon, Old Frisian -ward, Old Norse -verðr), variant of PIE *wert- \"to turn, wind,\" from root *wer- (3) \"to turn, bend\" (see versus). The original notion is of \"turned toward.\"", 
+            "languages": [
+                "English", 
+                "Old Frisian", 
+                "Old Norse", 
+                "Old Saxon", 
+                "PIE", 
+                "Proto-Germanic"
+            ], 
+            "pos": null, 
+            "suffix": "ward", 
+            "term": "-ward"
+        }
+    ], 
+    "-worth": [
+        {
+            "definition": "as final element in place names, from Old English worþ \"enclosed place, homestead.\"", 
+            "languages": [
+                "English"
+            ], 
+            "pos": null, 
+            "suffix": "worth", 
+            "term": "-worth"
+        }
+    ], 
+    "-yer": [
+        {
+            "definition": "agent noun suffix, variant of -ier used after a vowel or -w-.", 
+            "languages": [], 
+            "pos": null, 
+            "suffix": "yer", 
+            "term": "-yer"
+        }
+    ], 
+    "-yl": [
+        {
+            "definition": "chemical suffix used in forming names of radicals, from French -yle, from Greek hyle \"wood,\" also \"building stuff, raw material\" (from which something is made), of unknown origin. The use in chemistry traces to the latter sense (except in methylene, where it means \"wood\").\r\n\r\nIt was introduced into chemical nomenclature by Liebig and Wohler when, in 1832, they used the term benzoyle for the radical which appeared to be the \"essential material\" of benzoic acid and related compounds. [Flood]\r\n", 
+            "languages": [
+                "French", 
+                "Greek"
+            ], 
+            "pos": null, 
+            "suffix": "yl", 
+            "term": "-yl"
+        }
+    ]
+}
