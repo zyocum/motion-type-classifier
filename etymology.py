@@ -3,11 +3,16 @@ from __future__ import print_function
 import codecs, os, json, re, sys, time
 from collections import defaultdict
 from operator import itemgetter
+from string import punctuation
 
 from bs4 import BeautifulSoup as BS, CData
 from bs4.element import Tag
 from progressbar import ProgressBar, Percentage, Bar
 from language import LANGUAGES
+from nltk.stem import WordNetLemmatizer
+from nltk.corpus import wordnet
+
+wnl = WordNetLemmatizer()
 
 term = re.compile(
     r"""
@@ -183,23 +188,57 @@ def affixes(etymologies):
                 progress.update(i)
         yield name, dictionary
 
-def main():
-    site = os.path.expanduser(
-        os.path.join('~', 'Downloads', 'www.etymonline.com')
-    )
-    etymology_file = os.path.join('resources', 'etymology.json')
+def etym(query, pos, dictionary):
+    pos = wordnet_pos(pos)
+    lemma = wnl.lemmatize(query, pos)
+    results = dictionary.get(lemma, [])
+    for result in results:
+        match = re.match(*map(wordnet_pos, (result['pos'], pos)))
+        if match:
+            return lemma, [result]
+    return lemma, results
+
+def wordnet_pos(pos):
+    pos = pos.strip(punctuation).lower()
+    if pos.startswith('j') or pos.startswith('adj'):
+        return wordnet.ADJ
+    elif pos.startswith('v'):
+        return wordnet.VERB
+    elif pos.startswith('n'):
+        return wordnet.NOUN
+    elif pos.startswith('r') or pos.startswith('adv'):
+        return wordnet.ADV
+    else:
+        return None
+
+etymology_file = os.path.join('resources', 'etymology.json')
+site = os.path.expanduser(
+    os.path.join('~', 'Downloads', 'www.etymonline.com')
+)
+
+def setup():
     if not os.path.isfile(etymology_file):
         page = re.compile(r'index.php\?l=\w+&p=\d+&allowed_in_frame=0.html')
         pages = list(find_files(directory=site, pattern=page, recursive=False))
         etymology = etymologies(pages)
         dump(etymology, etymology_file)
+        for affix, dictionary in affixes(etymology):
+            affix_file = os.path.join('resources', '{}.json'.format(affix))
+            if not os.path.isfile(affix_file):
+                dump(dictionary, affix_file)
+
+def main(args):
+    print(args)
+    setup()
+    etymology = load_dict(etymology_file)
+    query = args.pop(0)
+    if args:
+        pos = args.pop(0)
     else:
-        print('loading etymology dictionary...')
-        etymology = load_dict(etymology_file)
-    for affix, dictionary in affixes(etymology):
-        affix_file = os.path.join('resources', '{}.json'.format(affix))
-        if not os.path.isfile(affix_file):
-            dump(dictionary, affix_file)
+        pos = 'n'
+    lemma, results = etym(query, pos, etymology)
+    for result in results:
+        print(lemma, ':', json.dumps(result, indent=True, ensure_ascii=False))
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv[1:])
