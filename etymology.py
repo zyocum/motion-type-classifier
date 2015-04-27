@@ -199,14 +199,14 @@ def etym(query, pos, dictionary):
     return lemma, results
 
 def wordnet_pos(pos):
-    pos = pos.strip(punctuation).strip().lower()
-    if pos.startswith('j') or pos.startswith('adj'):
+    pos = pos.strip(punctuation).strip().lower() if pos else ''
+    if pos.startswith('j') or 'adjective'.startswith(pos):
         return wordnet.ADJ
-    elif pos.startswith('v'):
+    elif 'verb'.startswith(pos):
         return wordnet.VERB
-    elif pos.startswith('n'):
+    elif 'noun'.startswith(pos):
         return wordnet.NOUN
-    elif pos.startswith('r') or pos.startswith('adv'):
+    elif pos.startswith('r') or 'adverb'.startswith(pos):
         return wordnet.ADV
     else:
         return None
