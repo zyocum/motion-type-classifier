@@ -1,19 +1,22 @@
 import codecs, json, os, re
 from collections import defaultdict
-
-def nest():
-    return defaultdict(nest)
+from string import *
 
 entry = re.compile(
     r"""
-    (<a href=")?            # anchor markup start
-    (?P<url>(.+))?          # URL for term
-    >?<b>                   # bold markup start
-    (?P<abbreviation>.+)    # abbreviated term
-    </b>                    # bold markup end
-    (</a>)?                 # anchor markup end
-    [,\s]*                  # comma or whitespace
-    (?P<description>.+)     # description of the term
+    ^                    # start of line
+    \s*                  # optional whitespace
+    (<a href=")?         # anchor start
+    (?P<url>(.+))?       # URL for term
+    >?                   # href end
+    <b>                  # bold start
+    (?P<abbreviation>.+) # abbreviated term
+    </b>                 # bold end
+    (</a>)?              # anchor end
+    [,\s]*               # optional comma or whitespace
+    (?P<description>.+)  # description of the term
+    \s*                  # optional trailing whitespace
+    $                    # end of line
     """,
     re.VERBOSE
  )
@@ -27,7 +30,7 @@ term = re.compile(
     re.VERBOSE
 )
 
-text = os.path.join('resources', 'abbreviations.txt')
+text = os.path.join('resources', 'abbreviation.txt')
 
 with codecs.open(text, mode='r', encoding='utf-8') as file:
     lines = unicode(file.read()).splitlines()
@@ -44,12 +47,11 @@ for a, d in abbreviations.iteritems():
     for t in d['terms']:
         terms[t] = d
 
-print '# of terms : {}'.format(len(terms))
 #for abbreviation, d in terms.iteritems():
 #    print abbreviation
 #    print '\t' + '\n\t'.join(u'{} : {}'.format(*x) for x in d.iteritems())
 
-jsonfile = os.path.join('resources', 'abbreviations.json')
+jsonfile = os.path.join('resources', 'abbreviation.json')
 
 def dump(data, filename):
     with codecs.open(filename, mode='w', encoding='utf-8') as file:
@@ -70,6 +72,18 @@ def load(filename):
 
 data = load(jsonfile)
 
-LANGUAGES = dict(
-    (k, v) for k, v in data.iteritems() if v['type'] == 'language'
+additional_languages = [
+    u'Old English',
+    
+]
+LANGUAGES = set(
+    k.strip(punctuation) for k, v in data.iteritems() if v['type'] == 'language'
 )
+
+def main():
+    for language in sorted(LANGUAGES.keys()):
+        print language
+    print '# of languages : {}'.format(len(LANGUAGES))
+
+if __name__ == '__main__':
+    main()
