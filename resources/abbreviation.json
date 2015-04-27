@@ -438,7 +438,7 @@
             "Caxton", 
             "William Caxton"
         ], 
-        "type": "person", 
+        "type": null, 
         "url": null
     }, 
     "Celt.": {
@@ -559,7 +559,7 @@
             "Coverdale", 
             "Coverdale"
         ], 
-        "type": "person", 
+        "type": null, 
         "url": null
     }, 
     "Croatian": {
@@ -2735,7 +2735,7 @@
             "Caxton", 
             "William Caxton"
         ], 
-        "type": "person", 
+        "type": null, 
         "url": null
     }, 
     "Wolof": {
