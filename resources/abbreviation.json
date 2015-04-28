@@ -6,7 +6,7 @@
             "DAS", 
             "\"Dictionary of American Slang,\""
         ], 
-        "type": "dictionary", 
+        "type": null, 
         "url": null
     }, 
     "\"New English Dictionary\"": {
@@ -17,7 +17,7 @@
             "\"Oxford English Dictionary,\"", 
             "\"New English Dictionary\""
         ], 
-        "type": "dictionary", 
+        "type": null, 
         "url": "<a href=\"http://www.oed.com/\">"
     }, 
     "\"Oxford English Dictionary,\"": {
@@ -28,7 +28,7 @@
             "\"Oxford English Dictionary,\"", 
             "\"New English Dictionary\""
         ], 
-        "type": "dictionary", 
+        "type": null, 
         "url": "<a href=\"http://www.oed.com/\">"
     }, 
     "*ped-": {
@@ -38,7 +38,7 @@
             "asterisk (*)", 
             "*ped-"
         ], 
-        "type": "prefix", 
+        "type": null, 
         "url": null
     }, 
     "-ed": {
@@ -52,7 +52,7 @@
             "asked", 
             "ask."
         ], 
-        "type": "suffix", 
+        "type": null, 
         "url": null
     }, 
     "-en.": {
@@ -66,7 +66,7 @@
             "asked", 
             "ask."
         ], 
-        "type": "suffix", 
+        "type": null, 
         "url": null
     }, 
     "-er": {
@@ -77,7 +77,7 @@
             "Hunter", 
             "-er"
         ], 
-        "type": "suffix", 
+        "type": null, 
         "url": null
     }, 
     "-i.": {
@@ -90,7 +90,7 @@
             "-r-", 
             "-i."
         ], 
-        "type": "suffix", 
+        "type": null, 
         "url": null
     }, 
     "-ing": {
@@ -103,7 +103,7 @@
             "asking", 
             "ask."
         ], 
-        "type": "suffix", 
+        "type": null, 
         "url": null
     }, 
     "-ing.": {
@@ -114,7 +114,7 @@
             "Participle", 
             "-ing."
         ], 
-        "type": "suffix", 
+        "type": null, 
         "url": null
     }, 
     "-less": {
@@ -126,7 +126,7 @@
             "un-", 
             "-less"
         ], 
-        "type": "suffix", 
+        "type": null, 
         "url": null
     }, 
     "-r-": {
@@ -139,7 +139,7 @@
             "-r-", 
             "-i."
         ], 
-        "type": "infix", 
+        "type": null, 
         "url": null
     }, 
     "-s": {
@@ -151,7 +151,18 @@
             "John's", 
             "John."
         ], 
-        "type": "suffix", 
+        "type": null, 
+        "url": null
+    }, 
+    "-sco, -scere": {
+        "abbreviation": "inchoative", 
+        "description": "<i>inceptive</i> Aspect expressing the notion \"entering into an action, beginning.\" Latin verbs ending in <i>-sco, -scere</i>.", 
+        "terms": [
+            "inchoative", 
+            "inceptive", 
+            "-sco, -scere"
+        ], 
+        "type": null, 
         "url": null
     }, 
     "16c.": {
@@ -164,7 +175,7 @@
             "circa", 
             "c.1500"
         ], 
-        "type": "date", 
+        "type": null, 
         "url": null
     }, 
     "Ablative": {
@@ -173,7 +184,7 @@
         "terms": [
             "Ablative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "Abnaki": {
@@ -182,7 +193,7 @@
         "terms": [
             "Abnaki"
         ], 
-        "type": "Language", 
+        "type": null, 
         "url": null
     }, 
     "Accusative": {
@@ -192,7 +203,7 @@
             "acc.", 
             "Accusative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "Adjective": {
@@ -202,7 +213,7 @@
             "adj.", 
             "Adjective"
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "Adverb": {
@@ -212,7 +223,7 @@
             "adv.", 
             "Adverb"
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "Aeolic": {
@@ -587,7 +598,7 @@
             "DAS", 
             "\"Dictionary of American Slang,\""
         ], 
-        "type": "dictionary", 
+        "type": null, 
         "url": null
     }, 
     "Danish": {
@@ -606,7 +617,7 @@
             "dat.", 
             "Dative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "Diminutive": {
@@ -617,7 +628,7 @@
             "ringlet", 
             "ring"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "Dorian": {
@@ -741,7 +752,7 @@
             "fem.", 
             "Feminine"
         ], 
-        "type": "gender", 
+        "type": null, 
         "url": null
     }, 
     "Finnish": {
@@ -787,7 +798,7 @@
             "freq.", 
             "Frequentative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "Frisian": {
@@ -815,7 +826,7 @@
             "fut.", 
             "Future"
         ], 
-        "type": "tense", 
+        "type": null, 
         "url": null
     }, 
     "Gaelic": {
@@ -862,7 +873,7 @@
         "terms": [
             "Genitive"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "German": {
@@ -891,7 +902,7 @@
             "Gerund", 
             "-ing."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "Gothic": {
@@ -940,7 +951,7 @@
             "optative", 
             "Heaven forfend"
         ], 
-        "type": "mood", 
+        "type": null, 
         "url": null
     }, 
     "Hebrew": {
@@ -980,7 +991,7 @@
             "Hunter", 
             "-er"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "I": {
@@ -993,7 +1004,7 @@
             "you", 
             "we"
         ], 
-        "type": "person", 
+        "type": null, 
         "url": null
     }, 
     "I was saying": {
@@ -1003,7 +1014,7 @@
             "imperfect", 
             "I was saying"
         ], 
-        "type": "aspect", 
+        "type": null, 
         "url": null
     }, 
     "I-mutation": {
@@ -1041,7 +1052,7 @@
             "imper.", 
             "Imperative"
         ], 
-        "type": "category", 
+        "type": null, 
         "url": null
     }, 
     "Indicative": {
@@ -1051,7 +1062,7 @@
             "indic.", 
             "Indicative"
         ], 
-        "type": "mood", 
+        "type": null, 
         "url": null
     }, 
     "Indo-European": {
@@ -1071,7 +1082,7 @@
             "inf.", 
             "Infinitive"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "Influenced": {
@@ -1191,7 +1202,7 @@
             "John's", 
             "John."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "John.": {
@@ -1203,7 +1214,7 @@
             "John's", 
             "John."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "Kentish": {
@@ -1289,7 +1300,7 @@
             "loc.", 
             "Locative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "Longer": {
@@ -1359,7 +1370,7 @@
             "masc.", 
             "Masculine"
         ], 
-        "type": "gender", 
+        "type": null, 
         "url": null
     }, 
     "Medieval Latin": {
@@ -1537,7 +1548,7 @@
             "neut.", 
             "Neuter"
         ], 
-        "type": "gender", 
+        "type": null, 
         "url": null
     }, 
     "New English": {
@@ -1568,7 +1579,7 @@
             "nom.", 
             "Nominative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "North Germanic": {
@@ -1605,7 +1616,7 @@
             "n.", 
             "Noun"
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "O.Celt.": {
@@ -1667,7 +1678,7 @@
             "\"Oxford English Dictionary,\"", 
             "\"New English Dictionary\""
         ], 
-        "type": "dictionary", 
+        "type": null, 
         "url": "<a href=\"http://www.oed.com/\">"
     }, 
     "Objective": {
@@ -1677,7 +1688,7 @@
             "obj.", 
             "Objective"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "Obsolete": {
@@ -1742,7 +1753,7 @@
         "terms": [
             "Old English,"
         ], 
-        "type": "language", 
+        "type": null, 
         "url": "<a href=\"http://www.georgetown.edu/labyrinth/library/oe/oe.html\">"
     }, 
     "Old French": {
@@ -1952,7 +1963,7 @@
             "Participle", 
             "-ing."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "Pashto": {
@@ -1971,7 +1982,7 @@
             "pass.", 
             "Passive"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "Past participle": {
@@ -1985,7 +1996,7 @@
             "asked", 
             "ask."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "Past tense": {
@@ -1994,7 +2005,7 @@
         "terms": [
             "Past tense"
         ], 
-        "type": "tense", 
+        "type": null, 
         "url": null
     }, 
     "Pennsylvania Dutch": {
@@ -2026,7 +2037,7 @@
             "To eat", 
             "to eat up"
         ], 
-        "type": "tense", 
+        "type": null, 
         "url": null
     }, 
     "Persian": {
@@ -2048,7 +2059,7 @@
             "you", 
             "we"
         ], 
-        "type": "person", 
+        "type": null, 
         "url": null
     }, 
     "Phoenician": {
@@ -2086,7 +2097,7 @@
             "Plural", 
             "dual"
         ], 
-        "type": "number", 
+        "type": null, 
         "url": null
     }, 
     "Polish": {
@@ -2116,7 +2127,7 @@
             "John's", 
             "John."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "Preposition": {
@@ -2127,7 +2138,7 @@
             "Preposition", 
             "in, by, for, with, to."
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "Present participle": {
@@ -2140,7 +2151,7 @@
             "asking", 
             "ask."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "Present tense": {
@@ -2150,7 +2161,7 @@
             "pres.", 
             "Present tense"
         ], 
-        "type": "tense", 
+        "type": null, 
         "url": null
     }, 
     "Present-preterite": {
@@ -2162,7 +2173,7 @@
             "may, shall, can", 
             "might, should, could"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "Preterite": {
@@ -2172,7 +2183,7 @@
             "pret.", 
             "Preterite"
         ], 
-        "type": "tense", 
+        "type": null, 
         "url": null
     }, 
     "Privative": {
@@ -2194,7 +2205,7 @@
             "pron.", 
             "Pronoun"
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "Properly": {
@@ -2265,7 +2276,7 @@
             "tom-tom", 
             "chitchat"
         ], 
-        "type": "inflection", 
+        "type": null, 
         "url": null
     }, 
     "Reflexive": {
@@ -2275,7 +2286,7 @@
             "refl.", 
             "Reflexive"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "Russian": {
@@ -2381,7 +2392,7 @@
             "sing.", 
             "Singular"
         ], 
-        "type": "number", 
+        "type": null, 
         "url": null
     }, 
     "Sinhalese": {
@@ -2533,7 +2544,7 @@
             "To eat", 
             "to eat up"
         ], 
-        "type": "tense", 
+        "type": null, 
         "url": null
     }, 
     "Transitive": {
@@ -2659,7 +2670,7 @@
             "v.", 
             "Verb"
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "Vocative": {
@@ -2669,7 +2680,7 @@
             "voc.", 
             "Vocative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "Vulgar Latin": {
@@ -2772,7 +2783,7 @@
             "acc.", 
             "Accusative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "adj.": {
@@ -2782,7 +2793,7 @@
             "adj.", 
             "Adjective"
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "adv.": {
@@ -2792,7 +2803,7 @@
             "adv.", 
             "Adverb"
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "agent noun": {
@@ -2803,7 +2814,7 @@
             "Hunter", 
             "-er"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "aphetic": {
@@ -2814,7 +2825,7 @@
             "squire", 
             "esquire"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "ask.": {
@@ -2828,7 +2839,7 @@
             "asked", 
             "ask."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "asked": {
@@ -2842,7 +2853,7 @@
             "asked", 
             "ask."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "asking": {
@@ -2855,7 +2866,7 @@
             "asking", 
             "ask."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "asterisk (*)": {
@@ -2945,7 +2956,7 @@
             "en-", 
             "enrich"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "cf.": {
@@ -2969,7 +2980,7 @@
             "tom-tom", 
             "chitchat"
         ], 
-        "type": "inflection", 
+        "type": null, 
         "url": null
     }, 
     "circa": {
@@ -3045,7 +3056,7 @@
             "dat.", 
             "Dative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "dissimilation": {
@@ -3067,7 +3078,7 @@
             "Plural", 
             "dual"
         ], 
-        "type": "number", 
+        "type": null, 
         "url": null
     }, 
     "e.g.": {
@@ -3098,7 +3109,7 @@
             "en-", 
             "enrich"
         ], 
-        "type": "prefix", 
+        "type": null, 
         "url": null
     }, 
     "enrich": {
@@ -3110,7 +3121,7 @@
             "en-", 
             "enrich"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "esp.": {
@@ -3171,7 +3182,7 @@
             "fem.", 
             "Feminine"
         ], 
-        "type": "gender", 
+        "type": null, 
         "url": null
     }, 
     "floris,": {
@@ -3203,7 +3214,7 @@
             "freq.", 
             "Frequentative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "frequentative": {
@@ -3213,7 +3224,7 @@
             "iterative", 
             "frequentative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "fut.": {
@@ -3223,7 +3234,7 @@
             "fut.", 
             "Future"
         ], 
-        "type": "tense", 
+        "type": null, 
         "url": null
     }, 
     "ger.": {
@@ -3234,7 +3245,7 @@
             "Gerund", 
             "-ing."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "imitative": {
@@ -3255,7 +3266,7 @@
             "imper.", 
             "Imperative"
         ], 
-        "type": "category", 
+        "type": null, 
         "url": null
     }, 
     "imperfect": {
@@ -3265,7 +3276,7 @@
             "imperfect", 
             "I was saying"
         ], 
-        "type": "aspect", 
+        "type": null, 
         "url": null
     }, 
     "in, by, for, with, to.": {
@@ -3276,27 +3287,29 @@
             "Preposition", 
             "in, by, for, with, to."
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "inceptive": {
-        "abbreviation": "inceptive", 
-        "description": "<i>inchoative</i> Aspect expressing the notion \"entering into an action, beginning.\" Latin verbs ending in <i>-sco, -scere</i>.", 
+        "abbreviation": "inchoative", 
+        "description": "<i>inceptive</i> Aspect expressing the notion \"entering into an action, beginning.\" Latin verbs ending in <i>-sco, -scere</i>.", 
         "terms": [
-            "inceptive",
-            "inchoative"
+            "inchoative", 
+            "inceptive", 
+            "-sco, -scere"
         ], 
-        "type": "aspect", 
+        "type": null, 
         "url": null
     }, 
     "inchoative": {
-        "abbreviation": "inceptive", 
-        "description": "<i>inchoative</i> Aspect expressing the notion \"entering into an action, beginning.\" Latin verbs ending in <i>-sco, -scere</i>.", 
+        "abbreviation": "inchoative", 
+        "description": "<i>inceptive</i> Aspect expressing the notion \"entering into an action, beginning.\" Latin verbs ending in <i>-sco, -scere</i>.", 
         "terms": [
-            "inceptive",
-            "inchoative"
+            "inchoative", 
+            "inceptive", 
+            "-sco, -scere"
         ], 
-        "type": "aspect", 
+        "type": null, 
         "url": null
     }, 
     "indic.": {
@@ -3306,7 +3319,7 @@
             "indic.", 
             "Indicative"
         ], 
-        "type": "mood", 
+        "type": null, 
         "url": null
     }, 
     "inf.": {
@@ -3316,7 +3329,7 @@
             "inf.", 
             "Infinitive"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "infl.": {
@@ -3335,7 +3348,7 @@
         "terms": [
             "instrumental"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "intens.": {
@@ -3365,7 +3378,7 @@
             "irreg.", 
             "Irregular"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "iterative": {
@@ -3375,7 +3388,7 @@
             "iterative", 
             "frequentative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "le-loipa": {
@@ -3389,7 +3402,7 @@
             "tom-tom", 
             "chitchat"
         ], 
-        "type": "inflection", 
+        "type": null, 
         "url": null
     }, 
     "leipo": {
@@ -3403,7 +3416,7 @@
             "tom-tom", 
             "chitchat"
         ], 
-        "type": "inflection", 
+        "type": null, 
         "url": null
     }, 
     "lit.": {
@@ -3435,7 +3448,7 @@
             "loc.", 
             "Locative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "long": {
@@ -3469,7 +3482,7 @@
             "masc.", 
             "Masculine"
         ], 
-        "type": "gender", 
+        "type": null, 
         "url": null
     }, 
     "may, shall, can": {
@@ -3481,7 +3494,7 @@
             "may, shall, can", 
             "might, should, could"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "metathesis": {
@@ -3506,7 +3519,7 @@
             "may, shall, can", 
             "might, should, could"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "n.": {
@@ -3516,7 +3529,7 @@
             "n.", 
             "Noun"
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "neut.": {
@@ -3526,7 +3539,7 @@
             "neut.", 
             "Neuter"
         ], 
-        "type": "gender", 
+        "type": null, 
         "url": null
     }, 
     "nom.": {
@@ -3536,7 +3549,7 @@
             "nom.", 
             "Nominative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "obj.": {
@@ -3546,7 +3559,7 @@
             "obj.", 
             "Objective"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "obs.": {
@@ -3577,7 +3590,7 @@
             "optative", 
             "Heaven forfend"
         ], 
-        "type": "mood", 
+        "type": null, 
         "url": null
     }, 
     "orig.": {
@@ -3598,7 +3611,7 @@
             "Participle", 
             "-ing."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "pass.": {
@@ -3608,7 +3621,7 @@
             "pass.", 
             "Passive"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "pelerin": {
@@ -3642,7 +3655,7 @@
             "To eat", 
             "to eat up"
         ], 
-        "type": "tense", 
+        "type": null, 
         "url": null
     }, 
     "pers.": {
@@ -3655,7 +3668,7 @@
             "you", 
             "we"
         ], 
-        "type": "person", 
+        "type": null, 
         "url": null
     }, 
     "pl.": {
@@ -3666,7 +3679,7 @@
             "Plural", 
             "dual"
         ], 
-        "type": "number", 
+        "type": null, 
         "url": null
     }, 
     "pp.": {
@@ -3680,7 +3693,7 @@
             "asked", 
             "ask."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "prep.": {
@@ -3691,7 +3704,7 @@
             "Preposition", 
             "in, by, for, with, to."
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "pres.": {
@@ -3701,7 +3714,7 @@
             "pres.", 
             "Present tense"
         ], 
-        "type": "tense", 
+        "type": null, 
         "url": null
     }, 
     "pres.-pret.": {
@@ -3713,7 +3726,7 @@
             "may, shall, can", 
             "might, should, could"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "pret.": {
@@ -3723,7 +3736,7 @@
             "pret.", 
             "Preterite"
         ], 
-        "type": "tense", 
+        "type": null, 
         "url": null
     }, 
     "priv.": {
@@ -3745,7 +3758,7 @@
             "pron.", 
             "Pronoun"
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "prop.": {
@@ -3768,7 +3781,7 @@
             "asking", 
             "ask."
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "q.v.": {
@@ -3802,7 +3815,7 @@
             "tom-tom", 
             "chitchat"
         ], 
-        "type": "inflection", 
+        "type": null, 
         "url": null
     }, 
     "refl.": {
@@ -3812,7 +3825,7 @@
             "refl.", 
             "Reflexive"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "rhotacism": {
@@ -3834,7 +3847,7 @@
             "ringlet", 
             "ring"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "ringlet": {
@@ -3845,7 +3858,7 @@
             "ringlet", 
             "ring"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "root": {
@@ -3864,7 +3877,7 @@
             "sing.", 
             "Singular"
         ], 
-        "type": "number", 
+        "type": null, 
         "url": null
     }, 
     "squire": {
@@ -3875,7 +3888,7 @@
             "squire", 
             "esquire"
         ], 
-        "type": "form", 
+        "type": null, 
         "url": null
     }, 
     "subjunctive": {
@@ -3884,7 +3897,7 @@
         "terms": [
             "subjunctive"
         ], 
-        "type": "mood", 
+        "type": null, 
         "url": null
     }, 
     "superl.": {
@@ -3933,7 +3946,7 @@
             "To eat", 
             "to eat up"
         ], 
-        "type": "tense", 
+        "type": null, 
         "url": null
     }, 
     "tom-tom": {
@@ -3947,7 +3960,7 @@
             "tom-tom", 
             "chitchat"
         ], 
-        "type": "inflection", 
+        "type": null, 
         "url": null
     }, 
     "trans.": {
@@ -4011,7 +4024,7 @@
             "un-", 
             "-less"
         ], 
-        "type": "prefix", 
+        "type": null, 
         "url": null
     }, 
     "v.": {
@@ -4021,7 +4034,7 @@
             "v.", 
             "Verb"
         ], 
-        "type": "POS", 
+        "type": null, 
         "url": null
     }, 
     "voc.": {
@@ -4031,7 +4044,7 @@
             "voc.", 
             "Vocative"
         ], 
-        "type": "case", 
+        "type": null, 
         "url": null
     }, 
     "we": {
@@ -4044,7 +4057,7 @@
             "you", 
             "we"
         ], 
-        "type": "person", 
+        "type": null, 
         "url": null
     }, 
     "ymb-sniþan": {
@@ -4069,7 +4082,7 @@
             "you", 
             "we"
         ], 
-        "type": "person", 
+        "type": null, 
         "url": null
     }, 
     "zaban-i-urdu": {

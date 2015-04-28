@@ -30,29 +30,6 @@ term = re.compile(
     re.VERBOSE
 )
 
-text = os.path.join('resources', 'abbreviation.txt')
-
-with codecs.open(text, mode='r', encoding='utf-8') as file:
-    lines = unicode(file.read()).splitlines()
-
-entries = (re.match(entry, line).groupdict() for line in lines)
-
-abbreviations = dict((e.get('abbreviation'), e) for e in entries)
-
-terms = dict()
-
-for a, d in abbreviations.iteritems():
-    d['terms'] = map(unicode, [a] + re.findall(term, d['description']))
-    d['type'] = None
-    for t in d['terms']:
-        terms[t] = d
-
-#for abbreviation, d in terms.iteritems():
-#    print abbreviation
-#    print '\t' + '\n\t'.join(u'{} : {}'.format(*x) for x in d.iteritems())
-
-jsonfile = os.path.join('resources', 'abbreviation.json')
-
 def dump(data, filename):
     with codecs.open(filename, mode='w', encoding='utf-8') as file:
         json.dump(
@@ -68,20 +45,42 @@ def load(filename):
     with codecs.open(filename, mode='r', encoding='utf-8') as file:
         return json.load(file)
 
-#dump(terms, jsonfile)
-
-data = load(jsonfile)
-
-additional_languages = [
-    u'Old English',
-    
-]
-LANGUAGES = set(
-    k.strip(punctuation) for k, v in data.iteritems() if v['type'] == 'language'
-)
+LANGUAGES = load(os.path.join('resources', 'languages.json'))
 
 def main():
-    for language in sorted(LANGUAGES.keys()):
+    text = os.path.join('resources', 'abbreviation.txt')
+    
+    with codecs.open(text, mode='r', encoding='utf-8') as file:
+        lines = unicode(file.read()).splitlines()
+        
+    entries = (re.match(entry, line).groupdict() for line in lines)
+    
+    abbreviations = dict((e.get('abbreviation'), e) for e in entries)
+    
+    terms = dict()
+    
+    for a, d in abbreviations.iteritems():
+        d['terms'] = map(unicode, [a] + re.findall(term, d['description']))
+        d['type'] = None
+        for t in d['terms']:
+            terms[t] = d
+            if a in LANGUAGES:
+                terms[t]['type'] = 'language'
+    
+    #for abbreviation, d in terms.iteritems():
+    #    print abbreviation
+    #    print '\t' + '\n\t'.join(u'{} : {}'.format(*x) for x in d.iteritems())
+    
+    jsonfile = os.path.join('resources', 'abbreviation.json')
+    
+    dump(terms, jsonfile)
+    
+    data = load(jsonfile)
+    languages = set(
+        k.strip(punctuation) for k, v in data.iteritems()
+        if v['type'] == 'language'
+    )
+    for language in sorted(languages):
         print language
     print '# of languages : {}'.format(len(LANGUAGES))
 

@@ -3,7 +3,7 @@ from __future__ import print_function
 import codecs, os, json, re, sys, time
 from collections import defaultdict
 from operator import itemgetter
-from string import punctuation
+from string import *
 
 from bs4 import BeautifulSoup as BS, CData
 from bs4.element import Tag
@@ -140,7 +140,7 @@ def search(text, languages, results):
             text = u''.join(text.split(language))
         return search(text, languages, results)
 
-def load_dict(filename):
+def load(filename):
     with codecs.open(filename, mode='r', encoding='utf-8') as file:
         return json.load(file)
 
@@ -199,7 +199,7 @@ def etym(query, pos, dictionary):
     return lemma, results
 
 def wordnet_pos(pos):
-    pos = pos.strip(punctuation).strip().lower() if pos else ''
+    pos = (pos or '').strip(punctuation + whitespace).lower()
     if pos.startswith('j') or 'adjective'.startswith(pos):
         return wordnet.ADJ
     elif 'verb'.startswith(pos):
@@ -230,7 +230,7 @@ def setup():
 def main(args):
     print(args)
     setup()
-    etymology = load_dict(etymology_file)
+    etymology = load(etymology_file)
     query = args.pop(0)
     if args:
         pos = args.pop(0)
