@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+
+19-Apr-2012 -- The conditions of our further trip allowed it to make an excursion into the upstate of Romania and to visit this confluence point at this opportunity. Partially, the roads were very shabby and it seemed not only because of the last winter.
+
+We could park our car appr. 950 m away from the point and could make a comfortable walk to the mountain ridge. There is a herdsmen station not far from the point, but only the dogs came to visit us.
+
+Because we had good weather and still a bit time we decided to drive on small roads to the west to point 46N 24E.
+
+]]></TEXT>
+<TAGS>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="111" form="NAM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="104" state="" text="Romania" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="146" form="NOM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="141" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="311" form="NOM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="306" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="396" form="NOM" gazref="" gquant="" id="pl3" latLong="" mod="" scopes="" start="389" state="" text="station" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="419" form="NOM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="414" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="562" form="NOM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="557" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="570" form="NAM" gazref="" gquant="" id="pl6" latLong="" mod="" scopes="" start="563" state="" text="46N 24E" type=""/>
+<PLACE comment="" continent="" countable="FALSE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="100" form="NOM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="93" state="" text="upstate" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="367" endID="" form="NOM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="362" text="ridge" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="541" endID="" form="NOM" gazref="" gquant="" id="p1" latLong="" midIDs="" mod="small" scopes="" start="536" text="roads" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="260" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="258" text="We" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="279" form="NOM" gquant="" id="se1" latLong="" mod="" scopes="" start="276" text="car" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="438" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="434" text="dogs" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="455" form="NOM" gquant="" id="se3" latLong="" mod="" scopes="" start="453" text="us" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="509" form="NOM" gquant="" id="se4" latLong="" mod="" scopes="" start="507" text="we" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="271" gquant="" id="e0" latLong="" mod="" scopes="" start="267" text="park"/>
+<MOTION comment="" countable="" domain="" elevation="" end="124" gquant="" id="m1" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="119" text="visit"/>
+<MOTION comment="" countable="TRUE" domain="" elevation="" end="345" gquant="" id="m2" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="341" text="walk"/>
+<MOTION comment="" countable="" domain="" elevation="" end="443" gquant="" id="m3" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="439" text="came"/>
+<MOTION comment="" countable="" domain="" elevation="" end="526" gquant="" id="m4" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="521" text="drive"/>
+<MOTION comment="" countable="TRUE" domain="" elevation="" end="83" gquant="" id="m0" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="74" text="excursion"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="301" id="s0" semantic_type="TOPOLOGICAL" start="292" text="away from"/>
+<MOTION_SIGNAL comment="" end="348" id="ms1" motion_signal_type="PATH" start="346" text="to"/>
+<MOTION_SIGNAL comment="" end="529" id="ms2" motion_signal_type="PATH" start="527" text="on"/>
+<MOTION_SIGNAL comment="" end="553" id="ms3" motion_signal_type="PATH" start="542" text="to the west"/>
+<MOTION_SIGNAL comment="" end="556" id="ms4" motion_signal_type="PATH" start="554" text="to"/>
+<MOTION_SIGNAL comment="" end="88" id="ms0" motion_signal_type="PATH" start="84" text="into"/>
+<MEASURE comment="" end="291" id="me0" start="280" text="appr. 950 m" unit="meters" value="~950"/>
+<MEASURE comment="" end="404" id="me1" start="397" text="not far" unit="" value="NEAR"/>
+<QSLINK comment="" fromID="pl7" fromText="upstate" id="qsl0" landmark="pl0" relType="TPP" toID="pl0" toText="Romania" trajector="pl7" trigger=""/>
+<QSLINK comment="" fromID="e0" fromText="park" id="qsl4" landmark="pl2" relType="DC" toID="pl2" toText="point" trajector="e0" trigger="s0"/>
+<MOVELINK comment="" fromID="m0" fromText="excursion" goal="pl7" goal_reached="YES" id="mvl0" landmark="" midPoint="" motion_signalID="ms0" mover="m0" pathID="" source="" toID="m0" toText="excursion" trigger="m0"/>
+<MOVELINK comment="" fromID="m1" fromText="visit" goal="pl1" goal_reached="YES" id="mvl1" landmark="" midPoint="" motion_signalID="" mover="m1" pathID="" source="" toID="m1" toText="visit" trigger="m1"/>
+<MOVELINK comment="" fromID="m2" fromText="walk" goal="p0" goal_reached="YES" id="mvl2" landmark="" midPoint="" motion_signalID="ms1" mover="se0" pathID="" source="" toID="se0" toText="We" trigger="m2"/>
+<MOVELINK comment="" fromID="m3" fromText="came" goal="se3" goal_reached="YES" id="mvl3" landmark="" midPoint="" motion_signalID="" mover="se2" pathID="" source="" toID="se2" toText="dogs" trigger="m3"/>
+<MOVELINK comment="" fromID="m4" fromText="drive" goal="pl5" goal_reached="YES" id="mvl4" landmark="" midPoint="" motion_signalID="ms2, ms3, ms4" mover="se4" pathID="p1" source="" toID="se4" toText="we" trigger="m4"/>
+<MEASURELINK comment="" endPoint1="" endPoint2="" fromID="pl3" fromText="station" id="ml1" landmark="pl4" relType="DISTANCE" toID="pl4" toText="point" trajector="pl3" val="me1"/>
+<MEASURELINK comment="" endPoint1="" endPoint2="" fromID="e0" fromText="park" id="ml2" landmark="pl2" relType="DISTANCE" toID="pl2" toText="point" trajector="e0" val="me0"/>
+<METALINK comment="" fromID="pl4" fromText="point" id="metal0" objectID1="pl4" objectID2="pl1" relType="COREFERENCE" toID="pl1" toText="point"/>
+<METALINK comment="" fromID="pl2" fromText="point" id="metal1" objectID1="pl2" objectID2="pl1" relType="COREFERENCE" toID="pl1" toText="point"/>
+<METALINK comment="" fromID="se4" fromText="we" id="metal2" objectID1="se4" objectID2="se0" relType="COREFERENCE" toID="se0" toText="We"/>
+<METALINK comment="" fromID="se3" fromText="us" id="metal3" objectID1="se3" objectID2="se0" relType="COREFERENCE" toID="se0" toText="We"/>
+<METALINK comment="" fromID="pl6" fromText="46N 24E" id="metal4" objectID1="pl6" objectID2="pl5" relType="COREFERENCE" toID="pl5" toText="point"/>
+<CP>46N25E</CP>
+<URL>http://confluence.org/confluence.php?id=9789</URL>
+</TAGS>
+<TOKENS>
+<s>
+  <lex begin='2' end='13'>19-Apr-2012</lex>
+  <lex begin='14' end='16'>--</lex>
+  <lex begin='17' end='20'>The</lex>
+  <lex begin='21' end='31'>conditions</lex>
+  <lex begin='32' end='34'>of</lex>
+  <lex begin='35' end='38'>our</lex>
+  <lex begin='39' end='46'>further</lex>
+  <lex begin='47' end='51'>trip</lex>
+  <lex begin='52' end='59'>allowed</lex>
+  <lex begin='60' end='62'>it</lex>
+  <lex begin='63' end='65'>to</lex>
+  <lex begin='66' end='70'>make</lex>
+  <lex begin='71' end='73'>an</lex>
+  <lex begin='74' end='83'>excursion</lex>
+  <lex begin='84' end='88'>into</lex>
+  <lex begin='89' end='92'>the</lex>
+  <lex begin='93' end='100'>upstate</lex>
+  <lex begin='101' end='103'>of</lex>
+  <lex begin='104' end='111'>Romania</lex>
+  <lex begin='112' end='115'>and</lex>
+  <lex begin='116' end='118'>to</lex>
+  <lex begin='119' end='124'>visit</lex>
+  <lex begin='125' end='129'>this</lex>
+  <lex begin='130' end='140'>confluence</lex>
+  <lex begin='141' end='146'>point</lex>
+  <lex begin='147' end='149'>at</lex>
+  <lex begin='150' end='154'>this</lex>
+  <lex begin='155' end='166'>opportunity</lex>
+  <lex begin='166' end='167'>.</lex>
+</s>
+<s>
+  <lex begin='168' end='177'>Partially</lex>
+  <lex begin='177' end='178'>,</lex>
+  <lex begin='179' end='182'>the</lex>
+  <lex begin='183' end='188'>roads</lex>
+  <lex begin='189' end='193'>were</lex>
+  <lex begin='194' end='198'>very</lex>
+  <lex begin='199' end='205'>shabby</lex>
+  <lex begin='206' end='209'>and</lex>
+  <lex begin='210' end='212'>it</lex>
+  <lex begin='213' end='219'>seemed</lex>
+  <lex begin='220' end='223'>not</lex>
+  <lex begin='224' end='228'>only</lex>
+  <lex begin='229' end='236'>because</lex>
+  <lex begin='237' end='239'>of</lex>
+  <lex begin='240' end='243'>the</lex>
+  <lex begin='244' end='248'>last</lex>
+  <lex begin='249' end='255'>winter</lex>
+  <lex begin='255' end='256'>.</lex>
+</s>
+<s>
+  <lex begin='258' end='260'>We</lex>
+  <lex begin='261' end='266'>could</lex>
+  <lex begin='267' end='271'>park</lex>
+  <lex begin='272' end='275'>our</lex>
+  <lex begin='276' end='279'>car</lex>
+  <lex begin='280' end='284'>appr</lex>
+  <lex begin='284' end='285'>.</lex>
+</s>
+<s>
+  <lex begin='286' end='289'>950</lex>
+  <lex begin='290' end='291'>m</lex>
+  <lex begin='292' end='296'>away</lex>
+  <lex begin='297' end='301'>from</lex>
+  <lex begin='302' end='305'>the</lex>
+  <lex begin='306' end='311'>point</lex>
+  <lex begin='312' end='315'>and</lex>
+  <lex begin='316' end='321'>could</lex>
+  <lex begin='322' end='326'>make</lex>
+  <lex begin='327' end='328'>a</lex>
+  <lex begin='329' end='340'>comfortable</lex>
+  <lex begin='341' end='345'>walk</lex>
+  <lex begin='346' end='348'>to</lex>
+  <lex begin='349' end='352'>the</lex>
+  <lex begin='353' end='361'>mountain</lex>
+  <lex begin='362' end='367'>ridge</lex>
+  <lex begin='367' end='368'>.</lex>
+</s>
+<s>
+  <lex begin='369' end='374'>There</lex>
+  <lex begin='375' end='377'>is</lex>
+  <lex begin='378' end='379'>a</lex>
+  <lex begin='380' end='388'>herdsmen</lex>
+  <lex begin='389' end='396'>station</lex>
+  <lex begin='397' end='400'>not</lex>
+  <lex begin='401' end='404'>far</lex>
+  <lex begin='405' end='409'>from</lex>
+  <lex begin='410' end='413'>the</lex>
+  <lex begin='414' end='419'>point</lex>
+  <lex begin='419' end='420'>,</lex>
+  <lex begin='421' end='424'>but</lex>
+  <lex begin='425' end='429'>only</lex>
+  <lex begin='430' end='433'>the</lex>
+  <lex begin='434' end='438'>dogs</lex>
+  <lex begin='439' end='443'>came</lex>
+  <lex begin='444' end='446'>to</lex>
+  <lex begin='447' end='452'>visit</lex>
+  <lex begin='453' end='455'>us</lex>
+  <lex begin='455' end='456'>.</lex>
+</s>
+<s>
+  <lex begin='458' end='465'>Because</lex>
+  <lex begin='466' end='468'>we</lex>
+  <lex begin='469' end='472'>had</lex>
+  <lex begin='473' end='477'>good</lex>
+  <lex begin='478' end='485'>weather</lex>
+  <lex begin='486' end='489'>and</lex>
+  <lex begin='490' end='495'>still</lex>
+  <lex begin='496' end='497'>a</lex>
+  <lex begin='498' end='501'>bit</lex>
+  <lex begin='502' end='506'>time</lex>
+  <lex begin='507' end='509'>we</lex>
+  <lex begin='510' end='517'>decided</lex>
+  <lex begin='518' end='520'>to</lex>
+  <lex begin='521' end='526'>drive</lex>
+  <lex begin='527' end='529'>on</lex>
+  <lex begin='530' end='535'>small</lex>
+  <lex begin='536' end='541'>roads</lex>
+  <lex begin='542' end='544'>to</lex>
+  <lex begin='545' end='548'>the</lex>
+  <lex begin='549' end='553'>west</lex>
+  <lex begin='554' end='556'>to</lex>
+  <lex begin='557' end='562'>point</lex>
+  <lex begin='563' end='566'>46N</lex>
+  <lex begin='567' end='570'>24E</lex>
+  <lex begin='570' end='571'>.</lex>
+</s>
+</TOKENS>
+
+</SpaceEvalTaskv1.2>

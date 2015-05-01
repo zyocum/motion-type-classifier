@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+Ventura to Los Angeles â€“ 1 day, 73 miles
+Wednesday, November 16th, 2005
+  
+   For a day in Ventura, in addition to visiting schools, I watched surfers, sat at the beach for sunset, and visited Patagonia. I stopped by the headquarters of environmental friendly and profitable Patagonia, which generates a large portion of their electricity from photovoltaic cells over their parking lot. I also met three cyclists riding south from Vancouver with their own environmental web log.
+
+ 
+   After staying at the house of a teacher at Cabrillo middle school, I left at dawn to try to avoid the Santa Ana winds. Passing a navy base, I followed the Pacific Coast Highway along the coastal mountains, passing through Malibu and Santa Monica before turning towards West Los Angeles where I met my friend Julia Goodnough.
+]]></TEXT>
+<TAGS>
+<PLACE comment="beginning of '... passing through Malibu ...'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl10" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="end of '... passing through Malibu ...'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl11" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="beginning of '... passing through ... Santa Monica ...'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl17" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="end of '... passing through ... Santa Monica ...'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl18" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="The set of [Malibu,pl] and [Santa Monica,se] in '... passing through Malibu and Santa Monica before turning towards ...'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl20" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="amount=gt1" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="134" form="NOM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="127" state="" text="schools" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="171" form="NOM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="166" state="" text="beach" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="205" form="NAM" gazref="" gquant="" id="pl3" latLong="" mod="" scopes="" start="196" state="" text="Patagonia" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="236" form="NOM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="224" state="" text="headquarters" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="287" form="NAM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="278" state="" text="Patagonia" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="388" form="NOM" gazref="" gquant="" id="pl6" latLong="" mod="" scopes="" start="385" state="" text="lot" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="443" form="NAM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="434" state="" text="Vancouver" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="514" form="NOM" gazref="" gquant="" id="pl8" latLong="" mod="" scopes="" start="509" state="" text="house" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="553" form="NAM" gazref="" gquant="" id="pl9" latLong="" mod="" scopes="" start="531" state="" text="Cabrillo middle school" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="626" form="NOM" gazref="" gquant="" id="pl12" latLong="" mod="" scopes="" start="622" state="" text="base" type=""/>
+<PLACE comment="amoung=gt1" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="692" form="NOM" gazref="" gquant="" id="pl13" latLong="" mod="" scopes="" start="683" state="" text="mountains" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="716" form="NAM" gazref="" gquant="" id="pl14" latLong="" mod="" scopes="" start="710" state="" text="Malibu" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="733" form="NAM" gazref="" gquant="" id="pl15" latLong="" mod="" scopes="" start="721" state="" text="Santa Monica" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="773" form="NAM" gazref="" gquant="" id="pl16" latLong="" mod="" scopes="" start="757" state="" text="West Los Angeles" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="101" form="NAM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="94" state="" text="Ventura" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="664" endID="" form="NAM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="643" text="Pacific Coast Highway" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="137" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="136" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="208" form="NOM" gquant="" id="se1" latLong="" mod="" scopes="" start="207" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="365" form="NOM" gquant="" id="se2" latLong="" mod="photovoltaic" scopes="" start="360" text="cells" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="391" form="NOM" gquant="" id="se9" latLong="" mod="" scopes="" start="390" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="415" form="NOM" gquant="" id="se3" latLong="" mod="" scopes="" start="407" text="cyclists" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="556" form="NOM" gquant="" id="se5" latLong="" mod="" scopes="" start="555" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="" dimensionality="" domain="" elevation="" end="605" form="NAM" gquant="" id="se6" latLong="" mod="" scopes="" start="590" text="Santa Ana winds" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="629" form="NOM" gquant="" id="se7" latLong="" mod="" scopes="" start="628" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="781" form="NOM" gquant="" id="se10" latLong="" mod="" scopes="" start="780" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="811" form="NAM" gquant="" id="se8" latLong="" mod="" scopes="" start="796" text="Julia Goodnough" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="145" gquant="" id="e0" latLong="" mod="" scopes="" start="138" text="watched"/>
+<NONMOTION_EVENT comment="" countable="TRUE" domain="" elevation="" end="90" gquant="" id="e1" latLong="" mod="" scopes="" start="87" text="day"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="158" gquant="" id="e2" latLong="" mod="" scopes="" start="155" text="sat"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="501" gquant="" id="e3" latLong="" mod="" scopes="" start="494" text="staying"/>
+<MOTION comment="" countable="" domain="" elevation="" end="126" gquant="" id="m0" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="118" text="visiting"/>
+<MOTION comment="" countable="" domain="" elevation="" end="195" gquant="" id="m2" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="188" text="visited"/>
+<MOTION comment="" countable="" domain="" elevation="" end="216" gquant="" id="m3" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="209" text="stopped"/>
+<MOTION comment="" countable="" domain="" elevation="" end="400" gquant="" id="m12" latLong="" mod="" motion_class="HIT" motion_sense="LITERAL" motion_type="PATH" scopes="" start="397" text="met"/>
+<MOTION comment="" countable="" domain="" elevation="" end="422" gquant="" id="m4" latLong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="416" text="riding"/>
+<MOTION comment="" countable="" domain="" elevation="" end="561" gquant="" id="m6" latLong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="557" text="left"/>
+<MOTION comment="" countable="" domain="" elevation="" end="585" gquant="" id="m7" latLong="" mod="" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" motion_type="PATH" scopes="" start="580" text="avoid"/>
+<MOTION comment="" countable="" domain="" elevation="" end="614" gquant="" id="m8" latLong="" mod="" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" motion_type="PATH" scopes="" start="607" text="Passing"/>
+<MOTION comment="" countable="" domain="" elevation="" end="638" gquant="" id="m9" latLong="" mod="" motion_class="FOLLOW" motion_sense="LITERAL" motion_type="PATH" scopes="" start="630" text="followed"/>
+<MOTION comment="" countable="" domain="" elevation="" end="701" gquant="" id="m10" latLong="" mod="" motion_class="CROSS" motion_sense="LITERAL" motion_type="PATH" scopes="" start="694" text="passing"/>
+<MOTION comment="" countable="" domain="" elevation="" end="748" gquant="" id="m11" latLong="" mod="" motion_class="DEVIATE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="741" text="turning"/>
+<MOTION comment="" countable="" domain="" elevation="" end="785" gquant="" id="m13" latLong="" mod="" motion_class="HIT" motion_sense="LITERAL" motion_type="PATH" scopes="" start="782" text="met"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="161" id="s1" semantic_type="TOPOLOGICAL" start="159" text="at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="370" id="s2" semantic_type="DIR_TOP" start="366" text="over"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="670" id="s4" semantic_type="TOPOLOGICAL" start="665" text="along"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="779" id="s5" semantic_type="TOPOLOGICAL" start="774" text="where"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="93" id="s0" semantic_type="TOPOLOGICAL" start="91" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="504" id="s3" semantic_type="TOPOLOGICAL" start="502" text="at"/>
+<MOTION_SIGNAL comment="" end="219" id="ms1" motion_signal_type="PATH" start="217" text="by"/>
+<MOTION_SIGNAL comment="" end="428" id="ms2" motion_signal_type="PATH" start="423" text="south"/>
+<MOTION_SIGNAL comment="" end="433" id="ms3" motion_signal_type="PATH" start="429" text="from"/>
+<MOTION_SIGNAL comment="" end="709" id="ms5" motion_signal_type="PATH" start="702" text="through"/>
+<MOTION_SIGNAL comment="" end="756" id="ms6" motion_signal_type="PATH" start="749" text="towards"/>
+<QSLINK comment="" fromID="e1" fromText="day" id="qsl0" landmark="pl0" relType="IN" toID="pl0" toText="Ventura" trajector="e1" trigger="s0"/>
+<QSLINK comment="" fromID="m0" fromText="visiting" id="qsl1" landmark="pl0" relType="IN" toID="pl0" toText="Ventura" trajector="m0" trigger="s0"/>
+<QSLINK comment="" fromID="e0" fromText="watched" id="qsl2" landmark="pl0" relType="IN" toID="pl0" toText="Ventura" trajector="e0" trigger="s0"/>
+<QSLINK comment="" fromID="se2" fromText="cells" id="qsl5" landmark="pl6" relType="DC" toID="pl6" toText="lot" trajector="se2" trigger="s2"/>
+<QSLINK comment="" fromID="p0" fromText="Pacific Coast Highway" id="qsl6" landmark="pl13" relType="EC" toID="pl13" toText="mountains" trajector="p0" trigger="s4"/>
+<QSLINK comment="" fromID="m13" fromText="met" id="qsl7" landmark="pl16" relType="IN" toID="pl16" toText="West Los Angeles" trajector="m13" trigger="s5"/>
+<QSLINK comment="" fromID="pl10" fromText="" id="qsl8" landmark="pl14" relType="EC" toID="pl14" toText="Malibu" trajector="pl10" trigger=""/>
+<QSLINK comment="" fromID="pl11" fromText="" id="qsl9" landmark="pl14" relType="EC" toID="pl14" toText="Malibu" trajector="pl11" trigger=""/>
+<QSLINK comment="" fromID="pl17" fromText="" id="qsl10" landmark="pl15" relType="EC" toID="pl15" toText="Santa Monica" trajector="pl17" trigger=""/>
+<QSLINK comment="" fromID="pl18" fromText="" id="qsl11" landmark="pl15" relType="EC" toID="pl15" toText="Santa Monica" trajector="pl18" trigger=""/>
+<QSLINK comment="" fromID="e2" fromText="sat" id="qsl12" landmark="pl2" relType="IN" toID="pl2" toText="beach" trajector="e2" trigger="s1"/>
+<QSLINK comment="" fromID="e2" fromText="sat" id="qsl13" landmark="e1" relType="IN" toID="e1" toText="day" trajector="e2" trigger="s0"/>
+<QSLINK comment="" fromID="e3" fromText="staying" id="qsl14" landmark="pl8" relType="IN" toID="pl8" toText="house" trajector="e3" trigger="s3"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="se2" fromText="cells" id="ol0" landmark="pl6" projective="FALSE" referencePt="pl6" relType="ABOVE" toID="pl6" toText="lot" trajector="se2" trigger="s2"/>
+<OLINK comment="" frame_type="RELATIVE" fromID="pl10" fromText="" id="ol1" landmark="pl14" projective="FALSE" referencePt="pl11" relType="ACROSS" toID="pl14" toText="Malibu" trajector="pl10" trigger=""/>
+<OLINK comment="" frame_type="RELATIVE" fromID="pl17" fromText="" id="ol2" landmark="pl15" projective="FALSE" referencePt="pl18" relType="ACROSS" toID="pl15" toText="Santa Monica" trajector="pl17" trigger=""/>
+<MOVELINK comment="" fromID="m0" fromText="visiting" goal="pl1" goal_reached="YES" id="mvl0" landmark="" midPoint="" motion_signalID="" mover="se0" pathID="" source="" toID="se0" toText="I" trigger="m0"/>
+<MOVELINK comment="" fromID="m9" fromText="followed" goal="" goal_reached="" id="mvl10" landmark="" midPoint="" motion_signalID="" mover="se7" pathID="p0" source="" toID="se7" toText="I" trigger="m9"/>
+<MOVELINK comment="" fromID="m10" fromText="passing" goal="pl11" goal_reached="YES" id="mvl11" landmark="" midPoint="pl14" motion_signalID="ms5" mover="se7" pathID="" source="pl10" toID="se7" toText="I" trigger="m10"/>
+<MOVELINK comment="" fromID="m10" fromText="passing" goal="pl18" goal_reached="YES" id="mvl12" landmark="" midPoint="pl15" motion_signalID="ms5" mover="se7" pathID="" source="pl17" toID="se7" toText="I" trigger="m10"/>
+<MOVELINK comment="" fromID="m11" fromText="turning" goal="pl16" goal_reached="YES" id="mvl13" landmark="" midPoint="" motion_signalID="ms6" mover="se7" pathID="" source="p0" toID="se7" toText="I" trigger="m11"/>
+<MOVELINK comment="" fromID="m13" fromText="met" goal="se8" goal_reached="YES" id="mvl14" landmark="" midPoint="" motion_signalID="" mover="se10" pathID="" source="" toID="se10" toText="I" trigger="m13"/>
+<MOVELINK comment="" fromID="m2" fromText="visited" goal="pl3" goal_reached="YES" id="mvl2" landmark="" midPoint="" motion_signalID="" mover="se0" pathID="" source="" toID="se0" toText="I" trigger="m2"/>
+<MOVELINK comment="" fromID="m3" fromText="stopped" goal="pl4" goal_reached="YES" id="mvl3" landmark="" midPoint="" motion_signalID="ms1" mover="se1" pathID="" source="" toID="se1" toText="I" trigger="m3"/>
+<MOVELINK comment="" fromID="m12" fromText="met" goal="se3" goal_reached="YES" id="mvl4" landmark="" midPoint="" motion_signalID="" mover="se9" pathID="" source="" toID="se9" toText="I" trigger="m12"/>
+<MOVELINK comment="" fromID="m4" fromText="riding" goal="" goal_reached="" id="mvl5" landmark="" midPoint="" motion_signalID="ms2, ms3" mover="se3" pathID="" source="pl7" toID="se3" toText="cyclists" trigger="m4"/>
+<MOVELINK comment="" fromID="m6" fromText="left" goal="" goal_reached="" id="mvl7" landmark="" midPoint="" motion_signalID="" mover="se5" pathID="" source="pl8" toID="se5" toText="I" trigger="m6"/>
+<MOVELINK comment="" fromID="m7" fromText="avoid" goal="" goal_reached="" id="mvl8" landmark="se6" midPoint="" motion_signalID="" mover="se5" pathID="" source="" toID="se5" toText="I" trigger="m7"/>
+<MOVELINK comment="" fromID="m8" fromText="Passing" goal="" goal_reached="" id="mvl9" landmark="pl12" midPoint="" motion_signalID="" mover="se7" pathID="" source="" toID="se7" toText="I" trigger="m8"/>
+<METALINK comment="" fromID="pl14" fromText="Malibu" id="metal0" objectID1="pl14" objectID2="pl20" relType="SUBCOREFERENCE" toID="pl20" toText=""/>
+<METALINK comment="" fromID="pl15" fromText="Santa Monica" id="metal1" objectID1="pl15" objectID2="pl20" relType="SUBCOREFERENCE" toID="pl20" toText=""/>
+<METALINK comment="" fromID="se7" fromText="I" id="metal2" objectID1="se7" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se5" fromText="I" id="metal3" objectID1="se5" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se1" fromText="I" id="metal4" objectID1="se1" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se10" fromText="I" id="metal5" objectID1="se10" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se9" fromText="I" id="metal6" objectID1="se9" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+</TAGS>
+<TOKENS>
+<s>
+  <lex begin='1' end='8'>Ventura</lex>
+  <lex begin='9' end='11'>to</lex>
+  <lex begin='12' end='15'>Los</lex>
+  <lex begin='16' end='23'>Angeles</lex>
+  <lex begin='24' end='25'>â</lex>
+  <lex begin='25' end='26'>€</lex>
+  <lex begin='26' end='27'>“</lex>
+  <lex begin='28' end='29'>1</lex>
+  <lex begin='30' end='33'>day</lex>
+  <lex begin='33' end='34'>,</lex>
+  <lex begin='35' end='37'>73</lex>
+  <lex begin='38' end='43'>miles</lex>
+  <lex begin='44' end='53'>Wednesday</lex>
+  <lex begin='53' end='54'>,</lex>
+  <lex begin='55' end='63'>November</lex>
+  <lex begin='64' end='68'>16th</lex>
+  <lex begin='68' end='69'>,</lex>
+  <lex begin='70' end='74'>2005</lex>
+  <lex begin='81' end='84'>For</lex>
+  <lex begin='85' end='86'>a</lex>
+  <lex begin='87' end='90'>day</lex>
+  <lex begin='91' end='93'>in</lex>
+  <lex begin='94' end='101'>Ventura</lex>
+  <lex begin='101' end='102'>,</lex>
+  <lex begin='103' end='105'>in</lex>
+  <lex begin='106' end='114'>addition</lex>
+  <lex begin='115' end='117'>to</lex>
+  <lex begin='118' end='126'>visiting</lex>
+  <lex begin='127' end='134'>schools</lex>
+  <lex begin='134' end='135'>,</lex>
+  <lex begin='136' end='137'>I</lex>
+  <lex begin='138' end='145'>watched</lex>
+  <lex begin='146' end='153'>surfers</lex>
+  <lex begin='153' end='154'>,</lex>
+  <lex begin='155' end='158'>sat</lex>
+  <lex begin='159' end='161'>at</lex>
+  <lex begin='162' end='165'>the</lex>
+  <lex begin='166' end='171'>beach</lex>
+  <lex begin='172' end='175'>for</lex>
+  <lex begin='176' end='182'>sunset</lex>
+  <lex begin='182' end='183'>,</lex>
+  <lex begin='184' end='187'>and</lex>
+  <lex begin='188' end='195'>visited</lex>
+  <lex begin='196' end='205'>Patagonia</lex>
+  <lex begin='205' end='206'>.</lex>
+</s>
+<s>
+  <lex begin='207' end='208'>I</lex>
+  <lex begin='209' end='216'>stopped</lex>
+  <lex begin='217' end='219'>by</lex>
+  <lex begin='220' end='223'>the</lex>
+  <lex begin='224' end='236'>headquarters</lex>
+  <lex begin='237' end='239'>of</lex>
+  <lex begin='240' end='253'>environmental</lex>
+  <lex begin='254' end='262'>friendly</lex>
+  <lex begin='263' end='266'>and</lex>
+  <lex begin='267' end='277'>profitable</lex>
+  <lex begin='278' end='287'>Patagonia</lex>
+  <lex begin='287' end='288'>,</lex>
+  <lex begin='289' end='294'>which</lex>
+  <lex begin='295' end='304'>generates</lex>
+  <lex begin='305' end='306'>a</lex>
+  <lex begin='307' end='312'>large</lex>
+  <lex begin='313' end='320'>portion</lex>
+  <lex begin='321' end='323'>of</lex>
+  <lex begin='324' end='329'>their</lex>
+  <lex begin='330' end='341'>electricity</lex>
+  <lex begin='342' end='346'>from</lex>
+  <lex begin='347' end='359'>photovoltaic</lex>
+  <lex begin='360' end='365'>cells</lex>
+  <lex begin='366' end='370'>over</lex>
+  <lex begin='371' end='376'>their</lex>
+  <lex begin='377' end='384'>parking</lex>
+  <lex begin='385' end='388'>lot</lex>
+  <lex begin='388' end='389'>.</lex>
+</s>
+<s>
+  <lex begin='390' end='391'>I</lex>
+  <lex begin='392' end='396'>also</lex>
+  <lex begin='397' end='400'>met</lex>
+  <lex begin='401' end='406'>three</lex>
+  <lex begin='407' end='415'>cyclists</lex>
+  <lex begin='416' end='422'>riding</lex>
+  <lex begin='423' end='428'>south</lex>
+  <lex begin='429' end='433'>from</lex>
+  <lex begin='434' end='443'>Vancouver</lex>
+  <lex begin='444' end='448'>with</lex>
+  <lex begin='449' end='454'>their</lex>
+  <lex begin='455' end='458'>own</lex>
+  <lex begin='459' end='472'>environmental</lex>
+  <lex begin='473' end='476'>web</lex>
+  <lex begin='477' end='480'>log</lex>
+  <lex begin='480' end='481'>.</lex>
+</s>
+<s>
+  <lex begin='488' end='493'>After</lex>
+  <lex begin='494' end='501'>staying</lex>
+  <lex begin='502' end='504'>at</lex>
+  <lex begin='505' end='508'>the</lex>
+  <lex begin='509' end='514'>house</lex>
+  <lex begin='515' end='517'>of</lex>
+  <lex begin='518' end='519'>a</lex>
+  <lex begin='520' end='527'>teacher</lex>
+  <lex begin='528' end='530'>at</lex>
+  <lex begin='531' end='539'>Cabrillo</lex>
+  <lex begin='540' end='546'>middle</lex>
+  <lex begin='547' end='553'>school</lex>
+  <lex begin='553' end='554'>,</lex>
+  <lex begin='555' end='556'>I</lex>
+  <lex begin='557' end='561'>left</lex>
+  <lex begin='562' end='564'>at</lex>
+  <lex begin='565' end='569'>dawn</lex>
+  <lex begin='570' end='572'>to</lex>
+  <lex begin='573' end='576'>try</lex>
+  <lex begin='577' end='579'>to</lex>
+  <lex begin='580' end='585'>avoid</lex>
+  <lex begin='586' end='589'>the</lex>
+  <lex begin='590' end='595'>Santa</lex>
+  <lex begin='596' end='599'>Ana</lex>
+  <lex begin='600' end='605'>winds</lex>
+  <lex begin='605' end='606'>.</lex>
+</s>
+<s>
+  <lex begin='607' end='614'>Passing</lex>
+  <lex begin='615' end='616'>a</lex>
+  <lex begin='617' end='621'>navy</lex>
+  <lex begin='622' end='626'>base</lex>
+  <lex begin='626' end='627'>,</lex>
+  <lex begin='628' end='629'>I</lex>
+  <lex begin='630' end='638'>followed</lex>
+  <lex begin='639' end='642'>the</lex>
+  <lex begin='643' end='650'>Pacific</lex>
+  <lex begin='651' end='656'>Coast</lex>
+  <lex begin='657' end='664'>Highway</lex>
+  <lex begin='665' end='670'>along</lex>
+  <lex begin='671' end='674'>the</lex>
+  <lex begin='675' end='682'>coastal</lex>
+  <lex begin='683' end='692'>mountains</lex>
+  <lex begin='692' end='693'>,</lex>
+  <lex begin='694' end='701'>passing</lex>
+  <lex begin='702' end='709'>through</lex>
+  <lex begin='710' end='716'>Malibu</lex>
+  <lex begin='717' end='720'>and</lex>
+  <lex begin='721' end='726'>Santa</lex>
+  <lex begin='727' end='733'>Monica</lex>
+  <lex begin='734' end='740'>before</lex>
+  <lex begin='741' end='748'>turning</lex>
+  <lex begin='749' end='756'>towards</lex>
+  <lex begin='757' end='761'>West</lex>
+  <lex begin='762' end='765'>Los</lex>
+  <lex begin='766' end='773'>Angeles</lex>
+  <lex begin='774' end='779'>where</lex>
+  <lex begin='780' end='781'>I</lex>
+  <lex begin='782' end='785'>met</lex>
+  <lex begin='786' end='788'>my</lex>
+  <lex begin='789' end='795'>friend</lex>
+  <lex begin='796' end='801'>Julia</lex>
+  <lex begin='802' end='811'>Goodnough</lex>
+  <lex begin='811' end='812'>.</lex>
+</s>
+</TOKENS>
+
+</SpaceEvalTaskv1.2>

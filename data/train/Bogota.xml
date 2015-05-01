@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+Bogota to Bucaramanga
+Monday, June 26th, 2006
+ 
+   After a week in Bogota, I departed the city, leaving behind what almost seems routine at this point – a group of new friends, a newspaper appearance, and a city that I hope to return to someday. I was escorted out of town by Bruce, an American who helped me out while in Bogota.
+
+   Heading northwest towards Venezuela (map), I first stopped in the colonial town of Zipaquira, where the locals have converted a salt mine into an underground cathedral. Continuing on, I was told by everyone that this stretch of road was safe, and I proceeded to camp in the countryside next to families.
+
+ 
+   My first night I camped next to Marco’s family’s house. Marcos cuts clay out of the roadside next to his house, then forms the clay into bricks, and then cooks the bricks with coal to harden them. The majority of Colombia’s buildings are made out of bricks, and apparently this is where they come from. I helped cut some clay (video center), but I think I was more a source of entertainment than assistance.
+
+  
+   Camping next to families in the countryside, I am inevitably asked about money and about what life is like in the U.S. I try to explain that there is a difference between standard of living and quality of life, and that while you make more money in the U.S., things are also more expensive (just say what rent in Palo Alto is). But, while most families I see seem to have good family and community lives, the health care is poor and they have nowhere near the options that I or my friends have â€“ minimum wage her is $200 a month. (More thoughts on this in my first comment on this post.)
+
+   Heading north, I camped next to the houses of a few more families, and followed long scenic valleys and canyons up and down until reaching the city of Bucaramanga, another of Colombia’s major cities.
+]]></TEXT>
+<TAGS>
+<PLACE comment="'this is where they come from'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl12" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="" continent="" countable="FALSE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1103" form="NOM" gazref="" gquant="" id="pl17" latLong="" mod="" scopes="" start="1092" state="" text="countryside" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1178" form="NAM" gazref="" gquant="" id="pl18" latLong="" mod="" scopes="" start="1174" state="" text="U.S." type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1317" form="NAM" gazref="" gquant="" id="pl21" latLong="" mod="" scopes="" start="1313" state="" text="U.S." type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1382" form="NAM" gazref="" gquant="" id="pl20" latLong="" mod="" scopes="" start="1373" state="" text="Palo Alto" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1696" form="NOM" gazref="" gquant="" id="pl13" latLong="" mod="" scopes="" start="1690" state="" text="houses" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="212" form="NOM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="208" state="" text="city" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="273" form="NOM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="269" state="" text="town" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="329" form="NAM" gazref="" gquant="" id="pl3" latLong="" mod="" scopes="" start="323" state="" text="Bogota" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="370" form="NAM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="361" state="" text="Venezuela" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="472" form="NOM" gazref="" gquant="" id="pl8" latLong="" mod="" scopes="" start="468" state="" text="mine" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="502" form="NOM" gazref="" gquant="" id="pl9" latLong="" mod="underground" scopes="" start="493" state="" text="cathedral" type=""/>
+<PLACE comment="" continent="" countable="FALSE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="620" form="NOM" gazref="" gquant="" id="pl10" latLong="" mod="" scopes="" start="609" state="" text="countryside" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="74" form="NAM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="68" state="" text="Bogota" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="699" form="NOM" gazref="" gquant="" id="pl15" latLong="" mod="" scopes="" start="694" state="" text="house" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="755" form="NOM" gazref="" gquant="" id="pl19" latLong="" mod="" scopes="" start="750" state="" text="house" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="95" form="NOM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="91" state="" text="city" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="922" form="NOM" gazref="" gquant="" id="pl16" latLong="" mod="" scopes="" start="918" state="" text="this" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="414" form="NOM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="410" state="" text="town" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="427" form="NAM" gazref="" gquant="" id="pl11" latLong="" mod="" scopes="" start="418" state="" text="Zipaquira" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1801" form="NOM" gazref="" gquant="" id="pl22" latLong="" mod="" scopes="" start="1797" state="" text="city" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1816" form="NAM" gazref="" gquant="" id="pl23" latLong="" mod="" scopes="" start="1805" state="" text="Bucaramanga" type=""/>
+<PATH beginID="" comment="amount=gt1" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1753" endID="" form="NOM" gazref="" gquant="" id="p3" latLong="" midIDs="" mod="long" scopes="" start="1746" text="valleys" type=""/>
+<PATH beginID="" comment="amount=gt1" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1765" endID="" form="NOM" gazref="" gquant="" id="p2" latLong="" midIDs="" mod="long" scopes="" start="1758" text="canyons" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="737" endID="" form="NOM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="729" text="roadside" type=""/>
+<SPATIAL_ENTITY comment="amount=gt1" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1084" form="NOM" gquant="" id="se10" latLong="" mod="" scopes="" start="1076" text="families" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1106" form="NOM" gquant="" id="se12" latLong="" mod="" scopes="" start="1105" text="I" type=""/>
+<SPATIAL_ENTITY comment="of new friends" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="161" form="NOM" gquant="" id="se1" latLong="" mod="" scopes="" start="156" text="group" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1670" form="NOM" gquant="" id="se11" latLong="" mod="" scopes="" start="1669" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="219" form="NOM" gquant="" id="se14" latLong="" mod="" scopes="" start="218" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="248" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="247" text="I" type=""/>
+<SPATIAL_ENTITY comment="an American" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="282" form="NAM" gquant="" id="se3" latLong="" mod="" scopes="" start="277" text="Bruce" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="379" form="NOM" gquant="" id="se4" latLong="" mod="" scopes="" start="378" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="583" form="NOM" gquant="" id="se6" latLong="" mod="" scopes="" start="582" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="637" form="NOM" gquant="" id="se7" latLong="" mod="" scopes="" start="629" text="families" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="661" form="NOM" gquant="" id="se8" latLong="" mod="" scopes="" start="660" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="" dimensionality="" domain="" elevation="" end="717" form="NOM" gquant="" id="se9" latLong="" mod="" scopes="" start="713" text="clay" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="77" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="76" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="901" form="NOM" gquant="" id="se5" latLong="" mod="" scopes="" start="895" text="bricks" type=""/>
+<SPATIAL_ENTITY comment="bricks" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="936" form="NOM" gquant="" id="se13" latLong="" mod="" scopes="" start="932" text="they" type=""/>
+<SPATIAL_ENTITY comment="quant=some" countable="FALSE" dcl="" dimensionality="" domain="" elevation="" end="970" form="NOM" gquant="" id="se17" latLong="" mod="" scopes="" start="966" text="clay" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="-1" form="NOM" gquant="" id="se15" latLong="" mod="" scopes="" start="-1" text="" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="520" form="NOM" gquant="" id="se16" latLong="" mod="" scopes="" start="519" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="949" form="NOM" gquant="" id="se18" latLong="" mod="" scopes="" start="948" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="992" form="NOM" gquant="" id="se19" latLong="" mod="" scopes="" start="991" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1000" form="NOM" gquant="" id="se20" latLong="" mod="" scopes="" start="999" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1180" form="NOM" gquant="" id="se21" latLong="" mod="" scopes="" start="1179" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1414" form="NOM" gquant="" id="se22" latLong="" mod="" scopes="" start="1413" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1534" form="NOM" gquant="" id="se23" latLong="" mod="" scopes="" start="1533" text="I" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1067" gquant="" id="e8" latLong="" mod="" scopes="" start="1060" text="Camping"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1158" gquant="" id="e5" latLong="" mod="" scopes="" start="1154" text="life"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1677" gquant="" id="e6" latLong="" mod="" scopes="" start="1671" text="camped"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="306" gquant="" id="e0" latLong="" mod="" scopes="" start="300" text="helped"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="393" gquant="" id="e3" latLong="" mod="" scopes="" start="386" text="stopped"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="460" gquant="" id="e1" latLong="" mod="" scopes="" start="451" text="converted"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="593" gquant="" id="e2" latLong="" mod="" scopes="" start="584" text="proceeded"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="601" gquant="" id="e4" latLong="" mod="" scopes="" start="597" text="camp"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="668" gquant="" id="e7" latLong="" mod="" scopes="" start="662" text="camped"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1661" gquant="" id="m14" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1654" text="Heading"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1733" gquant="" id="m16" latLong="" mod="" motion_class="FOLLOW" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1725" text="followed"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1792" gquant="" id="m17" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1784" text="reaching"/>
+<MOTION comment="" countable="" domain="" elevation="" end="234" gquant="" id="m2" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="228" text="return"/>
+<MOTION comment="" countable="" domain="" elevation="" end="261" gquant="" id="m3" latLong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="253" text="escorted"/>
+<MOTION comment="" countable="" domain="" elevation="" end="342" gquant="" id="m4" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="335" text="Heading"/>
+<MOTION comment="" countable="" domain="" elevation="" end="712" gquant="" id="m9" latLong="" mod="" motion_class="DETACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="708" text="cuts"/>
+<MOTION comment="" countable="" domain="" elevation="" end="86" gquant="" id="m0" latLong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="78" text="departed"/>
+<MOTION comment="" countable="" domain="" elevation="" end="941" gquant="" id="m11" latLong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="937" text="come"/>
+<MOTION comment="" countable="" domain="" elevation="" end="960" gquant="" id="m12" latLong="" mod="" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" motion_type="MANNER" scopes="" start="957" text="cut"/>
+<MOTION comment="" countable="" domain="" elevation="" end="104" gquant="" id="m1" latLong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="97" text="leaving"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="111" id="s10" semantic_type="DIRECTIONAL" start="105" text="behind"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1075" id="s4" semantic_type="DIRECTIONAL" start="1068" text="next to"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1087" id="s15" semantic_type="TOPOLOGICAL" start="1085" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1169" id="s7" semantic_type="TOPOLOGICAL" start="1167" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1685" id="s6" semantic_type="DIRECTIONAL" start="1678" text="next to"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="322" id="s9" semantic_type="TOPOLOGICAL" start="320" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="396" id="s1" semantic_type="TOPOLOGICAL" start="394" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="434" id="s0" semantic_type="TOPOLOGICAL" start="429" text="where"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="604" id="s13" semantic_type="TOPOLOGICAL" start="602" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="628" id="s8" semantic_type="DIR_TOP" start="621" text="next to"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="676" id="s2" semantic_type="DIR_TOP" start="669" text="next to"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="745" id="s3" semantic_type="DIR_TOP" start="738" text="next to"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="931" id="s5" semantic_type="TOPOLOGICAL" start="926" text="where"/>
+<MOTION_SIGNAL comment="" end="1667" id="ms0" motion_signal_type="PATH" start="1662" text="north"/>
+<MOTION_SIGNAL comment="" end="1768" id="ms12" motion_signal_type="PATH" start="1766" text="up"/>
+<MOTION_SIGNAL comment="" end="1777" id="ms13" motion_signal_type="PATH" start="1773" text="down"/>
+<MOTION_SIGNAL comment="" end="237" id="ms1" motion_signal_type="PATH" start="235" text="to"/>
+<MOTION_SIGNAL comment="" end="265" id="ms11" motion_signal_type="PATH" start="262" text="out"/>
+<MOTION_SIGNAL comment="" end="352" id="ms2" motion_signal_type="PATH" start="343" text="northwest"/>
+<MOTION_SIGNAL comment="" end="360" id="ms14" motion_signal_type="PATH" start="353" text="towards"/>
+<MOTION_SIGNAL comment="" end="724" id="ms16" motion_signal_type="PATH" start="718" text="out of"/>
+<MOTION_SIGNAL comment="" end="946" id="ms10" motion_signal_type="PATH" start="942" text="from"/>
+<QSLINK comment="" fromID="e0" fromText="helped" id="qsl0" landmark="pl3" relType="IN" toID="pl3" toText="Bogota" trajector="e0" trigger="s9"/>
+<QSLINK comment="" fromID="se10" fromText="families" id="qsl4" landmark="pl17" relType="IN" toID="pl17" toText="countryside" trajector="se10" trigger="s15"/>
+<QSLINK comment="" fromID="e5" fromText="life" id="qsl5" landmark="pl18" relType="IN" toID="pl18" toText="U.S." trajector="e5" trigger="s7"/>
+<QSLINK comment="" fromID="e2" fromText="proceeded" id="qsl6" landmark="pl10" relType="IN" toID="pl10" toText="countryside" trajector="e2" trigger="s13"/>
+<QSLINK comment="" fromID="e4" fromText="camp" id="qsl7" landmark="pl10" relType="IN" toID="pl10" toText="countryside" trajector="e4" trigger="s13"/>
+<QSLINK comment="" fromID="e4" fromText="camp" id="qsl8" landmark="se7" relType="DC" toID="se7" toText="families" trajector="e4" trigger="s8"/>
+<QSLINK comment="" fromID="e7" fromText="camped" id="qsl9" landmark="pl15" relType="DC" toID="pl15" toText="house" trajector="e7" trigger="s2"/>
+<QSLINK comment="" fromID="p0" fromText="roadside" id="qsl10" landmark="pl19" relType="DC" toID="pl19" toText="house" trajector="p0" trigger="s3"/>
+<QSLINK comment="" fromID="e3" fromText="stopped" id="qsl11" landmark="pl11" relType="IN" toID="pl11" toText="Zipaquira" trajector="e3" trigger="s1"/>
+<QSLINK comment="" fromID="e1" fromText="converted" id="qsl12" landmark="pl11" relType="IN" toID="pl11" toText="Zipaquira" trajector="e1" trigger="s0"/>
+<QSLINK comment="" fromID="pl8" fromText="mine" id="qsl13" landmark="pl11" relType="IN" toID="pl11" toText="Zipaquira" trajector="pl8" trigger=""/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="e6" fromText="camped" id="ol0" landmark="pl13" projective="FALSE" referencePt="pl13" relType="NEXT_TO" toID="pl13" toText="houses" trajector="e6" trigger="s6"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="e7" fromText="camped" id="ol3" landmark="pl15" projective="FALSE" referencePt="pl15" relType="NEXT_TO" toID="pl15" toText="house" trajector="e7" trigger="s2"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="p0" fromText="roadside" id="ol4" landmark="pl19" projective="FALSE" referencePt="pl19" relType="NEXT_TO" toID="pl19" toText="house" trajector="p0" trigger="s3"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="e8" fromText="Camping" id="ol5" landmark="se10" projective="FALSE" referencePt="se10" relType="NEXT_TO" toID="se10" toText="families" trajector="e8" trigger="s4"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="e4" fromText="camp" id="ol1" landmark="se7" projective="FALSE" referencePt="se7" relType="NEXT_TO" toID="se7" toText="families" trajector="e4" trigger="s8"/>
+<MOVELINK comment="" fromID="m0" fromText="departed" goal="" goal_reached="" id="mvl0" landmark="" midPoint="" motion_signalID="" mover="se0" pathID="" source="pl1" toID="se0" toText="I" trigger="m0"/>
+<MOVELINK comment="" fromID="m1" fromText="leaving" goal="" goal_reached="" id="mvl1" landmark="" midPoint="" motion_signalID="" mover="se0" pathID="" source="pl1" toID="se0" toText="I" trigger="m1"/>
+<MOVELINK comment="" fromID="m12" fromText="cut" goal="" goal_reached="" id="mvl10" landmark="" midPoint="" motion_signalID="" mover="se17" pathID="" source="" toID="se17" toText="clay" trigger="m12"/>
+<MOVELINK comment="" fromID="m2" fromText="return" goal="pl4" goal_reached="UNCERTAIN" id="mvl2" landmark="" midPoint="" motion_signalID="ms1" mover="se14" pathID="" source="" toID="se14" toText="I" trigger="m2"/>
+<MOVELINK comment="" fromID="m3" fromText="escorted" goal="" goal_reached="" id="mvl3" landmark="" midPoint="" motion_signalID="ms11" mover="se15" pathID="" source="pl2" toID="se15" toText="" trigger="m3"/>
+<MOVELINK comment="" fromID="m4" fromText="Heading" goal="pl5" goal_reached="UNCERTAIN" id="mvl4" landmark="" midPoint="" motion_signalID="ms2, ms14" mover="se4" pathID="" source="" toID="se4" toText="I" trigger="m4"/>
+<MOVELINK comment="" fromID="m9" fromText="cuts" goal="" goal_reached="" id="mvl5" landmark="" midPoint="" motion_signalID="ms16" mover="se9" pathID="" source="p0" toID="se9" toText="clay" trigger="m9"/>
+<MOVELINK comment="" fromID="m11" fromText="come" goal="" goal_reached="" id="mvl6" landmark="" midPoint="" motion_signalID="ms10" mover="se13" pathID="" source="pl16" toID="se13" toText="they" trigger="m11"/>
+<MOVELINK comment="" fromID="m14" fromText="Heading" goal="" goal_reached="" id="mvl7" landmark="" midPoint="" motion_signalID="ms0" mover="se11" pathID="" source="" toID="se11" toText="I" trigger="m14"/>
+<MOVELINK comment="" fromID="m16" fromText="followed" goal="" goal_reached="" id="mvl8" landmark="" midPoint="" motion_signalID="ms12, ms13" mover="se11" pathID="p3, p2" source="" toID="se11" toText="I" trigger="m16"/>
+<MOVELINK comment="" fromID="m17" fromText="reaching" goal="pl23" goal_reached="YES" id="mvl9" landmark="" midPoint="" motion_signalID="" mover="se11" pathID="" source="" toID="se11" toText="I" trigger="m17"/>
+<METALINK comment="" fromID="se13" fromText="they" id="metal0" objectID1="se13" objectID2="se5" relType="COREFERENCE" toID="se5" toText="bricks"/>
+<METALINK comment="" fromID="pl4" fromText="city" id="metal1" objectID1="pl4" objectID2="pl0" relType="COREFERENCE" toID="pl0" toText="Bogota"/>
+<METALINK comment="" fromID="se2" fromText="I" id="metal10" objectID1="se2" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se8" fromText="I" id="metal11" objectID1="se8" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="pl17" fromText="countryside" id="metal12" objectID1="pl17" objectID2="pl10" relType="COREFERENCE" toID="pl10" toText="countryside"/>
+<METALINK comment="" fromID="se10" fromText="families" id="metal13" objectID1="se10" objectID2="se7" relType="COREFERENCE" toID="se7" toText="families"/>
+<METALINK comment="" fromID="pl19" fromText="house" id="metal14" objectID1="pl19" objectID2="pl15" relType="COREFERENCE" toID="pl15" toText="house"/>
+<METALINK comment="" fromID="pl21" fromText="U.S." id="metal15" objectID1="pl21" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="U.S."/>
+<METALINK comment="" fromID="se17" fromText="clay" id="metal16" objectID1="se17" objectID2="se9" relType="COREFERENCE" toID="se9" toText="clay"/>
+<METALINK comment="" fromID="pl1" fromText="city" id="metal2" objectID1="pl1" objectID2="pl0" relType="COREFERENCE" toID="pl0" toText="Bogota"/>
+<METALINK comment="" fromID="pl3" fromText="Bogota" id="metal3" objectID1="pl3" objectID2="pl0" relType="COREFERENCE" toID="pl0" toText="Bogota"/>
+<METALINK comment="" fromID="pl2" fromText="town" id="metal4" objectID1="pl2" objectID2="pl0" relType="COREFERENCE" toID="pl0" toText="Bogota"/>
+<METALINK comment="" fromID="se11" fromText="I" id="metal5" objectID1="se11" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se12" fromText="I" id="metal6" objectID1="se12" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se14" fromText="I" id="metal7" objectID1="se14" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se6" fromText="I" id="metal8" objectID1="se6" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se4" fromText="I" id="metal9" objectID1="se4" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se2" fromText="I" id="metal17" objectID1="se2" objectID2="se15" relType="SUBCOREFERENCE" toID="se15" toText=""/>
+<METALINK comment="" fromID="se3" fromText="Bruce" id="metal18" objectID1="se3" objectID2="se15" relType="SUBCOREFERENCE" toID="se15" toText=""/>
+<METALINK comment="" fromID="se16" fromText="I" id="metal20" objectID1="se16" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se18" fromText="I" id="metal21" objectID1="se18" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se19" fromText="I" id="metal22" objectID1="se19" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se20" fromText="I" id="metal23" objectID1="se20" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se21" fromText="I" id="metal24" objectID1="se21" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se22" fromText="I" id="metal25" objectID1="se22" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se23" fromText="I" id="metal26" objectID1="se23" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+</TAGS>
+<TOKENS>
+<s>
+  <lex begin='1' end='7'>Bogota</lex>
+  <lex begin='8' end='10'>to</lex>
+  <lex begin='11' end='22'>Bucaramanga</lex>
+  <lex begin='23' end='29'>Monday</lex>
+  <lex begin='29' end='30'>,</lex>
+  <lex begin='31' end='35'>June</lex>
+  <lex begin='36' end='40'>26th</lex>
+  <lex begin='40' end='41'>,</lex>
+  <lex begin='42' end='46'>2006</lex>
+  <lex begin='52' end='57'>After</lex>
+  <lex begin='58' end='59'>a</lex>
+  <lex begin='60' end='64'>week</lex>
+  <lex begin='65' end='67'>in</lex>
+  <lex begin='68' end='74'>Bogota</lex>
+  <lex begin='74' end='75'>,</lex>
+  <lex begin='76' end='77'>I</lex>
+  <lex begin='78' end='86'>departed</lex>
+  <lex begin='87' end='90'>the</lex>
+  <lex begin='91' end='95'>city</lex>
+  <lex begin='95' end='96'>,</lex>
+  <lex begin='97' end='104'>leaving</lex>
+  <lex begin='105' end='111'>behind</lex>
+  <lex begin='112' end='116'>what</lex>
+  <lex begin='117' end='123'>almost</lex>
+  <lex begin='124' end='129'>seems</lex>
+  <lex begin='130' end='137'>routine</lex>
+  <lex begin='138' end='140'>at</lex>
+  <lex begin='141' end='145'>this</lex>
+  <lex begin='146' end='151'>point</lex>
+  <lex begin='152' end='153'>–</lex>
+  <lex begin='154' end='155'>a</lex>
+  <lex begin='156' end='161'>group</lex>
+  <lex begin='162' end='164'>of</lex>
+  <lex begin='165' end='168'>new</lex>
+  <lex begin='169' end='176'>friends</lex>
+  <lex begin='176' end='177'>,</lex>
+  <lex begin='178' end='179'>a</lex>
+  <lex begin='180' end='189'>newspaper</lex>
+  <lex begin='190' end='200'>appearance</lex>
+  <lex begin='200' end='201'>,</lex>
+  <lex begin='202' end='205'>and</lex>
+  <lex begin='206' end='207'>a</lex>
+  <lex begin='208' end='212'>city</lex>
+  <lex begin='213' end='217'>that</lex>
+  <lex begin='218' end='219'>I</lex>
+  <lex begin='220' end='224'>hope</lex>
+  <lex begin='225' end='227'>to</lex>
+  <lex begin='228' end='234'>return</lex>
+  <lex begin='235' end='237'>to</lex>
+  <lex begin='238' end='245'>someday</lex>
+  <lex begin='245' end='246'>.</lex>
+</s>
+<s>
+  <lex begin='247' end='248'>I</lex>
+  <lex begin='249' end='252'>was</lex>
+  <lex begin='253' end='261'>escorted</lex>
+  <lex begin='262' end='265'>out</lex>
+  <lex begin='266' end='268'>of</lex>
+  <lex begin='269' end='273'>town</lex>
+  <lex begin='274' end='276'>by</lex>
+  <lex begin='277' end='282'>Bruce</lex>
+  <lex begin='282' end='283'>,</lex>
+  <lex begin='284' end='286'>an</lex>
+  <lex begin='287' end='295'>American</lex>
+  <lex begin='296' end='299'>who</lex>
+  <lex begin='300' end='306'>helped</lex>
+  <lex begin='307' end='309'>me</lex>
+  <lex begin='310' end='313'>out</lex>
+  <lex begin='314' end='319'>while</lex>
+  <lex begin='320' end='322'>in</lex>
+  <lex begin='323' end='329'>Bogota</lex>
+  <lex begin='329' end='330'>.</lex>
+</s>
+<s>
+  <lex begin='335' end='342'>Heading</lex>
+  <lex begin='343' end='352'>northwest</lex>
+  <lex begin='353' end='360'>towards</lex>
+  <lex begin='361' end='370'>Venezuela</lex>
+  <lex begin='371' end='372'>(</lex>
+  <lex begin='372' end='375'>map</lex>
+  <lex begin='375' end='376'>)</lex>
+  <lex begin='376' end='377'>,</lex>
+  <lex begin='378' end='379'>I</lex>
+  <lex begin='380' end='385'>first</lex>
+  <lex begin='386' end='393'>stopped</lex>
+  <lex begin='394' end='396'>in</lex>
+  <lex begin='397' end='400'>the</lex>
+  <lex begin='401' end='409'>colonial</lex>
+  <lex begin='410' end='414'>town</lex>
+  <lex begin='415' end='417'>of</lex>
+  <lex begin='418' end='427'>Zipaquira</lex>
+  <lex begin='427' end='428'>,</lex>
+  <lex begin='429' end='434'>where</lex>
+  <lex begin='435' end='438'>the</lex>
+  <lex begin='439' end='445'>locals</lex>
+  <lex begin='446' end='450'>have</lex>
+  <lex begin='451' end='460'>converted</lex>
+  <lex begin='461' end='462'>a</lex>
+  <lex begin='463' end='467'>salt</lex>
+  <lex begin='468' end='472'>mine</lex>
+  <lex begin='473' end='477'>into</lex>
+  <lex begin='478' end='480'>an</lex>
+  <lex begin='481' end='492'>underground</lex>
+  <lex begin='493' end='502'>cathedral</lex>
+  <lex begin='502' end='503'>.</lex>
+</s>
+<s>
+  <lex begin='504' end='514'>Continuing</lex>
+  <lex begin='515' end='517'>on</lex>
+  <lex begin='517' end='518'>,</lex>
+  <lex begin='519' end='520'>I</lex>
+  <lex begin='521' end='524'>was</lex>
+  <lex begin='525' end='529'>told</lex>
+  <lex begin='530' end='532'>by</lex>
+  <lex begin='533' end='541'>everyone</lex>
+  <lex begin='542' end='546'>that</lex>
+  <lex begin='547' end='551'>this</lex>
+  <lex begin='552' end='559'>stretch</lex>
+  <lex begin='560' end='562'>of</lex>
+  <lex begin='563' end='567'>road</lex>
+  <lex begin='568' end='571'>was</lex>
+  <lex begin='572' end='576'>safe</lex>
+  <lex begin='576' end='577'>,</lex>
+  <lex begin='578' end='581'>and</lex>
+  <lex begin='582' end='583'>I</lex>
+  <lex begin='584' end='593'>proceeded</lex>
+  <lex begin='594' end='596'>to</lex>
+  <lex begin='597' end='601'>camp</lex>
+  <lex begin='602' end='604'>in</lex>
+  <lex begin='605' end='608'>the</lex>
+  <lex begin='609' end='620'>countryside</lex>
+  <lex begin='621' end='625'>next</lex>
+  <lex begin='626' end='628'>to</lex>
+  <lex begin='629' end='637'>families</lex>
+  <lex begin='637' end='638'>.</lex>
+</s>
+<s>
+  <lex begin='645' end='647'>My</lex>
+  <lex begin='648' end='653'>first</lex>
+  <lex begin='654' end='659'>night</lex>
+  <lex begin='660' end='661'>I</lex>
+  <lex begin='662' end='668'>camped</lex>
+  <lex begin='669' end='673'>next</lex>
+  <lex begin='674' end='676'>to</lex>
+  <lex begin='677' end='682'>Marco</lex>
+  <lex begin='682' end='684'>’s</lex>
+  <lex begin='685' end='691'>family</lex>
+  <lex begin='691' end='693'>’s</lex>
+  <lex begin='694' end='699'>house</lex>
+  <lex begin='699' end='700'>.</lex>
+</s>
+<s>
+  <lex begin='701' end='707'>Marcos</lex>
+  <lex begin='708' end='712'>cuts</lex>
+  <lex begin='713' end='717'>clay</lex>
+  <lex begin='718' end='721'>out</lex>
+  <lex begin='722' end='724'>of</lex>
+  <lex begin='725' end='728'>the</lex>
+  <lex begin='729' end='737'>roadside</lex>
+  <lex begin='738' end='742'>next</lex>
+  <lex begin='743' end='745'>to</lex>
+  <lex begin='746' end='749'>his</lex>
+  <lex begin='750' end='755'>house</lex>
+  <lex begin='755' end='756'>,</lex>
+  <lex begin='757' end='761'>then</lex>
+  <lex begin='762' end='767'>forms</lex>
+  <lex begin='768' end='771'>the</lex>
+  <lex begin='772' end='776'>clay</lex>
+  <lex begin='777' end='781'>into</lex>
+  <lex begin='782' end='788'>bricks</lex>
+  <lex begin='788' end='789'>,</lex>
+  <lex begin='790' end='793'>and</lex>
+  <lex begin='794' end='798'>then</lex>
+  <lex begin='799' end='804'>cooks</lex>
+  <lex begin='805' end='808'>the</lex>
+  <lex begin='809' end='815'>bricks</lex>
+  <lex begin='816' end='820'>with</lex>
+  <lex begin='821' end='825'>coal</lex>
+  <lex begin='826' end='828'>to</lex>
+  <lex begin='829' end='835'>harden</lex>
+  <lex begin='836' end='840'>them</lex>
+  <lex begin='840' end='841'>.</lex>
+</s>
+<s>
+  <lex begin='842' end='845'>The</lex>
+  <lex begin='846' end='854'>majority</lex>
+  <lex begin='855' end='857'>of</lex>
+  <lex begin='858' end='866'>Colombia</lex>
+  <lex begin='866' end='868'>’s</lex>
+  <lex begin='869' end='878'>buildings</lex>
+  <lex begin='879' end='882'>are</lex>
+  <lex begin='883' end='887'>made</lex>
+  <lex begin='888' end='891'>out</lex>
+  <lex begin='892' end='894'>of</lex>
+  <lex begin='895' end='901'>bricks</lex>
+  <lex begin='901' end='902'>,</lex>
+  <lex begin='903' end='906'>and</lex>
+  <lex begin='907' end='917'>apparently</lex>
+  <lex begin='918' end='922'>this</lex>
+  <lex begin='923' end='925'>is</lex>
+  <lex begin='926' end='931'>where</lex>
+  <lex begin='932' end='936'>they</lex>
+  <lex begin='937' end='941'>come</lex>
+  <lex begin='942' end='946'>from</lex>
+  <lex begin='946' end='947'>.</lex>
+</s>
+<s>
+  <lex begin='948' end='949'>I</lex>
+  <lex begin='950' end='956'>helped</lex>
+  <lex begin='957' end='960'>cut</lex>
+  <lex begin='961' end='965'>some</lex>
+  <lex begin='966' end='970'>clay</lex>
+  <lex begin='971' end='972'>(</lex>
+  <lex begin='972' end='977'>video</lex>
+  <lex begin='978' end='984'>center</lex>
+  <lex begin='984' end='985'>)</lex>
+  <lex begin='985' end='986'>,</lex>
+  <lex begin='987' end='990'>but</lex>
+  <lex begin='991' end='992'>I</lex>
+  <lex begin='993' end='998'>think</lex>
+  <lex begin='999' end='1000'>I</lex>
+  <lex begin='1001' end='1004'>was</lex>
+  <lex begin='1005' end='1009'>more</lex>
+  <lex begin='1010' end='1011'>a</lex>
+  <lex begin='1012' end='1018'>source</lex>
+  <lex begin='1019' end='1021'>of</lex>
+  <lex begin='1022' end='1035'>entertainment</lex>
+  <lex begin='1036' end='1040'>than</lex>
+  <lex begin='1041' end='1051'>assistance</lex>
+  <lex begin='1051' end='1052'>.</lex>
+</s>
+<s>
+  <lex begin='1060' end='1067'>Camping</lex>
+  <lex begin='1068' end='1072'>next</lex>
+  <lex begin='1073' end='1075'>to</lex>
+  <lex begin='1076' end='1084'>families</lex>
+  <lex begin='1085' end='1087'>in</lex>
+  <lex begin='1088' end='1091'>the</lex>
+  <lex begin='1092' end='1103'>countryside</lex>
+  <lex begin='1103' end='1104'>,</lex>
+  <lex begin='1105' end='1106'>I</lex>
+  <lex begin='1107' end='1109'>am</lex>
+  <lex begin='1110' end='1120'>inevitably</lex>
+  <lex begin='1121' end='1126'>asked</lex>
+  <lex begin='1127' end='1132'>about</lex>
+  <lex begin='1133' end='1138'>money</lex>
+  <lex begin='1139' end='1142'>and</lex>
+  <lex begin='1143' end='1148'>about</lex>
+  <lex begin='1149' end='1153'>what</lex>
+  <lex begin='1154' end='1158'>life</lex>
+  <lex begin='1159' end='1161'>is</lex>
+  <lex begin='1162' end='1166'>like</lex>
+  <lex begin='1167' end='1169'>in</lex>
+  <lex begin='1170' end='1173'>the</lex>
+  <lex begin='1174' end='1178'>U.S.</lex>
+</s>
+<s>
+  <lex begin='1179' end='1180'>I</lex>
+  <lex begin='1181' end='1184'>try</lex>
+  <lex begin='1185' end='1187'>to</lex>
+  <lex begin='1188' end='1195'>explain</lex>
+  <lex begin='1196' end='1200'>that</lex>
+  <lex begin='1201' end='1206'>there</lex>
+  <lex begin='1207' end='1209'>is</lex>
+  <lex begin='1210' end='1211'>a</lex>
+  <lex begin='1212' end='1222'>difference</lex>
+  <lex begin='1223' end='1230'>between</lex>
+  <lex begin='1231' end='1239'>standard</lex>
+  <lex begin='1240' end='1242'>of</lex>
+  <lex begin='1243' end='1249'>living</lex>
+  <lex begin='1250' end='1253'>and</lex>
+  <lex begin='1254' end='1261'>quality</lex>
+  <lex begin='1262' end='1264'>of</lex>
+  <lex begin='1265' end='1269'>life</lex>
+  <lex begin='1269' end='1270'>,</lex>
+  <lex begin='1271' end='1274'>and</lex>
+  <lex begin='1275' end='1279'>that</lex>
+  <lex begin='1280' end='1285'>while</lex>
+  <lex begin='1286' end='1289'>you</lex>
+  <lex begin='1290' end='1294'>make</lex>
+  <lex begin='1295' end='1299'>more</lex>
+  <lex begin='1300' end='1305'>money</lex>
+  <lex begin='1306' end='1308'>in</lex>
+  <lex begin='1309' end='1312'>the</lex>
+  <lex begin='1313' end='1317'>U.S.</lex>
+  <lex begin='1317' end='1318'>,</lex>
+  <lex begin='1319' end='1325'>things</lex>
+  <lex begin='1326' end='1329'>are</lex>
+  <lex begin='1330' end='1334'>also</lex>
+  <lex begin='1335' end='1339'>more</lex>
+  <lex begin='1340' end='1349'>expensive</lex>
+  <lex begin='1350' end='1351'>(</lex>
+  <lex begin='1351' end='1355'>just</lex>
+  <lex begin='1356' end='1359'>say</lex>
+  <lex begin='1360' end='1364'>what</lex>
+  <lex begin='1365' end='1369'>rent</lex>
+  <lex begin='1370' end='1372'>in</lex>
+  <lex begin='1373' end='1377'>Palo</lex>
+  <lex begin='1378' end='1382'>Alto</lex>
+  <lex begin='1383' end='1385'>is</lex>
+  <lex begin='1385' end='1386'>)</lex>
+  <lex begin='1386' end='1387'>.</lex>
+</s>
+<s>
+  <lex begin='1388' end='1391'>But</lex>
+  <lex begin='1391' end='1392'>,</lex>
+  <lex begin='1393' end='1398'>while</lex>
+  <lex begin='1399' end='1403'>most</lex>
+  <lex begin='1404' end='1412'>families</lex>
+  <lex begin='1413' end='1414'>I</lex>
+  <lex begin='1415' end='1418'>see</lex>
+  <lex begin='1419' end='1423'>seem</lex>
+  <lex begin='1424' end='1426'>to</lex>
+  <lex begin='1427' end='1431'>have</lex>
+  <lex begin='1432' end='1436'>good</lex>
+  <lex begin='1437' end='1443'>family</lex>
+  <lex begin='1444' end='1447'>and</lex>
+  <lex begin='1448' end='1457'>community</lex>
+  <lex begin='1458' end='1463'>lives</lex>
+  <lex begin='1463' end='1464'>,</lex>
+  <lex begin='1465' end='1468'>the</lex>
+  <lex begin='1469' end='1475'>health</lex>
+  <lex begin='1476' end='1480'>care</lex>
+  <lex begin='1481' end='1483'>is</lex>
+  <lex begin='1484' end='1488'>poor</lex>
+  <lex begin='1489' end='1492'>and</lex>
+  <lex begin='1493' end='1497'>they</lex>
+  <lex begin='1498' end='1502'>have</lex>
+  <lex begin='1503' end='1510'>nowhere</lex>
+  <lex begin='1511' end='1515'>near</lex>
+  <lex begin='1516' end='1519'>the</lex>
+  <lex begin='1520' end='1527'>options</lex>
+  <lex begin='1528' end='1532'>that</lex>
+  <lex begin='1533' end='1534'>I</lex>
+  <lex begin='1535' end='1537'>or</lex>
+  <lex begin='1538' end='1540'>my</lex>
+  <lex begin='1541' end='1548'>friends</lex>
+  <lex begin='1549' end='1553'>have</lex>
+  <lex begin='1554' end='1555'>â</lex>
+  <lex begin='1555' end='1556'>€</lex>
+  <lex begin='1556' end='1557'>“</lex>
+  <lex begin='1558' end='1565'>minimum</lex>
+  <lex begin='1566' end='1570'>wage</lex>
+  <lex begin='1571' end='1574'>her</lex>
+  <lex begin='1575' end='1577'>is</lex>
+  <lex begin='1578' end='1579'>$</lex>
+  <lex begin='1579' end='1582'>200</lex>
+  <lex begin='1583' end='1584'>a</lex>
+  <lex begin='1585' end='1590'>month</lex>
+  <lex begin='1590' end='1591'>.</lex>
+</s>
+<s>
+  <lex begin='1592' end='1593'>(</lex>
+  <lex begin='1593' end='1597'>More</lex>
+  <lex begin='1598' end='1606'>thoughts</lex>
+  <lex begin='1607' end='1609'>on</lex>
+  <lex begin='1610' end='1614'>this</lex>
+  <lex begin='1615' end='1617'>in</lex>
+  <lex begin='1618' end='1620'>my</lex>
+  <lex begin='1621' end='1626'>first</lex>
+  <lex begin='1627' end='1634'>comment</lex>
+  <lex begin='1635' end='1637'>on</lex>
+  <lex begin='1638' end='1642'>this</lex>
+  <lex begin='1643' end='1647'>post</lex>
+  <lex begin='1647' end='1648'>.</lex>
+  <lex begin='1648' end='1649'>)</lex>
+</s>
+<s>
+  <lex begin='1654' end='1661'>Heading</lex>
+  <lex begin='1662' end='1667'>north</lex>
+  <lex begin='1667' end='1668'>,</lex>
+  <lex begin='1669' end='1670'>I</lex>
+  <lex begin='1671' end='1677'>camped</lex>
+  <lex begin='1678' end='1682'>next</lex>
+  <lex begin='1683' end='1685'>to</lex>
+  <lex begin='1686' end='1689'>the</lex>
+  <lex begin='1690' end='1696'>houses</lex>
+  <lex begin='1697' end='1699'>of</lex>
+  <lex begin='1700' end='1701'>a</lex>
+  <lex begin='1702' end='1705'>few</lex>
+  <lex begin='1706' end='1710'>more</lex>
+  <lex begin='1711' end='1719'>families</lex>
+  <lex begin='1719' end='1720'>,</lex>
+  <lex begin='1721' end='1724'>and</lex>
+  <lex begin='1725' end='1733'>followed</lex>
+  <lex begin='1734' end='1738'>long</lex>
+  <lex begin='1739' end='1745'>scenic</lex>
+  <lex begin='1746' end='1753'>valleys</lex>
+  <lex begin='1754' end='1757'>and</lex>
+  <lex begin='1758' end='1765'>canyons</lex>
+  <lex begin='1766' end='1768'>up</lex>
+  <lex begin='1769' end='1772'>and</lex>
+  <lex begin='1773' end='1777'>down</lex>
+  <lex begin='1778' end='1783'>until</lex>
+  <lex begin='1784' end='1792'>reaching</lex>
+  <lex begin='1793' end='1796'>the</lex>
+  <lex begin='1797' end='1801'>city</lex>
+  <lex begin='1802' end='1804'>of</lex>
+  <lex begin='1805' end='1816'>Bucaramanga</lex>
+  <lex begin='1816' end='1817'>,</lex>
+  <lex begin='1818' end='1825'>another</lex>
+  <lex begin='1826' end='1828'>of</lex>
+  <lex begin='1829' end='1837'>Colombia</lex>
+  <lex begin='1837' end='1839'>’s</lex>
+  <lex begin='1840' end='1845'>major</lex>
+  <lex begin='1846' end='1852'>cities</lex>
+  <lex begin='1852' end='1853'>.</lex>
+</s>
+</TOKENS>
+
+</SpaceEvalTaskv1.2>

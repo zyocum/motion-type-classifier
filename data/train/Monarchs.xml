@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+Monarchs, Deforestation, Poverty, and Climate Change
+Friday, February 10th, 2006
+   The butterflies I visited last week congregate in the millions at the tops of mountains in the center of Mexico. They choose these places because they have the perfect conditions for surviving the winter â€“ conditions that are now threatened.
+
+
+   The butterflies that are wintering here are mostly hibernating. While the skies were full of butterflies, there were even more (believe it or not) hanging motionless on the trees. What they need is a cool dry climate to survive these winter months, before returning to northeastern North America in the spring. (Read more about their life cycle.)
+
+   According to a recent study (read a less technical summary here), it is likely that in this region of Mexico, there will be more winter rain. Winter rain is currently extremely uncommon (like rain in the summer in California). It is cold at 11,000 feet, and moisture with freezing conditions kills the butterflies. In 2002, a January storm killed over 70% of the butterflies, and conditions bad enough to destroy all butterfly habitats may be prevalent by 2050.
+
+   This study relies on predictions of future rainfall, which are not as reliable as predictions of future temperatures â€“ the rain predictions may be wrong. If the butterflies have to move to a new place to find conditions where they can survive the winter, however, they may be in big trouble, as people are likely to be already living there.
+
+
+* WPG2 CANNOT LOCATE GALLERY2 ITEM BY *
+
+   Indeed, the butterflies are threatened by deforestation as well, most of it illegal, as this region is, in theory, protected. On the ride up the mountains, I saw a number of electric saws turning trees into furniture.
+
+   It is more complicated. The people living near the butterflies are poor. The trail entrance to the butterfly sanctuary was full of shops pedaling trinkets and young children begging for money. It was actually the least safe place I have felt yet on this trip, and I asked to camp inside the park instead of at the entrance where most people camp. Camped less than a kilometer from the butterflies, I heard a subwoofer down the hill beating out a baseline, suggesting that the area was not well protected. The next day, I was surprised how poorly maintained the trail to the butterflies was, as thousands of tourists trampled random trails down a steep mountain side.
+]]></TEXT>
+<TAGS>
+<PLACE comment="ground location for 'Camped less than a kilometer from the butterflies ...'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl20" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="'It is cold at 11,000 feet ...'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="me0" end="-1" form="NOM" gazref="" gquant="" id="pl19" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1353" form="NOM" gazref="" gquant="" id="pl9" latLong="" mod="" scopes="" start="1348" state="" text="place" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="159" form="NOM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="155" state="" text="tops" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="172" form="NOM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="163" state="" text="mountains" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="186" form="NOM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="180" state="" text="center" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1853" form="NOM" gazref="" gquant="" id="pl12" latLong="" mod="" scopes="" start="1845" state="" text="entrance" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1880" form="NOM" gazref="" gquant="" id="pl13" latLong="" mod="" scopes="" start="1871" state="" text="sanctuary" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1898" form="NOM" gazref="" gquant="" id="pl14" latLong="" mod="" scopes="" start="1893" state="" text="shops" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="196" form="NAM" gazref="" gquant="" id="pl3" latLong="" mod="" scopes="" start="190" state="" text="Mexico" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="2057" form="NOM" gazref="" gquant="" id="pl15" latLong="" mod="" scopes="" start="2053" state="" text="park" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="2084" form="NOM" gazref="" gquant="" id="pl16" latLong="" mod="" scopes="" start="2076" state="" text="entrance" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="373" form="NOM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="369" state="" text="here" type=""/>
+<PLACE comment="" continent="" countable="FALSE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="413" form="NOM" gazref="" gquant="" id="pl17" latLong="" mod="" scopes="" start="408" state="" text="skies" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="629" form="NAM" gazref="" gquant="" id="pl18" latLong="" mod="" scopes="" start="603" state="" text="northeastern North America" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="783" form="NOM" gazref="" gquant="" id="pl6" latLong="" mod="" scopes="" start="777" state="" text="region" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="793" form="NAM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="787" state="" text="Mexico" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="909" form="NAM" gazref="" gquant="" id="pl8" latLong="" mod="" scopes="" start="899" state="" text="California" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1639" form="NOM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="1633" state="" text="region" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1694" endID="" form="NOM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="1685" text="mountains" type=""/>
+<PATH beginID="pl12" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1844" endID="pl13" form="NOM" gazref="" gquant="" id="p1" latLong="" midIDs="" mod="" scopes="" start="1839" text="trail" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2193" endID="" form="NOM" gazref="" gquant="" id="p2" latLong="" midIDs="" mod="" scopes="" start="2189" text="hill" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2328" endID="se16" form="NOM" gazref="" gquant="" id="p3" latLong="" midIDs="" mod="" scopes="" start="2323" text="trail" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2400" endID="" form="NOM" gazref="" gquant="" id="p4" latLong="" midIDs="" mod="" scopes="" start="2394" text="trails" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2427" endID="" form="NOM" gazref="" gquant="" id="p5" latLong="" midIDs="" mod="steep" scopes="" start="2423" text="side" type=""/>
+<SPATIAL_ENTITY comment="The set subsuming [butterflies,se] and [more,se] in 'The butterflies that are wintering here are mostly hibernating. While the skies were full of butterflies, there were even more (believe it or not) hanging motionless on the trees. What they need is ...'" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="-1" form="NOM" gquant="" id="se7" latLong="" mod="" scopes="" start="-1" text="" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="102" form="NOM" gquant="" id="se1" latLong="" mod="" scopes="" start="101" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1325" form="NOM" gquant="" id="se8" latLong="" mod="" scopes="" start="1314" text="butterflies" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1697" form="NOM" gquant="" id="se18" latLong="" mod="" scopes="" start="1696" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2027" form="NOM" gquant="" id="se12" latLong="" mod="" scopes="" start="2026" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2158" form="NOM" gquant="" id="se14" latLong="" mod="" scopes="" start="2147" text="butterflies" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2161" form="NOM" gquant="" id="se6" latLong="" mod="" scopes="" start="2160" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2179" form="NOM" gquant="" id="se15" latLong="" mod="" scopes="" start="2170" text="subwoofer" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2347" form="NOM" gquant="" id="se16" latLong="" mod="" scopes="" start="2336" text="butterflies" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2377" form="NOM" gquant="" id="se17" latLong="" mod="" scopes="" start="2369" text="tourists" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="349" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="338" text="butterflies" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="438" form="NOM" gquant="" id="se9" latLong="" mod="" scopes="" start="427" text="butterflies" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="460" form="NOM" gquant="" id="se3" latLong="" mod="" scopes="" start="456" text="more" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="512" form="NOM" gquant="" id="se4" latLong="" mod="" scopes="" start="507" text="trees" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="523" form="NOM" gquant="" id="se5" latLong="" mod="" scopes="" start="519" text="they" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="100" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="89" text="butterflies" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="202" form="NOM" gquant="" id="se10" latLong="" mod="" scopes="" start="198" text="They" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="235" form="NOM" gquant="" id="se11" latLong="" mod="" scopes="" start="231" text="they" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1421" form="NOM" gquant="" id="se13" latLong="" mod="" scopes="" start="1417" text="they" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1824" form="NOM" gquant="" id="se19" latLong="" mod="" scopes="" start="1813" text="butterflies" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1993" form="NOM" gquant="" id="se20" latLong="" mod="" scopes="" start="1992" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2282" form="NOM" gquant="" id="se21" latLong="" mod="" scopes="" start="2281" text="I" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="131" gquant="" id="e9" latLong="" mod="" scopes="" start="121" text="congregate"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="2041" gquant="" id="e6" latLong="" mod="" scopes="" start="2037" text="camp"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="2107" gquant="" id="e7" latLong="" mod="" scopes="" start="2103" text="camp"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="2115" gquant="" id="e8" latLong="" mod="" scopes="" start="2109" text="Camped"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="368" gquant="" id="e1" latLong="" mod="" scopes="" start="359" text="wintering"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="488" gquant="" id="e2" latLong="" mod="" scopes="" start="481" text="hanging"/>
+<NONMOTION_EVENT comment="" countable="FALSE" domain="" elevation="" end="825" gquant="" id="e3" latLong="" mod="" scopes="" start="821" text="rain"/>
+<NONMOTION_EVENT comment="" countable="FALSE" domain="" elevation="" end="881" gquant="" id="e4" latLong="" mod="" scopes="" start="877" text="rain"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="922" gquant="" id="e0" latLong="" mod="" scopes="" start="918" text="cold"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1803" gquant="" id="e5" latLong="" mod="" scopes="" start="1797" text="living"/>
+<MOTION comment="" countable="" domain="" elevation="" end="110" gquant="" id="m0" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="103" text="visited"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1338" gquant="" id="m5" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1334" text="move"/>
+<MOTION comment="" countable="TRUE" domain="" elevation="" end="1677" gquant="" id="m10" latLong="" mod="" motion_class="FOLLOW" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="1673" text="ride"/>
+<MOTION comment="" countable="" domain="" elevation="" end="2386" gquant="" id="m9" latLong="" mod="" motion_class="FOLLOW" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="2378" text="trampled"/>
+<MOTION comment="" countable="" domain="" elevation="" end="599" gquant="" id="m4" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="590" text="returning"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="150" id="s0" semantic_type="TOPOLOGICAL" start="148" text="at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="162" id="s1" semantic_type="TOPOLOGICAL" start="160" text="of"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="175" id="s2" semantic_type="TOPOLOGICAL" start="173" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="189" id="s3" semantic_type="TOPOLOGICAL" start="187" text="of"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1892" id="s16" semantic_type="TOPOLOGICAL" start="1885" text="full of"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2048" id="s13" semantic_type="TOPOLOGICAL" start="2042" text="inside"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2071" id="s14" semantic_type="TOPOLOGICAL" start="2069" text="at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2090" id="s15" semantic_type="TOPOLOGICAL" start="2085" text="where"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2142" id="s12" semantic_type="TOPOLOGICAL" start="2138" text="from"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2184" id="s6" semantic_type="DIRECTIONAL" start="2180" text="down"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="426" id="s5" semantic_type="TOPOLOGICAL" start="419" text="full of"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="502" id="s4" semantic_type="TOPOLOGICAL" start="500" text="on"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="771" id="s7" semantic_type="TOPOLOGICAL" start="769" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="786" id="s8" semantic_type="TOPOLOGICAL" start="784" text="of"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="898" id="s10" semantic_type="TOPOLOGICAL" start="896" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="925" id="s9" semantic_type="TOPOLOGICAL" start="923" text="at"/>
+<MOTION_SIGNAL comment="" end="1341" id="ms3" motion_signal_type="PATH" start="1339" text="to"/>
+<MOTION_SIGNAL comment="" end="1680" id="ms0" motion_signal_type="PATH" start="1678" text="up"/>
+<MOTION_SIGNAL comment="" end="2405" id="ms4" motion_signal_type="PATH" start="2401" text="down"/>
+<MOTION_SIGNAL comment="" end="602" id="ms2" motion_signal_type="PATH" start="600" text="to"/>
+<MEASURE comment="" end="2137" id="me1" start="2116" text="less than a kilometer" unit="kilometers" value="lt1"/>
+<MEASURE comment="" end="937" id="me0" start="926" text="11,000 feet" unit="feet" value="11000"/>
+<MEASURE comment="" end="1808" id="me2" start="1804" text="near" unit="" value="NEAR"/>
+<QSLINK comment="SPATIAL_FUNCTION" fromID="pl0" fromText="tops" id="qsl1" landmark="pl1" relType="TPP" toID="pl1" toText="mountains" trajector="pl0" trigger="s1"/>
+<QSLINK comment="" fromID="e6" fromText="camp" id="qsl10" landmark="pl15" relType="IN" toID="pl15" toText="park" trajector="e6" trigger="s13"/>
+<QSLINK comment="" fromID="e7" fromText="camp" id="qsl11" landmark="pl16" relType="IN" toID="pl16" toText="entrance" trajector="e7" trigger="s15"/>
+<QSLINK comment="" fromID="e8" fromText="Camped" id="qsl12" landmark="se14" relType="DC" toID="se14" toText="butterflies" trajector="e8" trigger="s12"/>
+<QSLINK comment="" fromID="e9" fromText="congregate" id="qsl13" landmark="pl0" relType="IN" toID="pl0" toText="tops" trajector="e9" trigger="s0"/>
+<QSLINK comment="" fromID="e1" fromText="wintering" id="qsl2" landmark="pl4" relType="IN" toID="pl4" toText="here" trajector="e1" trigger=""/>
+<QSLINK comment="" fromID="se9" fromText="butterflies" id="qsl3" landmark="pl17" relType="IN" toID="pl17" toText="skies" trajector="se9" trigger="s5"/>
+<QSLINK comment="" fromID="e2" fromText="hanging" id="qsl4" landmark="se4" relType="EC" toID="se4" toText="trees" trajector="e2" trigger="s4"/>
+<QSLINK comment="SPATIAL_FUNCTION" fromID="pl6" fromText="region" id="qsl5" landmark="pl7" relType="IN" toID="pl7" toText="Mexico" trajector="pl6" trigger="s8"/>
+<QSLINK comment="" fromID="e3" fromText="rain" id="qsl6" landmark="pl6" relType="IN" toID="pl6" toText="region" trajector="e3" trigger="s7"/>
+<QSLINK comment="" fromID="e4" fromText="rain" id="qsl7" landmark="pl8" relType="IN" toID="pl8" toText="California" trajector="e4" trigger="s10"/>
+<QSLINK comment="" fromID="e0" fromText="cold" id="qsl8" landmark="pl19" relType="IN" toID="pl19" toText="" trajector="e0" trigger="s9"/>
+<QSLINK comment="" fromID="pl14" fromText="shops" id="qsl9" landmark="pl12" relType="IN" toID="pl12" toText="entrance" trajector="pl14" trigger="s16"/>
+<QSLINK comment="SPATIAL_FUNCTION" fromID="pl2" fromText="center" id="qsl0" landmark="pl3" relType="NTPP" toID="pl3" toText="Mexico" trajector="pl2" trigger="s3"/>
+<QSLINK comment="" fromID="e6" fromText="camp" id="qsl14" landmark="pl16" relType="IN" toID="pl16" toText="entrance" trajector="e6" trigger="s14"/>
+<QSLINK comment="" fromID="pl1" fromText="mountains" id="qsl15" landmark="pl2" relType="IN" toID="pl2" toText="center" trajector="pl1" trigger="s2"/>
+<OLINK comment="" frame_type="RELATIVE" fromID="se15" fromText="subwoofer" id="ol1" landmark="p2" projective="TRUE" referencePt="e8" relType="DOWN" toID="p2" toText="hill" trajector="se15" trigger="s6"/>
+<MOVELINK comment="" fromID="m0" fromText="visited" goal="se0" goal_reached="YES" id="mvl0" landmark="" midPoint="" motion_signalID="" mover="se1" pathID="" source="" toID="se1" toText="I" trigger="m0"/>
+<MOVELINK comment="" fromID="m4" fromText="returning" goal="pl18" goal_reached="YES" id="mvl1" landmark="" midPoint="" motion_signalID="ms2" mover="se5" pathID="" source="" toID="se5" toText="they" trigger="m4"/>
+<MOVELINK comment="" fromID="m5" fromText="move" goal="pl9" goal_reached="YES" id="mvl2" landmark="" midPoint="" motion_signalID="ms3" mover="se8" pathID="" source="" toID="se8" toText="butterflies" trigger="m5"/>
+<MOVELINK comment="" fromID="m10" fromText="ride" goal="" goal_reached="" id="mvl3" landmark="" midPoint="" motion_signalID="ms0" mover="se18" pathID="p0" source="" toID="se18" toText="I" trigger="m10"/>
+<MOVELINK comment="" fromID="m9" fromText="trampled" goal="" goal_reached="" id="mvl4" landmark="p5" midPoint="" motion_signalID="ms4" mover="se17" pathID="p4" source="" toID="se17" toText="tourists" trigger="m9"/>
+<MLINK comment="" endPoint1="" endPoint2="" fromID="e8" fromText="Camped" id="ml0" landmark="se14" relType="DISTANCE" toID="se14" toText="butterflies" trajector="e8" val="me1"/>
+<MLINK comment="" endPoint1="" endPoint2="" fromID="e5" fromText="living" id="ml1" landmark="se19" relType="DISTANCE" toID="se19" toText="butterflies" trajector="e5" val="me2"/>
+<METALINK comment="" fromID="se14" fromText="butterflies" id="metal0" objectID1="se14" objectID2="se0" relType="COREFERENCE" toID="se0" toText="butterflies"/>
+<METALINK comment="" fromID="se16" fromText="butterflies" id="metal1" objectID1="se16" objectID2="se0" relType="COREFERENCE" toID="se0" toText="butterflies"/>
+<METALINK comment="" fromID="se5" fromText="they" id="metal2" objectID1="se5" objectID2="se2" relType="COREFERENCE" toID="se2" toText="butterflies"/>
+<METALINK comment="" fromID="se8" fromText="butterflies" id="metal3" objectID1="se8" objectID2="se2" relType="COREFERENCE" toID="se2" toText="butterflies"/>
+<METALINK comment="" fromID="se2" fromText="butterflies" id="metal4" objectID1="se2" objectID2="se7" relType="SPLITCOREFERENCE" toID="se7" toText=""/>
+<METALINK comment="" fromID="se9" fromText="butterflies" id="metal5" objectID1="se9" objectID2="se7" relType="SUBCOREFERENCE" toID="se7" toText=""/>
+<METALINK comment="" fromID="se3" fromText="more" id="metal6" objectID1="se3" objectID2="se7" relType="SUBCOREFERENCE" toID="se7" toText=""/>
+<METALINK comment="" fromID="se12" fromText="I" id="metal7" objectID1="se12" objectID2="se1" relType="COREFERENCE" toID="se1" toText="I"/>
+<METALINK comment="" fromID="se6" fromText="I" id="metal8" objectID1="se6" objectID2="se1" relType="COREFERENCE" toID="se1" toText="I"/>
+<METALINK comment="" fromID="se10" fromText="They" id="metal9" objectID1="se10" objectID2="se0" relType="COREFERENCE" toID="se0" toText="butterflies"/>
+<METALINK comment="" fromID="se11" fromText="they" id="metal10" objectID1="se11" objectID2="se0" relType="COREFERENCE" toID="se0" toText="butterflies"/>
+<METALINK comment="" fromID="se13" fromText="they" id="metal11" objectID1="se13" objectID2="se2" relType="COREFERENCE" toID="se2" toText="butterflies"/>
+<METALINK comment="" fromID="pl5" fromText="region" id="metal12" objectID1="pl5" objectID2="pl6" relType="COREFERENCE" toID="pl6" toText="region"/>
+<METALINK comment="" fromID="se19" fromText="butterflies" id="metal13" objectID1="se19" objectID2="se0" relType="COREFERENCE" toID="se0" toText="butterflies"/>
+<METALINK comment="" fromID="se20" fromText="I" id="metal14" objectID1="se20" objectID2="se1" relType="COREFERENCE" toID="se1" toText="I"/>
+<METALINK comment="" fromID="se21" fromText="I" id="metal15" objectID1="se21" objectID2="se1" relType="COREFERENCE" toID="se1" toText="I"/>
+</TAGS>
+<TOKENS>
+<s>
+  <lex begin='1' end='9'>Monarchs</lex>
+  <lex begin='9' end='10'>,</lex>
+  <lex begin='11' end='24'>Deforestation</lex>
+  <lex begin='24' end='25'>,</lex>
+  <lex begin='26' end='33'>Poverty</lex>
+  <lex begin='33' end='34'>,</lex>
+  <lex begin='35' end='38'>and</lex>
+  <lex begin='39' end='46'>Climate</lex>
+  <lex begin='47' end='53'>Change</lex>
+  <lex begin='54' end='60'>Friday</lex>
+  <lex begin='60' end='61'>,</lex>
+  <lex begin='62' end='70'>February</lex>
+  <lex begin='71' end='75'>10th</lex>
+  <lex begin='75' end='76'>,</lex>
+  <lex begin='77' end='81'>2006</lex>
+  <lex begin='85' end='88'>The</lex>
+  <lex begin='89' end='100'>butterflies</lex>
+  <lex begin='101' end='102'>I</lex>
+  <lex begin='103' end='110'>visited</lex>
+  <lex begin='111' end='115'>last</lex>
+  <lex begin='116' end='120'>week</lex>
+  <lex begin='121' end='131'>congregate</lex>
+  <lex begin='132' end='134'>in</lex>
+  <lex begin='135' end='138'>the</lex>
+  <lex begin='139' end='147'>millions</lex>
+  <lex begin='148' end='150'>at</lex>
+  <lex begin='151' end='154'>the</lex>
+  <lex begin='155' end='159'>tops</lex>
+  <lex begin='160' end='162'>of</lex>
+  <lex begin='163' end='172'>mountains</lex>
+  <lex begin='173' end='175'>in</lex>
+  <lex begin='176' end='179'>the</lex>
+  <lex begin='180' end='186'>center</lex>
+  <lex begin='187' end='189'>of</lex>
+  <lex begin='190' end='196'>Mexico</lex>
+  <lex begin='196' end='197'>.</lex>
+</s>
+<s>
+  <lex begin='198' end='202'>They</lex>
+  <lex begin='203' end='209'>choose</lex>
+  <lex begin='210' end='215'>these</lex>
+  <lex begin='216' end='222'>places</lex>
+  <lex begin='223' end='230'>because</lex>
+  <lex begin='231' end='235'>they</lex>
+  <lex begin='236' end='240'>have</lex>
+  <lex begin='241' end='244'>the</lex>
+  <lex begin='245' end='252'>perfect</lex>
+  <lex begin='253' end='263'>conditions</lex>
+  <lex begin='264' end='267'>for</lex>
+  <lex begin='268' end='277'>surviving</lex>
+  <lex begin='278' end='281'>the</lex>
+  <lex begin='282' end='288'>winter</lex>
+  <lex begin='289' end='290'>â</lex>
+  <lex begin='290' end='291'>€</lex>
+  <lex begin='291' end='292'>“</lex>
+  <lex begin='293' end='303'>conditions</lex>
+  <lex begin='304' end='308'>that</lex>
+  <lex begin='309' end='312'>are</lex>
+  <lex begin='313' end='316'>now</lex>
+  <lex begin='317' end='327'>threatened</lex>
+  <lex begin='327' end='328'>.</lex>
+</s>
+<s>
+  <lex begin='334' end='337'>The</lex>
+  <lex begin='338' end='349'>butterflies</lex>
+  <lex begin='350' end='354'>that</lex>
+  <lex begin='355' end='358'>are</lex>
+  <lex begin='359' end='368'>wintering</lex>
+  <lex begin='369' end='373'>here</lex>
+  <lex begin='374' end='377'>are</lex>
+  <lex begin='378' end='384'>mostly</lex>
+  <lex begin='385' end='396'>hibernating</lex>
+  <lex begin='396' end='397'>.</lex>
+</s>
+<s>
+  <lex begin='398' end='403'>While</lex>
+  <lex begin='404' end='407'>the</lex>
+  <lex begin='408' end='413'>skies</lex>
+  <lex begin='414' end='418'>were</lex>
+  <lex begin='419' end='423'>full</lex>
+  <lex begin='424' end='426'>of</lex>
+  <lex begin='427' end='438'>butterflies</lex>
+  <lex begin='438' end='439'>,</lex>
+  <lex begin='440' end='445'>there</lex>
+  <lex begin='446' end='450'>were</lex>
+  <lex begin='451' end='455'>even</lex>
+  <lex begin='456' end='460'>more</lex>
+  <lex begin='461' end='462'>(</lex>
+  <lex begin='462' end='469'>believe</lex>
+  <lex begin='470' end='472'>it</lex>
+  <lex begin='473' end='475'>or</lex>
+  <lex begin='476' end='479'>not</lex>
+  <lex begin='479' end='480'>)</lex>
+  <lex begin='481' end='488'>hanging</lex>
+  <lex begin='489' end='499'>motionless</lex>
+  <lex begin='500' end='502'>on</lex>
+  <lex begin='503' end='506'>the</lex>
+  <lex begin='507' end='512'>trees</lex>
+  <lex begin='512' end='513'>.</lex>
+</s>
+<s>
+  <lex begin='514' end='518'>What</lex>
+  <lex begin='519' end='523'>they</lex>
+  <lex begin='524' end='528'>need</lex>
+  <lex begin='529' end='531'>is</lex>
+  <lex begin='532' end='533'>a</lex>
+  <lex begin='534' end='538'>cool</lex>
+  <lex begin='539' end='542'>dry</lex>
+  <lex begin='543' end='550'>climate</lex>
+  <lex begin='551' end='553'>to</lex>
+  <lex begin='554' end='561'>survive</lex>
+  <lex begin='562' end='567'>these</lex>
+  <lex begin='568' end='574'>winter</lex>
+  <lex begin='575' end='581'>months</lex>
+  <lex begin='581' end='582'>,</lex>
+  <lex begin='583' end='589'>before</lex>
+  <lex begin='590' end='599'>returning</lex>
+  <lex begin='600' end='602'>to</lex>
+  <lex begin='603' end='615'>northeastern</lex>
+  <lex begin='616' end='621'>North</lex>
+  <lex begin='622' end='629'>America</lex>
+  <lex begin='630' end='632'>in</lex>
+  <lex begin='633' end='636'>the</lex>
+  <lex begin='637' end='643'>spring</lex>
+  <lex begin='643' end='644'>.</lex>
+</s>
+<s>
+  <lex begin='645' end='646'>(</lex>
+  <lex begin='646' end='650'>Read</lex>
+  <lex begin='651' end='655'>more</lex>
+  <lex begin='656' end='661'>about</lex>
+  <lex begin='662' end='667'>their</lex>
+  <lex begin='668' end='672'>life</lex>
+  <lex begin='673' end='678'>cycle</lex>
+  <lex begin='678' end='679'>.</lex>
+  <lex begin='679' end='680'>)</lex>
+</s>
+<s>
+  <lex begin='685' end='694'>According</lex>
+  <lex begin='695' end='697'>to</lex>
+  <lex begin='698' end='699'>a</lex>
+  <lex begin='700' end='706'>recent</lex>
+  <lex begin='707' end='712'>study</lex>
+  <lex begin='713' end='714'>(</lex>
+  <lex begin='714' end='718'>read</lex>
+  <lex begin='719' end='720'>a</lex>
+  <lex begin='721' end='725'>less</lex>
+  <lex begin='726' end='735'>technical</lex>
+  <lex begin='736' end='743'>summary</lex>
+  <lex begin='744' end='748'>here</lex>
+  <lex begin='748' end='749'>)</lex>
+  <lex begin='749' end='750'>,</lex>
+  <lex begin='751' end='753'>it</lex>
+  <lex begin='754' end='756'>is</lex>
+  <lex begin='757' end='763'>likely</lex>
+  <lex begin='764' end='768'>that</lex>
+  <lex begin='769' end='771'>in</lex>
+  <lex begin='772' end='776'>this</lex>
+  <lex begin='777' end='783'>region</lex>
+  <lex begin='784' end='786'>of</lex>
+  <lex begin='787' end='793'>Mexico</lex>
+  <lex begin='793' end='794'>,</lex>
+  <lex begin='795' end='800'>there</lex>
+  <lex begin='801' end='805'>will</lex>
+  <lex begin='806' end='808'>be</lex>
+  <lex begin='809' end='813'>more</lex>
+  <lex begin='814' end='820'>winter</lex>
+  <lex begin='821' end='825'>rain</lex>
+  <lex begin='825' end='826'>.</lex>
+</s>
+<s>
+  <lex begin='827' end='833'>Winter</lex>
+  <lex begin='834' end='838'>rain</lex>
+  <lex begin='839' end='841'>is</lex>
+  <lex begin='842' end='851'>currently</lex>
+  <lex begin='852' end='861'>extremely</lex>
+  <lex begin='862' end='870'>uncommon</lex>
+  <lex begin='871' end='872'>(</lex>
+  <lex begin='872' end='876'>like</lex>
+  <lex begin='877' end='881'>rain</lex>
+  <lex begin='882' end='884'>in</lex>
+  <lex begin='885' end='888'>the</lex>
+  <lex begin='889' end='895'>summer</lex>
+  <lex begin='896' end='898'>in</lex>
+  <lex begin='899' end='909'>California</lex>
+  <lex begin='909' end='910'>)</lex>
+  <lex begin='910' end='911'>.</lex>
+</s>
+<s>
+  <lex begin='912' end='914'>It</lex>
+  <lex begin='915' end='917'>is</lex>
+  <lex begin='918' end='922'>cold</lex>
+  <lex begin='923' end='925'>at</lex>
+  <lex begin='926' end='932'>11,000</lex>
+  <lex begin='933' end='937'>feet</lex>
+  <lex begin='937' end='938'>,</lex>
+  <lex begin='939' end='942'>and</lex>
+  <lex begin='943' end='951'>moisture</lex>
+  <lex begin='952' end='956'>with</lex>
+  <lex begin='957' end='965'>freezing</lex>
+  <lex begin='966' end='976'>conditions</lex>
+  <lex begin='977' end='982'>kills</lex>
+  <lex begin='983' end='986'>the</lex>
+  <lex begin='987' end='998'>butterflies</lex>
+  <lex begin='998' end='999'>.</lex>
+</s>
+<s>
+  <lex begin='1000' end='1002'>In</lex>
+  <lex begin='1003' end='1007'>2002</lex>
+  <lex begin='1007' end='1008'>,</lex>
+  <lex begin='1009' end='1010'>a</lex>
+  <lex begin='1011' end='1018'>January</lex>
+  <lex begin='1019' end='1024'>storm</lex>
+  <lex begin='1025' end='1031'>killed</lex>
+  <lex begin='1032' end='1036'>over</lex>
+  <lex begin='1037' end='1039'>70</lex>
+  <lex begin='1039' end='1040'>%</lex>
+  <lex begin='1041' end='1043'>of</lex>
+  <lex begin='1044' end='1047'>the</lex>
+  <lex begin='1048' end='1059'>butterflies</lex>
+  <lex begin='1059' end='1060'>,</lex>
+  <lex begin='1061' end='1064'>and</lex>
+  <lex begin='1065' end='1075'>conditions</lex>
+  <lex begin='1076' end='1079'>bad</lex>
+  <lex begin='1080' end='1086'>enough</lex>
+  <lex begin='1087' end='1089'>to</lex>
+  <lex begin='1090' end='1097'>destroy</lex>
+  <lex begin='1098' end='1101'>all</lex>
+  <lex begin='1102' end='1111'>butterfly</lex>
+  <lex begin='1112' end='1120'>habitats</lex>
+  <lex begin='1121' end='1124'>may</lex>
+  <lex begin='1125' end='1127'>be</lex>
+  <lex begin='1128' end='1137'>prevalent</lex>
+  <lex begin='1138' end='1140'>by</lex>
+  <lex begin='1141' end='1145'>2050</lex>
+  <lex begin='1145' end='1146'>.</lex>
+</s>
+<s>
+  <lex begin='1151' end='1155'>This</lex>
+  <lex begin='1156' end='1161'>study</lex>
+  <lex begin='1162' end='1168'>relies</lex>
+  <lex begin='1169' end='1171'>on</lex>
+  <lex begin='1172' end='1183'>predictions</lex>
+  <lex begin='1184' end='1186'>of</lex>
+  <lex begin='1187' end='1193'>future</lex>
+  <lex begin='1194' end='1202'>rainfall</lex>
+  <lex begin='1202' end='1203'>,</lex>
+  <lex begin='1204' end='1209'>which</lex>
+  <lex begin='1210' end='1213'>are</lex>
+  <lex begin='1214' end='1217'>not</lex>
+  <lex begin='1218' end='1220'>as</lex>
+  <lex begin='1221' end='1229'>reliable</lex>
+  <lex begin='1230' end='1232'>as</lex>
+  <lex begin='1233' end='1244'>predictions</lex>
+  <lex begin='1245' end='1247'>of</lex>
+  <lex begin='1248' end='1254'>future</lex>
+  <lex begin='1255' end='1267'>temperatures</lex>
+  <lex begin='1268' end='1269'>â</lex>
+  <lex begin='1269' end='1270'>€</lex>
+  <lex begin='1270' end='1271'>“</lex>
+  <lex begin='1272' end='1275'>the</lex>
+  <lex begin='1276' end='1280'>rain</lex>
+  <lex begin='1281' end='1292'>predictions</lex>
+  <lex begin='1293' end='1296'>may</lex>
+  <lex begin='1297' end='1299'>be</lex>
+  <lex begin='1300' end='1305'>wrong</lex>
+  <lex begin='1305' end='1306'>.</lex>
+</s>
+<s>
+  <lex begin='1307' end='1309'>If</lex>
+  <lex begin='1310' end='1313'>the</lex>
+  <lex begin='1314' end='1325'>butterflies</lex>
+  <lex begin='1326' end='1330'>have</lex>
+  <lex begin='1331' end='1333'>to</lex>
+  <lex begin='1334' end='1338'>move</lex>
+  <lex begin='1339' end='1341'>to</lex>
+  <lex begin='1342' end='1343'>a</lex>
+  <lex begin='1344' end='1347'>new</lex>
+  <lex begin='1348' end='1353'>place</lex>
+  <lex begin='1354' end='1356'>to</lex>
+  <lex begin='1357' end='1361'>find</lex>
+  <lex begin='1362' end='1372'>conditions</lex>
+  <lex begin='1373' end='1378'>where</lex>
+  <lex begin='1379' end='1383'>they</lex>
+  <lex begin='1384' end='1387'>can</lex>
+  <lex begin='1388' end='1395'>survive</lex>
+  <lex begin='1396' end='1399'>the</lex>
+  <lex begin='1400' end='1406'>winter</lex>
+  <lex begin='1406' end='1407'>,</lex>
+  <lex begin='1408' end='1415'>however</lex>
+  <lex begin='1415' end='1416'>,</lex>
+  <lex begin='1417' end='1421'>they</lex>
+  <lex begin='1422' end='1425'>may</lex>
+  <lex begin='1426' end='1428'>be</lex>
+  <lex begin='1429' end='1431'>in</lex>
+  <lex begin='1432' end='1435'>big</lex>
+  <lex begin='1436' end='1443'>trouble</lex>
+  <lex begin='1443' end='1444'>,</lex>
+  <lex begin='1445' end='1447'>as</lex>
+  <lex begin='1448' end='1454'>people</lex>
+  <lex begin='1455' end='1458'>are</lex>
+  <lex begin='1459' end='1465'>likely</lex>
+  <lex begin='1466' end='1468'>to</lex>
+  <lex begin='1469' end='1471'>be</lex>
+  <lex begin='1472' end='1479'>already</lex>
+  <lex begin='1480' end='1486'>living</lex>
+  <lex begin='1487' end='1492'>there</lex>
+  <lex begin='1492' end='1493'>.</lex>
+</s>
+<s>
+  <lex begin='1496' end='1497'>*</lex>
+  <lex begin='1498' end='1502'>WPG2</lex>
+  <lex begin='1503' end='1509'>CANNOT</lex>
+  <lex begin='1510' end='1516'>LOCATE</lex>
+  <lex begin='1517' end='1525'>GALLERY2</lex>
+  <lex begin='1526' end='1530'>ITEM</lex>
+  <lex begin='1531' end='1533'>BY</lex>
+  <lex begin='1534' end='1535'>*</lex>
+  <lex begin='1540' end='1546'>Indeed</lex>
+  <lex begin='1546' end='1547'>,</lex>
+  <lex begin='1548' end='1551'>the</lex>
+  <lex begin='1552' end='1563'>butterflies</lex>
+  <lex begin='1564' end='1567'>are</lex>
+  <lex begin='1568' end='1578'>threatened</lex>
+  <lex begin='1579' end='1581'>by</lex>
+  <lex begin='1582' end='1595'>deforestation</lex>
+  <lex begin='1596' end='1598'>as</lex>
+  <lex begin='1599' end='1603'>well</lex>
+  <lex begin='1603' end='1604'>,</lex>
+  <lex begin='1605' end='1609'>most</lex>
+  <lex begin='1610' end='1612'>of</lex>
+  <lex begin='1613' end='1615'>it</lex>
+  <lex begin='1616' end='1623'>illegal</lex>
+  <lex begin='1623' end='1624'>,</lex>
+  <lex begin='1625' end='1627'>as</lex>
+  <lex begin='1628' end='1632'>this</lex>
+  <lex begin='1633' end='1639'>region</lex>
+  <lex begin='1640' end='1642'>is</lex>
+  <lex begin='1642' end='1643'>,</lex>
+  <lex begin='1644' end='1646'>in</lex>
+  <lex begin='1647' end='1653'>theory</lex>
+  <lex begin='1653' end='1654'>,</lex>
+  <lex begin='1655' end='1664'>protected</lex>
+  <lex begin='1664' end='1665'>.</lex>
+</s>
+<s>
+  <lex begin='1666' end='1668'>On</lex>
+  <lex begin='1669' end='1672'>the</lex>
+  <lex begin='1673' end='1677'>ride</lex>
+  <lex begin='1678' end='1680'>up</lex>
+  <lex begin='1681' end='1684'>the</lex>
+  <lex begin='1685' end='1694'>mountains</lex>
+  <lex begin='1694' end='1695'>,</lex>
+  <lex begin='1696' end='1697'>I</lex>
+  <lex begin='1698' end='1701'>saw</lex>
+  <lex begin='1702' end='1703'>a</lex>
+  <lex begin='1704' end='1710'>number</lex>
+  <lex begin='1711' end='1713'>of</lex>
+  <lex begin='1714' end='1722'>electric</lex>
+  <lex begin='1723' end='1727'>saws</lex>
+  <lex begin='1728' end='1735'>turning</lex>
+  <lex begin='1736' end='1741'>trees</lex>
+  <lex begin='1742' end='1746'>into</lex>
+  <lex begin='1747' end='1756'>furniture</lex>
+  <lex begin='1756' end='1757'>.</lex>
+</s>
+<s>
+  <lex begin='1762' end='1764'>It</lex>
+  <lex begin='1765' end='1767'>is</lex>
+  <lex begin='1768' end='1772'>more</lex>
+  <lex begin='1773' end='1784'>complicated</lex>
+  <lex begin='1784' end='1785'>.</lex>
+</s>
+<s>
+  <lex begin='1786' end='1789'>The</lex>
+  <lex begin='1790' end='1796'>people</lex>
+  <lex begin='1797' end='1803'>living</lex>
+  <lex begin='1804' end='1808'>near</lex>
+  <lex begin='1809' end='1812'>the</lex>
+  <lex begin='1813' end='1824'>butterflies</lex>
+  <lex begin='1825' end='1828'>are</lex>
+  <lex begin='1829' end='1833'>poor</lex>
+  <lex begin='1833' end='1834'>.</lex>
+</s>
+<s>
+  <lex begin='1835' end='1838'>The</lex>
+  <lex begin='1839' end='1844'>trail</lex>
+  <lex begin='1845' end='1853'>entrance</lex>
+  <lex begin='1854' end='1856'>to</lex>
+  <lex begin='1857' end='1860'>the</lex>
+  <lex begin='1861' end='1870'>butterfly</lex>
+  <lex begin='1871' end='1880'>sanctuary</lex>
+  <lex begin='1881' end='1884'>was</lex>
+  <lex begin='1885' end='1889'>full</lex>
+  <lex begin='1890' end='1892'>of</lex>
+  <lex begin='1893' end='1898'>shops</lex>
+  <lex begin='1899' end='1907'>pedaling</lex>
+  <lex begin='1908' end='1916'>trinkets</lex>
+  <lex begin='1917' end='1920'>and</lex>
+  <lex begin='1921' end='1926'>young</lex>
+  <lex begin='1927' end='1935'>children</lex>
+  <lex begin='1936' end='1943'>begging</lex>
+  <lex begin='1944' end='1947'>for</lex>
+  <lex begin='1948' end='1953'>money</lex>
+  <lex begin='1953' end='1954'>.</lex>
+</s>
+<s>
+  <lex begin='1955' end='1957'>It</lex>
+  <lex begin='1958' end='1961'>was</lex>
+  <lex begin='1962' end='1970'>actually</lex>
+  <lex begin='1971' end='1974'>the</lex>
+  <lex begin='1975' end='1980'>least</lex>
+  <lex begin='1981' end='1985'>safe</lex>
+  <lex begin='1986' end='1991'>place</lex>
+  <lex begin='1992' end='1993'>I</lex>
+  <lex begin='1994' end='1998'>have</lex>
+  <lex begin='1999' end='2003'>felt</lex>
+  <lex begin='2004' end='2007'>yet</lex>
+  <lex begin='2008' end='2010'>on</lex>
+  <lex begin='2011' end='2015'>this</lex>
+  <lex begin='2016' end='2020'>trip</lex>
+  <lex begin='2020' end='2021'>,</lex>
+  <lex begin='2022' end='2025'>and</lex>
+  <lex begin='2026' end='2027'>I</lex>
+  <lex begin='2028' end='2033'>asked</lex>
+  <lex begin='2034' end='2036'>to</lex>
+  <lex begin='2037' end='2041'>camp</lex>
+  <lex begin='2042' end='2048'>inside</lex>
+  <lex begin='2049' end='2052'>the</lex>
+  <lex begin='2053' end='2057'>park</lex>
+  <lex begin='2058' end='2065'>instead</lex>
+  <lex begin='2066' end='2068'>of</lex>
+  <lex begin='2069' end='2071'>at</lex>
+  <lex begin='2072' end='2075'>the</lex>
+  <lex begin='2076' end='2084'>entrance</lex>
+  <lex begin='2085' end='2090'>where</lex>
+  <lex begin='2091' end='2095'>most</lex>
+  <lex begin='2096' end='2102'>people</lex>
+  <lex begin='2103' end='2107'>camp</lex>
+  <lex begin='2107' end='2108'>.</lex>
+</s>
+<s>
+  <lex begin='2109' end='2115'>Camped</lex>
+  <lex begin='2116' end='2120'>less</lex>
+  <lex begin='2121' end='2125'>than</lex>
+  <lex begin='2126' end='2127'>a</lex>
+  <lex begin='2128' end='2137'>kilometer</lex>
+  <lex begin='2138' end='2142'>from</lex>
+  <lex begin='2143' end='2146'>the</lex>
+  <lex begin='2147' end='2158'>butterflies</lex>
+  <lex begin='2158' end='2159'>,</lex>
+  <lex begin='2160' end='2161'>I</lex>
+  <lex begin='2162' end='2167'>heard</lex>
+  <lex begin='2168' end='2169'>a</lex>
+  <lex begin='2170' end='2179'>subwoofer</lex>
+  <lex begin='2180' end='2184'>down</lex>
+  <lex begin='2185' end='2188'>the</lex>
+  <lex begin='2189' end='2193'>hill</lex>
+  <lex begin='2194' end='2201'>beating</lex>
+  <lex begin='2202' end='2205'>out</lex>
+  <lex begin='2206' end='2207'>a</lex>
+  <lex begin='2208' end='2216'>baseline</lex>
+  <lex begin='2216' end='2217'>,</lex>
+  <lex begin='2218' end='2228'>suggesting</lex>
+  <lex begin='2229' end='2233'>that</lex>
+  <lex begin='2234' end='2237'>the</lex>
+  <lex begin='2238' end='2242'>area</lex>
+  <lex begin='2243' end='2246'>was</lex>
+  <lex begin='2247' end='2250'>not</lex>
+  <lex begin='2251' end='2255'>well</lex>
+  <lex begin='2256' end='2265'>protected</lex>
+  <lex begin='2265' end='2266'>.</lex>
+</s>
+<s>
+  <lex begin='2267' end='2270'>The</lex>
+  <lex begin='2271' end='2275'>next</lex>
+  <lex begin='2276' end='2279'>day</lex>
+  <lex begin='2279' end='2280'>,</lex>
+  <lex begin='2281' end='2282'>I</lex>
+  <lex begin='2283' end='2286'>was</lex>
+  <lex begin='2287' end='2296'>surprised</lex>
+  <lex begin='2297' end='2300'>how</lex>
+  <lex begin='2301' end='2307'>poorly</lex>
+  <lex begin='2308' end='2318'>maintained</lex>
+  <lex begin='2319' end='2322'>the</lex>
+  <lex begin='2323' end='2328'>trail</lex>
+  <lex begin='2329' end='2331'>to</lex>
+  <lex begin='2332' end='2335'>the</lex>
+  <lex begin='2336' end='2347'>butterflies</lex>
+  <lex begin='2348' end='2351'>was</lex>
+  <lex begin='2351' end='2352'>,</lex>
+  <lex begin='2353' end='2355'>as</lex>
+  <lex begin='2356' end='2365'>thousands</lex>
+  <lex begin='2366' end='2368'>of</lex>
+  <lex begin='2369' end='2377'>tourists</lex>
+  <lex begin='2378' end='2386'>trampled</lex>
+  <lex begin='2387' end='2393'>random</lex>
+  <lex begin='2394' end='2400'>trails</lex>
+  <lex begin='2401' end='2405'>down</lex>
+  <lex begin='2406' end='2407'>a</lex>
+  <lex begin='2408' end='2413'>steep</lex>
+  <lex begin='2414' end='2422'>mountain</lex>
+  <lex begin='2423' end='2427'>side</lex>
+  <lex begin='2427' end='2428'>.</lex>
+</s>
+</TOKENS>
+
+</SpaceEvalTaskv1.2>

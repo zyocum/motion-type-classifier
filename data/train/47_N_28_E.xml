@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+
+21-Aug-2005 -- Continued from 45N 29E - The second point is further north – away from the Danube delta and very close to the Moldovan border. The worry with this point was whether there is any restricted zone along the border which would prevent a visit.
+
+Driving away from Tulcea, I crossed the Danube for the 3rd of 4 times in 2 days. This time it was a ferry. Very prompt and well organised. Soon after disembarking and heading north for Galaţi it started to rain. This area suffered from severe floods in July and there is still water lying in the fields and gardens and dead crops remain, forlorn in the fields. The rain became torrential and it was only just possible to keep driving for more than half an hour.
+
+Eventually I got away from it and quite soon was driving on dry roads again. Galaţi is not an attractive place – ugly apartment blocks and chemical factories. It is not helped by floods and torrential rain. I was glad to be away. Moving further north you pass through rich farmland and then rolling hills. I decided to camp as close to the point as possible so that I could make an early start and drive home on the Sunday. As I drove through the villages there were many people walking to the nearest village for the Saturday night dance. I camped near the hamlet of Sălăgeni – just a few metres from the border. No sign of the border or any security.
+
+I was woken up by the sun at dawn – 6.30 a.m. There were already old men taking cattle out to the fields to graze. The scene reminded me of the German television programme "Heimat". The programme traces a German village through 80 years of the 20th century. Sălăgeni reminded me of the first episode set in about 1918 – tranquil but with few comforts. Horses are more common than cars and ducks, hens and turkeys wander around.
+
+The point itself was 1 km from the village. I forded two drainage ditches – one waist high. I am sure I could have gone round but why not go direct! I expected the point to be in reeds and swamps but the valley is all arable and it was easy to walk to the point. Romania is now complete!
+
+On the way back I chatted to an elderly man – we had no common vocabulary but got on fine! No time for messing about – long drive home so I changed and set off.
+
+Some random observations – You might think Romania was already a member of the EU from the number of flags on official buildings – It soon will be in the EU but it is very different from Western Europe – To the “policeman” who demanded 150 Euro from me at the Bulgarian border at 3 a.m. for “not wearing a seat belt”, may you rot in hell – Pedestrians are 100% confident that cars will stop for them at crossings, not so in other countries – Romania has the “Roman” tradition of distance markers; every 100 metres a small one and every 1 km a proper post with distances and road number; splendid – Horse drawn carts are widespread still; they even have registration plates.
+
+Drum bun is written on many signs; it means “have a good journey”.
+
+]]></TEXT>
+<TAGS>
+<PLACE comment="Source for 'Soon after disembarking'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="'I was glad to be away'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Goal for 'cars will stop for them'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Source for 'I crossed the Danube for the 3rd of 4 times in 2 days'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl6" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Goal for 'I crossed the Danube for the 3rd of 4 times in 2 days'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Source for 'I forded two drainage ditches'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl8" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Goal for 'I forded two drainage ditches'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl9" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Source for 'I changed and set off'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl11" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Source for 'you pass through rich farmland'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl15" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Goal for 'you pass through rich farmland'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl16" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Source for 'you pass through ... rolling hills'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl17" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Goal for 'you pass through ... rolling hills'" continent="" countable="FALSE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl18" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="The first point in 'The second point is further north'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl12" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1066" form="NOM" gazref="" gquant="" id="pl33" latLong="" mod="" scopes="" start="1061" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1129" form="NOM" gazref="" gquant="" id="pl34" latLong="" mod="" scopes="" start="1125" state="" text="home" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1176" form="NOM" gazref="" gquant="" id="pl19" latLong="" mod="" scopes="" start="1168" state="" text="villages" type=""/>
+<PLACE comment="'nearest'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1230" form="NOM" gazref="" gquant="" id="pl20" latLong="" mod="" scopes="" start="1223" state="" text="village" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1285" form="NOM" gazref="" gquant="" id="pl35" latLong="" mod="" scopes="" start="1279" state="" text="hamlet" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1297" form="NAM" gazref="" gquant="" id="pl36" latLong="" mod="" scopes="" start="1289" state="" text="Sălăgeni" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1479" form="NOM" gazref="" gquant="" id="pl37" latLong="" mod="" scopes="" start="1473" state="" text="fields" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1641" form="NAM" gazref="" gquant="" id="pl38" latLong="" mod="" scopes="" start="1633" state="" text="Sălăgeni" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="169" form="NOM" gazref="" gquant="" id="pl24" latLong="" mod="" scopes="" start="164" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1813" form="NOM" gazref="" gquant="" id="pl39" latLong="" mod="" scopes="" start="1808" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1846" form="NOM" gazref="" gquant="" id="pl40" latLong="" mod="" scopes="" start="1839" state="" text="village" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1973" form="NOM" gazref="" gquant="" id="pl41" latLong="" mod="" scopes="" start="1968" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="FALSE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1999" form="NOM" gazref="" gquant="" id="pl42" latLong="" mod="" scopes="" start="1993" state="" text="swamps" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2065" form="NOM" gazref="" gquant="" id="pl43" latLong="" mod="" scopes="" start="2060" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2074" form="NAM" gazref="" gquant="" id="pl44" latLong="" mod="" scopes="" start="2067" state="" text="Romania" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2227" form="NOM" gazref="" gquant="" id="pl10" latLong="" mod="" scopes="" start="2223" state="" text="home" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="2305" form="NAM" gazref="" gquant="" id="pl45" latLong="" mod="" scopes="" start="2298" state="" text="Romania" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2388" form="NOM" gazref="" gquant="" id="pl46" latLong="" mod="" scopes="" start="2386" state="" text="It" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2418" form="NOM" gazref="" gquant="" id="pl47" latLong="" mod="" scopes="" start="2416" state="" text="it" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2456" form="NAM" gazref="" gquant="" id="pl48" latLong="" mod="" scopes="" start="2442" state="" text="Western Europe" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2667" form="NOM" gazref="" gquant="" id="pl3" latLong="" mod="" scopes="" start="2658" state="" text="crossings" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2704" form="NAM" gazref="" gquant="" id="pl50" latLong="" mod="" scopes="" start="2697" state="" text="Romania" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="282" form="NAM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="276" state="" text="Tulcea" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="449" form="NAM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="443" state="" text="Galaţi" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="479" form="NOM" gazref="" gquant="" id="pl26" latLong="" mod="" scopes="" start="475" state="" text="area" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="58" form="NOM" gazref="" gquant="" id="pl22" latLong="" mod="" scopes="" start="53" state="" text="point" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="560" form="NOM" gazref="" gquant="" id="pl27" latLong="" mod="" scopes="" start="554" state="" text="fields" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="572" form="NOM" gazref="" gquant="" id="pl28" latLong="" mod="" scopes="" start="565" state="" text="gardens" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="617" form="NOM" gazref="" gquant="" id="pl29" latLong="" mod="" scopes="" start="611" state="" text="fields" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="804" form="NAM" gazref="" gquant="" id="pl30" latLong="" mod="" scopes="" start="798" state="" text="Galaţi" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="831" form="NOM" gazref="" gquant="" id="pl31" latLong="" mod="" scopes="" start="826" state="" text="place" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="855" form="NOM" gazref="" gquant="" id="pl32" latLong="" mod="" scopes="" start="849" state="" text="blocks" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="104" form="NAM" gazref="" gquant="" id="pl23" latLong="" mod="" scopes="" start="92" state="" text="Danube delta" type=""/>
+<PLACE comment="" continent="" countable="FALSE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="1002" form="NOM" gazref="" gquant="" id="pl14" latLong="" mod="" scopes="" start="994" state="" text="farmland" type=""/>
+<PATH beginID="" comment="Ground for 'I am sure I could have gone round'" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" endID="" form="NOM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="-1" text="" type=""/>
+<PATH beginID="" comment="" countable="FALSE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="1025" endID="" form="NOM" gazref="" gquant="" id="p5" latLong="" midIDs="" mod="rolling" scopes="" start="1020" text="hills" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="142" endID="" form="NAM" gazref="" gquant="" id="p8" latLong="" midIDs="" mod="" scopes="" start="127" text="Moldovan border" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1333" endID="" form="NOM" gazref="" gquant="" id="p10" latLong="" midIDs="" mod="" scopes="" start="1327" text="border" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="1356" endID="" form="NOM" gazref="" gquant="" id="p11" latLong="" midIDs="" mod="" scopes="" start="1350" text="border" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="1877" endID="" form="NOM" gazref="" gquant="" id="p2" latLong="" midIDs="" mod="" scopes="" start="1870" text="ditches" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="1883" endID="" form="NOM" gazref="" gquant="" id="p3" latLong="" midIDs="" mod="" scopes="" start="1880" text="one" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="210" endID="" form="NOM" gazref="" gquant="" id="p7" latLong="" midIDs="" mod="" scopes="" start="206" text="zone" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="2103" endID="" form="NOM" gazref="" gquant="" id="p4" latLong="" midIDs="" mod="" scopes="" start="2100" text="way" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="227" endID="" form="NOM" gazref="" gquant="" id="p6" latLong="" midIDs="" mod="" scopes="" start="221" text="border" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="2531" endID="" form="NAM" gazref="" gquant="" id="p12" latLong="" midIDs="" mod="" scopes="" start="2515" text="Bulgarian border" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="304" endID="" form="NOM" gazref="" gquant="" id="p1" latLong="" midIDs="" mod="" scopes="" start="298" text="Danube" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="790" endID="" form="NOM" gazref="" gquant="" id="p9" latLong="" midIDs="" mod="" scopes="" start="785" text="roads" type=""/>
+<SPATIAL_ENTITY comment="Mover for 'Soon after disembarking and heading north for Galaţi'.  Represents the narrator." countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gquant="" id="se24" latLong="" mod="" scopes="" start="-1" text="" type=""/>
+<SPATIAL_ENTITY comment="Mover for 'it was only just possible to keep driving for more than half an hour'.  Represents the narrator." countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gquant="" id="se30" latLong="" mod="" scopes="" start="-1" text="" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1028" form="NOM" gquant="" id="se17" latLong="" mod="" scopes="" start="1027" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1088" form="NOM" gquant="" id="se18" latLong="" mod="" scopes="" start="1087" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1149" form="NOM" gquant="" id="se11" latLong="" mod="" scopes="" start="1148" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1199" form="NOM" gquant="" id="se12" latLong="" mod="" scopes="" start="1193" text="people" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1262" form="NOM" gquant="" id="se19" latLong="" mod="" scopes="" start="1261" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1376" form="NOM" gquant="" id="se21" latLong="" mod="" scopes="" start="1375" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1447" form="NOM" gquant="" id="se23" latLong="" mod="" scopes="" start="1444" text="men" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1461" form="NOM" gquant="" id="se22" latLong="" mod="" scopes="" start="1455" text="cattle" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1511" form="NOM" gquant="" id="se25" latLong="" mod="" scopes="" start="1509" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1653" form="NOM" gquant="" id="se26" latLong="" mod="" scopes="" start="1651" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1769" form="NOM" gquant="" id="se27" latLong="" mod="" scopes="" start="1764" text="ducks" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1775" form="NOM" gquant="" id="se28" latLong="" mod="" scopes="" start="1771" text="hens" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1787" form="NOM" gquant="" id="se29" latLong="" mod="" scopes="" start="1780" text="turkeys" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1849" form="NOM" gquant="" id="se5" latLong="" mod="" scopes="" start="1848" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1897" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="1896" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1907" form="NOM" gquant="" id="se3" latLong="" mod="" scopes="" start="1906" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="1954" form="NOM" gquant="" id="se32" latLong="" mod="" scopes="" start="1953" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1988" form="NOM" gquant="" id="se31" latLong="" mod="" scopes="" start="1983" text="reeds" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2110" form="NOM" gquant="" id="se6" latLong="" mod="" scopes="" start="2109" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2136" form="NOM" gquant="" id="se7" latLong="" mod="" scopes="" start="2133" text="man" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2141" form="NOM" gquant="" id="se8" latLong="" mod="" scopes="" start="2139" text="we" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2232" form="NOM" gquant="" id="se9" latLong="" mod="" scopes="" start="2231" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="2361" form="NOM" gquant="" id="se34" latLong="" mod="" scopes="" start="2356" text="flags" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="2383" form="NOM" gquant="" id="se33" latLong="" mod="" scopes="" start="2374" text="buildings" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2507" form="NOM" gquant="" id="se38" latLong="" mod="" scopes="" start="2505" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2635" form="NOM" gquant="" id="se1" latLong="" mod="" scopes="" start="2631" text="cars" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="285" form="NOM" gquant="" id="se4" latLong="" mod="" scopes="" start="284" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="587" form="NOM" gquant="" id="se14" latLong="" mod="" scopes="" start="582" text="crops" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="733" form="NOM" gquant="" id="se16" latLong="" mod="" scopes="" start="732" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="750" form="NOM" gquant="" id="se20" latLong="" mod="" scopes="" start="748" text="it" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="878" form="NOM" gquant="" id="se15" latLong="" mod="" scopes="" start="869" text="factories" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="929" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="928" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="975" form="NOM" gquant="" id="se10" latLong="" mod="" scopes="" start="972" text="you" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1044" gquant="" id="e4" latLong="" mod="" scopes="" start="1040" text="camp"/>
+<NONMOTION_EVENT comment="" countable="TRUE" domain="" elevation="" end="1259" gquant="" id="e1" latLong="" mod="" scopes="" start="1254" text="dance"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1269" gquant="" id="e5" latLong="" mod="" scopes="" start="1263" text="camped"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1488" gquant="" id="e6" latLong="" mod="" scopes="" start="1483" text="graze"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="2118" gquant="" id="e0" latLong="" mod="" scopes="" start="2111" text="chatted"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="2490" gquant="" id="e8" latLong="" mod="" scopes="" start="2482" text="demanded"/>
+<NONMOTION_EVENT comment="" countable="FALSE" domain="" elevation="" end="507" gquant="" id="e2" latLong="" mod="" scopes="" start="501" text="floods"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="546" gquant="" id="e3" latLong="" mod="" scopes="" start="541" text="lying"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1124" gquant="" id="m22" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="1119" text="drive"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1155" gquant="" id="m13" latLong="" mod="" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="1150" text="drove"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1207" gquant="" id="m14" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="1200" text="walking"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1454" gquant="" id="m23" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1448" text="taking"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1794" gquant="" id="m24" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="1788" text="wander"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1856" gquant="" id="m7" latLong="" mod="" motion_class="CROSS" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="1850" text="forded"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1923" gquant="" id="m3" latLong="" mod="" motion_class="MOVE_EXTERNAL" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1919" text="gone"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1944" gquant="" id="m4" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1942" text="go"/>
+<MOTION comment="" countable="" domain="" elevation="" end="2052" gquant="" id="m25" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="2048" text="walk"/>
+<MOTION comment="" countable="TRUE" domain="" elevation="" end="2222" gquant="" id="m9" latLong="" mod="long" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="2217" text="drive"/>
+<MOTION comment="" countable="" domain="" elevation="" end="2252" gquant="" id="m10" latLong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="2245" text="set off"/>
+<MOTION comment="" countable="TRUE" domain="" elevation="" end="255" gquant="" id="m16" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="250" text="visit"/>
+<MOTION comment="" countable="" domain="" elevation="" end="265" gquant="" id="m5" latLong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="258" text="Driving"/>
+<MOTION comment="" countable="" domain="" elevation="" end="2645" gquant="" id="m2" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="2641" text="stop"/>
+<MOTION comment="" countable="" domain="" elevation="" end="293" gquant="" id="m6" latLong="" mod="" motion_class="CROSS" motion_sense="LITERAL" motion_type="PATH" scopes="" start="286" text="crossed"/>
+<MOTION comment="Narrator is the implied mover" countable="" domain="" elevation="" end="420" gquant="" id="m0" latLong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="408" text="disembarking"/>
+<MOTION comment="Narrator is the implied mover" countable="" domain="" elevation="" end="432" gquant="" id="m1" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="425" text="heading"/>
+<MOTION comment="" countable="" domain="" elevation="" end="691" gquant="" id="m17" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="MANNER" scopes="" start="684" text="driving"/>
+<MOTION comment="" countable="" domain="" elevation="" end="737" gquant="" id="m20" latLong="" mod="" motion_class="DETACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="734" text="got"/>
+<MOTION comment="" countable="" domain="" elevation="" end="777" gquant="" id="m21" latLong="" mod="" motion_class="FOLLOW" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="770" text="driving"/>
+<MOTION comment="" countable="" domain="" elevation="" end="957" gquant="" id="m11" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="951" text="Moving"/>
+<MOTION comment="" countable="" domain="" elevation="" end="980" gquant="" id="m12" latLong="" mod="" motion_class="CROSS" motion_sense="LITERAL" motion_type="PATH" scopes="" start="976" text="pass"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1982" id="s11" semantic_type="TOPOLOGICAL" start="1980" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2095" id="s5" semantic_type="TOPOLOGICAL" start="2093" text="On"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="216" id="s6" semantic_type="DIR_TOP" start="211" text="along"/>
+<SPATIAL_SIGNAL cluster="" comment="The distinction of above/beside/both is not clear" end="2364" id="s12" semantic_type="DIR_TOP" start="2362" text="on"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2510" id="s13" semantic_type="TOPOLOGICAL" start="2508" text="at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2657" id="s4" semantic_type="TOPOLOGICAL" start="2655" text="at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="549" id="s7" semantic_type="TOPOLOGICAL" start="547" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="606" id="s8" semantic_type="TOPOLOGICAL" start="604" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="'further'" end="75" id="s2" semantic_type="DIRECTIONAL" start="70" text="north"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="87" id="s3" semantic_type="TOPOLOGICAL" start="78" text="away from"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="949" id="s0" semantic_type="TOPOLOGICAL" start="945" text="away"/>
+<MOTION_SIGNAL comment="" end="1163" id="ms9" motion_signal_type="PATH" start="1156" text="through"/>
+<MOTION_SIGNAL comment="" end="1210" id="ms10" motion_signal_type="PATH" start="1208" text="to"/>
+<MOTION_SIGNAL comment="" end="1465" id="ms14" motion_signal_type="PATH" start="1462" text="out"/>
+<MOTION_SIGNAL comment="" end="1468" id="ms15" motion_signal_type="PATH" start="1466" text="to"/>
+<MOTION_SIGNAL comment="" end="1801" id="ms16" motion_signal_type="PATH" start="1795" text="around"/>
+<MOTION_SIGNAL comment="" end="1929" id="ms3" motion_signal_type="PATH" start="1924" text="round"/>
+<MOTION_SIGNAL comment="" end="1951" id="ms4" motion_signal_type="PATH" start="1945" text="direct"/>
+<MOTION_SIGNAL comment="" end="2055" id="ms17" motion_signal_type="PATH" start="2053" text="to"/>
+<MOTION_SIGNAL comment="" end="270" id="ms5" motion_signal_type="PATH" start="266" text="away"/>
+<MOTION_SIGNAL comment="" end="275" id="ms6" motion_signal_type="PATH" start="271" text="from"/>
+<MOTION_SIGNAL comment="" end="438" id="ms0" motion_signal_type="PATH" start="433" text="north"/>
+<MOTION_SIGNAL comment="" end="442" id="ms1" motion_signal_type="PATH" start="439" text="for"/>
+<MOTION_SIGNAL comment="" end="742" id="ms12" motion_signal_type="PATH" start="738" text="away"/>
+<MOTION_SIGNAL comment="" end="747" id="ms13" motion_signal_type="PATH" start="743" text="from"/>
+<MOTION_SIGNAL comment="" end="780" id="ms11" motion_signal_type="PATH" start="778" text="on"/>
+<MOTION_SIGNAL comment="'further'" end="971" id="ms2" motion_signal_type="PATH" start="966" text="north"/>
+<MOTION_SIGNAL comment="" end="988" id="ms8" motion_signal_type="PATH" start="981" text="through"/>
+<MEASURE comment="" end="1053" id="me2" start="1048" text="close" unit="" value="NEAR"/>
+<MEASURE comment="" end="119" id="me1" start="109" text="very close" unit="" value="NEAR"/>
+<MEASURE comment="" end="1274" id="me3" start="1270" text="near" unit="" value="NEAR"/>
+<MEASURE comment="" end="1317" id="me4" start="1307" text="few metres" unit="meters" value="few"/>
+<MEASURE comment="" end="1829" id="me5" start="1825" text="1 km" unit="kilometers" value="1"/>
+<MEASURE comment="" end="1894" id="me6" start="1884" text="waist high" unit="" value="'waist high'"/>
+<QSLINK comment="" fromID="pl22" fromText="point" id="qsl0" landmark="pl23" relType="DC" toID="pl23" toText="Danube delta" trajector="pl22" trigger="s3"/>
+<QSLINK comment="" fromID="p7" fromText="zone" id="qsl1" landmark="p6" relType="EC" toID="p6" toText="border" trajector="p7" trigger="s6"/>
+<QSLINK comment="" fromID="se0" fromText="I" id="qsl10" landmark="pl2" relType="DC" toID="pl2" toText="" trajector="se0" trigger="s0"/>
+<QSLINK comment="" fromID="pl16" fromText="" id="qsl11" landmark="pl14" relType="EC" toID="pl14" toText="farmland" trajector="pl16" trigger=""/>
+<QSLINK comment="" fromID="pl15" fromText="" id="qsl12" landmark="pl14" relType="EC" toID="pl14" toText="farmland" trajector="pl15" trigger=""/>
+<QSLINK comment="" fromID="pl18" fromText="" id="qsl13" landmark="p5" relType="EC" toID="p5" toText="hills" trajector="pl18" trigger=""/>
+<QSLINK comment="" fromID="pl17" fromText="" id="qsl14" landmark="p5" relType="EC" toID="p5" toText="hills" trajector="pl17" trigger=""/>
+<QSLINK comment="" fromID="e1" fromText="dance" id="qsl15" landmark="pl20" relType="IN" toID="pl20" toText="village" trajector="e1" trigger=""/>
+<QSLINK comment="" fromID="e6" fromText="graze" id="qsl17" landmark="pl37" relType="IN" toID="pl37" toText="fields" trajector="e6" trigger=""/>
+<QSLINK comment="" fromID="pl9" fromText="" id="qsl19" landmark="p2" relType="EC" toID="p2" toText="ditches" trajector="pl9" trigger=""/>
+<QSLINK comment="" fromID="pl7" fromText="" id="qsl2" landmark="p1" relType="EC" toID="p1" toText="Danube" trajector="pl7" trigger=""/>
+<QSLINK comment="" fromID="pl8" fromText="" id="qsl20" landmark="p2" relType="EC" toID="p2" toText="ditches" trajector="pl8" trigger=""/>
+<QSLINK comment="" fromID="pl41" fromText="point" id="qsl21" landmark="se31" relType="IN" toID="se31" toText="reeds" trajector="pl41" trigger="s11"/>
+<QSLINK comment="" fromID="pl41" fromText="point" id="qsl22" landmark="pl42" relType="IN" toID="pl42" toText="swamps" trajector="pl41" trigger="s11"/>
+<QSLINK comment="" fromID="e0" fromText="chatted" id="qsl23" landmark="p4" relType="NTPP" toID="p4" toText="way" trajector="e0" trigger="s5"/>
+<QSLINK comment="" fromID="se34" fromText="flags" id="qsl25" landmark="se33" relType="EC" toID="se33" toText="buildings" trajector="se34" trigger="s12"/>
+<QSLINK comment="" fromID="e8" fromText="demanded" id="qsl26" landmark="p12" relType="IN" toID="p12" toText="Bulgarian border" trajector="e8" trigger="s13"/>
+<QSLINK comment="" fromID="m2" fromText="stop" id="qsl27" landmark="pl3" relType="EC" toID="pl3" toText="crossings" trajector="m2" trigger="s4"/>
+<QSLINK comment="" fromID="pl6" fromText="" id="qsl3" landmark="p1" relType="EC" toID="p1" toText="Danube" trajector="pl6" trigger=""/>
+<QSLINK comment="" fromID="e2" fromText="floods" id="qsl4" landmark="pl26" relType="IN" toID="pl26" toText="area" trajector="e2" trigger=""/>
+<QSLINK comment="" fromID="e3" fromText="lying" id="qsl5" landmark="pl28" relType="IN" toID="pl28" toText="gardens" trajector="e3" trigger="s7"/>
+<QSLINK comment="" fromID="e3" fromText="lying" id="qsl6" landmark="pl27" relType="IN" toID="pl27" toText="fields" trajector="e3" trigger="s7"/>
+<QSLINK comment="" fromID="se14" fromText="crops" id="qsl7" landmark="pl29" relType="IN" toID="pl29" toText="fields" trajector="se14" trigger="s8"/>
+<QSLINK comment="" fromID="pl32" fromText="blocks" id="qsl8" landmark="pl30" relType="IN" toID="pl30" toText="Galaţi" trajector="pl32" trigger=""/>
+<QSLINK comment="" fromID="se15" fromText="factories" id="qsl9" landmark="pl30" relType="IN" toID="pl30" toText="Galaţi" trajector="se15" trigger=""/>
+<OLINK comment="" frame_type="ABSOLUTE" fromID="pl22" fromText="point" id="ol0" landmark="pl12" projective="TRUE" referencePt="NORTH" relType="NORTH" toID="pl12" toText="" trajector="pl22" trigger="s2"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="p7" fromText="zone" id="ol1" landmark="p6" projective="FALSE" referencePt="p6" relType="BESIDE" toID="p6" toText="border" trajector="p7" trigger="s6"/>
+<OLINK comment="" frame_type="RELATIVE" fromID="pl6" fromText="" id="ol2" landmark="p1" projective="FALSE" referencePt="pl7" relType="ACROSS" toID="p1" toText="Danube" trajector="pl6" trigger=""/>
+<OLINK comment="" frame_type="RELATIVE" fromID="pl15" fromText="" id="ol3" landmark="pl14" projective="FALSE" referencePt="pl16" relType="ACROSS" toID="pl14" toText="farmland" trajector="pl15" trigger=""/>
+<OLINK comment="" frame_type="RELATIVE" fromID="pl17" fromText="" id="ol4" landmark="p5" projective="FALSE" referencePt="pl18" relType="ACROSS" toID="p5" toText="hills" trajector="pl17" trigger=""/>
+<OLINK comment="" frame_type="RELATIVE" fromID="pl8" fromText="" id="ol5" landmark="p2" projective="FALSE" referencePt="pl9" relType="ACROSS" toID="p2" toText="ditches" trajector="pl8" trigger=""/>
+<OLINK comment="relType is not clear" frame_type="INTRINSIC" fromID="se34" fromText="flags" id="ol6" landmark="se33" projective="FALSE" referencePt="se33" relType="ABOVE" toID="se33" toText="buildings" trajector="se34" trigger="s12"/>
+<MOVELINK comment="" fromID="m23" fromText="taking" goal="pl37" goal_reached="YES" id="mvl0" landmark="" midPoint="" motion_signalID="ms14, ms15" mover="se23" pathID="" source="" toID="se23" toText="men" trigger="m23"/>
+<MOVELINK comment="" fromID="m23" fromText="taking" goal="pl37" goal_reached="YES" id="mvl1" landmark="" midPoint="" motion_signalID="ms14, ms15" mover="se22" pathID="" source="" toID="se22" toText="cattle" trigger="m23"/>
+<MOVELINK comment="" fromID="m20" fromText="got" goal="" goal_reached="" id="mvl11" landmark="" midPoint="" motion_signalID="ms12, ms13" mover="se16" pathID="" source="se20" toID="se16" toText="I" trigger="m20"/>
+<MOVELINK comment="" fromID="m21" fromText="driving" goal="" goal_reached="" id="mvl12" landmark="" midPoint="" motion_signalID="ms11" mover="se16" pathID="p9" source="" toID="se16" toText="I" trigger="m21"/>
+<MOVELINK comment="" fromID="m11" fromText="Moving" goal="" goal_reached="" id="mvl13" landmark="" midPoint="" motion_signalID="ms2" mover="se10" pathID="" source="" toID="se10" toText="you" trigger="m11"/>
+<MOVELINK comment="" fromID="m12" fromText="pass" goal="pl18" goal_reached="YES" id="mvl14" landmark="" midPoint="p5" motion_signalID="ms8" mover="se10" pathID="" source="pl17" toID="se10" toText="you" trigger="m12"/>
+<MOVELINK comment="" fromID="m12" fromText="pass" goal="pl16" goal_reached="YES" id="mvl15" landmark="" midPoint="pl14" motion_signalID="ms8" mover="se10" pathID="" source="pl15" toID="se10" toText="you" trigger="m12"/>
+<MOVELINK comment="" fromID="m22" fromText="drive" goal="pl34" goal_reached="YES" id="mvl16" landmark="" midPoint="" motion_signalID="" mover="se18" pathID="" source="" toID="se18" toText="I" trigger="m22"/>
+<MOVELINK comment="" fromID="m13" fromText="drove" goal="" goal_reached="" id="mvl17" landmark="pl19" midPoint="" motion_signalID="ms9" mover="se11" pathID="" source="" toID="se11" toText="I" trigger="m13"/>
+<MOVELINK comment="" fromID="m14" fromText="walking" goal="pl20" goal_reached="UNCERTAIN" id="mvl18" landmark="" midPoint="" motion_signalID="ms10" mover="se12" pathID="" source="" toID="se12" toText="people" trigger="m14"/>
+<MOVELINK comment="" fromID="m7" fromText="forded" goal="pl9" goal_reached="YES" id="mvl19" landmark="" midPoint="p2" motion_signalID="" mover="se5" pathID="" source="pl8" toID="se5" toText="I" trigger="m7"/>
+<MOVELINK comment="" fromID="m24" fromText="wander" goal="" goal_reached="" id="mvl2" landmark="" midPoint="" motion_signalID="ms16" mover="se27" pathID="" source="" toID="se27" toText="ducks" trigger="m24"/>
+<MOVELINK comment="" fromID="m4" fromText="go" goal="" goal_reached="" id="mvl20" landmark="" midPoint="" motion_signalID="ms4" mover="se3" pathID="" source="" toID="se3" toText="I" trigger="m4"/>
+<MOVELINK comment="" fromID="m3" fromText="gone" goal="" goal_reached="" id="mvl21" landmark="p0" midPoint="" motion_signalID="ms3" mover="se3" pathID="" source="" toID="se3" toText="I" trigger="m3"/>
+<MOVELINK comment="" fromID="m25" fromText="walk" goal="pl43" goal_reached="YES" id="mvl22" landmark="" midPoint="" motion_signalID="ms17" mover="se32" pathID="" source="" toID="se32" toText="I" trigger="m25"/>
+<MOVELINK comment="" fromID="m9" fromText="drive" goal="pl10" goal_reached="YES" id="mvl23" landmark="" midPoint="" motion_signalID="" mover="se9" pathID="" source="" toID="se9" toText="I" trigger="m9"/>
+<MOVELINK comment="" fromID="m10" fromText="set off" goal="" goal_reached="" id="mvl24" landmark="" midPoint="" motion_signalID="" mover="se9" pathID="" source="pl11" toID="se9" toText="I" trigger="m10"/>
+<MOVELINK comment="" fromID="m2" fromText="stop" goal="pl4" goal_reached="YES" id="mvl25" landmark="" midPoint="" motion_signalID="" mover="se1" pathID="" source="" toID="se1" toText="cars" trigger="m2"/>
+<MOVELINK comment="Narrator is implied mover." fromID="m17" fromText="driving" goal="" goal_reached="" id="mvl26" landmark="" midPoint="" motion_signalID="" mover="se30" pathID="" source="" toID="se30" toText="" trigger="m17"/>
+<MOVELINK comment="" fromID="m24" fromText="wander" goal="" goal_reached="" id="mvl3" landmark="" midPoint="" motion_signalID="ms16" mover="se28" pathID="" source="" toID="se28" toText="hens" trigger="m24"/>
+<MOVELINK comment="" fromID="m24" fromText="wander" goal="" goal_reached="" id="mvl4" landmark="" midPoint="" motion_signalID="ms16" mover="se29" pathID="" source="" toID="se29" toText="turkeys" trigger="m24"/>
+<MOVELINK comment="Generic mover" fromID="m16" fromText="visit" goal="pl24" goal_reached="YES" id="mvl5" landmark="" midPoint="" motion_signalID="" mover="" pathID="" source="" toID="m16" toText="visit" trigger="m16"/>
+<MOVELINK comment="" fromID="m5" fromText="Driving" goal="" goal_reached="" id="mvl6" landmark="" midPoint="" motion_signalID="ms5, ms6" mover="se4" pathID="" source="pl5" toID="se4" toText="I" trigger="m5"/>
+<MOVELINK comment="" fromID="m6" fromText="crossed" goal="pl7" goal_reached="YES" id="mvl7" landmark="" midPoint="p1" motion_signalID="" mover="se4" pathID="" source="pl6" toID="se4" toText="I" trigger="m6"/>
+<MOVELINK comment="Narrator is implied mover" fromID="m0" fromText="disembarking" goal="" goal_reached="" id="mvl8" landmark="" midPoint="" motion_signalID="" mover="se24" pathID="" source="pl1" toID="se24" toText="" trigger="m0"/>
+<MEASURELINK comment="" endPoint1="" endPoint2="" fromID="pl22" fromText="point" id="ml0" landmark="pl8" relType="DISTANCE" toID="p8" toText="Moldovan border" trajector="pl22" val="me1"/>
+<MEASURELINK comment="" endPoint1="" endPoint2="" fromID="e4" fromText="camp" id="ml1" landmark="pl33" relType="DISTANCE" toID="pl33" toText="point" trajector="e4" val="me2"/>
+<MEASURELINK comment="" endPoint1="" endPoint2="" fromID="e5" fromText="camped" id="ml2" landmark="p10" relType="DISTANCE" toID="p10" toText="border" trajector="e5" val="me4"/>
+<MEASURELINK comment="" endPoint1="" endPoint2="" fromID="e5" fromText="camped" id="ml3" landmark="pl35" relType="DISTANCE" toID="pl35" toText="hamlet" trajector="e5" val="me3"/>
+<MEASURELINK comment="" endPoint1="" endPoint2="" fromID="pl39" fromText="point" id="ml4" landmark="pl40" relType="DISTANCE" toID="pl40" toText="village" trajector="pl39" val="me5"/>
+<MEASURELINK comment="" endPoint1="" endPoint2="" fromID="p3" fromText="one" id="ml5" landmark="p3" relType="HEIGHT" toID="p3" toText="one" trajector="p3" val="me6"/>
+<METALINK comment="" fromID="se6" fromText="I" id="metal1" objectID1="se6" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="p10" fromText="border" id="metal10" objectID1="p10" objectID2="p8" relType="COREFERENCE" toID="p8" toText="Moldovan border"/>
+<METALINK comment="" fromID="p11" fromText="border" id="metal11" objectID1="p11" objectID2="p8" relType="COREFERENCE" toID="p8" toText="Moldovan border"/>
+<METALINK comment="" fromID="se16" fromText="I" id="metal12" objectID1="se16" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se0" fromText="I" id="metal13" objectID1="se0" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se17" fromText="I" id="metal14" objectID1="se17" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se18" fromText="I" id="metal15" objectID1="se18" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se11" fromText="I" id="metal16" objectID1="se11" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se19" fromText="I" id="metal17" objectID1="se19" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se21" fromText="I" id="metal18" objectID1="se21" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se25" fromText="me" id="metal19" objectID1="se25" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se26" fromText="me" id="metal20" objectID1="se26" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se5" fromText="I" id="metal21" objectID1="se5" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se2" fromText="I" id="metal22" objectID1="se2" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se3" fromText="I" id="metal23" objectID1="se3" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se32" fromText="I" id="metal24" objectID1="se32" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se9" fromText="I" id="metal25" objectID1="se9" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se38" fromText="me" id="metal26" objectID1="se38" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="pl30" fromText="Galaţi" id="metal27" objectID1="pl30" objectID2="pl0" relType="COREFERENCE" toID="pl0" toText="Galaţi"/>
+<METALINK comment="" fromID="pl31" fromText="place" id="metal28" objectID1="pl31" objectID2="pl0" relType="COREFERENCE" toID="pl0" toText="Galaţi"/>
+<METALINK comment="" fromID="pl29" fromText="fields" id="metal29" objectID1="pl29" objectID2="pl27" relType="COREFERENCE" toID="pl27" toText="fields"/>
+<METALINK comment="" fromID="pl10" fromText="home" id="metal30" objectID1="pl10" objectID2="pl34" relType="COREFERENCE" toID="pl34" toText="home"/>
+<METALINK comment="" fromID="pl20" fromText="village" id="metal31" objectID1="pl20" objectID2="pl19" relType="SUBCOREFERENCE" toID="pl19" toText="villages"/>
+<METALINK comment="" fromID="pl36" fromText="Sălăgeni" id="metal32" objectID1="pl36" objectID2="pl35" relType="COREFERENCE" toID="pl35" toText="hamlet"/>
+<METALINK comment="" fromID="pl38" fromText="Sălăgeni" id="metal33" objectID1="pl38" objectID2="pl35" relType="COREFERENCE" toID="pl35" toText="hamlet"/>
+<METALINK comment="" fromID="pl40" fromText="village" id="metal34" objectID1="pl40" objectID2="pl35" relType="COREFERENCE" toID="pl35" toText="hamlet"/>
+<METALINK comment="" fromID="pl2" fromText="" id="metal35" objectID1="pl2" objectID2="pl0" relType="COREFERENCE" toID="pl0" toText="Galaţi"/>
+<METALINK comment="" fromID="p3" fromText="one" id="metal36" objectID1="p3" objectID2="p2" relType="SUBCOREFERENCE" toID="p2" toText="ditches"/>
+<METALINK comment="" fromID="p0" fromText="" id="metal37" objectID1="p0" objectID2="p2" relType="COREFERENCE" toID="p2" toText="ditches"/>
+<METALINK comment="" fromID="pl45" fromText="Romania" id="metal38" objectID1="pl45" objectID2="pl44" relType="COREFERENCE" toID="pl44" toText="Romania"/>
+<METALINK comment="" fromID="pl46" fromText="It" id="metal39" objectID1="pl46" objectID2="pl44" relType="COREFERENCE" toID="pl44" toText="Romania"/>
+<METALINK comment="" fromID="pl24" fromText="point" id="metal4" objectID1="pl24" objectID2="pl22" relType="COREFERENCE" toID="pl22" toText="point"/>
+<METALINK comment="" fromID="pl47" fromText="it" id="metal40" objectID1="pl47" objectID2="pl44" relType="COREFERENCE" toID="pl44" toText="Romania"/>
+<METALINK comment="" fromID="pl50" fromText="Romania" id="metal41" objectID1="pl50" objectID2="pl44" relType="COREFERENCE" toID="pl44" toText="Romania"/>
+<METALINK comment="" fromID="se30" fromText="" id="metal42" objectID1="se30" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="se24" fromText="" id="metal44" objectID1="se24" objectID2="se4" relType="COREFERENCE" toID="se4" toText="I"/>
+<METALINK comment="" fromID="pl33" fromText="point" id="metal5" objectID1="pl33" objectID2="pl22" relType="COREFERENCE" toID="pl22" toText="point"/>
+<METALINK comment="" fromID="pl39" fromText="point" id="metal6" objectID1="pl39" objectID2="pl22" relType="COREFERENCE" toID="pl22" toText="point"/>
+<METALINK comment="" fromID="pl43" fromText="point" id="metal7" objectID1="pl43" objectID2="pl22" relType="COREFERENCE" toID="pl22" toText="point"/>
+<METALINK comment="" fromID="pl41" fromText="point" id="metal8" objectID1="pl41" objectID2="pl22" relType="COREFERENCE" toID="pl22" toText="point"/>
+<METALINK comment="" fromID="p6" fromText="border" id="metal9" objectID1="p6" objectID2="p8" relType="COREFERENCE" toID="p8" toText="Moldovan border"/>
+<METALINK comment="" fromID="se8" fromText="we" id="metal43" objectID1="se8" objectID2="se6" relType="SPLITCOREFERENCE" toID="se6" toText="I"/>
+<METALINK comment="" fromID="se8" fromText="we" id="metal45" objectID1="se8" objectID2="se7" relType="SPLITCOREFERENCE" toID="se7" toText="man"/>
+<CP>47N28E</CP>
+<URL>http://confluence.org/confluence.php?id=9801</URL>
+</TAGS>
+<TOKENS>
+<s>
+  <lex begin='2' end='13'>21-Aug-2005</lex>
+  <lex begin='14' end='16'>--</lex>
+  <lex begin='17' end='26'>Continued</lex>
+  <lex begin='27' end='31'>from</lex>
+  <lex begin='32' end='35'>45N</lex>
+  <lex begin='36' end='39'>29E</lex>
+  <lex begin='40' end='41'>-</lex>
+  <lex begin='42' end='45'>The</lex>
+  <lex begin='46' end='52'>second</lex>
+  <lex begin='53' end='58'>point</lex>
+  <lex begin='59' end='61'>is</lex>
+  <lex begin='62' end='69'>further</lex>
+  <lex begin='70' end='75'>north</lex>
+  <lex begin='76' end='77'>–</lex>
+  <lex begin='78' end='82'>away</lex>
+  <lex begin='83' end='87'>from</lex>
+  <lex begin='88' end='91'>the</lex>
+  <lex begin='92' end='98'>Danube</lex>
+  <lex begin='99' end='104'>delta</lex>
+  <lex begin='105' end='108'>and</lex>
+  <lex begin='109' end='113'>very</lex>
+  <lex begin='114' end='119'>close</lex>
+  <lex begin='120' end='122'>to</lex>
+  <lex begin='123' end='126'>the</lex>
+  <lex begin='127' end='135'>Moldovan</lex>
+  <lex begin='136' end='142'>border</lex>
+  <lex begin='142' end='143'>.</lex>
+</s>
+<s>
+  <lex begin='144' end='147'>The</lex>
+  <lex begin='148' end='153'>worry</lex>
+  <lex begin='154' end='158'>with</lex>
+  <lex begin='159' end='163'>this</lex>
+  <lex begin='164' end='169'>point</lex>
+  <lex begin='170' end='173'>was</lex>
+  <lex begin='174' end='181'>whether</lex>
+  <lex begin='182' end='187'>there</lex>
+  <lex begin='188' end='190'>is</lex>
+  <lex begin='191' end='194'>any</lex>
+  <lex begin='195' end='205'>restricted</lex>
+  <lex begin='206' end='210'>zone</lex>
+  <lex begin='211' end='216'>along</lex>
+  <lex begin='217' end='220'>the</lex>
+  <lex begin='221' end='227'>border</lex>
+  <lex begin='228' end='233'>which</lex>
+  <lex begin='234' end='239'>would</lex>
+  <lex begin='240' end='247'>prevent</lex>
+  <lex begin='248' end='249'>a</lex>
+  <lex begin='250' end='255'>visit</lex>
+  <lex begin='255' end='256'>.</lex>
+</s>
+<s>
+  <lex begin='258' end='265'>Driving</lex>
+  <lex begin='266' end='270'>away</lex>
+  <lex begin='271' end='275'>from</lex>
+  <lex begin='276' end='282'>Tulcea</lex>
+  <lex begin='282' end='283'>,</lex>
+  <lex begin='284' end='285'>I</lex>
+  <lex begin='286' end='293'>crossed</lex>
+  <lex begin='294' end='297'>the</lex>
+  <lex begin='298' end='304'>Danube</lex>
+  <lex begin='305' end='308'>for</lex>
+  <lex begin='309' end='312'>the</lex>
+  <lex begin='313' end='316'>3rd</lex>
+  <lex begin='317' end='319'>of</lex>
+  <lex begin='320' end='321'>4</lex>
+  <lex begin='322' end='327'>times</lex>
+  <lex begin='328' end='330'>in</lex>
+  <lex begin='331' end='332'>2</lex>
+  <lex begin='333' end='337'>days</lex>
+  <lex begin='337' end='338'>.</lex>
+</s>
+<s>
+  <lex begin='339' end='343'>This</lex>
+  <lex begin='344' end='348'>time</lex>
+  <lex begin='349' end='351'>it</lex>
+  <lex begin='352' end='355'>was</lex>
+  <lex begin='356' end='357'>a</lex>
+  <lex begin='358' end='363'>ferry</lex>
+  <lex begin='363' end='364'>.</lex>
+</s>
+<s>
+  <lex begin='365' end='369'>Very</lex>
+  <lex begin='370' end='376'>prompt</lex>
+  <lex begin='377' end='380'>and</lex>
+  <lex begin='381' end='385'>well</lex>
+  <lex begin='386' end='395'>organised</lex>
+  <lex begin='395' end='396'>.</lex>
+</s>
+<s>
+  <lex begin='397' end='401'>Soon</lex>
+  <lex begin='402' end='407'>after</lex>
+  <lex begin='408' end='420'>disembarking</lex>
+  <lex begin='421' end='424'>and</lex>
+  <lex begin='425' end='432'>heading</lex>
+  <lex begin='433' end='438'>north</lex>
+  <lex begin='439' end='442'>for</lex>
+  <lex begin='443' end='449'>Galaţi</lex>
+  <lex begin='450' end='452'>it</lex>
+  <lex begin='453' end='460'>started</lex>
+  <lex begin='461' end='463'>to</lex>
+  <lex begin='464' end='468'>rain</lex>
+  <lex begin='468' end='469'>.</lex>
+</s>
+<s>
+  <lex begin='470' end='474'>This</lex>
+  <lex begin='475' end='479'>area</lex>
+  <lex begin='480' end='488'>suffered</lex>
+  <lex begin='489' end='493'>from</lex>
+  <lex begin='494' end='500'>severe</lex>
+  <lex begin='501' end='507'>floods</lex>
+  <lex begin='508' end='510'>in</lex>
+  <lex begin='511' end='515'>July</lex>
+  <lex begin='516' end='519'>and</lex>
+  <lex begin='520' end='525'>there</lex>
+  <lex begin='526' end='528'>is</lex>
+  <lex begin='529' end='534'>still</lex>
+  <lex begin='535' end='540'>water</lex>
+  <lex begin='541' end='546'>lying</lex>
+  <lex begin='547' end='549'>in</lex>
+  <lex begin='550' end='553'>the</lex>
+  <lex begin='554' end='560'>fields</lex>
+  <lex begin='561' end='564'>and</lex>
+  <lex begin='565' end='572'>gardens</lex>
+  <lex begin='573' end='576'>and</lex>
+  <lex begin='577' end='581'>dead</lex>
+  <lex begin='582' end='587'>crops</lex>
+  <lex begin='588' end='594'>remain</lex>
+  <lex begin='594' end='595'>,</lex>
+  <lex begin='596' end='603'>forlorn</lex>
+  <lex begin='604' end='606'>in</lex>
+  <lex begin='607' end='610'>the</lex>
+  <lex begin='611' end='617'>fields</lex>
+  <lex begin='617' end='618'>.</lex>
+</s>
+<s>
+  <lex begin='619' end='622'>The</lex>
+  <lex begin='623' end='627'>rain</lex>
+  <lex begin='628' end='634'>became</lex>
+  <lex begin='635' end='645'>torrential</lex>
+  <lex begin='646' end='649'>and</lex>
+  <lex begin='650' end='652'>it</lex>
+  <lex begin='653' end='656'>was</lex>
+  <lex begin='657' end='661'>only</lex>
+  <lex begin='662' end='666'>just</lex>
+  <lex begin='667' end='675'>possible</lex>
+  <lex begin='676' end='678'>to</lex>
+  <lex begin='679' end='683'>keep</lex>
+  <lex begin='684' end='691'>driving</lex>
+  <lex begin='692' end='695'>for</lex>
+  <lex begin='696' end='700'>more</lex>
+  <lex begin='701' end='705'>than</lex>
+  <lex begin='706' end='710'>half</lex>
+  <lex begin='711' end='713'>an</lex>
+  <lex begin='714' end='718'>hour</lex>
+  <lex begin='718' end='719'>.</lex>
+</s>
+<s>
+  <lex begin='721' end='731'>Eventually</lex>
+  <lex begin='732' end='733'>I</lex>
+  <lex begin='734' end='737'>got</lex>
+  <lex begin='738' end='742'>away</lex>
+  <lex begin='743' end='747'>from</lex>
+  <lex begin='748' end='750'>it</lex>
+  <lex begin='751' end='754'>and</lex>
+  <lex begin='755' end='760'>quite</lex>
+  <lex begin='761' end='765'>soon</lex>
+  <lex begin='766' end='769'>was</lex>
+  <lex begin='770' end='777'>driving</lex>
+  <lex begin='778' end='780'>on</lex>
+  <lex begin='781' end='784'>dry</lex>
+  <lex begin='785' end='790'>roads</lex>
+  <lex begin='791' end='796'>again</lex>
+  <lex begin='796' end='797'>.</lex>
+</s>
+<s>
+  <lex begin='798' end='804'>Galaţi</lex>
+  <lex begin='805' end='807'>is</lex>
+  <lex begin='808' end='811'>not</lex>
+  <lex begin='812' end='814'>an</lex>
+  <lex begin='815' end='825'>attractive</lex>
+  <lex begin='826' end='831'>place</lex>
+  <lex begin='832' end='833'>–</lex>
+  <lex begin='834' end='838'>ugly</lex>
+  <lex begin='839' end='848'>apartment</lex>
+  <lex begin='849' end='855'>blocks</lex>
+  <lex begin='856' end='859'>and</lex>
+  <lex begin='860' end='868'>chemical</lex>
+  <lex begin='869' end='878'>factories</lex>
+  <lex begin='878' end='879'>.</lex>
+</s>
+<s>
+  <lex begin='880' end='882'>It</lex>
+  <lex begin='883' end='885'>is</lex>
+  <lex begin='886' end='889'>not</lex>
+  <lex begin='890' end='896'>helped</lex>
+  <lex begin='897' end='899'>by</lex>
+  <lex begin='900' end='906'>floods</lex>
+  <lex begin='907' end='910'>and</lex>
+  <lex begin='911' end='921'>torrential</lex>
+  <lex begin='922' end='926'>rain</lex>
+  <lex begin='926' end='927'>.</lex>
+</s>
+<s>
+  <lex begin='928' end='929'>I</lex>
+  <lex begin='930' end='933'>was</lex>
+  <lex begin='934' end='938'>glad</lex>
+  <lex begin='939' end='941'>to</lex>
+  <lex begin='942' end='944'>be</lex>
+  <lex begin='945' end='949'>away</lex>
+  <lex begin='949' end='950'>.</lex>
+</s>
+<s>
+  <lex begin='951' end='957'>Moving</lex>
+  <lex begin='958' end='965'>further</lex>
+  <lex begin='966' end='971'>north</lex>
+  <lex begin='972' end='975'>you</lex>
+  <lex begin='976' end='980'>pass</lex>
+  <lex begin='981' end='988'>through</lex>
+  <lex begin='989' end='993'>rich</lex>
+  <lex begin='994' end='1002'>farmland</lex>
+  <lex begin='1003' end='1006'>and</lex>
+  <lex begin='1007' end='1011'>then</lex>
+  <lex begin='1012' end='1019'>rolling</lex>
+  <lex begin='1020' end='1025'>hills</lex>
+  <lex begin='1025' end='1026'>.</lex>
+</s>
+<s>
+  <lex begin='1027' end='1028'>I</lex>
+  <lex begin='1029' end='1036'>decided</lex>
+  <lex begin='1037' end='1039'>to</lex>
+  <lex begin='1040' end='1044'>camp</lex>
+  <lex begin='1045' end='1047'>as</lex>
+  <lex begin='1048' end='1053'>close</lex>
+  <lex begin='1054' end='1056'>to</lex>
+  <lex begin='1057' end='1060'>the</lex>
+  <lex begin='1061' end='1066'>point</lex>
+  <lex begin='1067' end='1069'>as</lex>
+  <lex begin='1070' end='1078'>possible</lex>
+  <lex begin='1079' end='1081'>so</lex>
+  <lex begin='1082' end='1086'>that</lex>
+  <lex begin='1087' end='1088'>I</lex>
+  <lex begin='1089' end='1094'>could</lex>
+  <lex begin='1095' end='1099'>make</lex>
+  <lex begin='1100' end='1102'>an</lex>
+  <lex begin='1103' end='1108'>early</lex>
+  <lex begin='1109' end='1114'>start</lex>
+  <lex begin='1115' end='1118'>and</lex>
+  <lex begin='1119' end='1124'>drive</lex>
+  <lex begin='1125' end='1129'>home</lex>
+  <lex begin='1130' end='1132'>on</lex>
+  <lex begin='1133' end='1136'>the</lex>
+  <lex begin='1137' end='1143'>Sunday</lex>
+  <lex begin='1143' end='1144'>.</lex>
+</s>
+<s>
+  <lex begin='1145' end='1147'>As</lex>
+  <lex begin='1148' end='1149'>I</lex>
+  <lex begin='1150' end='1155'>drove</lex>
+  <lex begin='1156' end='1163'>through</lex>
+  <lex begin='1164' end='1167'>the</lex>
+  <lex begin='1168' end='1176'>villages</lex>
+  <lex begin='1177' end='1182'>there</lex>
+  <lex begin='1183' end='1187'>were</lex>
+  <lex begin='1188' end='1192'>many</lex>
+  <lex begin='1193' end='1199'>people</lex>
+  <lex begin='1200' end='1207'>walking</lex>
+  <lex begin='1208' end='1210'>to</lex>
+  <lex begin='1211' end='1214'>the</lex>
+  <lex begin='1215' end='1222'>nearest</lex>
+  <lex begin='1223' end='1230'>village</lex>
+  <lex begin='1231' end='1234'>for</lex>
+  <lex begin='1235' end='1238'>the</lex>
+  <lex begin='1239' end='1247'>Saturday</lex>
+  <lex begin='1248' end='1253'>night</lex>
+  <lex begin='1254' end='1259'>dance</lex>
+  <lex begin='1259' end='1260'>.</lex>
+</s>
+<s>
+  <lex begin='1261' end='1262'>I</lex>
+  <lex begin='1263' end='1269'>camped</lex>
+  <lex begin='1270' end='1274'>near</lex>
+  <lex begin='1275' end='1278'>the</lex>
+  <lex begin='1279' end='1285'>hamlet</lex>
+  <lex begin='1286' end='1288'>of</lex>
+  <lex begin='1289' end='1297'>Sălăgeni</lex>
+  <lex begin='1298' end='1299'>–</lex>
+  <lex begin='1300' end='1304'>just</lex>
+  <lex begin='1305' end='1306'>a</lex>
+  <lex begin='1307' end='1310'>few</lex>
+  <lex begin='1311' end='1317'>metres</lex>
+  <lex begin='1318' end='1322'>from</lex>
+  <lex begin='1323' end='1326'>the</lex>
+  <lex begin='1327' end='1333'>border</lex>
+  <lex begin='1333' end='1334'>.</lex>
+</s>
+<s>
+  <lex begin='1335' end='1337'>No</lex>
+  <lex begin='1338' end='1342'>sign</lex>
+  <lex begin='1343' end='1345'>of</lex>
+  <lex begin='1346' end='1349'>the</lex>
+  <lex begin='1350' end='1356'>border</lex>
+  <lex begin='1357' end='1359'>or</lex>
+  <lex begin='1360' end='1363'>any</lex>
+  <lex begin='1364' end='1372'>security</lex>
+  <lex begin='1372' end='1373'>.</lex>
+</s>
+<s>
+  <lex begin='1375' end='1376'>I</lex>
+  <lex begin='1377' end='1380'>was</lex>
+  <lex begin='1381' end='1386'>woken</lex>
+  <lex begin='1387' end='1389'>up</lex>
+  <lex begin='1390' end='1392'>by</lex>
+  <lex begin='1393' end='1396'>the</lex>
+  <lex begin='1397' end='1400'>sun</lex>
+  <lex begin='1401' end='1403'>at</lex>
+  <lex begin='1404' end='1408'>dawn</lex>
+  <lex begin='1409' end='1410'>–</lex>
+  <lex begin='1411' end='1415'>6.30</lex>
+  <lex begin='1416' end='1420'>a.m.</lex>
+</s>
+<s>
+  <lex begin='1421' end='1426'>There</lex>
+  <lex begin='1427' end='1431'>were</lex>
+  <lex begin='1432' end='1439'>already</lex>
+  <lex begin='1440' end='1443'>old</lex>
+  <lex begin='1444' end='1447'>men</lex>
+  <lex begin='1448' end='1454'>taking</lex>
+  <lex begin='1455' end='1461'>cattle</lex>
+  <lex begin='1462' end='1465'>out</lex>
+  <lex begin='1466' end='1468'>to</lex>
+  <lex begin='1469' end='1472'>the</lex>
+  <lex begin='1473' end='1479'>fields</lex>
+  <lex begin='1480' end='1482'>to</lex>
+  <lex begin='1483' end='1488'>graze</lex>
+  <lex begin='1488' end='1489'>.</lex>
+</s>
+<s>
+  <lex begin='1490' end='1493'>The</lex>
+  <lex begin='1494' end='1499'>scene</lex>
+  <lex begin='1500' end='1508'>reminded</lex>
+  <lex begin='1509' end='1511'>me</lex>
+  <lex begin='1512' end='1514'>of</lex>
+  <lex begin='1515' end='1518'>the</lex>
+  <lex begin='1519' end='1525'>German</lex>
+  <lex begin='1526' end='1536'>television</lex>
+  <lex begin='1537' end='1546'>programme</lex>
+  <lex begin='1547' end='1548'>"</lex>
+  <lex begin='1548' end='1554'>Heimat</lex>
+  <lex begin='1554' end='1555'>"</lex>
+  <lex begin='1555' end='1556'>.</lex>
+</s>
+<s>
+  <lex begin='1557' end='1560'>The</lex>
+  <lex begin='1561' end='1570'>programme</lex>
+  <lex begin='1571' end='1577'>traces</lex>
+  <lex begin='1578' end='1579'>a</lex>
+  <lex begin='1580' end='1586'>German</lex>
+  <lex begin='1587' end='1594'>village</lex>
+  <lex begin='1595' end='1602'>through</lex>
+  <lex begin='1603' end='1605'>80</lex>
+  <lex begin='1606' end='1611'>years</lex>
+  <lex begin='1612' end='1614'>of</lex>
+  <lex begin='1615' end='1618'>the</lex>
+  <lex begin='1619' end='1623'>20th</lex>
+  <lex begin='1624' end='1631'>century</lex>
+  <lex begin='1631' end='1632'>.</lex>
+</s>
+<s>
+  <lex begin='1633' end='1641'>Sălăgeni</lex>
+  <lex begin='1642' end='1650'>reminded</lex>
+  <lex begin='1651' end='1653'>me</lex>
+  <lex begin='1654' end='1656'>of</lex>
+  <lex begin='1657' end='1660'>the</lex>
+  <lex begin='1661' end='1666'>first</lex>
+  <lex begin='1667' end='1674'>episode</lex>
+  <lex begin='1675' end='1678'>set</lex>
+  <lex begin='1679' end='1681'>in</lex>
+  <lex begin='1682' end='1687'>about</lex>
+  <lex begin='1688' end='1692'>1918</lex>
+  <lex begin='1693' end='1694'>–</lex>
+  <lex begin='1695' end='1703'>tranquil</lex>
+  <lex begin='1704' end='1707'>but</lex>
+  <lex begin='1708' end='1712'>with</lex>
+  <lex begin='1713' end='1716'>few</lex>
+  <lex begin='1717' end='1725'>comforts</lex>
+  <lex begin='1725' end='1726'>.</lex>
+</s>
+<s>
+  <lex begin='1727' end='1733'>Horses</lex>
+  <lex begin='1734' end='1737'>are</lex>
+  <lex begin='1738' end='1742'>more</lex>
+  <lex begin='1743' end='1749'>common</lex>
+  <lex begin='1750' end='1754'>than</lex>
+  <lex begin='1755' end='1759'>cars</lex>
+  <lex begin='1760' end='1763'>and</lex>
+  <lex begin='1764' end='1769'>ducks</lex>
+  <lex begin='1769' end='1770'>,</lex>
+  <lex begin='1771' end='1775'>hens</lex>
+  <lex begin='1776' end='1779'>and</lex>
+  <lex begin='1780' end='1787'>turkeys</lex>
+  <lex begin='1788' end='1794'>wander</lex>
+  <lex begin='1795' end='1801'>around</lex>
+  <lex begin='1801' end='1802'>.</lex>
+</s>
+<s>
+  <lex begin='1804' end='1807'>The</lex>
+  <lex begin='1808' end='1813'>point</lex>
+  <lex begin='1814' end='1820'>itself</lex>
+  <lex begin='1821' end='1824'>was</lex>
+  <lex begin='1825' end='1826'>1</lex>
+  <lex begin='1827' end='1829'>km</lex>
+  <lex begin='1830' end='1834'>from</lex>
+  <lex begin='1835' end='1838'>the</lex>
+  <lex begin='1839' end='1846'>village</lex>
+  <lex begin='1846' end='1847'>.</lex>
+</s>
+<s>
+  <lex begin='1848' end='1849'>I</lex>
+  <lex begin='1850' end='1856'>forded</lex>
+  <lex begin='1857' end='1860'>two</lex>
+  <lex begin='1861' end='1869'>drainage</lex>
+  <lex begin='1870' end='1877'>ditches</lex>
+  <lex begin='1878' end='1879'>–</lex>
+  <lex begin='1880' end='1883'>one</lex>
+  <lex begin='1884' end='1889'>waist</lex>
+  <lex begin='1890' end='1894'>high</lex>
+  <lex begin='1894' end='1895'>.</lex>
+</s>
+<s>
+  <lex begin='1896' end='1897'>I</lex>
+  <lex begin='1898' end='1900'>am</lex>
+  <lex begin='1901' end='1905'>sure</lex>
+  <lex begin='1906' end='1907'>I</lex>
+  <lex begin='1908' end='1913'>could</lex>
+  <lex begin='1914' end='1918'>have</lex>
+  <lex begin='1919' end='1923'>gone</lex>
+  <lex begin='1924' end='1929'>round</lex>
+  <lex begin='1930' end='1933'>but</lex>
+  <lex begin='1934' end='1937'>why</lex>
+  <lex begin='1938' end='1941'>not</lex>
+  <lex begin='1942' end='1944'>go</lex>
+  <lex begin='1945' end='1951'>direct</lex>
+  <lex begin='1951' end='1952'>!</lex>
+</s>
+<s>
+  <lex begin='1953' end='1954'>I</lex>
+  <lex begin='1955' end='1963'>expected</lex>
+  <lex begin='1964' end='1967'>the</lex>
+  <lex begin='1968' end='1973'>point</lex>
+  <lex begin='1974' end='1976'>to</lex>
+  <lex begin='1977' end='1979'>be</lex>
+  <lex begin='1980' end='1982'>in</lex>
+  <lex begin='1983' end='1988'>reeds</lex>
+  <lex begin='1989' end='1992'>and</lex>
+  <lex begin='1993' end='1999'>swamps</lex>
+  <lex begin='2000' end='2003'>but</lex>
+  <lex begin='2004' end='2007'>the</lex>
+  <lex begin='2008' end='2014'>valley</lex>
+  <lex begin='2015' end='2017'>is</lex>
+  <lex begin='2018' end='2021'>all</lex>
+  <lex begin='2022' end='2028'>arable</lex>
+  <lex begin='2029' end='2032'>and</lex>
+  <lex begin='2033' end='2035'>it</lex>
+  <lex begin='2036' end='2039'>was</lex>
+  <lex begin='2040' end='2044'>easy</lex>
+  <lex begin='2045' end='2047'>to</lex>
+  <lex begin='2048' end='2052'>walk</lex>
+  <lex begin='2053' end='2055'>to</lex>
+  <lex begin='2056' end='2059'>the</lex>
+  <lex begin='2060' end='2065'>point</lex>
+  <lex begin='2065' end='2066'>.</lex>
+</s>
+<s>
+  <lex begin='2067' end='2074'>Romania</lex>
+  <lex begin='2075' end='2077'>is</lex>
+  <lex begin='2078' end='2081'>now</lex>
+  <lex begin='2082' end='2090'>complete</lex>
+  <lex begin='2090' end='2091'>!</lex>
+</s>
+<s>
+  <lex begin='2093' end='2095'>On</lex>
+  <lex begin='2096' end='2099'>the</lex>
+  <lex begin='2100' end='2103'>way</lex>
+  <lex begin='2104' end='2108'>back</lex>
+  <lex begin='2109' end='2110'>I</lex>
+  <lex begin='2111' end='2118'>chatted</lex>
+  <lex begin='2119' end='2121'>to</lex>
+  <lex begin='2122' end='2124'>an</lex>
+  <lex begin='2125' end='2132'>elderly</lex>
+  <lex begin='2133' end='2136'>man</lex>
+  <lex begin='2137' end='2138'>–</lex>
+  <lex begin='2139' end='2141'>we</lex>
+  <lex begin='2142' end='2145'>had</lex>
+  <lex begin='2146' end='2148'>no</lex>
+  <lex begin='2149' end='2155'>common</lex>
+  <lex begin='2156' end='2166'>vocabulary</lex>
+  <lex begin='2167' end='2170'>but</lex>
+  <lex begin='2171' end='2174'>got</lex>
+  <lex begin='2175' end='2177'>on</lex>
+  <lex begin='2178' end='2182'>fine</lex>
+  <lex begin='2182' end='2183'>!</lex>
+</s>
+<s>
+  <lex begin='2184' end='2186'>No</lex>
+  <lex begin='2187' end='2191'>time</lex>
+  <lex begin='2192' end='2195'>for</lex>
+  <lex begin='2196' end='2203'>messing</lex>
+  <lex begin='2204' end='2209'>about</lex>
+  <lex begin='2210' end='2211'>–</lex>
+  <lex begin='2212' end='2216'>long</lex>
+  <lex begin='2217' end='2222'>drive</lex>
+  <lex begin='2223' end='2227'>home</lex>
+  <lex begin='2228' end='2230'>so</lex>
+  <lex begin='2231' end='2232'>I</lex>
+  <lex begin='2233' end='2240'>changed</lex>
+  <lex begin='2241' end='2244'>and</lex>
+  <lex begin='2245' end='2248'>set</lex>
+  <lex begin='2249' end='2252'>off</lex>
+  <lex begin='2252' end='2253'>.</lex>
+</s>
+<s>
+  <lex begin='2255' end='2259'>Some</lex>
+  <lex begin='2260' end='2266'>random</lex>
+  <lex begin='2267' end='2279'>observations</lex>
+  <lex begin='2280' end='2281'>–</lex>
+  <lex begin='2282' end='2285'>You</lex>
+  <lex begin='2286' end='2291'>might</lex>
+  <lex begin='2292' end='2297'>think</lex>
+  <lex begin='2298' end='2305'>Romania</lex>
+  <lex begin='2306' end='2309'>was</lex>
+  <lex begin='2310' end='2317'>already</lex>
+  <lex begin='2318' end='2319'>a</lex>
+  <lex begin='2320' end='2326'>member</lex>
+  <lex begin='2327' end='2329'>of</lex>
+  <lex begin='2330' end='2333'>the</lex>
+  <lex begin='2334' end='2336'>EU</lex>
+  <lex begin='2337' end='2341'>from</lex>
+  <lex begin='2342' end='2345'>the</lex>
+  <lex begin='2346' end='2352'>number</lex>
+  <lex begin='2353' end='2355'>of</lex>
+  <lex begin='2356' end='2361'>flags</lex>
+  <lex begin='2362' end='2364'>on</lex>
+  <lex begin='2365' end='2373'>official</lex>
+  <lex begin='2374' end='2383'>buildings</lex>
+  <lex begin='2384' end='2385'>–</lex>
+  <lex begin='2386' end='2388'>It</lex>
+  <lex begin='2389' end='2393'>soon</lex>
+  <lex begin='2394' end='2398'>will</lex>
+  <lex begin='2399' end='2401'>be</lex>
+  <lex begin='2402' end='2404'>in</lex>
+  <lex begin='2405' end='2408'>the</lex>
+  <lex begin='2409' end='2411'>EU</lex>
+  <lex begin='2412' end='2415'>but</lex>
+  <lex begin='2416' end='2418'>it</lex>
+  <lex begin='2419' end='2421'>is</lex>
+  <lex begin='2422' end='2426'>very</lex>
+  <lex begin='2427' end='2436'>different</lex>
+  <lex begin='2437' end='2441'>from</lex>
+  <lex begin='2442' end='2449'>Western</lex>
+  <lex begin='2450' end='2456'>Europe</lex>
+  <lex begin='2457' end='2458'>–</lex>
+  <lex begin='2459' end='2461'>To</lex>
+  <lex begin='2462' end='2465'>the</lex>
+  <lex begin='2466' end='2467'>“</lex>
+  <lex begin='2467' end='2476'>policeman</lex>
+  <lex begin='2476' end='2477'>”</lex>
+  <lex begin='2478' end='2481'>who</lex>
+  <lex begin='2482' end='2490'>demanded</lex>
+  <lex begin='2491' end='2494'>150</lex>
+  <lex begin='2495' end='2499'>Euro</lex>
+  <lex begin='2500' end='2504'>from</lex>
+  <lex begin='2505' end='2507'>me</lex>
+  <lex begin='2508' end='2510'>at</lex>
+  <lex begin='2511' end='2514'>the</lex>
+  <lex begin='2515' end='2524'>Bulgarian</lex>
+  <lex begin='2525' end='2531'>border</lex>
+  <lex begin='2532' end='2534'>at</lex>
+  <lex begin='2535' end='2536'>3</lex>
+  <lex begin='2537' end='2541'>a.m.</lex>
+  <lex begin='2542' end='2545'>for</lex>
+  <lex begin='2546' end='2547'>“</lex>
+  <lex begin='2547' end='2550'>not</lex>
+  <lex begin='2551' end='2558'>wearing</lex>
+  <lex begin='2559' end='2560'>a</lex>
+  <lex begin='2561' end='2565'>seat</lex>
+  <lex begin='2566' end='2570'>belt</lex>
+  <lex begin='2570' end='2571'>”</lex>
+  <lex begin='2571' end='2572'>,</lex>
+  <lex begin='2573' end='2576'>may</lex>
+  <lex begin='2577' end='2580'>you</lex>
+  <lex begin='2581' end='2584'>rot</lex>
+  <lex begin='2585' end='2587'>in</lex>
+  <lex begin='2588' end='2592'>hell</lex>
+  <lex begin='2593' end='2594'>–</lex>
+  <lex begin='2595' end='2606'>Pedestrians</lex>
+  <lex begin='2607' end='2610'>are</lex>
+  <lex begin='2611' end='2614'>100</lex>
+  <lex begin='2614' end='2615'>%</lex>
+  <lex begin='2616' end='2625'>confident</lex>
+  <lex begin='2626' end='2630'>that</lex>
+  <lex begin='2631' end='2635'>cars</lex>
+  <lex begin='2636' end='2640'>will</lex>
+  <lex begin='2641' end='2645'>stop</lex>
+  <lex begin='2646' end='2649'>for</lex>
+  <lex begin='2650' end='2654'>them</lex>
+  <lex begin='2655' end='2657'>at</lex>
+  <lex begin='2658' end='2667'>crossings</lex>
+  <lex begin='2667' end='2668'>,</lex>
+  <lex begin='2669' end='2672'>not</lex>
+  <lex begin='2673' end='2675'>so</lex>
+  <lex begin='2676' end='2678'>in</lex>
+  <lex begin='2679' end='2684'>other</lex>
+  <lex begin='2685' end='2694'>countries</lex>
+  <lex begin='2695' end='2696'>–</lex>
+  <lex begin='2697' end='2704'>Romania</lex>
+  <lex begin='2705' end='2708'>has</lex>
+  <lex begin='2709' end='2712'>the</lex>
+  <lex begin='2713' end='2714'>“</lex>
+  <lex begin='2714' end='2719'>Roman</lex>
+  <lex begin='2719' end='2720'>”</lex>
+  <lex begin='2721' end='2730'>tradition</lex>
+  <lex begin='2731' end='2733'>of</lex>
+  <lex begin='2734' end='2742'>distance</lex>
+  <lex begin='2743' end='2750'>markers</lex>
+  <lex begin='2750' end='2751'>;</lex>
+  <lex begin='2752' end='2757'>every</lex>
+  <lex begin='2758' end='2761'>100</lex>
+  <lex begin='2762' end='2768'>metres</lex>
+  <lex begin='2769' end='2770'>a</lex>
+  <lex begin='2771' end='2776'>small</lex>
+  <lex begin='2777' end='2780'>one</lex>
+  <lex begin='2781' end='2784'>and</lex>
+  <lex begin='2785' end='2790'>every</lex>
+  <lex begin='2791' end='2792'>1</lex>
+  <lex begin='2793' end='2795'>km</lex>
+  <lex begin='2796' end='2797'>a</lex>
+  <lex begin='2798' end='2804'>proper</lex>
+  <lex begin='2805' end='2809'>post</lex>
+  <lex begin='2810' end='2814'>with</lex>
+  <lex begin='2815' end='2824'>distances</lex>
+  <lex begin='2825' end='2828'>and</lex>
+  <lex begin='2829' end='2833'>road</lex>
+  <lex begin='2834' end='2840'>number</lex>
+  <lex begin='2840' end='2841'>;</lex>
+  <lex begin='2842' end='2850'>splendid</lex>
+  <lex begin='2851' end='2852'>–</lex>
+  <lex begin='2853' end='2858'>Horse</lex>
+  <lex begin='2859' end='2864'>drawn</lex>
+  <lex begin='2865' end='2870'>carts</lex>
+  <lex begin='2871' end='2874'>are</lex>
+  <lex begin='2875' end='2885'>widespread</lex>
+  <lex begin='2886' end='2891'>still</lex>
+  <lex begin='2891' end='2892'>;</lex>
+  <lex begin='2893' end='2897'>they</lex>
+  <lex begin='2898' end='2902'>even</lex>
+  <lex begin='2903' end='2907'>have</lex>
+  <lex begin='2908' end='2920'>registration</lex>
+  <lex begin='2921' end='2927'>plates</lex>
+  <lex begin='2927' end='2928'>.</lex>
+</s>
+<s>
+  <lex begin='2930' end='2934'>Drum</lex>
+  <lex begin='2935' end='2938'>bun</lex>
+  <lex begin='2939' end='2941'>is</lex>
+  <lex begin='2942' end='2949'>written</lex>
+  <lex begin='2950' end='2952'>on</lex>
+  <lex begin='2953' end='2957'>many</lex>
+  <lex begin='2958' end='2963'>signs</lex>
+  <lex begin='2963' end='2964'>;</lex>
+  <lex begin='2965' end='2967'>it</lex>
+  <lex begin='2968' end='2973'>means</lex>
+  <lex begin='2974' end='2975'>“</lex>
+  <lex begin='2975' end='2979'>have</lex>
+  <lex begin='2980' end='2981'>a</lex>
+  <lex begin='2982' end='2986'>good</lex>
+  <lex begin='2987' end='2994'>journey</lex>
+  <lex begin='2994' end='2995'>”</lex>
+  <lex begin='2995' end='2996'>.</lex>
+</s>
+</TOKENS>
+
+</SpaceEvalTaskv1.2>

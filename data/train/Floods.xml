@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+The 1999 Floods in Venezuela
+Tuesday, July 18th, 2006
+   In 1999, it rained for half a month straight and Caracas and surrounding states were severely flooded. It is estimated that 30,000 people died as flood waters swept away houses along rivers and landslides destroyed the houses built on hillsides.
+
+   Most of these houses were houses of the poor â€“ the â€˜shantytownsâ€™ that rise up the hillsides and line the river banks. In Caracas, I was amazed at how the sides of the valley were packed with houses of the poor. Below are some photos I took from afar (I did not explorer these areas, as I was told they were not safe!)
+
+  
+   Floods like the 1999 disaster may become more common as the earth warms â€“ many models predict that there will be more heavy rain storms. Cleary, people should build stronger homes in less vunerable areas. But, when the floods do come, it is those who are least able to adapt who will suffer the most.
+]]></TEXT>
+<TAGS>
+<PLACE comment="The goal location for [come,m4] in 'when the floods do come'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl11" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="The set subsuming [Caracas,pl0] and [states,pl1] in 'In 1999, it rained for half a month straight and Caracas and surrounding states were severely flooded.'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl12" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="114" form="NAM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="107" state="" text="Caracas" type=""/>
+<PLACE comment="quant=all" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="137" form="NOM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="131" state="" text="states" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="283" form="NOM" gazref="" gquant="" id="pl3" latLong="" mod="" scopes="" start="277" state="" text="houses" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="375" form="NOM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="364" state="" text="shantytowns" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="442" form="NAM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="435" state="" text="Caracas" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="473" form="NOM" gazref="" gquant="" id="pl10" latLong="" mod="" scopes="" start="468" state="" text="sides" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="511" form="NOM" gazref="" gquant="" id="pl6" latLong="" mod="" scopes="" start="505" state="" text="houses" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="595" form="NOM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="590" state="" text="areas" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="844" form="NOM" gazref="" gquant="" id="pl9" latLong="" mod="" scopes="" start="839" state="" text="areas" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="615" form="NOM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="611" state="" text="they" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="247" endID="" form="NOM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="241" text="rivers" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="302" endID="" form="NOM" gazref="" gquant="" id="p1" latLong="" midIDs="" mod="" scopes="" start="293" text="hillsides" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="405" endID="" form="NOM" gazref="" gquant="" id="p2" latLong="" midIDs="" mod="" scopes="" start="396" text="hillsides" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="430" endID="" form="NOM" gazref="" gquant="" id="p3" latLong="" midIDs="" mod="" scopes="" start="425" text="banks" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="487" endID="" form="NOM" gazref="" gquant="" id="p4" latLong="" midIDs="" mod="" scopes="" start="481" text="valley" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="" dimensionality="" domain="" elevation="" end="216" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="210" text="waters" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="548" form="NOM" gquant="" id="se4" latLong="" mod="" scopes="" start="547" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="566" form="NOM" gquant="" id="se1" latLong="" mod="" scopes="" start="565" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="234" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="228" text="houses" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="-1" form="NOM" gquant="" id="se3" latLong="" mod="" scopes="" start="-1" text="" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="328" form="NOM" gquant="" id="se5" latLong="" mod="" scopes="" start="322" text="houses" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="445" form="NOM" gquant="" id="se6" latLong="" mod="" scopes="" start="444" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="601" form="NOM" gquant="" id="se7" latLong="" mod="" scopes="" start="600" text="I" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="159" gquant="" id="e0" latLong="" mod="" scopes="" start="152" text="flooded"/>
+<NONMOTION_EVENT comment="" countable="TRUE" domain="" elevation="" end="262" gquant="" id="e1" latLong="" mod="" scopes="" start="252" text="landslides"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="553" gquant="" id="e2" latLong="" mod="" scopes="" start="549" text="took"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="805" gquant="" id="e7" latLong="" mod="" scopes="" start="800" text="build"/>
+<NONMOTION_EVENT comment="" countable="FALSE" domain="" elevation="" end="866" gquant="" id="e6" latLong="" mod="" scopes="" start="860" text="floods"/>
+<MOTION comment="" countable="" domain="" elevation="" end="222" gquant="" id="m0" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="217" text="swept"/>
+<MOTION comment="" countable="" domain="" elevation="" end="272" gquant="" id="m2" latLong="" mod="" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" motion_type="MANNER" scopes="" start="263" text="destroyed"/>
+<MOTION comment="" countable="" domain="" elevation="" end="388" gquant="" id="m1" latLong="" mod="" motion_class="FOLLOW" motion_sense="FICTIVE" motion_type="PATH" scopes="" start="384" text="rise"/>
+<MOTION comment="" countable="" domain="" elevation="" end="583" gquant="" id="m3" latLong="" mod="" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="575" text="explorer"/>
+<MOTION comment="" countable="" domain="" elevation="" end="874" gquant="" id="m4" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="870" text="come"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="130" id="s0" semantic_type="DIR_TOP" start="119" text="surrounding"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="240" id="s1" semantic_type="DIR_TOP" start="235" text="along"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="292" id="s2" semantic_type="DIR_TOP" start="290" text="on"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="414" id="s3" semantic_type="DIR_TOP" start="410" text="line"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="434" id="s4" semantic_type="TOPOLOGICAL" start="432" text="In"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="499" id="s5" semantic_type="TOPOLOGICAL" start="493" text="packed"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="563" id="s6" semantic_type="TOPOLOGICAL" start="559" text="afar"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="823" id="s7" semantic_type="TOPOLOGICAL" start="821" text="in"/>
+<MOTION_SIGNAL comment="" end="227" id="ms0" motion_signal_type="PATH" start="223" text="away"/>
+<MOTION_SIGNAL comment="" end="391" id="ms1" motion_signal_type="PATH" start="389" text="up"/>
+<QSLINK comment="" fromID="pl1" fromText="states" id="qsl0" landmark="pl0" relType="EC" toID="pl0" toText="Caracas" trajector="pl1" trigger="s0"/>
+<QSLINK comment="" fromID="e0" fromText="flooded" id="qsl1" landmark="pl12" relType="IN" toID="pl12" toText="" trajector="e0" trigger=""/>
+<QSLINK comment="" fromID="pl3" fromText="houses" id="qsl3" landmark="p1" relType="EC" toID="p1" toText="hillsides" trajector="pl3" trigger="s2"/>
+<QSLINK comment="" fromID="pl4" fromText="shantytowns" id="qsl4" landmark="p3" relType="EC" toID="p3" toText="river banks" trajector="pl4" trigger="s3"/>
+<QSLINK comment="" fromID="p4" fromText="valley" id="qsl5" landmark="pl5" relType="IN" toID="pl5" toText="Caracas" trajector="p4" trigger="s4"/>
+<QSLINK comment="" fromID="pl10" fromText="sides" id="qsl6" landmark="p4" relType="TPP" toID="p4" toText="valley" trajector="pl10" trigger=""/>
+<QSLINK comment="" fromID="pl6" fromText="houses" id="qsl7" landmark="pl10" relType="IN" toID="pl10" toText="sides" trajector="pl6" trigger="s5"/>
+<QSLINK comment="" fromID="e2" fromText="took" id="qsl8" landmark="pl7" relType="DC" toID="pl7" toText="areas" trajector="e2" trigger="s6"/>
+<QSLINK comment="" fromID="e7" fromText="build" id="qsl9" landmark="pl9" relType="IN" toID="pl9" toText="areas" trajector="e7" trigger="s7"/>
+<QSLINK comment="" fromID="se2" fromText="houses" id="qsl10" landmark="p0" relType="EC" toID="p0" toText="rivers" trajector="se2" trigger="s1"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="pl1" fromText="states" id="ol0" landmark="pl0" projective="FALSE" referencePt="pl0" relType="AROUND" toID="pl0" toText="Caracas" trajector="pl1" trigger="s0"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="pl3" fromText="houses" id="ol2" landmark="p1" projective="FALSE" referencePt="p1" relType="ABOVE" toID="p1" toText="hillsides" trajector="pl3" trigger="s2"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="pl4" fromText="shantytowns" id="ol3" landmark="p3" projective="FALSE" referencePt="p3" relType="ABOVE" toID="p3" toText="river banks" trajector="pl4" trigger="s3"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="se2" fromText="houses" id="ol4" landmark="p0" projective="FALSE" referencePt="p0" relType="NEXT_TO" toID="p0" toText="rivers" trajector="se2" trigger="s1"/>
+<MOVELINK comment="" fromID="m0" fromText="swept" goal="" goal_reached="" id="mvl0" landmark="" midPoint="" motion_signalID="ms0" mover="se3" pathID="" source="" toID="se3" toText="" trigger="m0"/>
+<MOVELINK comment="" fromID="m2" fromText="destroyed" goal="" goal_reached="" id="mvl1" landmark="" midPoint="" motion_signalID="" mover="e1" pathID="" source="" toID="e1" toText="landslides" trigger="m2"/>
+<MOVELINK comment="" fromID="m1" fromText="rise" goal="" goal_reached="" id="mvl2" landmark="" midPoint="" motion_signalID="ms1" mover="pl4" pathID="p2" source="" toID="pl4" toText="shantytowns" trigger="m1"/>
+<MOVELINK comment="" fromID="m3" fromText="explorer" goal="" goal_reached="" id="mvl3" landmark="pl7" midPoint="" motion_signalID="" mover="se1" pathID="" source="" toID="se1" toText="I" trigger="m3"/>
+<MOVELINK comment="" fromID="m4" fromText="come" goal="pl11" goal_reached="YES" id="mvl4" landmark="" midPoint="" motion_signalID="" mover="e6" pathID="" source="" toID="e6" toText="floods" trigger="m4"/>
+<METALINK comment="" fromID="pl0" fromText="Caracas" id="metal0" objectID1="pl0" objectID2="pl12" relType="SUBCOREFERENCE" toID="pl12" toText=""/>
+<METALINK comment="" fromID="pl1" fromText="states" id="metal1" objectID1="pl1" objectID2="pl12" relType="SUBCOREFERENCE" toID="pl12" toText=""/>
+<METALINK comment="" fromID="p2" fromText="hillsides" id="metal2" objectID1="p2" objectID2="p1" relType="COREFERENCE" toID="p1" toText="hillsides"/>
+<METALINK comment="" fromID="pl5" fromText="Caracas" id="metal3" objectID1="pl5" objectID2="pl0" relType="COREFERENCE" toID="pl0" toText="Caracas"/>
+<METALINK comment="" fromID="se0" fromText="waters" id="metal5" objectID1="se0" objectID2="se3" relType="SUBCOREFERENCE" toID="se3" toText=""/>
+<METALINK comment="" fromID="se2" fromText="houses" id="metal6" objectID1="se2" objectID2="se3" relType="SUBCOREFERENCE" toID="se3" toText=""/>
+<METALINK comment="" fromID="se5" fromText="houses" id="metal7" objectID1="se5" objectID2="se2" relType="COREFERENCE" toID="se2" toText="houses"/>
+<METALINK comment="" fromID="pl2" fromText="they" id="metal8" objectID1="pl2" objectID2="pl7" relType="COREFERENCE" toID="pl7" toText="areas"/>
+<METALINK comment="" fromID="se4" fromText="I" id="metal9" objectID1="se4" objectID2="se6" relType="COREFERENCE" toID="se6" toText="I"/>
+<METALINK comment="" fromID="se1" fromText="I" id="metal10" objectID1="se1" objectID2="se6" relType="COREFERENCE" toID="se6" toText="I"/>
+<METALINK comment="" fromID="se7" fromText="I" id="metal11" objectID1="se7" objectID2="se6" relType="COREFERENCE" toID="se6" toText="I"/>
+</TAGS>
+<TOKENS>
+<s>
+  <lex begin='1' end='4'>The</lex>
+  <lex begin='5' end='9'>1999</lex>
+  <lex begin='10' end='16'>Floods</lex>
+  <lex begin='17' end='19'>in</lex>
+  <lex begin='20' end='29'>Venezuela</lex>
+  <lex begin='30' end='37'>Tuesday</lex>
+  <lex begin='37' end='38'>,</lex>
+  <lex begin='39' end='43'>July</lex>
+  <lex begin='44' end='48'>18th</lex>
+  <lex begin='48' end='49'>,</lex>
+  <lex begin='50' end='54'>2006</lex>
+  <lex begin='58' end='60'>In</lex>
+  <lex begin='61' end='65'>1999</lex>
+  <lex begin='65' end='66'>,</lex>
+  <lex begin='67' end='69'>it</lex>
+  <lex begin='70' end='76'>rained</lex>
+  <lex begin='77' end='80'>for</lex>
+  <lex begin='81' end='85'>half</lex>
+  <lex begin='86' end='87'>a</lex>
+  <lex begin='88' end='93'>month</lex>
+  <lex begin='94' end='102'>straight</lex>
+  <lex begin='103' end='106'>and</lex>
+  <lex begin='107' end='114'>Caracas</lex>
+  <lex begin='115' end='118'>and</lex>
+  <lex begin='119' end='130'>surrounding</lex>
+  <lex begin='131' end='137'>states</lex>
+  <lex begin='138' end='142'>were</lex>
+  <lex begin='143' end='151'>severely</lex>
+  <lex begin='152' end='159'>flooded</lex>
+  <lex begin='159' end='160'>.</lex>
+</s>
+<s>
+  <lex begin='161' end='163'>It</lex>
+  <lex begin='164' end='166'>is</lex>
+  <lex begin='167' end='176'>estimated</lex>
+  <lex begin='177' end='181'>that</lex>
+  <lex begin='182' end='188'>30,000</lex>
+  <lex begin='189' end='195'>people</lex>
+  <lex begin='196' end='200'>died</lex>
+  <lex begin='201' end='203'>as</lex>
+  <lex begin='204' end='209'>flood</lex>
+  <lex begin='210' end='216'>waters</lex>
+  <lex begin='217' end='222'>swept</lex>
+  <lex begin='223' end='227'>away</lex>
+  <lex begin='228' end='234'>houses</lex>
+  <lex begin='235' end='240'>along</lex>
+  <lex begin='241' end='247'>rivers</lex>
+  <lex begin='248' end='251'>and</lex>
+  <lex begin='252' end='262'>landslides</lex>
+  <lex begin='263' end='272'>destroyed</lex>
+  <lex begin='273' end='276'>the</lex>
+  <lex begin='277' end='283'>houses</lex>
+  <lex begin='284' end='289'>built</lex>
+  <lex begin='290' end='292'>on</lex>
+  <lex begin='293' end='302'>hillsides</lex>
+  <lex begin='302' end='303'>.</lex>
+</s>
+<s>
+  <lex begin='308' end='312'>Most</lex>
+  <lex begin='313' end='315'>of</lex>
+  <lex begin='316' end='321'>these</lex>
+  <lex begin='322' end='328'>houses</lex>
+  <lex begin='329' end='333'>were</lex>
+  <lex begin='334' end='340'>houses</lex>
+  <lex begin='341' end='343'>of</lex>
+  <lex begin='344' end='347'>the</lex>
+  <lex begin='348' end='352'>poor</lex>
+  <lex begin='353' end='354'>â</lex>
+  <lex begin='354' end='355'>€</lex>
+  <lex begin='355' end='356'>“</lex>
+  <lex begin='357' end='360'>the</lex>
+  <lex begin='361' end='378'>â€˜shantytownsâ€™</lex>
+  <lex begin='379' end='383'>that</lex>
+  <lex begin='384' end='388'>rise</lex>
+  <lex begin='389' end='391'>up</lex>
+  <lex begin='392' end='395'>the</lex>
+  <lex begin='396' end='405'>hillsides</lex>
+  <lex begin='406' end='409'>and</lex>
+  <lex begin='410' end='414'>line</lex>
+  <lex begin='415' end='418'>the</lex>
+  <lex begin='419' end='424'>river</lex>
+  <lex begin='425' end='430'>banks</lex>
+  <lex begin='430' end='431'>.</lex>
+</s>
+<s>
+  <lex begin='432' end='434'>In</lex>
+  <lex begin='435' end='442'>Caracas</lex>
+  <lex begin='442' end='443'>,</lex>
+  <lex begin='444' end='445'>I</lex>
+  <lex begin='446' end='449'>was</lex>
+  <lex begin='450' end='456'>amazed</lex>
+  <lex begin='457' end='459'>at</lex>
+  <lex begin='460' end='463'>how</lex>
+  <lex begin='464' end='467'>the</lex>
+  <lex begin='468' end='473'>sides</lex>
+  <lex begin='474' end='476'>of</lex>
+  <lex begin='477' end='480'>the</lex>
+  <lex begin='481' end='487'>valley</lex>
+  <lex begin='488' end='492'>were</lex>
+  <lex begin='493' end='499'>packed</lex>
+  <lex begin='500' end='504'>with</lex>
+  <lex begin='505' end='511'>houses</lex>
+  <lex begin='512' end='514'>of</lex>
+  <lex begin='515' end='518'>the</lex>
+  <lex begin='519' end='523'>poor</lex>
+  <lex begin='523' end='524'>.</lex>
+</s>
+<s>
+  <lex begin='525' end='530'>Below</lex>
+  <lex begin='531' end='534'>are</lex>
+  <lex begin='535' end='539'>some</lex>
+  <lex begin='540' end='546'>photos</lex>
+  <lex begin='547' end='548'>I</lex>
+  <lex begin='549' end='553'>took</lex>
+  <lex begin='554' end='558'>from</lex>
+  <lex begin='559' end='563'>afar</lex>
+  <lex begin='564' end='565'>(</lex>
+  <lex begin='565' end='566'>I</lex>
+  <lex begin='567' end='570'>did</lex>
+  <lex begin='571' end='574'>not</lex>
+  <lex begin='575' end='583'>explorer</lex>
+  <lex begin='584' end='589'>these</lex>
+  <lex begin='590' end='595'>areas</lex>
+  <lex begin='595' end='596'>,</lex>
+  <lex begin='597' end='599'>as</lex>
+  <lex begin='600' end='601'>I</lex>
+  <lex begin='602' end='605'>was</lex>
+  <lex begin='606' end='610'>told</lex>
+  <lex begin='611' end='615'>they</lex>
+  <lex begin='616' end='620'>were</lex>
+  <lex begin='621' end='624'>not</lex>
+  <lex begin='625' end='629'>safe</lex>
+  <lex begin='629' end='630'>!</lex>
+  <lex begin='630' end='631'>)</lex>
+</s>
+<s>
+  <lex begin='639' end='645'>Floods</lex>
+  <lex begin='646' end='650'>like</lex>
+  <lex begin='651' end='654'>the</lex>
+  <lex begin='655' end='659'>1999</lex>
+  <lex begin='660' end='668'>disaster</lex>
+  <lex begin='669' end='672'>may</lex>
+  <lex begin='673' end='679'>become</lex>
+  <lex begin='680' end='684'>more</lex>
+  <lex begin='685' end='691'>common</lex>
+  <lex begin='692' end='694'>as</lex>
+  <lex begin='695' end='698'>the</lex>
+  <lex begin='699' end='704'>earth</lex>
+  <lex begin='705' end='710'>warms</lex>
+  <lex begin='711' end='712'>â</lex>
+  <lex begin='712' end='713'>€</lex>
+  <lex begin='713' end='714'>“</lex>
+  <lex begin='715' end='719'>many</lex>
+  <lex begin='720' end='726'>models</lex>
+  <lex begin='727' end='734'>predict</lex>
+  <lex begin='735' end='739'>that</lex>
+  <lex begin='740' end='745'>there</lex>
+  <lex begin='746' end='750'>will</lex>
+  <lex begin='751' end='753'>be</lex>
+  <lex begin='754' end='758'>more</lex>
+  <lex begin='759' end='764'>heavy</lex>
+  <lex begin='765' end='769'>rain</lex>
+  <lex begin='770' end='776'>storms</lex>
+  <lex begin='776' end='777'>.</lex>
+</s>
+<s>
+  <lex begin='778' end='784'>Cleary</lex>
+  <lex begin='784' end='785'>,</lex>
+  <lex begin='786' end='792'>people</lex>
+  <lex begin='793' end='799'>should</lex>
+  <lex begin='800' end='805'>build</lex>
+  <lex begin='806' end='814'>stronger</lex>
+  <lex begin='815' end='820'>homes</lex>
+  <lex begin='821' end='823'>in</lex>
+  <lex begin='824' end='828'>less</lex>
+  <lex begin='829' end='838'>vunerable</lex>
+  <lex begin='839' end='844'>areas</lex>
+  <lex begin='844' end='845'>.</lex>
+</s>
+<s>
+  <lex begin='846' end='849'>But</lex>
+  <lex begin='849' end='850'>,</lex>
+  <lex begin='851' end='855'>when</lex>
+  <lex begin='856' end='859'>the</lex>
+  <lex begin='860' end='866'>floods</lex>
+  <lex begin='867' end='869'>do</lex>
+  <lex begin='870' end='874'>come</lex>
+  <lex begin='874' end='875'>,</lex>
+  <lex begin='876' end='878'>it</lex>
+  <lex begin='879' end='881'>is</lex>
+  <lex begin='882' end='887'>those</lex>
+  <lex begin='888' end='891'>who</lex>
+  <lex begin='892' end='895'>are</lex>
+  <lex begin='896' end='901'>least</lex>
+  <lex begin='902' end='906'>able</lex>
+  <lex begin='907' end='909'>to</lex>
+  <lex begin='910' end='915'>adapt</lex>
+  <lex begin='916' end='919'>who</lex>
+  <lex begin='920' end='924'>will</lex>
+  <lex begin='925' end='931'>suffer</lex>
+  <lex begin='932' end='935'>the</lex>
+  <lex begin='936' end='940'>most</lex>
+  <lex begin='940' end='941'>.</lex>
+</s>
+</TOKENS>
+
+</SpaceEvalTaskv1.2>

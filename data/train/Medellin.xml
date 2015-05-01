@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+Medellin to Bogota
+Monday, June 12th, 2006
+   I entered the city of Medellin, Colombia’s second largest, on a Sunday morning. Every Sunday in Medellin, they have the â€˜ciclovia,â€™ where a number of roads are closed to cars (see video on left). I rode in quite happily, and met a local, Lucho, who showed me around to the cityâ€™s many parks before afternoon rain showers.
+
+  
+
+   Most people in Medellin asked me how the city compared to what I had heard about it in the news (‘how does Medellin seem to you in comparison to how it is painted on television?â€™) I of course tell the truth – Medellin is a beautiful city, and I felt just as safe in the city as any other city on this trip. It is clear to me that Colombians are upset about their reputation, and, especially in Medellin, I felt like they all wanted me to go home and tell everyone what a great place it is.
+
+ 
+   In Medellin, I stayed three nights with the firefighters, who showed me the town (this time in a fire truck), helped me get in the local paper and on television, and set up a presentation for a group of teachers. I also now am carrying five items that say â€˜Bomberos de Medellin.â€™ Thanks again to this group of firefighters, who are definitely on the â€˜receive a letter from Argentinaâ€™ list. (Can you spot the ‘fake bombero’ in the picture on the left?)
+
+   The video on the right above shows how a bombero celebrates his birthday.
+
+   Leaving Medellin, I followed the road over the mountains, into the Magdalena river valley, and then back up into the mountains towards Bogota. It has rained heavily almost every day, but when the rain has stopped, I have received vistas of steep mountains or large rivers high from the recent rains.
+]]></TEXT>
+<TAGS>
+<PLACE comment="end of 'I rode in quite happily ...'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl17" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1160" form="NAM" gazref="" gquant="" id="pl9" latLong="" mod="" scopes="" start="1152" state="" text="Medellin" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1269" form="NAM" gazref="" gquant="" id="pl10" latLong="" mod="" scopes="" start="1260" state="" text="Argentina" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="151" form="NAM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="143" state="" text="Medellin" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1439" form="NAM" gazref="" gquant="" id="pl11" latLong="" mod="" scopes="" start="1431" state="" text="Medellin" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1479" form="NOM" gazref="" gquant="" id="pl12" latLong="" mod="" scopes="" start="1470" state="" text="mountains" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1549" form="NOM" gazref="" gquant="" id="pl14" latLong="" mod="" scopes="" start="1540" state="" text="mountains" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1564" form="NAM" gazref="" gquant="" id="pl15" latLong="" mod="" scopes="" start="1558" state="" text="Bogota" type=""/>
+<PLACE comment="amount=many;" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="343" form="NOM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="338" state="" text="parks" type=""/>
+<PLACE comment="amount=most;" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="406" form="NAM" gazref="" gquant="" id="pl3" latLong="" mod="" scopes="" start="398" state="" text="Medellin" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="498" form="NAM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="490" state="" text="Medellin" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="602" form="NAM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="594" state="" text="Medellin" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="787" form="NAM" gazref="" gquant="" id="pl6" latLong="" mod="" scopes="" start="779" state="" text="Medellin" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="830" form="NOM" gazref="" gquant="" id="pl16" latLong="" mod="" scopes="" start="826" state="" text="home" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="892" form="NAM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="884" state="" text="Medellin" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="961" form="NOM" gazref="" gquant="" id="pl8" latLong="" mod="" scopes="" start="957" state="" text="town" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="65" form="NOM" gazref="" gquant="" id="pl13" latLong="" mod="" scopes="" start="61" state="" text="city" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="77" form="NAM" gazref="" gquant="" id="pl18" latLong="" mod="" scopes="" start="69" state="" text="Medellin" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="428" form="NOM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="424" state="" text="city" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="466" form="NOM" gazref="" gquant="" id="pl19" latLong="" mod="" scopes="" start="464" state="" text="it" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="534" form="NOM" gazref="" gquant="" id="pl20" latLong="" mod="" scopes="" start="532" state="" text="it" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="659" form="NOM" gazref="" gquant="" id="pl21" latLong="" mod="" scopes="" start="655" state="" text="city" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="870" form="NOM" gazref="" gquant="" id="pl22" latLong="" mod="" scopes="" start="868" state="" text="it" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1460" endID="" form="NOM" gazref="" gquant="" id="p2" latLong="" midIDs="pl14" mod="" scopes="" start="1456" text="road" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1512" endID="" form="NAM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="1490" text="Magdalena river valley" type=""/>
+<PATH beginID="" comment="amount=a number of" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="206" endID="" form="NOM" gazref="" gquant="" id="p1" latLong="" midIDs="" mod="" scopes="" start="201" text="roads" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1442" form="NOM" gquant="" id="se10" latLong="" mod="" scopes="" start="1441" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="248" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="247" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="287" form="NOM" gquant="" id="se11" latLong="" mod="" scopes="" start="282" text="local" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="294" form="NAM" gquant="" id="se3" latLong="" mod="" scopes="" start="289" text="Lucho" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="299" form="NOM" gquant="" id="se9" latLong="" mod="" scopes="" start="296" text="who" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="309" form="NOM" gquant="" id="se4" latLong="" mod="" scopes="" start="307" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="48" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="47" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="819" form="NOM" gquant="" id="se5" latLong="" mod="" scopes="" start="817" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="895" form="NOM" gquant="" id="se6" latLong="" mod="" scopes="" start="894" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="937" form="NOM" gquant="" id="se7" latLong="" mod="" scopes="" start="925" text="firefighters" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="942" form="NOM" gquant="" id="se12" latLong="" mod="" scopes="" start="939" text="who" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="952" form="NOM" gquant="" id="se8" latLong="" mod="" scopes="" start="950" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="394" form="NOM" gquant="" id="se13" latLong="" mod="" scopes="" start="388" text="people" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="415" form="NOM" gquant="" id="se14" latLong="" mod="" scopes="" start="413" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="447" form="NOM" gquant="" id="se15" latLong="" mod="" scopes="" start="446" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="510" form="NOM" gquant="" id="se16" latLong="" mod="" scopes="" start="507" text="you" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="566" form="NOM" gquant="" id="se17" latLong="" mod="" scopes="" start="565" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="629" form="NOM" gquant="" id="se18" latLong="" mod="" scopes="" start="628" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="709" form="NOM" gquant="" id="se19" latLong="" mod="" scopes="" start="707" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="790" form="NOM" gquant="" id="se20" latLong="" mod="" scopes="" start="789" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1000" form="NOM" gquant="" id="se21" latLong="" mod="" scopes="" start="998" text="me" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1095" form="NOM" gquant="" id="se22" latLong="" mod="" scopes="" start="1094" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1638" form="NOM" gquant="" id="se23" latLong="" mod="" scopes="" start="1637" text="I" type=""/>
+<NONMOTION_EVENT comment="" countable="TRUE" domain="" elevation="" end="178" gquant="" id="e0" latLong="" mod="" scopes="" start="170" text="ciclovia"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="902" gquant="" id="e1" latLong="" mod="" scopes="" start="896" text="stayed"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1430" gquant="" id="m5" latLong="" mod="" motion_class="LEAVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1423" text="Leaving"/>
+<MOTION comment="" countable="" domain="" elevation="" end="1451" gquant="" id="m6" latLong="" mod="" motion_class="FOLLOW" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1443" text="followed"/>
+<MOTION comment="" countable="" domain="" elevation="" end="253" gquant="" id="m1" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="249" text="rode"/>
+<MOTION comment="" countable="" domain="" elevation="" end="306" gquant="" id="m2" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="300" text="showed"/>
+<MOTION comment="" countable="" domain="" elevation="" end="56" gquant="" id="m0" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="49" text="entered"/>
+<MOTION comment="" countable="" domain="" elevation="" end="825" gquant="" id="m7" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="823" text="go"/>
+<MOTION comment="" countable="" domain="" elevation="" end="949" gquant="" id="m4" latLong="" mod="" motion_class="MOVE_INTERNAL" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="943" text="showed"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="142" id="s0" semantic_type="TOPOLOGICAL" start="140" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="188" id="s1" semantic_type="TOPOLOGICAL" start="183" text="where"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="883" id="s4" semantic_type="TOPOLOGICAL" start="881" text="In"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="397" id="s2" semantic_type="TOPOLOGICAL" start="395" text="in"/>
+<MOTION_SIGNAL comment="" end="1465" id="ms9" motion_signal_type="PATH" start="1461" text="over"/>
+<MOTION_SIGNAL comment="" end="1485" id="ms4" motion_signal_type="PATH" start="1481" text="into"/>
+<MOTION_SIGNAL comment="" end="1527" id="ms2" motion_signal_type="PATH" start="1523" text="back"/>
+<MOTION_SIGNAL comment="" end="1530" id="ms5" motion_signal_type="PATH" start="1528" text="up"/>
+<MOTION_SIGNAL comment="" end="1535" id="ms7" motion_signal_type="PATH" start="1531" text="into"/>
+<MOTION_SIGNAL comment="" end="1557" id="ms6" motion_signal_type="PATH" start="1550" text="towards"/>
+<MOTION_SIGNAL comment="" end="256" id="ms0" motion_signal_type="PATH" start="254" text="in"/>
+<MOTION_SIGNAL comment="" end="316" id="ms8" motion_signal_type="PATH" start="310" text="around"/>
+<MOTION_SIGNAL comment="" end="319" id="ms1" motion_signal_type="PATH" start="317" text="to"/>
+<MOTION_SIGNAL comment="" end="988" id="ms3" motion_signal_type="MANNER" start="973" text="in a fire truck"/>
+<QSLINK comment="" fromID="e0" fromText="ciclovia" id="qsl0" landmark="pl1" relType="IN" toID="pl1" toText="Medellin" trajector="e0" trigger="s0"/>
+<QSLINK comment="" fromID="p1" fromText="roads" id="qsl1" landmark="pl1" relType="IN" toID="pl1" toText="Medellin" trajector="p1" trigger="s1"/>
+<QSLINK comment="" fromID="e1" fromText="stayed" id="qsl2" landmark="pl7" relType="IN" toID="pl7" toText="Medellin" trajector="e1" trigger="s4"/>
+<QSLINK comment="" fromID="se13" fromText="people" id="qsl3" landmark="pl3" relType="IN" toID="pl3" toText="Medellin" trajector="se13" trigger="s2"/>
+<MOVELINK comment="" fromID="m0" fromText="entered" goal="pl18" goal_reached="YES" id="mvl1" landmark="" midPoint="" motion_signalID="" mover="se0" pathID="" source="" toID="se0" toText="I" trigger="m0"/>
+<MOVELINK comment="" fromID="m1" fromText="rode" goal="pl17" goal_reached="YES" id="mvl2" landmark="" midPoint="" motion_signalID="ms0" mover="se2" pathID="" source="" toID="se2" toText="I" trigger="m1"/>
+<MOVELINK comment="" fromID="m2" fromText="showed" goal="pl2" goal_reached="YES" id="mvl3" landmark="" midPoint="" motion_signalID="ms1, ms8" mover="se3" pathID="" source="" toID="se9" toText="who" trigger="m2"/>
+<MOVELINK comment="" fromID="m4" fromText="showed" goal="" goal_reached="" id="mvl6" landmark="pl8" midPoint="" motion_signalID="ms3" mover="se12" pathID="" source="" toID="se12" toText="who" trigger="m4"/>
+<MOVELINK comment="" fromID="m5" fromText="Leaving" goal="" goal_reached="" id="mvl7" landmark="" midPoint="" motion_signalID="" mover="se10" pathID="" source="pl11" toID="se10" toText="I" trigger="m5"/>
+<MOVELINK comment="" fromID="m6" fromText="followed" goal="pl15" goal_reached="YES" id="mvl8" landmark="" midPoint="pl12" motion_signalID="ms2, ms4, ms5, ms6, ms7, ms9" mover="se10" pathID="p2" source="" toID="se10" toText="I" trigger="m6"/>
+<MOVELINK comment="" fromID="m7" fromText="go" goal="pl16" goal_reached="YES" id="mvl0" landmark="" midPoint="" motion_signalID="" mover="se5" pathID="" source="" toID="se5" toText="me" trigger="m7"/>
+<METALINK comment="" fromID="se3" fromText="Lucho" id="metal0" objectID1="se3" objectID2="se11" relType="COREFERENCE" toID="se11" toText="local"/>
+<METALINK comment="" fromID="se9" fromText="who" id="metal1" objectID1="se9" objectID2="se11" relType="COREFERENCE" toID="se11" toText="local"/>
+<METALINK comment="" fromID="se12" fromText="who" id="metal2" objectID1="se12" objectID2="se7" relType="COREFERENCE" toID="se7" toText="firefighters"/>
+<METALINK comment="" fromID="se5" fromText="me" id="metal3" objectID1="se5" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se4" fromText="me" id="metal4" objectID1="se4" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se8" fromText="me" id="metal5" objectID1="se8" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se2" fromText="I" id="metal6" objectID1="se2" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se6" fromText="I" id="metal7" objectID1="se6" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se10" fromText="I" id="metal8" objectID1="se10" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="pl1" fromText="Medellin" id="metal18" objectID1="pl1" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="pl11" fromText="Medellin" id="metal19" objectID1="pl11" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="pl3" fromText="Medellin" id="metal20" objectID1="pl3" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="pl4" fromText="Medellin" id="metal21" objectID1="pl4" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="pl5" fromText="Medellin" id="metal22" objectID1="pl5" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="pl6" fromText="Medellin" id="metal23" objectID1="pl6" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="pl7" fromText="Medellin" id="metal24" objectID1="pl7" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="pl8" fromText="town" id="metal25" objectID1="pl8" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="pl9" fromText="Medellin" id="metal26" objectID1="pl9" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="pl17" fromText="" id="metal27" objectID1="pl17" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="se14" fromText="me" id="metal28" objectID1="se14" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="pl0" fromText="city" id="metal29" objectID1="pl0" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="se15" fromText="I" id="metal30" objectID1="se15" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="pl19" fromText="it" id="metal31" objectID1="pl19" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="se16" fromText="you" id="metal32" objectID1="se16" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="pl20" fromText="it" id="metal33" objectID1="pl20" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="se17" fromText="I" id="metal34" objectID1="se17" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se18" fromText="I" id="metal35" objectID1="se18" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="pl21" fromText="city" id="metal36" objectID1="pl21" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="se19" fromText="me" id="metal37" objectID1="se19" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se20" fromText="I" id="metal38" objectID1="se20" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="pl22" fromText="it" id="metal39" objectID1="pl22" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Medellin"/>
+<METALINK comment="" fromID="se21" fromText="me" id="metal40" objectID1="se21" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se22" fromText="I" id="metal41" objectID1="se22" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se23" fromText="I" id="metal42" objectID1="se23" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+</TAGS>
+<TOKENS>
+<s>
+  <lex begin='1' end='9'>Medellin</lex>
+  <lex begin='10' end='12'>to</lex>
+  <lex begin='13' end='19'>Bogota</lex>
+  <lex begin='20' end='26'>Monday</lex>
+  <lex begin='26' end='27'>,</lex>
+  <lex begin='28' end='32'>June</lex>
+  <lex begin='33' end='37'>12th</lex>
+  <lex begin='37' end='38'>,</lex>
+  <lex begin='39' end='43'>2006</lex>
+  <lex begin='47' end='48'>I</lex>
+  <lex begin='49' end='56'>entered</lex>
+  <lex begin='57' end='60'>the</lex>
+  <lex begin='61' end='65'>city</lex>
+  <lex begin='66' end='68'>of</lex>
+  <lex begin='69' end='77'>Medellin</lex>
+  <lex begin='77' end='78'>,</lex>
+  <lex begin='79' end='87'>Colombia</lex>
+  <lex begin='87' end='89'>’s</lex>
+  <lex begin='90' end='96'>second</lex>
+  <lex begin='97' end='104'>largest</lex>
+  <lex begin='104' end='105'>,</lex>
+  <lex begin='106' end='108'>on</lex>
+  <lex begin='109' end='110'>a</lex>
+  <lex begin='111' end='117'>Sunday</lex>
+  <lex begin='118' end='125'>morning</lex>
+  <lex begin='125' end='126'>.</lex>
+</s>
+<s>
+  <lex begin='127' end='132'>Every</lex>
+  <lex begin='133' end='139'>Sunday</lex>
+  <lex begin='140' end='142'>in</lex>
+  <lex begin='143' end='151'>Medellin</lex>
+  <lex begin='151' end='152'>,</lex>
+  <lex begin='153' end='157'>they</lex>
+  <lex begin='158' end='162'>have</lex>
+  <lex begin='163' end='166'>the</lex>
+  <lex begin='167' end='182'>â€˜ciclovia,â€™</lex>
+  <lex begin='183' end='188'>where</lex>
+  <lex begin='189' end='190'>a</lex>
+  <lex begin='191' end='197'>number</lex>
+  <lex begin='198' end='200'>of</lex>
+  <lex begin='201' end='206'>roads</lex>
+  <lex begin='207' end='210'>are</lex>
+  <lex begin='211' end='217'>closed</lex>
+  <lex begin='218' end='220'>to</lex>
+  <lex begin='221' end='225'>cars</lex>
+  <lex begin='226' end='227'>(</lex>
+  <lex begin='227' end='230'>see</lex>
+  <lex begin='231' end='236'>video</lex>
+  <lex begin='237' end='239'>on</lex>
+  <lex begin='240' end='244'>left</lex>
+  <lex begin='244' end='245'>)</lex>
+  <lex begin='245' end='246'>.</lex>
+</s>
+<s>
+  <lex begin='247' end='248'>I</lex>
+  <lex begin='249' end='253'>rode</lex>
+  <lex begin='254' end='256'>in</lex>
+  <lex begin='257' end='262'>quite</lex>
+  <lex begin='263' end='270'>happily</lex>
+  <lex begin='270' end='271'>,</lex>
+  <lex begin='272' end='275'>and</lex>
+  <lex begin='276' end='279'>met</lex>
+  <lex begin='280' end='281'>a</lex>
+  <lex begin='282' end='287'>local</lex>
+  <lex begin='287' end='288'>,</lex>
+  <lex begin='289' end='294'>Lucho</lex>
+  <lex begin='294' end='295'>,</lex>
+  <lex begin='296' end='299'>who</lex>
+  <lex begin='300' end='306'>showed</lex>
+  <lex begin='307' end='309'>me</lex>
+  <lex begin='310' end='316'>around</lex>
+  <lex begin='317' end='319'>to</lex>
+  <lex begin='320' end='323'>the</lex>
+  <lex begin='324' end='328'>city</lex>
+  <lex begin='328' end='332'>â€™s</lex>
+  <lex begin='333' end='337'>many</lex>
+  <lex begin='338' end='343'>parks</lex>
+  <lex begin='344' end='350'>before</lex>
+  <lex begin='351' end='360'>afternoon</lex>
+  <lex begin='361' end='365'>rain</lex>
+  <lex begin='366' end='373'>showers</lex>
+  <lex begin='373' end='374'>.</lex>
+</s>
+<s>
+  <lex begin='383' end='387'>Most</lex>
+  <lex begin='388' end='394'>people</lex>
+  <lex begin='395' end='397'>in</lex>
+  <lex begin='398' end='406'>Medellin</lex>
+  <lex begin='407' end='412'>asked</lex>
+  <lex begin='413' end='415'>me</lex>
+  <lex begin='416' end='419'>how</lex>
+  <lex begin='420' end='423'>the</lex>
+  <lex begin='424' end='428'>city</lex>
+  <lex begin='429' end='437'>compared</lex>
+  <lex begin='438' end='440'>to</lex>
+  <lex begin='441' end='445'>what</lex>
+  <lex begin='446' end='447'>I</lex>
+  <lex begin='448' end='451'>had</lex>
+  <lex begin='452' end='457'>heard</lex>
+  <lex begin='458' end='463'>about</lex>
+  <lex begin='464' end='466'>it</lex>
+  <lex begin='467' end='469'>in</lex>
+  <lex begin='470' end='473'>the</lex>
+  <lex begin='474' end='478'>news</lex>
+  <lex begin='479' end='480'>(</lex>
+  <lex begin='480' end='481'>‘</lex>
+  <lex begin='481' end='484'>how</lex>
+  <lex begin='485' end='489'>does</lex>
+  <lex begin='490' end='498'>Medellin</lex>
+  <lex begin='499' end='503'>seem</lex>
+  <lex begin='504' end='506'>to</lex>
+  <lex begin='507' end='510'>you</lex>
+  <lex begin='511' end='513'>in</lex>
+  <lex begin='514' end='524'>comparison</lex>
+  <lex begin='525' end='527'>to</lex>
+  <lex begin='528' end='531'>how</lex>
+  <lex begin='532' end='534'>it</lex>
+  <lex begin='535' end='537'>is</lex>
+  <lex begin='538' end='545'>painted</lex>
+  <lex begin='546' end='548'>on</lex>
+  <lex begin='549' end='563'>television?â€™</lex>
+  <lex begin='563' end='564'>)</lex>
+  <lex begin='565' end='566'>I</lex>
+  <lex begin='567' end='569'>of</lex>
+  <lex begin='570' end='576'>course</lex>
+  <lex begin='577' end='581'>tell</lex>
+  <lex begin='582' end='585'>the</lex>
+  <lex begin='586' end='591'>truth</lex>
+  <lex begin='592' end='593'>–</lex>
+  <lex begin='594' end='602'>Medellin</lex>
+  <lex begin='603' end='605'>is</lex>
+  <lex begin='606' end='607'>a</lex>
+  <lex begin='608' end='617'>beautiful</lex>
+  <lex begin='618' end='622'>city</lex>
+  <lex begin='622' end='623'>,</lex>
+  <lex begin='624' end='627'>and</lex>
+  <lex begin='628' end='629'>I</lex>
+  <lex begin='630' end='634'>felt</lex>
+  <lex begin='635' end='639'>just</lex>
+  <lex begin='640' end='642'>as</lex>
+  <lex begin='643' end='647'>safe</lex>
+  <lex begin='648' end='650'>in</lex>
+  <lex begin='651' end='654'>the</lex>
+  <lex begin='655' end='659'>city</lex>
+  <lex begin='660' end='662'>as</lex>
+  <lex begin='663' end='666'>any</lex>
+  <lex begin='667' end='672'>other</lex>
+  <lex begin='673' end='677'>city</lex>
+  <lex begin='678' end='680'>on</lex>
+  <lex begin='681' end='685'>this</lex>
+  <lex begin='686' end='690'>trip</lex>
+  <lex begin='690' end='691'>.</lex>
+</s>
+<s>
+  <lex begin='692' end='694'>It</lex>
+  <lex begin='695' end='697'>is</lex>
+  <lex begin='698' end='703'>clear</lex>
+  <lex begin='704' end='706'>to</lex>
+  <lex begin='707' end='709'>me</lex>
+  <lex begin='710' end='714'>that</lex>
+  <lex begin='715' end='725'>Colombians</lex>
+  <lex begin='726' end='729'>are</lex>
+  <lex begin='730' end='735'>upset</lex>
+  <lex begin='736' end='741'>about</lex>
+  <lex begin='742' end='747'>their</lex>
+  <lex begin='748' end='758'>reputation</lex>
+  <lex begin='758' end='759'>,</lex>
+  <lex begin='760' end='763'>and</lex>
+  <lex begin='763' end='764'>,</lex>
+  <lex begin='765' end='775'>especially</lex>
+  <lex begin='776' end='778'>in</lex>
+  <lex begin='779' end='787'>Medellin</lex>
+  <lex begin='787' end='788'>,</lex>
+  <lex begin='789' end='790'>I</lex>
+  <lex begin='791' end='795'>felt</lex>
+  <lex begin='796' end='800'>like</lex>
+  <lex begin='801' end='805'>they</lex>
+  <lex begin='806' end='809'>all</lex>
+  <lex begin='810' end='816'>wanted</lex>
+  <lex begin='817' end='819'>me</lex>
+  <lex begin='820' end='822'>to</lex>
+  <lex begin='823' end='825'>go</lex>
+  <lex begin='826' end='830'>home</lex>
+  <lex begin='831' end='834'>and</lex>
+  <lex begin='835' end='839'>tell</lex>
+  <lex begin='840' end='848'>everyone</lex>
+  <lex begin='849' end='853'>what</lex>
+  <lex begin='854' end='855'>a</lex>
+  <lex begin='856' end='861'>great</lex>
+  <lex begin='862' end='867'>place</lex>
+  <lex begin='868' end='870'>it</lex>
+  <lex begin='871' end='873'>is</lex>
+  <lex begin='873' end='874'>.</lex>
+</s>
+<s>
+  <lex begin='881' end='883'>In</lex>
+  <lex begin='884' end='892'>Medellin</lex>
+  <lex begin='892' end='893'>,</lex>
+  <lex begin='894' end='895'>I</lex>
+  <lex begin='896' end='902'>stayed</lex>
+  <lex begin='903' end='908'>three</lex>
+  <lex begin='909' end='915'>nights</lex>
+  <lex begin='916' end='920'>with</lex>
+  <lex begin='921' end='924'>the</lex>
+  <lex begin='925' end='937'>firefighters</lex>
+  <lex begin='937' end='938'>,</lex>
+  <lex begin='939' end='942'>who</lex>
+  <lex begin='943' end='949'>showed</lex>
+  <lex begin='950' end='952'>me</lex>
+  <lex begin='953' end='956'>the</lex>
+  <lex begin='957' end='961'>town</lex>
+  <lex begin='962' end='963'>(</lex>
+  <lex begin='963' end='967'>this</lex>
+  <lex begin='968' end='972'>time</lex>
+  <lex begin='973' end='975'>in</lex>
+  <lex begin='976' end='977'>a</lex>
+  <lex begin='978' end='982'>fire</lex>
+  <lex begin='983' end='988'>truck</lex>
+  <lex begin='988' end='989'>)</lex>
+  <lex begin='989' end='990'>,</lex>
+  <lex begin='991' end='997'>helped</lex>
+  <lex begin='998' end='1000'>me</lex>
+  <lex begin='1001' end='1004'>get</lex>
+  <lex begin='1005' end='1007'>in</lex>
+  <lex begin='1008' end='1011'>the</lex>
+  <lex begin='1012' end='1017'>local</lex>
+  <lex begin='1018' end='1023'>paper</lex>
+  <lex begin='1024' end='1027'>and</lex>
+  <lex begin='1028' end='1030'>on</lex>
+  <lex begin='1031' end='1041'>television</lex>
+  <lex begin='1041' end='1042'>,</lex>
+  <lex begin='1043' end='1046'>and</lex>
+  <lex begin='1047' end='1050'>set</lex>
+  <lex begin='1051' end='1053'>up</lex>
+  <lex begin='1054' end='1055'>a</lex>
+  <lex begin='1056' end='1068'>presentation</lex>
+  <lex begin='1069' end='1072'>for</lex>
+  <lex begin='1073' end='1074'>a</lex>
+  <lex begin='1075' end='1080'>group</lex>
+  <lex begin='1081' end='1083'>of</lex>
+  <lex begin='1084' end='1092'>teachers</lex>
+  <lex begin='1092' end='1093'>.</lex>
+</s>
+<s>
+  <lex begin='1094' end='1095'>I</lex>
+  <lex begin='1096' end='1100'>also</lex>
+  <lex begin='1101' end='1104'>now</lex>
+  <lex begin='1105' end='1107'>am</lex>
+  <lex begin='1108' end='1116'>carrying</lex>
+  <lex begin='1117' end='1121'>five</lex>
+  <lex begin='1122' end='1127'>items</lex>
+  <lex begin='1128' end='1132'>that</lex>
+  <lex begin='1133' end='1136'>say</lex>
+  <lex begin='1137' end='1148'>â€˜Bomberos</lex>
+  <lex begin='1149' end='1151'>de</lex>
+  <lex begin='1152' end='1164'>Medellin.â€™</lex>
+  <lex begin='1165' end='1171'>Thanks</lex>
+  <lex begin='1172' end='1177'>again</lex>
+  <lex begin='1178' end='1180'>to</lex>
+  <lex begin='1181' end='1185'>this</lex>
+  <lex begin='1186' end='1191'>group</lex>
+  <lex begin='1192' end='1194'>of</lex>
+  <lex begin='1195' end='1207'>firefighters</lex>
+  <lex begin='1207' end='1208'>,</lex>
+  <lex begin='1209' end='1212'>who</lex>
+  <lex begin='1213' end='1216'>are</lex>
+  <lex begin='1217' end='1227'>definitely</lex>
+  <lex begin='1228' end='1230'>on</lex>
+  <lex begin='1231' end='1234'>the</lex>
+  <lex begin='1235' end='1245'>â€˜receive</lex>
+  <lex begin='1246' end='1247'>a</lex>
+  <lex begin='1248' end='1254'>letter</lex>
+  <lex begin='1255' end='1259'>from</lex>
+  <lex begin='1260' end='1272'>Argentinaâ€™</lex>
+  <lex begin='1273' end='1277'>list</lex>
+  <lex begin='1277' end='1278'>.</lex>
+</s>
+<s>
+  <lex begin='1279' end='1280'>(</lex>
+  <lex begin='1280' end='1283'>Can</lex>
+  <lex begin='1284' end='1287'>you</lex>
+  <lex begin='1288' end='1292'>spot</lex>
+  <lex begin='1293' end='1296'>the</lex>
+  <lex begin='1297' end='1298'>‘</lex>
+  <lex begin='1298' end='1302'>fake</lex>
+  <lex begin='1303' end='1310'>bombero</lex>
+  <lex begin='1310' end='1311'>’</lex>
+  <lex begin='1312' end='1314'>in</lex>
+  <lex begin='1315' end='1318'>the</lex>
+  <lex begin='1319' end='1326'>picture</lex>
+  <lex begin='1327' end='1329'>on</lex>
+  <lex begin='1330' end='1333'>the</lex>
+  <lex begin='1334' end='1338'>left</lex>
+  <lex begin='1338' end='1339'>?</lex>
+  <lex begin='1339' end='1340'>)</lex>
+</s>
+<s>
+  <lex begin='1345' end='1348'>The</lex>
+  <lex begin='1349' end='1354'>video</lex>
+  <lex begin='1355' end='1357'>on</lex>
+  <lex begin='1358' end='1361'>the</lex>
+  <lex begin='1362' end='1367'>right</lex>
+  <lex begin='1368' end='1373'>above</lex>
+  <lex begin='1374' end='1379'>shows</lex>
+  <lex begin='1380' end='1383'>how</lex>
+  <lex begin='1384' end='1385'>a</lex>
+  <lex begin='1386' end='1393'>bombero</lex>
+  <lex begin='1394' end='1404'>celebrates</lex>
+  <lex begin='1405' end='1408'>his</lex>
+  <lex begin='1409' end='1417'>birthday</lex>
+  <lex begin='1417' end='1418'>.</lex>
+</s>
+<s>
+  <lex begin='1423' end='1430'>Leaving</lex>
+  <lex begin='1431' end='1439'>Medellin</lex>
+  <lex begin='1439' end='1440'>,</lex>
+  <lex begin='1441' end='1442'>I</lex>
+  <lex begin='1443' end='1451'>followed</lex>
+  <lex begin='1452' end='1455'>the</lex>
+  <lex begin='1456' end='1460'>road</lex>
+  <lex begin='1461' end='1465'>over</lex>
+  <lex begin='1466' end='1469'>the</lex>
+  <lex begin='1470' end='1479'>mountains</lex>
+  <lex begin='1479' end='1480'>,</lex>
+  <lex begin='1481' end='1485'>into</lex>
+  <lex begin='1486' end='1489'>the</lex>
+  <lex begin='1490' end='1499'>Magdalena</lex>
+  <lex begin='1500' end='1505'>river</lex>
+  <lex begin='1506' end='1512'>valley</lex>
+  <lex begin='1512' end='1513'>,</lex>
+  <lex begin='1514' end='1517'>and</lex>
+  <lex begin='1518' end='1522'>then</lex>
+  <lex begin='1523' end='1527'>back</lex>
+  <lex begin='1528' end='1530'>up</lex>
+  <lex begin='1531' end='1535'>into</lex>
+  <lex begin='1536' end='1539'>the</lex>
+  <lex begin='1540' end='1549'>mountains</lex>
+  <lex begin='1550' end='1557'>towards</lex>
+  <lex begin='1558' end='1564'>Bogota</lex>
+  <lex begin='1564' end='1565'>.</lex>
+</s>
+<s>
+  <lex begin='1566' end='1568'>It</lex>
+  <lex begin='1569' end='1572'>has</lex>
+  <lex begin='1573' end='1579'>rained</lex>
+  <lex begin='1580' end='1587'>heavily</lex>
+  <lex begin='1588' end='1594'>almost</lex>
+  <lex begin='1595' end='1600'>every</lex>
+  <lex begin='1601' end='1604'>day</lex>
+  <lex begin='1604' end='1605'>,</lex>
+  <lex begin='1606' end='1609'>but</lex>
+  <lex begin='1610' end='1614'>when</lex>
+  <lex begin='1615' end='1618'>the</lex>
+  <lex begin='1619' end='1623'>rain</lex>
+  <lex begin='1624' end='1627'>has</lex>
+  <lex begin='1628' end='1635'>stopped</lex>
+  <lex begin='1635' end='1636'>,</lex>
+  <lex begin='1637' end='1638'>I</lex>
+  <lex begin='1639' end='1643'>have</lex>
+  <lex begin='1644' end='1652'>received</lex>
+  <lex begin='1653' end='1659'>vistas</lex>
+  <lex begin='1660' end='1662'>of</lex>
+  <lex begin='1663' end='1668'>steep</lex>
+  <lex begin='1669' end='1678'>mountains</lex>
+  <lex begin='1679' end='1681'>or</lex>
+  <lex begin='1682' end='1687'>large</lex>
+  <lex begin='1688' end='1694'>rivers</lex>
+  <lex begin='1695' end='1699'>high</lex>
+  <lex begin='1700' end='1704'>from</lex>
+  <lex begin='1705' end='1708'>the</lex>
+  <lex begin='1709' end='1715'>recent</lex>
+  <lex begin='1716' end='1721'>rains</lex>
+  <lex begin='1721' end='1722'>.</lex>
+</s>
+</TOKENS>
+
+</SpaceEvalTaskv1.2>

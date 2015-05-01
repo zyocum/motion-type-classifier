@@ -1,5 +1,3 @@
-from __future__ import print_function
-
 import codecs, os, json, re, sys, time
 from collections import defaultdict
 from operator import itemgetter
@@ -144,6 +142,8 @@ def load(filename):
     with codecs.open(filename, mode='r', encoding='utf-8') as file:
         return json.load(file)
 
+LANGUAGES = load(os.path.join('resources', 'languages.json'))
+
 def load_page(filename):
     with open(filename, 'r') as file:
         soup = BS(file)
@@ -189,29 +189,54 @@ def affixes(etymologies):
         yield name, dictionary
 
 def etym(query, pos, dictionary):
-    pos = wordnet_pos(pos)
-    lemma = wnl.lemmatize(query, pos)
+    wn_pos = wordnet_pos(pos)
+    #try:
+    lemma = wnl.lemmatize(query, wn_pos)
+    #except KeyError:
+    #    lemma = query
+    #    print query, pos
     results = dictionary.get(lemma, [])
     for result in results:
-        match = re.match(*map(wordnet_pos, (result['pos'], pos)))
+        match = re.match(*map(wordnet_pos, (result['pos'], wn_pos)))
         if match:
             return lemma, [result]
     return lemma, results
 
+#def languages(*args):
+#    lemma, results = etym(*args)
+#    languages = nest()
+#    if not results:
+#        query, _, dictionary = args
+#        lemma, results = etym(query, None, dictionary)
+#    for result in results:
+#        languages[lemma][(unicode(result['pos']))] = result['languages']
+#    return languages
+
 def wordnet_pos(pos):
     pos = (pos or '').strip(punctuation + whitespace).lower()
-    if pos.startswith('j') or 'adjective'.startswith(pos):
+    if pos.startswith('j') or 'adj'.startswith(pos):
         return wordnet.ADJ
-    elif 'verb'.startswith(pos):
+    elif pos.startswith('v'):
         return wordnet.VERB
-    elif 'noun'.startswith(pos):
+    elif pos.startswith('n'):
         return wordnet.NOUN
-    elif pos.startswith('r') or 'adverb'.startswith(pos):
+    elif pos.startswith('r') or 'adv'.startswith(pos):
         return wordnet.ADV
     else:
         return None
 
 etymology_file = os.path.join('resources', 'etymology.json')
+ETYMOLOGY = load(etymology_file)
+
+def languages(query, pos):
+    lemma, results = etym(query, pos, ETYMOLOGY)
+    languages = set()
+    if not results:
+        lemma, results = etym(query, None, ETYMOLOGY)
+    for result in results:
+        languages.update(set(result['languages']))
+    return languages
+
 site = os.path.expanduser(
     os.path.join('~', 'Downloads', 'www.etymonline.com')
 )
@@ -226,19 +251,25 @@ def setup():
             affix_file = os.path.join('resources', '{}.json'.format(affix))
             if not os.path.isfile(affix_file):
                 dump(dictionary, affix_file)
+#setup()
 
 def main(args):
     print(args)
-    setup()
-    etymology = load(etymology_file)
     query = args.pop(0)
     if args:
         pos = args.pop(0)
     else:
-        pos = 'n'
-    lemma, results = etym(query, pos, etymology)
-    for result in results:
-        print(lemma, ':', json.dumps(result, indent=True, ensure_ascii=False))
+        pos = ''
+    #lemma, results = etym(query, pos, ETYMOLOGY)
+    #for result in results:
+    #    print(lemma, ':', json.dumps(result, indent=True, ensure_ascii=False))
+    print(
+        json.dumps(
+            languages(query, pos, ETYMOLOGY),
+            indent=True,
+            ensure_ascii=False
+        )
+    )
 
 if __name__ == '__main__':
     main(sys.argv[1:])

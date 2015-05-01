@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+The future of the Amazon? A week in Manaus
+Tuesday, August 22nd, 2006
+
+   I spent a week in Manaus, staying in the apartment of two graduate students and visiting Instituto National de Pesquisas da Amazonia (INPA), a famous research center. Here, in addition to giving a presentation for INPA and also for students at a neighboring University, I talked with scientists modelling climate in the Amazon rainforest. From what I gather, the rainforest faces three major threats. 1) Direct deforestation, 2) Decreased rainfall caused by deforestation, and 3) the possibility that global warming will dry out the basin.
+
+   Although the Amazon basin is enormous (similar in size to the contiguous U.S.), deforestation is a major threat. Everywhere roads are built, the forest is cut down, making way for fields of soy beans or beef cattle. From one of the researchers at INPA, I received the images below which show the forest in 1992, deforestation by 2002, and then projected deforestation in 2033 (deforestation shown in red).
+
+  
+
+   I talked with two climate modellers at INPA, Francis and Theotonio (shown on the right with their â€˜supercomputerâ€™), about how this deforestation would affect the rainforest, as cutting down a forest changes evaporation and thus rain patterns. If the entire forest were cut down, they estimate that rainfall would decrease on average 30%, with many areas becoming too dry for forest. Indeed, one study suggests that there are two stable states of the Amazon â€“ one state like the rainforest we find today, and another state where much of the forest is dry savannah. If too much forest is cut down, there is a possibility that it would push much of the Amazon into the drier state, unable to easily return to forest. (More on this here.)
+
+   These studies, however, do not consider the effects of global warming. To be sure, the effects of global warming are uncertain because large scale climate models are not good at modelling rainfall in the tropics. Nonetheless, a few models (not all) suggest that a warmer earth means a much drier Amazon, which would turn much of the basin into savannah. This may be wrong. It may also be correct.
+
+   Decreasing rain and savannahization are real risks to the rainforest. Due to uncertainty in the science–we canâ€™t be sure if deforestation or global warming will reduce rain–it is difficult to put percentages on these risks, and Theotonio and Francis, while claiming it a real possibility, balked at guessing its probability. Nonetheless, if it is true, the results are very bad. A loss of the Amazon would not only loose countless species, but also release incredible amounts of carbon dioxide to the atmosphere, accelerating global warming. Do we really want to find out if it is true or not?
+
+  
+
+   My last full day in Manaus, I travelled with Alexender, one of my hosts, to a large forest preserve near the city. In the preserve, Alex maintains a large tower that measures CO2 concentrations, and is he trying to understand how CO2 fluxes into and out of the forest. Alex let me climb to the top of the tower, where I was able to look across the treetops of a forest that stretches for thousands of miles beyond the horizon. Listening to the birds, monkeys, and insects, it was hard not to be both awed by the Amazon and to wonder what its future will be.
+]]></TEXT>
+<TAGS>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1076" form="NAM" gazref="" gquant="" id="pl18" latLong="" mod="" scopes="" start="1072" state="" text="INPA" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="125" form="NOM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="116" state="" text="apartment" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1493" form="NAM" gazref="" gquant="" id="pl25" latLong="" mod="" scopes="" start="1487" state="" text="Amazon" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="207" form="NAM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="164" state="" text="Instituto National de Pesquisas da Amazonia" type=""/>
+<PLACE comment="amount=much" continent="" countable="FALSE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1695" form="NAM" gazref="" gquant="" id="pl28" latLong="" mod="" scopes="" start="1689" state="" text="Amazon" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="213" form="NAM" gazref="" gquant="" id="pl3" latLong="" mod="" scopes="" start="209" state="" text="INPA" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="240" form="NOM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="234" state="" text="center" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="246" form="NOM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="242" state="" text="Here" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="2580" form="NAM" gazref="" gquant="" id="pl31" latLong="" mod="" scopes="" start="2574" state="" text="Amazon" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="2692" form="NOM" gazref="" gquant="" id="pl32" latLong="" mod="" scopes="" start="2682" state="" text="atmosphere" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="2809" form="NAM" gazref="" gquant="" id="pl33" latLong="" mod="" scopes="" start="2803" state="" text="Manaus" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="2882" form="NOM" gazref="" gquant="" id="pl34" latLong="" mod="large" scopes="" start="2874" state="" text="preserve" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="293" form="NAM" gazref="" gquant="" id="pl6" latLong="" mod="" scopes="" start="289" state="" text="INPA" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="2896" form="NOM" gazref="" gquant="" id="pl35" latLong="" mod="" scopes="" start="2892" state="" text="city" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="2913" form="NOM" gazref="" gquant="" id="pl36" latLong="" mod="" scopes="" start="2905" state="" text="preserve" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="3050" form="NOM" gazref="" gquant="" id="pl38" latLong="" mod="" scopes="" start="3044" state="" text="forest" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="3080" form="NOM" gazref="" gquant="" id="pl40" latLong="" mod="" scopes="" start="3077" state="" text="top" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="3151" form="NOM" gazref="" gquant="" id="pl41" latLong="" mod="" scopes="" start="3145" state="" text="forest" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="3301" form="NAM" gazref="" gquant="" id="pl42" latLong="" mod="" scopes="" start="3295" state="" text="Amazon" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="343" form="NOM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="333" state="" text="University" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="412" form="NAM" gazref="" gquant="" id="pl8" latLong="" mod="" scopes="" start="395" state="" text="Amazon rainforest" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="644" form="NAM" gazref="" gquant="" id="pl11" latLong="" mod="enormous" scopes="" start="632" state="" text="Amazon basin" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="696" form="NAM" gazref="" gquant="" id="pl12" latLong="" mod="" scopes="" start="681" state="" text="contiguous U.S." type=""/>
+<PLACE comment="" continent="" countable="FALSE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="770" form="NOM" gazref="" gquant="" id="pl14" latLong="" mod="" scopes="" start="764" state="" text="forest" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="805" form="NOM" gazref="" gquant="" id="pl15" latLong="" mod="" scopes="" start="799" state="" text="fields" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="870" form="NAM" gazref="" gquant="" id="pl16" latLong="" mod="" scopes="" start="866" state="" text="INPA" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="921" form="NOM" gazref="" gquant="" id="pl17" latLong="" mod="" scopes="" start="915" state="" text="forest" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="99" form="NAM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="93" state="" text="Manaus" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="448" form="NOM" gazref="" gquant="" id="pl9" latLong="" mod="" scopes="" start="438" state="" text="rainforest" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="613" form="NOM" gazref="" gquant="" id="pl10" latLong="" mod="" scopes="" start="608" state="" text="basin" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="1209" form="NOM" gazref="" gquant="" id="pl13" latLong="" mod="" scopes="" start="1199" state="" text="rainforest" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="2080" form="NAM" gazref="" gquant="" id="pl19" latLong="" mod="" scopes="" start="2074" state="" text="Amazon" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="2116" form="NOM" gazref="" gquant="" id="pl20" latLong="" mod="" scopes="" start="2111" state="" text="basin" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="" domain="" elevation="" end="2247" form="NOM" gazref="" gquant="" id="pl21" latLong="" mod="" scopes="" start="2237" state="" text="rainforest" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="3208" endID="" form="NOM" gazref="" gquant="" id="p1" latLong="" midIDs="" mod="" scopes="" start="3201" text="horizon" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="748" endID="" form="NOM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="743" text="roads" type=""/>
+<SPATIAL_ENTITY comment="The set subsuming [beans,se] and [cattle,se] in '... making way for fields of soy beans or beef cattle.'" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="-1" form="NOM" gquant="" id="se10" latLong="" mod="" scopes="" start="-1" text="" type=""/>
+<SPATIAL_ENTITY comment="amount=incredible amounts" countable="FALSE" dcl="" dimensionality="" domain="" elevation="" end="2674" form="NAM" gquant="" id="se3" latLong="" mod="" scopes="" start="2660" text="carbon dioxide" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2812" form="NOM" gquant="" id="se4" latLong="" mod="" scopes="" start="2811" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2837" form="NAM" gquant="" id="se5" latLong="" mod="" scopes="" start="2828" text="Alexender" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="2943" form="NOM" gquant="" id="se13" latLong="" mod="large" scopes="" start="2938" text="tower" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="" dimensionality="" domain="" elevation="" end="3016" form="NAM" gquant="" id="se6" latLong="" mod="" scopes="" start="3013" text="CO2" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="3063" form="NOM" gquant="" id="se7" latLong="" mod="" scopes="" start="3061" text="me" type=""/>
+<SPATIAL_ENTITY comment="amount=gt1" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="315" form="NOM" gquant="" id="se1" latLong="" mod="" scopes="" start="307" text="students" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="3093" form="NOM" gquant="" id="se12" latLong="" mod="" scopes="" start="3088" text="tower" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="3102" form="NOM" gquant="" id="se8" latLong="" mod="" scopes="" start="3101" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="" dimensionality="" domain="" elevation="" end="3139" form="NOM" gquant="" id="se11" latLong="" mod="" scopes="" start="3131" text="treetops" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="76" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="75" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="818" form="NOM" gquant="" id="se9" latLong="" mod="" scopes="" start="813" text="beans" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="" dimensionality="" domain="" elevation="" end="833" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="827" text="cattle" type=""/>
+<SPATIAL_ENTITY comment="The set subsuming [I,se] and [Alexander,se] in 'I travelled with Alexander...'" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="-1" form="NOM" gquant="" id="se14" latLong="" mod="" scopes="" start="-1" text="" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="346" form="NOM" gquant="" id="se15" latLong="" mod="" scopes="" start="345" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="425" form="NOM" gquant="" id="se16" latLong="" mod="" scopes="" start="424" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="873" form="NOM" gquant="" id="se17" latLong="" mod="" scopes="" start="872" text="I" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="" dimensionality="" domain="" elevation="" end="1034" form="NOM" gquant="" id="se18" latLong="" mod="" scopes="" start="1033" text="I" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="108" gquant="" id="e7" latLong="" mod="" scopes="" start="101" text="staying"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1041" gquant="" id="e8" latLong="" mod="" scopes="" start="1035" text="talked"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="269" gquant="" id="e0" latLong="" mod="" scopes="" start="263" text="giving"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="2929" gquant="" id="e13" latLong="" mod="" scopes="" start="2920" text="maintains"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="3119" gquant="" id="e9" latLong="" mod="" scopes="" start="3115" text="look"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="353" gquant="" id="e2" latLong="" mod="" scopes="" start="347" text="talked"/>
+<NONMOTION_EVENT comment="" countable="FALSE" domain="" elevation="" end="387" gquant="" id="e14" latLong="" mod="" scopes="" start="380" text="climate"/>
+<NONMOTION_EVENT comment="" countable="FALSE" domain="" elevation="" end="712" gquant="" id="e6" latLong="" mod="" scopes="" start="699" text="deforestation"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="82" gquant="" id="e5" latLong="" mod="" scopes="" start="77" text="spent"/>
+<MOTION comment="" countable="" domain="" elevation="" end="163" gquant="" id="m2" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="155" text="visiting"/>
+<MOTION comment="" countable="" domain="" elevation="" end="2637" gquant="" id="m5" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="2630" text="release"/>
+<MOTION comment="" countable="" domain="" elevation="" end="2822" gquant="" id="m6" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="2813" text="travelled"/>
+<MOTION comment="" countable="" domain="" elevation="" end="3023" gquant="" id="m7" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="3017" text="fluxes"/>
+<MOTION comment="" countable="" domain="" elevation="" end="3069" gquant="" id="m8" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="COMPOUND" scopes="" start="3064" text="climb"/>
+<MOTION comment="" countable="" domain="" elevation="" end="3166" gquant="" id="m9" latLong="" mod="" motion_class="MOVE" motion_sense="FICTIVE" motion_type="PATH" scopes="" start="3157" text="stretches"/>
+<MOTION comment="" countable="" domain="" elevation="" end="758" gquant="" id="m3" latLong="" mod="" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" motion_type="MANNER" scopes="" start="753" text="built"/>
+<MOTION comment="" countable="" domain="" elevation="" end="777" gquant="" id="m4" latLong="" mod="" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" motion_type="MANNER" scopes="" start="774" text="cut"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1071" id="s11" semantic_type="TOPOLOGICAL" start="1069" text="at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="111" id="s1" semantic_type="TOPOLOGICAL" start="109" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2900" id="s7" semantic_type="TOPOLOGICAL" start="2898" text="In"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="3083" id="s13" semantic_type="TOPOLOGICAL" start="3081" text="of"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="3100" id="s14" semantic_type="TOPOLOGICAL" start="3095" text="where"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="3142" id="s12" semantic_type="DIR_TOP" start="3140" text="of"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="318" id="s8" semantic_type="TOPOLOGICAL" start="316" text="at"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="332" id="s2" semantic_type="DIRECTIONAL" start="321" text="neighboring"/>
+<SPATIAL_SIGNAL cluster="" comment="should this be topological? (Changed from DIR to TOP.  Didn't change any links, as a QS but no O had already been made.  -BB)" end="390" id="s3" semantic_type="TOPOLOGICAL" start="388" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="742" id="s9" semantic_type="TOPOLOGICAL" start="732" text="Everywhere"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="808" id="s10" semantic_type="TOPOLOGICAL" start="806" text="of"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="92" id="s0" semantic_type="TOPOLOGICAL" start="90" text="in"/>
+<MOTION_SIGNAL comment="" end="2677" id="ms2" motion_signal_type="PATH" start="2675" text="to"/>
+<MOTION_SIGNAL comment="" end="2858" id="ms4" motion_signal_type="PATH" start="2856" text="to"/>
+<MOTION_SIGNAL comment="" end="3028" id="ms0" motion_signal_type="PATH" start="3024" text="into"/>
+<MOTION_SIGNAL comment="" end="3036" id="ms1" motion_signal_type="PATH" start="3033" text="out"/>
+<MOTION_SIGNAL comment="" end="3072" id="ms3" motion_signal_type="PATH" start="3070" text="to"/>
+<MOTION_SIGNAL comment="" end="3196" id="ms6" motion_signal_type="PATH" start="3190" text="beyond"/>
+<MOTION_SIGNAL comment="" end="782" id="ms5" motion_signal_type="PATH" start="778" text="down"/>
+<MEASURE comment="" end="2887" id="me1" start="2883" text="near" unit="" value="NEAR"/>
+<MEASURE comment="" end="3189" id="me0" start="3171" text="thousands of miles" unit="miles" value="gte2000"/>
+<QSLINK comment="" fromID="e5" fromText="spent" id="qsl0" landmark="pl0" relType="IN" toID="pl0" toText="Manaus" trajector="e5" trigger="s0"/>
+<QSLINK comment="" fromID="e7" fromText="staying" id="qsl1" landmark="pl1" relType="IN" toID="pl1" toText="apartment" trajector="e7" trigger="s1"/>
+<QSLINK comment="" fromID="se10" fromText="" id="qsl10" landmark="pl15" relType="IN" toID="pl15" toText="fields" trajector="se10" trigger="s10"/>
+<QSLINK comment="" fromID="e8" fromText="talked" id="qsl11" landmark="pl18" relType="IN" toID="pl18" toText="INPA" trajector="e8" trigger="s11"/>
+<QSLINK comment="" fromID="e13" fromText="maintains" id="qsl12" landmark="pl36" relType="IN" toID="pl36" toText="preserve" trajector="e13" trigger="s7"/>
+<QSLINK comment="" fromID="se11" fromText="treetops" id="qsl13" landmark="pl41" relType="TPP" toID="pl41" toText="forest" trajector="se11" trigger="s12"/>
+<QSLINK comment="" fromID="pl40" fromText="top" id="qsl14" landmark="se12" relType="TPP" toID="se12" toText="tower" trajector="pl40" trigger="s13"/>
+<QSLINK comment="" fromID="e9" fromText="look" id="qsl15" landmark="pl40" relType="IN" toID="pl40" toText="top" trajector="e9" trigger="s14"/>
+<QSLINK comment="" fromID="e0" fromText="giving" id="qsl2" landmark="pl5" relType="IN" toID="pl5" toText="Here" trajector="e0" trigger=""/>
+<QSLINK comment="" fromID="se1" fromText="students" id="qsl3" landmark="pl7" relType="IN" toID="pl7" toText="University" trajector="se1" trigger="s8"/>
+<QSLINK comment="" fromID="e2" fromText="talked" id="qsl5" landmark="pl5" relType="IN" toID="pl5" toText="Here" trajector="e2" trigger=""/>
+<QSLINK comment="" fromID="e14" fromText="climate" id="qsl6" landmark="pl8" relType="IN" toID="pl8" toText="Amazon rainforest" trajector="e14" trigger="s3"/>
+<QSLINK comment="" fromID="e6" fromText="deforestation" id="qsl7" landmark="pl11" relType="IN" toID="pl11" toText="Amazon basin" trajector="e6" trigger=""/>
+<QSLINK comment="" fromID="m4" fromText="cut" id="qsl9" landmark="m3" relType="EQ" toID="m3" toText="built" trajector="m4" trigger="s9"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="se11" fromText="treetops" id="ol0" landmark="pl41" projective="FALSE" referencePt="pl41" relType="ABOVE" toID="pl41" toText="forest" trajector="se11" trigger="s12"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="pl7" fromText="University" id="ol1" landmark="pl6" projective="FALSE" referencePt="pl6" relType="NEXT TO" toID="pl6" toText="INPA" trajector="pl7" trigger="s2"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="pl40" fromText="top" id="ol2" landmark="se12" projective="FALSE" referencePt="se12" relType="ABOVE" toID="se12" toText="tower" trajector="pl40" trigger="s13"/>
+<MOVELINK comment="" fromID="m9" fromText="stretches" goal="" goal_reached="" id="mvl0" landmark="" midPoint="p1" motion_signalID="ms6" mover="pl41" pathID="" source="p1" toID="pl41" toText="forest" trigger="m9"/>
+<MOVELINK comment="" fromID="m2" fromText="visiting" goal="pl2" goal_reached="YES" id="mvl1" landmark="" midPoint="" motion_signalID="" mover="se0" pathID="" source="" toID="se0" toText="I" trigger="m2"/>
+<MOVELINK comment="" fromID="m3" fromText="built" goal="" goal_reached="" id="mvl2" landmark="" midPoint="" motion_signalID="" mover="p0" pathID="" source="" toID="p0" toText="roads" trigger="m3"/>
+<MOVELINK comment="" fromID="m4" fromText="cut" goal="" goal_reached="" id="mvl3" landmark="" midPoint="" motion_signalID="ms5" mover="pl14" pathID="" source="" toID="pl14" toText="forest" trigger="m4"/>
+<MOVELINK comment="" fromID="m5" fromText="release" goal="pl32" goal_reached="YES" id="mvl4" landmark="" midPoint="" motion_signalID="ms2" mover="se3" pathID="" source="" toID="se3" toText="carbon dioxide" trigger="m5"/>
+<MOVELINK comment="" fromID="m7" fromText="fluxes" goal="" goal_reached="" id="mvl5" landmark="" midPoint="" motion_signalID="ms1" mover="se6" pathID="" source="pl38" toID="se6" toText="CO2" trigger="m7"/>
+<MOVELINK comment="" fromID="m7" fromText="fluxes" goal="pl38" goal_reached="YES" id="mvl6" landmark="" midPoint="" motion_signalID="ms0" mover="se6" pathID="" source="" toID="se6" toText="CO2" trigger="m7"/>
+<MOVELINK comment="" fromID="m8" fromText="climb" goal="pl40" goal_reached="YES" id="mvl7" landmark="" midPoint="" motion_signalID="ms3" mover="se7" pathID="" source="" toID="se7" toText="me" trigger="m8"/>
+<MOVELINK comment="" fromID="m6" fromText="travelled" goal="pl34" goal_reached="YES" id="mvl8" landmark="" midPoint="" motion_signalID="ms4" mover="se14" pathID="" source="" toID="se14" toText="" trigger="m6"/>
+<MLINK comment="" endPoint1="" endPoint2="" fromID="pl34" fromText="preserve" id="ml0" landmark="pl35" relType="DISTANCE" toID="pl35" toText="city" trajector="pl34" val="me1"/>
+<MLINK comment="" endPoint1="" endPoint2="" fromID="m9" fromText="stretches" id="ml1" landmark="m9" relType="GENERAL_DIMENSION" toID="m9" toText="stretches" trajector="m9" val="me0"/>
+<METALINK comment="" fromID="se2" fromText="cattle" id="metal0" objectID1="se2" objectID2="se10" relType="SUBCOREFERENCE" toID="se10" toText=""/>
+<METALINK comment="" fromID="se9" fromText="beans" id="metal1" objectID1="se9" objectID2="se10" relType="SUBCOREFERENCE" toID="se10" toText=""/>
+<METALINK comment="" fromID="pl4" fromText="center" id="metal10" objectID1="pl4" objectID2="pl2" relType="COREFERENCE" toID="pl2" toText="Instituto National de Pesquisas da Amazonia"/>
+<METALINK comment="" fromID="pl3" fromText="INPA" id="metal11" objectID1="pl3" objectID2="pl2" relType="COREFERENCE" toID="pl2" toText="Instituto National de Pesquisas da Amazonia"/>
+<METALINK comment="" fromID="pl14" fromText="forest" id="metal12" objectID1="pl14" objectID2="pl8" relType="COREFERENCE" toID="pl8" toText="Amazon rainforest"/>
+<METALINK comment="" fromID="pl17" fromText="forest" id="metal13" objectID1="pl17" objectID2="pl8" relType="COREFERENCE" toID="pl8" toText="Amazon rainforest"/>
+<METALINK comment="" fromID="pl25" fromText="Amazon" id="metal14" objectID1="pl25" objectID2="pl8" relType="COREFERENCE" toID="pl8" toText="Amazon rainforest"/>
+<METALINK comment="" fromID="pl28" fromText="Amazon" id="metal15" objectID1="pl28" objectID2="pl8" relType="COREFERENCE" toID="pl8" toText="Amazon rainforest"/>
+<METALINK comment="" fromID="pl31" fromText="Amazon" id="metal16" objectID1="pl31" objectID2="pl8" relType="COREFERENCE" toID="pl8" toText="Amazon rainforest"/>
+<METALINK comment="" fromID="pl42" fromText="Amazon" id="metal17" objectID1="pl42" objectID2="pl8" relType="COREFERENCE" toID="pl8" toText="Amazon rainforest"/>
+<METALINK comment="" fromID="pl38" fromText="forest" id="metal18" objectID1="pl38" objectID2="pl8" relType="COREFERENCE" toID="pl8" toText="Amazon rainforest"/>
+<METALINK comment="" fromID="pl35" fromText="city" id="metal19" objectID1="pl35" objectID2="pl0" relType="COREFERENCE" toID="pl0" toText="Manaus"/>
+<METALINK comment="" fromID="se4" fromText="I" id="metal2" objectID1="se4" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="pl36" fromText="preserve" id="metal20" objectID1="pl36" objectID2="pl34" relType="COREFERENCE" toID="pl34" toText="preserve"/>
+<METALINK comment="" fromID="pl41" fromText="forest" id="metal21" objectID1="pl41" objectID2="pl8" relType="COREFERENCE" toID="pl8" toText="Amazon rainforest"/>
+<METALINK comment="" fromID="se12" fromText="tower" id="metal22" objectID1="se12" objectID2="se13" relType="COREFERENCE" toID="se13" toText="tower"/>
+<METALINK comment="" fromID="se6" fromText="CO2" id="metal23" objectID1="se6" objectID2="se3" relType="COREFERENCE" toID="se3" toText="carbon dioxide"/>
+<METALINK comment="" fromID="se8" fromText="I" id="metal3" objectID1="se8" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se7" fromText="me" id="metal4" objectID1="se7" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="pl33" fromText="Manaus" id="metal5" objectID1="pl33" objectID2="pl0" relType="COREFERENCE" toID="pl0" toText="Manaus"/>
+<METALINK comment="" fromID="pl5" fromText="Here" id="metal6" objectID1="pl5" objectID2="pl0" relType="COREFERENCE" toID="pl0" toText="Manaus"/>
+<METALINK comment="" fromID="pl18" fromText="INPA" id="metal7" objectID1="pl18" objectID2="pl2" relType="COREFERENCE" toID="pl2" toText="Instituto National de Pesquisas da Amazonia"/>
+<METALINK comment="" fromID="pl16" fromText="INPA" id="metal8" objectID1="pl16" objectID2="pl2" relType="COREFERENCE" toID="pl2" toText="Instituto National de Pesquisas da Amazonia"/>
+<METALINK comment="" fromID="pl6" fromText="INPA" id="metal9" objectID1="pl6" objectID2="pl2" relType="COREFERENCE" toID="pl2" toText="Instituto National de Pesquisas da Amazonia"/>
+<METALINK comment="" fromID="pl9" fromText="rainforest" id="metal24" objectID1="pl9" objectID2="pl8" relType="COREFERENCE" toID="pl8" toText="Amazon rainforest"/>
+<METALINK comment="" fromID="pl11" fromText="Amazon basin" id="metal25" objectID1="pl11" objectID2="pl10" relType="COREFERENCE" toID="pl10" toText="basin"/>
+<METALINK comment="" fromID="pl13" fromText="rainforest" id="metal26" objectID1="pl13" objectID2="pl8" relType="COREFERENCE" toID="pl8" toText="Amazon rainforest"/>
+<METALINK comment="" fromID="pl19" fromText="Amazon" id="metal27" objectID1="pl19" objectID2="pl8" relType="COREFERENCE" toID="pl8" toText="Amazon rainforest"/>
+<METALINK comment="" fromID="pl20" fromText="basin" id="metal28" objectID1="pl20" objectID2="pl10" relType="COREFERENCE" toID="pl10" toText="basin"/>
+<METALINK comment="" fromID="pl21" fromText="rainforest" id="metal29" objectID1="pl21" objectID2="pl8" relType="COREFERENCE" toID="pl8" toText="Amazon rainforest"/>
+<METALINK comment="" fromID="se15" fromText="I" id="metal30" objectID1="se15" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se16" fromText="I" id="metal31" objectID1="se16" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se17" fromText="I" id="metal32" objectID1="se17" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+<METALINK comment="" fromID="se18" fromText="I" id="metal33" objectID1="se18" objectID2="se0" relType="COREFERENCE" toID="se0" toText="I"/>
+</TAGS>
+<TOKENS>
+<s>
+  <lex begin='1' end='4'>The</lex>
+  <lex begin='5' end='11'>future</lex>
+  <lex begin='12' end='14'>of</lex>
+  <lex begin='15' end='18'>the</lex>
+  <lex begin='19' end='25'>Amazon</lex>
+  <lex begin='25' end='26'>?</lex>
+</s>
+<s>
+  <lex begin='27' end='28'>A</lex>
+  <lex begin='29' end='33'>week</lex>
+  <lex begin='34' end='36'>in</lex>
+  <lex begin='37' end='43'>Manaus</lex>
+  <lex begin='44' end='51'>Tuesday</lex>
+  <lex begin='51' end='52'>,</lex>
+  <lex begin='53' end='59'>August</lex>
+  <lex begin='60' end='64'>22nd</lex>
+  <lex begin='64' end='65'>,</lex>
+  <lex begin='66' end='70'>2006</lex>
+  <lex begin='75' end='76'>I</lex>
+  <lex begin='77' end='82'>spent</lex>
+  <lex begin='83' end='84'>a</lex>
+  <lex begin='85' end='89'>week</lex>
+  <lex begin='90' end='92'>in</lex>
+  <lex begin='93' end='99'>Manaus</lex>
+  <lex begin='99' end='100'>,</lex>
+  <lex begin='101' end='108'>staying</lex>
+  <lex begin='109' end='111'>in</lex>
+  <lex begin='112' end='115'>the</lex>
+  <lex begin='116' end='125'>apartment</lex>
+  <lex begin='126' end='128'>of</lex>
+  <lex begin='129' end='132'>two</lex>
+  <lex begin='133' end='141'>graduate</lex>
+  <lex begin='142' end='150'>students</lex>
+  <lex begin='151' end='154'>and</lex>
+  <lex begin='155' end='163'>visiting</lex>
+  <lex begin='164' end='173'>Instituto</lex>
+  <lex begin='174' end='182'>National</lex>
+  <lex begin='183' end='185'>de</lex>
+  <lex begin='186' end='195'>Pesquisas</lex>
+  <lex begin='196' end='198'>da</lex>
+  <lex begin='199' end='207'>Amazonia</lex>
+  <lex begin='208' end='209'>(</lex>
+  <lex begin='209' end='213'>INPA</lex>
+  <lex begin='213' end='214'>)</lex>
+  <lex begin='214' end='215'>,</lex>
+  <lex begin='216' end='217'>a</lex>
+  <lex begin='218' end='224'>famous</lex>
+  <lex begin='225' end='233'>research</lex>
+  <lex begin='234' end='240'>center</lex>
+  <lex begin='240' end='241'>.</lex>
+</s>
+<s>
+  <lex begin='242' end='246'>Here</lex>
+  <lex begin='246' end='247'>,</lex>
+  <lex begin='248' end='250'>in</lex>
+  <lex begin='251' end='259'>addition</lex>
+  <lex begin='260' end='262'>to</lex>
+  <lex begin='263' end='269'>giving</lex>
+  <lex begin='270' end='271'>a</lex>
+  <lex begin='272' end='284'>presentation</lex>
+  <lex begin='285' end='288'>for</lex>
+  <lex begin='289' end='293'>INPA</lex>
+  <lex begin='294' end='297'>and</lex>
+  <lex begin='298' end='302'>also</lex>
+  <lex begin='303' end='306'>for</lex>
+  <lex begin='307' end='315'>students</lex>
+  <lex begin='316' end='318'>at</lex>
+  <lex begin='319' end='320'>a</lex>
+  <lex begin='321' end='332'>neighboring</lex>
+  <lex begin='333' end='343'>University</lex>
+  <lex begin='343' end='344'>,</lex>
+  <lex begin='345' end='346'>I</lex>
+  <lex begin='347' end='353'>talked</lex>
+  <lex begin='354' end='358'>with</lex>
+  <lex begin='359' end='369'>scientists</lex>
+  <lex begin='370' end='379'>modelling</lex>
+  <lex begin='380' end='387'>climate</lex>
+  <lex begin='388' end='390'>in</lex>
+  <lex begin='391' end='394'>the</lex>
+  <lex begin='395' end='401'>Amazon</lex>
+  <lex begin='402' end='412'>rainforest</lex>
+  <lex begin='412' end='413'>.</lex>
+</s>
+<s>
+  <lex begin='414' end='418'>From</lex>
+  <lex begin='419' end='423'>what</lex>
+  <lex begin='424' end='425'>I</lex>
+  <lex begin='426' end='432'>gather</lex>
+  <lex begin='432' end='433'>,</lex>
+  <lex begin='434' end='437'>the</lex>
+  <lex begin='438' end='448'>rainforest</lex>
+  <lex begin='449' end='454'>faces</lex>
+  <lex begin='455' end='460'>three</lex>
+  <lex begin='461' end='466'>major</lex>
+  <lex begin='467' end='474'>threats</lex>
+  <lex begin='474' end='475'>.</lex>
+</s>
+<s>
+  <lex begin='476' end='477'>1</lex>
+  <lex begin='477' end='478'>)</lex>
+  <lex begin='479' end='485'>Direct</lex>
+  <lex begin='486' end='499'>deforestation</lex>
+  <lex begin='499' end='500'>,</lex>
+  <lex begin='501' end='502'>2</lex>
+  <lex begin='502' end='503'>)</lex>
+  <lex begin='504' end='513'>Decreased</lex>
+  <lex begin='514' end='522'>rainfall</lex>
+  <lex begin='523' end='529'>caused</lex>
+  <lex begin='530' end='532'>by</lex>
+  <lex begin='533' end='546'>deforestation</lex>
+  <lex begin='546' end='547'>,</lex>
+  <lex begin='548' end='551'>and</lex>
+  <lex begin='552' end='553'>3</lex>
+  <lex begin='553' end='554'>)</lex>
+  <lex begin='555' end='558'>the</lex>
+  <lex begin='559' end='570'>possibility</lex>
+  <lex begin='571' end='575'>that</lex>
+  <lex begin='576' end='582'>global</lex>
+  <lex begin='583' end='590'>warming</lex>
+  <lex begin='591' end='595'>will</lex>
+  <lex begin='596' end='599'>dry</lex>
+  <lex begin='600' end='603'>out</lex>
+  <lex begin='604' end='607'>the</lex>
+  <lex begin='608' end='613'>basin</lex>
+  <lex begin='613' end='614'>.</lex>
+</s>
+<s>
+  <lex begin='619' end='627'>Although</lex>
+  <lex begin='628' end='631'>the</lex>
+  <lex begin='632' end='638'>Amazon</lex>
+  <lex begin='639' end='644'>basin</lex>
+  <lex begin='645' end='647'>is</lex>
+  <lex begin='648' end='656'>enormous</lex>
+  <lex begin='657' end='658'>(</lex>
+  <lex begin='658' end='665'>similar</lex>
+  <lex begin='666' end='668'>in</lex>
+  <lex begin='669' end='673'>size</lex>
+  <lex begin='674' end='676'>to</lex>
+  <lex begin='677' end='680'>the</lex>
+  <lex begin='681' end='691'>contiguous</lex>
+  <lex begin='692' end='696'>U.S.</lex>
+  <lex begin='696' end='697'>)</lex>
+  <lex begin='697' end='698'>,</lex>
+  <lex begin='699' end='712'>deforestation</lex>
+  <lex begin='713' end='715'>is</lex>
+  <lex begin='716' end='717'>a</lex>
+  <lex begin='718' end='723'>major</lex>
+  <lex begin='724' end='730'>threat</lex>
+  <lex begin='730' end='731'>.</lex>
+</s>
+<s>
+  <lex begin='732' end='742'>Everywhere</lex>
+  <lex begin='743' end='748'>roads</lex>
+  <lex begin='749' end='752'>are</lex>
+  <lex begin='753' end='758'>built</lex>
+  <lex begin='758' end='759'>,</lex>
+  <lex begin='760' end='763'>the</lex>
+  <lex begin='764' end='770'>forest</lex>
+  <lex begin='771' end='773'>is</lex>
+  <lex begin='774' end='777'>cut</lex>
+  <lex begin='778' end='782'>down</lex>
+  <lex begin='782' end='783'>,</lex>
+  <lex begin='784' end='790'>making</lex>
+  <lex begin='791' end='794'>way</lex>
+  <lex begin='795' end='798'>for</lex>
+  <lex begin='799' end='805'>fields</lex>
+  <lex begin='806' end='808'>of</lex>
+  <lex begin='809' end='812'>soy</lex>
+  <lex begin='813' end='818'>beans</lex>
+  <lex begin='819' end='821'>or</lex>
+  <lex begin='822' end='826'>beef</lex>
+  <lex begin='827' end='833'>cattle</lex>
+  <lex begin='833' end='834'>.</lex>
+</s>
+<s>
+  <lex begin='835' end='839'>From</lex>
+  <lex begin='840' end='843'>one</lex>
+  <lex begin='844' end='846'>of</lex>
+  <lex begin='847' end='850'>the</lex>
+  <lex begin='851' end='862'>researchers</lex>
+  <lex begin='863' end='865'>at</lex>
+  <lex begin='866' end='870'>INPA</lex>
+  <lex begin='870' end='871'>,</lex>
+  <lex begin='872' end='873'>I</lex>
+  <lex begin='874' end='882'>received</lex>
+  <lex begin='883' end='886'>the</lex>
+  <lex begin='887' end='893'>images</lex>
+  <lex begin='894' end='899'>below</lex>
+  <lex begin='900' end='905'>which</lex>
+  <lex begin='906' end='910'>show</lex>
+  <lex begin='911' end='914'>the</lex>
+  <lex begin='915' end='921'>forest</lex>
+  <lex begin='922' end='924'>in</lex>
+  <lex begin='925' end='929'>1992</lex>
+  <lex begin='929' end='930'>,</lex>
+  <lex begin='931' end='944'>deforestation</lex>
+  <lex begin='945' end='947'>by</lex>
+  <lex begin='948' end='952'>2002</lex>
+  <lex begin='952' end='953'>,</lex>
+  <lex begin='954' end='957'>and</lex>
+  <lex begin='958' end='962'>then</lex>
+  <lex begin='963' end='972'>projected</lex>
+  <lex begin='973' end='986'>deforestation</lex>
+  <lex begin='987' end='989'>in</lex>
+  <lex begin='990' end='994'>2033</lex>
+  <lex begin='995' end='996'>(</lex>
+  <lex begin='996' end='1009'>deforestation</lex>
+  <lex begin='1010' end='1015'>shown</lex>
+  <lex begin='1016' end='1018'>in</lex>
+  <lex begin='1019' end='1022'>red</lex>
+  <lex begin='1022' end='1023'>)</lex>
+  <lex begin='1023' end='1024'>.</lex>
+</s>
+<s>
+  <lex begin='1033' end='1034'>I</lex>
+  <lex begin='1035' end='1041'>talked</lex>
+  <lex begin='1042' end='1046'>with</lex>
+  <lex begin='1047' end='1050'>two</lex>
+  <lex begin='1051' end='1058'>climate</lex>
+  <lex begin='1059' end='1068'>modellers</lex>
+  <lex begin='1069' end='1071'>at</lex>
+  <lex begin='1072' end='1076'>INPA</lex>
+  <lex begin='1076' end='1077'>,</lex>
+  <lex begin='1078' end='1085'>Francis</lex>
+  <lex begin='1086' end='1089'>and</lex>
+  <lex begin='1090' end='1099'>Theotonio</lex>
+  <lex begin='1100' end='1101'>(</lex>
+  <lex begin='1101' end='1106'>shown</lex>
+  <lex begin='1107' end='1109'>on</lex>
+  <lex begin='1110' end='1113'>the</lex>
+  <lex begin='1114' end='1119'>right</lex>
+  <lex begin='1120' end='1124'>with</lex>
+  <lex begin='1125' end='1130'>their</lex>
+  <lex begin='1131' end='1150'>â€˜supercomputerâ€™</lex>
+  <lex begin='1150' end='1151'>)</lex>
+  <lex begin='1151' end='1152'>,</lex>
+  <lex begin='1153' end='1158'>about</lex>
+  <lex begin='1159' end='1162'>how</lex>
+  <lex begin='1163' end='1167'>this</lex>
+  <lex begin='1168' end='1181'>deforestation</lex>
+  <lex begin='1182' end='1187'>would</lex>
+  <lex begin='1188' end='1194'>affect</lex>
+  <lex begin='1195' end='1198'>the</lex>
+  <lex begin='1199' end='1209'>rainforest</lex>
+  <lex begin='1209' end='1210'>,</lex>
+  <lex begin='1211' end='1213'>as</lex>
+  <lex begin='1214' end='1221'>cutting</lex>
+  <lex begin='1222' end='1226'>down</lex>
+  <lex begin='1227' end='1228'>a</lex>
+  <lex begin='1229' end='1235'>forest</lex>
+  <lex begin='1236' end='1243'>changes</lex>
+  <lex begin='1244' end='1255'>evaporation</lex>
+  <lex begin='1256' end='1259'>and</lex>
+  <lex begin='1260' end='1264'>thus</lex>
+  <lex begin='1265' end='1269'>rain</lex>
+  <lex begin='1270' end='1278'>patterns</lex>
+  <lex begin='1278' end='1279'>.</lex>
+</s>
+<s>
+  <lex begin='1280' end='1282'>If</lex>
+  <lex begin='1283' end='1286'>the</lex>
+  <lex begin='1287' end='1293'>entire</lex>
+  <lex begin='1294' end='1300'>forest</lex>
+  <lex begin='1301' end='1305'>were</lex>
+  <lex begin='1306' end='1309'>cut</lex>
+  <lex begin='1310' end='1314'>down</lex>
+  <lex begin='1314' end='1315'>,</lex>
+  <lex begin='1316' end='1320'>they</lex>
+  <lex begin='1321' end='1329'>estimate</lex>
+  <lex begin='1330' end='1334'>that</lex>
+  <lex begin='1335' end='1343'>rainfall</lex>
+  <lex begin='1344' end='1349'>would</lex>
+  <lex begin='1350' end='1358'>decrease</lex>
+  <lex begin='1359' end='1361'>on</lex>
+  <lex begin='1362' end='1369'>average</lex>
+  <lex begin='1370' end='1372'>30</lex>
+  <lex begin='1372' end='1373'>%</lex>
+  <lex begin='1373' end='1374'>,</lex>
+  <lex begin='1375' end='1379'>with</lex>
+  <lex begin='1380' end='1384'>many</lex>
+  <lex begin='1385' end='1390'>areas</lex>
+  <lex begin='1391' end='1399'>becoming</lex>
+  <lex begin='1400' end='1403'>too</lex>
+  <lex begin='1404' end='1407'>dry</lex>
+  <lex begin='1408' end='1411'>for</lex>
+  <lex begin='1412' end='1418'>forest</lex>
+  <lex begin='1418' end='1419'>.</lex>
+</s>
+<s>
+  <lex begin='1420' end='1426'>Indeed</lex>
+  <lex begin='1426' end='1427'>,</lex>
+  <lex begin='1428' end='1431'>one</lex>
+  <lex begin='1432' end='1437'>study</lex>
+  <lex begin='1438' end='1446'>suggests</lex>
+  <lex begin='1447' end='1451'>that</lex>
+  <lex begin='1452' end='1457'>there</lex>
+  <lex begin='1458' end='1461'>are</lex>
+  <lex begin='1462' end='1465'>two</lex>
+  <lex begin='1466' end='1472'>stable</lex>
+  <lex begin='1473' end='1479'>states</lex>
+  <lex begin='1480' end='1482'>of</lex>
+  <lex begin='1483' end='1486'>the</lex>
+  <lex begin='1487' end='1493'>Amazon</lex>
+  <lex begin='1494' end='1495'>â</lex>
+  <lex begin='1495' end='1496'>€</lex>
+  <lex begin='1496' end='1497'>“</lex>
+  <lex begin='1498' end='1501'>one</lex>
+  <lex begin='1502' end='1507'>state</lex>
+  <lex begin='1508' end='1512'>like</lex>
+  <lex begin='1513' end='1516'>the</lex>
+  <lex begin='1517' end='1527'>rainforest</lex>
+  <lex begin='1528' end='1530'>we</lex>
+  <lex begin='1531' end='1535'>find</lex>
+  <lex begin='1536' end='1541'>today</lex>
+  <lex begin='1541' end='1542'>,</lex>
+  <lex begin='1543' end='1546'>and</lex>
+  <lex begin='1547' end='1554'>another</lex>
+  <lex begin='1555' end='1560'>state</lex>
+  <lex begin='1561' end='1566'>where</lex>
+  <lex begin='1567' end='1571'>much</lex>
+  <lex begin='1572' end='1574'>of</lex>
+  <lex begin='1575' end='1578'>the</lex>
+  <lex begin='1579' end='1585'>forest</lex>
+  <lex begin='1586' end='1588'>is</lex>
+  <lex begin='1589' end='1592'>dry</lex>
+  <lex begin='1593' end='1601'>savannah</lex>
+  <lex begin='1601' end='1602'>.</lex>
+</s>
+<s>
+  <lex begin='1603' end='1605'>If</lex>
+  <lex begin='1606' end='1609'>too</lex>
+  <lex begin='1610' end='1614'>much</lex>
+  <lex begin='1615' end='1621'>forest</lex>
+  <lex begin='1622' end='1624'>is</lex>
+  <lex begin='1625' end='1628'>cut</lex>
+  <lex begin='1629' end='1633'>down</lex>
+  <lex begin='1633' end='1634'>,</lex>
+  <lex begin='1635' end='1640'>there</lex>
+  <lex begin='1641' end='1643'>is</lex>
+  <lex begin='1644' end='1645'>a</lex>
+  <lex begin='1646' end='1657'>possibility</lex>
+  <lex begin='1658' end='1662'>that</lex>
+  <lex begin='1663' end='1665'>it</lex>
+  <lex begin='1666' end='1671'>would</lex>
+  <lex begin='1672' end='1676'>push</lex>
+  <lex begin='1677' end='1681'>much</lex>
+  <lex begin='1682' end='1684'>of</lex>
+  <lex begin='1685' end='1688'>the</lex>
+  <lex begin='1689' end='1695'>Amazon</lex>
+  <lex begin='1696' end='1700'>into</lex>
+  <lex begin='1701' end='1704'>the</lex>
+  <lex begin='1705' end='1710'>drier</lex>
+  <lex begin='1711' end='1716'>state</lex>
+  <lex begin='1716' end='1717'>,</lex>
+  <lex begin='1718' end='1724'>unable</lex>
+  <lex begin='1725' end='1727'>to</lex>
+  <lex begin='1728' end='1734'>easily</lex>
+  <lex begin='1735' end='1741'>return</lex>
+  <lex begin='1742' end='1744'>to</lex>
+  <lex begin='1745' end='1751'>forest</lex>
+  <lex begin='1751' end='1752'>.</lex>
+</s>
+<s>
+  <lex begin='1753' end='1754'>(</lex>
+  <lex begin='1754' end='1758'>More</lex>
+  <lex begin='1759' end='1761'>on</lex>
+  <lex begin='1762' end='1766'>this</lex>
+  <lex begin='1767' end='1771'>here</lex>
+  <lex begin='1771' end='1772'>.</lex>
+  <lex begin='1772' end='1773'>)</lex>
+</s>
+<s>
+  <lex begin='1778' end='1783'>These</lex>
+  <lex begin='1784' end='1791'>studies</lex>
+  <lex begin='1791' end='1792'>,</lex>
+  <lex begin='1793' end='1800'>however</lex>
+  <lex begin='1800' end='1801'>,</lex>
+  <lex begin='1802' end='1804'>do</lex>
+  <lex begin='1805' end='1808'>not</lex>
+  <lex begin='1809' end='1817'>consider</lex>
+  <lex begin='1818' end='1821'>the</lex>
+  <lex begin='1822' end='1829'>effects</lex>
+  <lex begin='1830' end='1832'>of</lex>
+  <lex begin='1833' end='1839'>global</lex>
+  <lex begin='1840' end='1847'>warming</lex>
+  <lex begin='1847' end='1848'>.</lex>
+</s>
+<s>
+  <lex begin='1849' end='1851'>To</lex>
+  <lex begin='1852' end='1854'>be</lex>
+  <lex begin='1855' end='1859'>sure</lex>
+  <lex begin='1859' end='1860'>,</lex>
+  <lex begin='1861' end='1864'>the</lex>
+  <lex begin='1865' end='1872'>effects</lex>
+  <lex begin='1873' end='1875'>of</lex>
+  <lex begin='1876' end='1882'>global</lex>
+  <lex begin='1883' end='1890'>warming</lex>
+  <lex begin='1891' end='1894'>are</lex>
+  <lex begin='1895' end='1904'>uncertain</lex>
+  <lex begin='1905' end='1912'>because</lex>
+  <lex begin='1913' end='1918'>large</lex>
+  <lex begin='1919' end='1924'>scale</lex>
+  <lex begin='1925' end='1932'>climate</lex>
+  <lex begin='1933' end='1939'>models</lex>
+  <lex begin='1940' end='1943'>are</lex>
+  <lex begin='1944' end='1947'>not</lex>
+  <lex begin='1948' end='1952'>good</lex>
+  <lex begin='1953' end='1955'>at</lex>
+  <lex begin='1956' end='1965'>modelling</lex>
+  <lex begin='1966' end='1974'>rainfall</lex>
+  <lex begin='1975' end='1977'>in</lex>
+  <lex begin='1978' end='1981'>the</lex>
+  <lex begin='1982' end='1989'>tropics</lex>
+  <lex begin='1989' end='1990'>.</lex>
+</s>
+<s>
+  <lex begin='1991' end='2002'>Nonetheless</lex>
+  <lex begin='2002' end='2003'>,</lex>
+  <lex begin='2004' end='2005'>a</lex>
+  <lex begin='2006' end='2009'>few</lex>
+  <lex begin='2010' end='2016'>models</lex>
+  <lex begin='2017' end='2018'>(</lex>
+  <lex begin='2018' end='2021'>not</lex>
+  <lex begin='2022' end='2025'>all</lex>
+  <lex begin='2025' end='2026'>)</lex>
+  <lex begin='2027' end='2034'>suggest</lex>
+  <lex begin='2035' end='2039'>that</lex>
+  <lex begin='2040' end='2041'>a</lex>
+  <lex begin='2042' end='2048'>warmer</lex>
+  <lex begin='2049' end='2054'>earth</lex>
+  <lex begin='2055' end='2060'>means</lex>
+  <lex begin='2061' end='2062'>a</lex>
+  <lex begin='2063' end='2067'>much</lex>
+  <lex begin='2068' end='2073'>drier</lex>
+  <lex begin='2074' end='2080'>Amazon</lex>
+  <lex begin='2080' end='2081'>,</lex>
+  <lex begin='2082' end='2087'>which</lex>
+  <lex begin='2088' end='2093'>would</lex>
+  <lex begin='2094' end='2098'>turn</lex>
+  <lex begin='2099' end='2103'>much</lex>
+  <lex begin='2104' end='2106'>of</lex>
+  <lex begin='2107' end='2110'>the</lex>
+  <lex begin='2111' end='2116'>basin</lex>
+  <lex begin='2117' end='2121'>into</lex>
+  <lex begin='2122' end='2130'>savannah</lex>
+  <lex begin='2130' end='2131'>.</lex>
+</s>
+<s>
+  <lex begin='2132' end='2136'>This</lex>
+  <lex begin='2137' end='2140'>may</lex>
+  <lex begin='2141' end='2143'>be</lex>
+  <lex begin='2144' end='2149'>wrong</lex>
+  <lex begin='2149' end='2150'>.</lex>
+</s>
+<s>
+  <lex begin='2151' end='2153'>It</lex>
+  <lex begin='2154' end='2157'>may</lex>
+  <lex begin='2158' end='2162'>also</lex>
+  <lex begin='2163' end='2165'>be</lex>
+  <lex begin='2166' end='2173'>correct</lex>
+  <lex begin='2173' end='2174'>.</lex>
+</s>
+<s>
+  <lex begin='2179' end='2189'>Decreasing</lex>
+  <lex begin='2190' end='2194'>rain</lex>
+  <lex begin='2195' end='2198'>and</lex>
+  <lex begin='2199' end='2214'>savannahization</lex>
+  <lex begin='2215' end='2218'>are</lex>
+  <lex begin='2219' end='2223'>real</lex>
+  <lex begin='2224' end='2229'>risks</lex>
+  <lex begin='2230' end='2232'>to</lex>
+  <lex begin='2233' end='2236'>the</lex>
+  <lex begin='2237' end='2247'>rainforest</lex>
+  <lex begin='2247' end='2248'>.</lex>
+</s>
+<s>
+  <lex begin='2249' end='2252'>Due</lex>
+  <lex begin='2253' end='2255'>to</lex>
+  <lex begin='2256' end='2267'>uncertainty</lex>
+  <lex begin='2268' end='2270'>in</lex>
+  <lex begin='2271' end='2274'>the</lex>
+  <lex begin='2275' end='2285'>science–we</lex>
+  <lex begin='2286' end='2288'>ca</lex>
+  <lex begin='2288' end='2293'>nâ€™t</lex>
+  <lex begin='2294' end='2296'>be</lex>
+  <lex begin='2297' end='2301'>sure</lex>
+  <lex begin='2302' end='2304'>if</lex>
+  <lex begin='2305' end='2318'>deforestation</lex>
+  <lex begin='2319' end='2321'>or</lex>
+  <lex begin='2322' end='2328'>global</lex>
+  <lex begin='2329' end='2336'>warming</lex>
+  <lex begin='2337' end='2341'>will</lex>
+  <lex begin='2342' end='2348'>reduce</lex>
+  <lex begin='2349' end='2356'>rain–it</lex>
+  <lex begin='2357' end='2359'>is</lex>
+  <lex begin='2360' end='2369'>difficult</lex>
+  <lex begin='2370' end='2372'>to</lex>
+  <lex begin='2373' end='2376'>put</lex>
+  <lex begin='2377' end='2388'>percentages</lex>
+  <lex begin='2389' end='2391'>on</lex>
+  <lex begin='2392' end='2397'>these</lex>
+  <lex begin='2398' end='2403'>risks</lex>
+  <lex begin='2403' end='2404'>,</lex>
+  <lex begin='2405' end='2408'>and</lex>
+  <lex begin='2409' end='2418'>Theotonio</lex>
+  <lex begin='2419' end='2422'>and</lex>
+  <lex begin='2423' end='2430'>Francis</lex>
+  <lex begin='2430' end='2431'>,</lex>
+  <lex begin='2432' end='2437'>while</lex>
+  <lex begin='2438' end='2446'>claiming</lex>
+  <lex begin='2447' end='2449'>it</lex>
+  <lex begin='2450' end='2451'>a</lex>
+  <lex begin='2452' end='2456'>real</lex>
+  <lex begin='2457' end='2468'>possibility</lex>
+  <lex begin='2468' end='2469'>,</lex>
+  <lex begin='2470' end='2476'>balked</lex>
+  <lex begin='2477' end='2479'>at</lex>
+  <lex begin='2480' end='2488'>guessing</lex>
+  <lex begin='2489' end='2492'>its</lex>
+  <lex begin='2493' end='2504'>probability</lex>
+  <lex begin='2504' end='2505'>.</lex>
+</s>
+<s>
+  <lex begin='2506' end='2517'>Nonetheless</lex>
+  <lex begin='2517' end='2518'>,</lex>
+  <lex begin='2519' end='2521'>if</lex>
+  <lex begin='2522' end='2524'>it</lex>
+  <lex begin='2525' end='2527'>is</lex>
+  <lex begin='2528' end='2532'>true</lex>
+  <lex begin='2532' end='2533'>,</lex>
+  <lex begin='2534' end='2537'>the</lex>
+  <lex begin='2538' end='2545'>results</lex>
+  <lex begin='2546' end='2549'>are</lex>
+  <lex begin='2550' end='2554'>very</lex>
+  <lex begin='2555' end='2558'>bad</lex>
+  <lex begin='2558' end='2559'>.</lex>
+</s>
+<s>
+  <lex begin='2560' end='2561'>A</lex>
+  <lex begin='2562' end='2566'>loss</lex>
+  <lex begin='2567' end='2569'>of</lex>
+  <lex begin='2570' end='2573'>the</lex>
+  <lex begin='2574' end='2580'>Amazon</lex>
+  <lex begin='2581' end='2586'>would</lex>
+  <lex begin='2587' end='2590'>not</lex>
+  <lex begin='2591' end='2595'>only</lex>
+  <lex begin='2596' end='2601'>loose</lex>
+  <lex begin='2602' end='2611'>countless</lex>
+  <lex begin='2612' end='2619'>species</lex>
+  <lex begin='2619' end='2620'>,</lex>
+  <lex begin='2621' end='2624'>but</lex>
+  <lex begin='2625' end='2629'>also</lex>
+  <lex begin='2630' end='2637'>release</lex>
+  <lex begin='2638' end='2648'>incredible</lex>
+  <lex begin='2649' end='2656'>amounts</lex>
+  <lex begin='2657' end='2659'>of</lex>
+  <lex begin='2660' end='2666'>carbon</lex>
+  <lex begin='2667' end='2674'>dioxide</lex>
+  <lex begin='2675' end='2677'>to</lex>
+  <lex begin='2678' end='2681'>the</lex>
+  <lex begin='2682' end='2692'>atmosphere</lex>
+  <lex begin='2692' end='2693'>,</lex>
+  <lex begin='2694' end='2706'>accelerating</lex>
+  <lex begin='2707' end='2713'>global</lex>
+  <lex begin='2714' end='2721'>warming</lex>
+  <lex begin='2721' end='2722'>.</lex>
+</s>
+<s>
+  <lex begin='2723' end='2725'>Do</lex>
+  <lex begin='2726' end='2728'>we</lex>
+  <lex begin='2729' end='2735'>really</lex>
+  <lex begin='2736' end='2740'>want</lex>
+  <lex begin='2741' end='2743'>to</lex>
+  <lex begin='2744' end='2748'>find</lex>
+  <lex begin='2749' end='2752'>out</lex>
+  <lex begin='2753' end='2755'>if</lex>
+  <lex begin='2756' end='2758'>it</lex>
+  <lex begin='2759' end='2761'>is</lex>
+  <lex begin='2762' end='2766'>true</lex>
+  <lex begin='2767' end='2769'>or</lex>
+  <lex begin='2770' end='2773'>not</lex>
+  <lex begin='2773' end='2774'>?</lex>
+</s>
+<s>
+  <lex begin='2783' end='2785'>My</lex>
+  <lex begin='2786' end='2790'>last</lex>
+  <lex begin='2791' end='2795'>full</lex>
+  <lex begin='2796' end='2799'>day</lex>
+  <lex begin='2800' end='2802'>in</lex>
+  <lex begin='2803' end='2809'>Manaus</lex>
+  <lex begin='2809' end='2810'>,</lex>
+  <lex begin='2811' end='2812'>I</lex>
+  <lex begin='2813' end='2822'>travelled</lex>
+  <lex begin='2823' end='2827'>with</lex>
+  <lex begin='2828' end='2837'>Alexender</lex>
+  <lex begin='2837' end='2838'>,</lex>
+  <lex begin='2839' end='2842'>one</lex>
+  <lex begin='2843' end='2845'>of</lex>
+  <lex begin='2846' end='2848'>my</lex>
+  <lex begin='2849' end='2854'>hosts</lex>
+  <lex begin='2854' end='2855'>,</lex>
+  <lex begin='2856' end='2858'>to</lex>
+  <lex begin='2859' end='2860'>a</lex>
+  <lex begin='2861' end='2866'>large</lex>
+  <lex begin='2867' end='2873'>forest</lex>
+  <lex begin='2874' end='2882'>preserve</lex>
+  <lex begin='2883' end='2887'>near</lex>
+  <lex begin='2888' end='2891'>the</lex>
+  <lex begin='2892' end='2896'>city</lex>
+  <lex begin='2896' end='2897'>.</lex>
+</s>
+<s>
+  <lex begin='2898' end='2900'>In</lex>
+  <lex begin='2901' end='2904'>the</lex>
+  <lex begin='2905' end='2913'>preserve</lex>
+  <lex begin='2913' end='2914'>,</lex>
+  <lex begin='2915' end='2919'>Alex</lex>
+  <lex begin='2920' end='2929'>maintains</lex>
+  <lex begin='2930' end='2931'>a</lex>
+  <lex begin='2932' end='2937'>large</lex>
+  <lex begin='2938' end='2943'>tower</lex>
+  <lex begin='2944' end='2948'>that</lex>
+  <lex begin='2949' end='2957'>measures</lex>
+  <lex begin='2958' end='2961'>CO2</lex>
+  <lex begin='2962' end='2976'>concentrations</lex>
+  <lex begin='2976' end='2977'>,</lex>
+  <lex begin='2978' end='2981'>and</lex>
+  <lex begin='2982' end='2984'>is</lex>
+  <lex begin='2985' end='2987'>he</lex>
+  <lex begin='2988' end='2994'>trying</lex>
+  <lex begin='2995' end='2997'>to</lex>
+  <lex begin='2998' end='3008'>understand</lex>
+  <lex begin='3009' end='3012'>how</lex>
+  <lex begin='3013' end='3016'>CO2</lex>
+  <lex begin='3017' end='3023'>fluxes</lex>
+  <lex begin='3024' end='3028'>into</lex>
+  <lex begin='3029' end='3032'>and</lex>
+  <lex begin='3033' end='3036'>out</lex>
+  <lex begin='3037' end='3039'>of</lex>
+  <lex begin='3040' end='3043'>the</lex>
+  <lex begin='3044' end='3050'>forest</lex>
+  <lex begin='3050' end='3051'>.</lex>
+</s>
+<s>
+  <lex begin='3052' end='3056'>Alex</lex>
+  <lex begin='3057' end='3060'>let</lex>
+  <lex begin='3061' end='3063'>me</lex>
+  <lex begin='3064' end='3069'>climb</lex>
+  <lex begin='3070' end='3072'>to</lex>
+  <lex begin='3073' end='3076'>the</lex>
+  <lex begin='3077' end='3080'>top</lex>
+  <lex begin='3081' end='3083'>of</lex>
+  <lex begin='3084' end='3087'>the</lex>
+  <lex begin='3088' end='3093'>tower</lex>
+  <lex begin='3093' end='3094'>,</lex>
+  <lex begin='3095' end='3100'>where</lex>
+  <lex begin='3101' end='3102'>I</lex>
+  <lex begin='3103' end='3106'>was</lex>
+  <lex begin='3107' end='3111'>able</lex>
+  <lex begin='3112' end='3114'>to</lex>
+  <lex begin='3115' end='3119'>look</lex>
+  <lex begin='3120' end='3126'>across</lex>
+  <lex begin='3127' end='3130'>the</lex>
+  <lex begin='3131' end='3139'>treetops</lex>
+  <lex begin='3140' end='3142'>of</lex>
+  <lex begin='3143' end='3144'>a</lex>
+  <lex begin='3145' end='3151'>forest</lex>
+  <lex begin='3152' end='3156'>that</lex>
+  <lex begin='3157' end='3166'>stretches</lex>
+  <lex begin='3167' end='3170'>for</lex>
+  <lex begin='3171' end='3180'>thousands</lex>
+  <lex begin='3181' end='3183'>of</lex>
+  <lex begin='3184' end='3189'>miles</lex>
+  <lex begin='3190' end='3196'>beyond</lex>
+  <lex begin='3197' end='3200'>the</lex>
+  <lex begin='3201' end='3208'>horizon</lex>
+  <lex begin='3208' end='3209'>.</lex>
+</s>
+<s>
+  <lex begin='3210' end='3219'>Listening</lex>
+  <lex begin='3220' end='3222'>to</lex>
+  <lex begin='3223' end='3226'>the</lex>
+  <lex begin='3227' end='3232'>birds</lex>
+  <lex begin='3232' end='3233'>,</lex>
+  <lex begin='3234' end='3241'>monkeys</lex>
+  <lex begin='3241' end='3242'>,</lex>
+  <lex begin='3243' end='3246'>and</lex>
+  <lex begin='3247' end='3254'>insects</lex>
+  <lex begin='3254' end='3255'>,</lex>
+  <lex begin='3256' end='3258'>it</lex>
+  <lex begin='3259' end='3262'>was</lex>
+  <lex begin='3263' end='3267'>hard</lex>
+  <lex begin='3268' end='3271'>not</lex>
+  <lex begin='3272' end='3274'>to</lex>
+  <lex begin='3275' end='3277'>be</lex>
+  <lex begin='3278' end='3282'>both</lex>
+  <lex begin='3283' end='3287'>awed</lex>
+  <lex begin='3288' end='3290'>by</lex>
+  <lex begin='3291' end='3294'>the</lex>
+  <lex begin='3295' end='3301'>Amazon</lex>
+  <lex begin='3302' end='3305'>and</lex>
+  <lex begin='3306' end='3308'>to</lex>
+  <lex begin='3309' end='3315'>wonder</lex>
+  <lex begin='3316' end='3320'>what</lex>
+  <lex begin='3321' end='3324'>its</lex>
+  <lex begin='3325' end='3331'>future</lex>
+  <lex begin='3332' end='3336'>will</lex>
+  <lex begin='3337' end='3339'>be</lex>
+  <lex begin='3339' end='3340'>.</lex>
+</s>
+</TOKENS>
+
+</SpaceEvalTaskv1.2>

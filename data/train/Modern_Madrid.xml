@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SpaceEvalTaskv1.2>
+<TEXT><![CDATA[
+        Modern Madrid
+        Madrid’s third major expansion took place in the 19th
+        century, resulting in the foundations of modern Madrid, a sprawling
+        succession of residential neighborhoods, shops, cinemas, restaurants,
+        banks and smaller museums. Barrio de Salamanca is the most attractive
+        and exclusive of these, and Gran Vía is the great turn-of-the-century
+        avenue that connects east to west, old to new Madrid.
+        Paseo de Recoletos is a continuation of Paseo del Prado
+        that runs from Plaza de la Cibeles to Plaza Colón. A block east is the
+        distinguished Museo Arqueológico (c/ Serrano, 13). The museum’s
+        archaeology collection addresses the art of ancient inhabitants of
+        Spain, with statuettes and jewelry from 2nd-century b.c. Carthaginian
+        settlers and miraculously preserved mosaics from 2nd-century a.d. Roman
+        Spain. An unforgettable item is La Dama de Elche (the Lady of Elche), a
+        stone sculpture found in Alicante province in 1897. This thoroughly
+        noble goddess, with beautiful cheekbones, lips, and eyes, and wearing a
+        fanciful headdress, may be 2,500 years old. On the museum grounds — or,
+        more correctly, under the ground — is a careful reproduction of the
+        painted scenes discovered in a cave in Altamira in northern Spain:
+        prehistoric depictions of animals, dating back 15,000 years and
+        representing man’s first illustrations of the world around him. They
+        are said to be some of the finest prehistoric cave drawings ever
+        discovered.
+        Plaza de Colón is a large open space that has been the
+        recent scene of far-reaching public-works projects. The city airport
+        bus terminal operates below ground, beneath an 1885 statue of
+        Christopher Columbus and a monument to the discovery of the New World.
+        There is also the Centro Cultural de la Villa (City Cultural Center),
+        with facilities for concerts, theatre, art exhibitions, and films.
+        Paseo de la Castellana is Madrid’s principal north-south
+        avenue, running for several miles through the heart of the city and
+        bordering the Salamanca district to its west. In the area north of
+        Plaza de Colón, you come to a newer section of town, where patrician
+        townhouses in the central area give way to luxurious modern apartment
+        blocks with landscaped balconies.
+        Museo Lázaro Galdiano (c/ Serrano, 122) is an astonishingly
+        wide-ranging and priceless private collection. Featured here are
+        ancient jewelry, including a Celtic diadem from the 2nd century b.c. ,
+        medieval and Renaissance masterpieces in ivory and enamel, gold and
+        silver, rare church vestments, and medieval weapons. Its paintings
+        comprise a Rembrandt portrait of Saskia van Uylenburgh, dated the year
+        they were married; Hieronymus Bosch at his most diabolical; a rich
+        repository of Goya official portraits, colorful sketches of real life,
+        and haunting scenes of witches and horrors; El Greco’s sensitive St.
+        Francis of Assisi and an early (1562) picture from his Venetian period;
+        and the English painters Reynolds, Gainsborough, and Constable. But the
+        museum’s greatest pride, spotlighted in its own niche on the ground
+        floor, is a portrait of angelic beauty, painted around 1480 by Leonardo
+        Da Vinci, entitled The Saviour.
+        Another smaller but equally interesting museum is the Museo
+        Sorolla (Paseo del General Martínez Campos, 37). The only Madrid museum
+        devoted to a single painter, this mansion was the hom e and studio of
+        Joaquín Sorolla (1863–1923). It has close to 300 paintings on view,
+        showing the Valencian impressionist’s favorite seaside scenes and
+        landscapes. The house has a charming lived-in feel.
+        Quite a way east of the Salamanca barrio is the Plaza de
+        Toros y Museo Taurino (Bullfighting Ring and Museum), officially called
+        the Plaza de Toros Monumental de Las Ventas. This is where to go to see
+        an authentic bullfight, a seemingly anachronistic pursuit that
+        continues to inspire the passions of so many Madrileños. The small
+        museum houses historic posters, capes, swords, paintings, and photos
+        for aficionados of the corrida, and is perhaps best visited out of
+        bullfighting season for those who want to get a glimpse of the interior
+        of the ring.
+]]></TEXT>
+<TAGS>
+<PLACE comment="The reference point in 'A block east is the         distinguished Museo Arqueológico'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl0" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Source for 'running for several miles through the heart of the city'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl47" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="Goal for 'running for several miles through the heart of the city'" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="-1" form="NOM" gazref="" gquant="" id="pl48" latLong="" mod="" scopes="" start="-1" state="" text="" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1035" form="NAM" gazref="" gquant="" id="pl22" latLong="" mod="" scopes="" start="1018" state="" text="Alicante province" type=""/>
+<PLACE comment="" continent="" countable="FALSE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1214" form="NOM" gazref="" gquant="" id="pl23" latLong="" mod="" scopes="" start="1207" state="" text="grounds" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1340" form="NOM" gazref="" gquant="" id="pl24" latLong="" mod="" scopes="" start="1336" state="" text="cave" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="147" form="NAM" gazref="" gquant="" id="pl2" latLong="" mod="" scopes="" start="134" state="" text="modern Madrid" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1352" form="NAM" gazref="" gquant="" id="pl25" latLong="" mod="" scopes="" start="1344" state="" text="Altamira" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1370" form="NAM" gazref="" gquant="" id="pl26" latLong="" mod="northern" scopes="" start="1365" state="" text="Spain" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1636" form="NAM" gazref="" gquant="" id="pl27" latLong="" mod="" scopes="" start="1622" state="" text="Plaza de Colón" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1658" form="NOM" gazref="" gquant="" id="pl28" latLong="" mod="large" scopes="" start="1653" state="" text="space" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="179" form="NOM" gazref="" gquant="" id="pl3" latLong="" mod="sprawling" scopes="" start="169" state="" text="succession" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1697" form="NOM" gazref="" gquant="" id="pl29" latLong="" mod="" scopes="" start="1692" state="" text="scene" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1774" form="NOM" gazref="" gquant="" id="pl30" latLong="" mod="" scopes="" start="1766" state="" text="terminal" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1901" form="NAM" gazref="" gquant="" id="pl31" latLong="" mod="" scopes="" start="1892" state="" text="New World" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1956" form="NAM" gazref="" gquant="" id="pl32" latLong="" mod="" scopes="" start="1929" state="" text="Centro Cultural de la Villa" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="208" form="NOM" gazref="" gquant="" id="pl4" latLong="" mod="" scopes="" start="195" state="" text="neighborhoods" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1978" form="NAM" gazref="" gquant="" id="pl33" latLong="" mod="" scopes="" start="1958" state="" text="City Cultural Center" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2004" form="NOM" gazref="" gquant="" id="pl34" latLong="" mod="" scopes="" start="1994" state="" text="facilities" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2096" form="NAM" gazref="" gquant="" id="pl35" latLong="" mod="" scopes="" start="2090" state="" text="Madrid" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="215" form="NOM" gazref="" gquant="" id="pl5" latLong="" mod="" scopes="" start="210" state="" text="shops" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="224" form="NOM" gazref="" gquant="" id="pl6" latLong="" mod="" scopes="" start="217" state="" text="cinemas" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2180" form="NOM" gazref="" gquant="" id="pl36" latLong="" mod="" scopes="" start="2175" state="" text="heart" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2192" form="NOM" gazref="" gquant="" id="pl37" latLong="" mod="" scopes="" start="2188" state="" text="city" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2237" form="NAM" gazref="" gquant="" id="pl38" latLong="" mod="" scopes="" start="2219" state="" text="Salamanca district" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2262" form="NOM" gazref="" gquant="" id="pl40" latLong="" mod="" scopes="" start="2258" state="" text="area" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="237" form="NOM" gazref="" gquant="" id="pl7" latLong="" mod="" scopes="" start="226" state="" text="restaurants" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2294" form="NAM" gazref="" gquant="" id="pl41" latLong="" mod="" scopes="" start="2280" state="" text="Plaza de Colón" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2323" form="NOM" gazref="" gquant="" id="pl42" latLong="" mod="" scopes="" start="2316" state="" text="section" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2331" form="NOM" gazref="" gquant="" id="pl43" latLong="" mod="" scopes="" start="2327" state="" text="town" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2367" form="NOM" gazref="" gquant="" id="pl44" latLong="" mod="" scopes="" start="2357" state="" text="townhouses" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2387" form="NOM" gazref="" gquant="" id="pl45" latLong="" mod="central" scopes="" start="2383" state="" text="area" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2441" form="NOM" gazref="" gquant="" id="pl46" latLong="" mod="" scopes="" start="2435" state="" text="blocks" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="252" form="NOM" gazref="" gquant="" id="pl8" latLong="" mod="" scopes="" start="247" state="" text="banks" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2498" form="NAM" gazref="" gquant="" id="pl49" latLong="" mod="" scopes="" start="2477" state="" text="Museo Lázaro Galdiano" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2515" form="NAM" gazref="" gquant="" id="pl50" latLong="" mod="" scopes="" start="2500" state="" text="c/ Serrano, 122" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2605" form="NOM" gazref="" gquant="" id="pl51" latLong="" mod="" scopes="" start="2601" state="" text="here" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="272" form="NOM" gazref="" gquant="" id="pl9" latLong="" mod="smaller" scopes="" start="265" state="" text="museums" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="293" form="NAM" gazref="" gquant="" id="pl10" latLong="" mod="" scopes="" start="274" state="" text="Barrio de Salamanca" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2828" form="NOM" gazref="" gquant="" id="pl52" latLong="" mod="" scopes="" start="2826" state="" text="It" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="37" form="NAM" gazref="" gquant="" id="pl1" latLong="" mod="" scopes="" start="31" state="" text="Madrid" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3324" form="NOM" gazref="" gquant="" id="pl53" latLong="" mod="" scopes="" start="3318" state="" text="museum" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3371" form="NOM" gazref="" gquant="" id="pl54" latLong="" mod="" scopes="" start="3366" state="" text="niche" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3399" form="NOM" gazref="" gquant="" id="pl55" latLong="" mod="ground" scopes="" start="3394" state="" text="floor" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="347" form="NOM" gazref="" gquant="" id="pl11" latLong="" mod="" scopes="" start="342" state="" text="these" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3560" form="NOM" gazref="" gquant="" id="pl56" latLong="" mod="smaller" scopes="" start="3554" state="" text="museum" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3589" form="NAM" gazref="" gquant="" id="pl57" latLong="" mod="" scopes="" start="3568" state="" text="Museo         Sorolla" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="3628" form="NAM" gazref="" gquant="" id="pl58" latLong="" mod="" scopes="" start="3591" state="" text="Paseo del General Martínez Campos, 37" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3646" form="NAM" gazref="" gquant="" id="pl71" latLong="" mod="" scopes="" start="3640" state="" text="Madrid" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3653" form="NOM" gazref="" gquant="" id="pl59" latLong="" mod="" scopes="" start="3647" state="" text="museum" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3703" form="NOM" gazref="" gquant="" id="pl60" latLong="" mod="" scopes="" start="3696" state="" text="mansion" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="3771" form="NOM" gazref="" gquant="" id="pl61" latLong="" mod="" scopes="" start="3769" state="" text="It" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3911" form="NOM" gazref="" gquant="" id="pl62" latLong="" mod="" scopes="" start="3906" state="" text="house" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3990" form="NAM" gazref="" gquant="" id="pl63" latLong="" mod="" scopes="" start="3974" state="" text="Salamanca barrio" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="4036" form="NAM" gazref="" gquant="" id="pl64" latLong="" mod="" scopes="" start="3998" state="" text="Plaza de         Toros y Museo Taurino" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="4066" form="NAM" gazref="" gquant="" id="pl65" latLong="" mod="" scopes="" start="4038" state="" text="Bullfighting Ring and Museum" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="4138" form="NAM" gazref="" gquant="" id="pl66" latLong="" mod="" scopes="" start="4099" state="" text="Plaza de Toros Monumental de Las Ventas" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="4144" form="NOM" gazref="" gquant="" id="pl67" latLong="" mod="" scopes="" start="4140" state="" text="This" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="428" form="NOM" gazref="" gquant="" id="pl12" latLong="" mod="" scopes="" start="424" state="" text="east" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="436" form="NOM" gazref="" gquant="" id="pl13" latLong="" mod="" scopes="" start="432" state="" text="west" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="4327" form="NOM" gazref="" gquant="" id="pl68" latLong="" mod="small" scopes="" start="4321" state="" text="museum" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="441" form="NAM" gazref="" gquant="" id="pl14" latLong="" mod="" scopes="" start="438" state="" text="old" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="455" form="NAM" gazref="" gquant="" id="pl15" latLong="" mod="" scopes="" start="445" state="" text="new Madrid" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="4544" form="NOM" gazref="" gquant="" id="pl69" latLong="" mod="" scopes="" start="4536" state="" text="interior" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="4564" form="NOM" gazref="" gquant="" id="pl70" latLong="" mod="" scopes="" start="4560" state="" text="ring" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="563" form="NAM" gazref="" gquant="" id="pl16" latLong="" mod="" scopes="" start="544" state="" text="Plaza de la Cibeles" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="578" form="NAM" gazref="" gquant="" id="pl17" latLong="" mod="" scopes="" start="567" state="" text="Plaza Colón" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="640" form="NAM" gazref="" gquant="" id="pl18" latLong="" mod="" scopes="" start="622" state="" text="Museo Arqueológico" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="656" form="NAM" gazref="" gquant="" id="pl19" latLong="" mod="" scopes="" start="642" state="" text="c/ Serrano, 13" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="669" form="NOM" gazref="" gquant="" id="pl20" latLong="" mod="" scopes="" start="663" state="" text="museum" type=""/>
+<PLACE comment="" continent="" countable="TRUE" country="" ctv="" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="760" form="NAM" gazref="" gquant="" id="pl21" latLong="" mod="" scopes="" start="755" state="" text="Spain" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1261" endID="" form="NOM" gazref="" gquant="" id="p2" latLong="" midIDs="" mod="" scopes="" start="1255" text="ground" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1796" endID="" form="NOM" gazref="" gquant="" id="p5" latLong="" midIDs="" mod="" scopes="" start="1790" text="ground" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2086" endID="" form="NAM" gazref="" gquant="" id="p6" latLong="" midIDs="pl36" mod="" scopes="" start="2064" text="Paseo de la Castellana" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="2135" endID="" form="NOM" gazref="" gquant="" id="p7" latLong="" midIDs="" mod="north-south" scopes="" start="2129" text="avenue" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2243" endID="" form="NOM" gazref="" gquant="" id="p8" latLong="" midIDs="" mod="" scopes="" start="2241" text="it" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="361" endID="" form="NAM" gazref="" gquant="" id="p0" latLong="" midIDs="" mod="" scopes="" start="353" text="Gran Vía" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="409" endID="" form="NOM" gazref="" gquant="" id="p1" latLong="" midIDs="" mod="" scopes="" start="403" text="avenue" type=""/>
+<PATH beginID="pl16" comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="483" endID="pl17" form="NAM" gazref="" gquant="" id="p3" latLong="" midIDs="" mod="" scopes="" start="465" text="Paseo de Recoletos" type=""/>
+<PATH beginID="" comment="" countable="TRUE" dcl="FALSE" dimensionality="LINE" domain="" elevation="" end="520" endID="" form="NAM" gazref="" gquant="" id="p4" latLong="" midIDs="" mod="" scopes="" start="505" text="Paseo del Prado" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="VOLUME" domain="" elevation="" end="1289" form="NOM" gquant="" id="se3" latLong="" mod="" scopes="" start="1277" text="reproduction" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1820" form="NOM" gquant="" id="se4" latLong="" mod="" scopes="" start="1814" text="statue" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="1867" form="NOM" gquant="" id="se5" latLong="" mod="" scopes="" start="1859" text="monument" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="POINT" domain="" elevation="" end="2299" form="NOM" gquant="" id="se6" latLong="" mod="" scopes="" start="2296" text="you" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="2467" form="NOM" gquant="" id="se7" latLong="" mod="" scopes="" start="2458" text="balconies" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3341" form="NOM" gquant="" id="se8" latLong="" mod="" scopes="" start="3336" text="pride" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3360" form="NOM" gquant="" id="se9" latLong="" mod="" scopes="" start="3358" text="it" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3414" form="NOM" gquant="" id="se10" latLong="" mod="" scopes="" start="3406" text="portrait" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3504" form="NAM" gquant="" id="se11" latLong="" mod="" scopes="" start="3493" text="The Saviour" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="3798" form="NOM" gquant="" id="se12" latLong="" mod="" scopes="" start="3789" text="paintings" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="4351" form="NOM" gquant="" id="se13" latLong="" mod="" scopes="" start="4344" text="posters" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="4358" form="NOM" gquant="" id="se14" latLong="" mod="" scopes="" start="4353" text="capes" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="4366" form="NOM" gquant="" id="se15" latLong="" mod="" scopes="" start="4360" text="swords" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="4377" form="NOM" gquant="" id="se16" latLong="" mod="" scopes="" start="4368" text="paintings" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="4389" form="NOM" gquant="" id="se17" latLong="" mod="" scopes="" start="4383" text="photos" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="777" form="NOM" gquant="" id="se0" latLong="" mod="" scopes="" start="767" text="statuettes" type=""/>
+<SPATIAL_ENTITY comment="" countable="FALSE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="789" form="NOM" gquant="" id="se1" latLong="" mod="" scopes="" start="782" text="jewelry" type=""/>
+<SPATIAL_ENTITY comment="" countable="TRUE" dcl="FALSE" dimensionality="AREA" domain="" elevation="" end="876" form="NOM" gquant="" id="se2" latLong="" mod="" scopes="" start="869" text="mosaics" type=""/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1014" gquant="" id="e0" latLong="" mod="" scopes="" start="1009" text="found"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1330" gquant="" id="e1" latLong="" mod="" scopes="" start="1320" text="discovered"/>
+<NONMOTION_EVENT comment="" countable="TRUE" domain="" elevation="" end="1735" gquant="" id="e2" latLong="" mod="" scopes="" start="1727" text="projects"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="1783" gquant="" id="e3" latLong="" mod="" scopes="" start="1775" text="operates"/>
+<NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="2600" gquant="" id="e4" latLong="" mod="" scopes="" start="2592" text="Featured"/>
+<MOTION comment="" countable="" domain="" elevation="" end="2144" gquant="" id="m2" latLong="" mod="" motion_class="CROSS" motion_sense="FICTIVE" motion_type="PATH" scopes="" start="2137" text="running"/>
+<MOTION comment="" countable="" domain="" elevation="" end="2304" gquant="" id="m3" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="2300" text="come"/>
+<MOTION comment="" countable="" domain="" elevation="" end="4159" gquant="" id="m4" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="4157" text="go"/>
+<MOTION comment="" countable="" domain="" elevation="" end="4457" gquant="" id="m5" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="4450" text="visited"/>
+<MOTION comment="" countable="TRUE" domain="" elevation="" end="61" gquant="" id="m0" latLong="" mod="major" motion_class="MOVE" motion_sense="INTRINSIC_CHANGE" motion_type="MANNER" scopes="" start="52" text="expansion"/>
+<MOTION comment="" countable="" domain="" elevation="" end="538" gquant="" id="m1" latLong="" mod="" motion_class="MOVE" motion_sense="FICTIVE" motion_type="PATH" scopes="" start="534" text="runs"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1017" id="s3" semantic_type="TOPOLOGICAL" start="1015" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1195" id="s4" semantic_type="TOPOLOGICAL" start="1193" text="On"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1250" id="s5" semantic_type="DIRECTIONAL" start="1245" text="under"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1333" id="s6" semantic_type="TOPOLOGICAL" start="1331" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1343" id="s7" semantic_type="TOPOLOGICAL" start="1341" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1355" id="s8" semantic_type="TOPOLOGICAL" start="1353" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1789" id="s9" semantic_type="DIRECTIONAL" start="1784" text="below"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1805" id="s10" semantic_type="DIRECTIONAL" start="1798" text="beneath"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="1993" id="s11" semantic_type="TOPOLOGICAL" start="1989" text="with"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2214" id="s12" semantic_type="TOPOLOGICAL" start="2205" text="bordering"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2249" id="s21" semantic_type="DIRECTIONAL" start="2245" text="west"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2253" id="s13" semantic_type="TOPOLOGICAL" start="2251" text="In"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2271" id="s14" semantic_type="DIRECTIONAL" start="2263" text="north of"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2370" id="s15" semantic_type="TOPOLOGICAL" start="2368" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="2446" id="s16" semantic_type="TOPOLOGICAL" start="2442" text="with"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="3357" id="s17" semantic_type="TOPOLOGICAL" start="3355" text="in"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="3374" id="s18" semantic_type="TOPOLOGICAL" start="3372" text="on"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="3969" id="s19" semantic_type="DIRECTIONAL" start="3962" text="east of"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="423" id="s0" semantic_type="TOPOLOGICAL" start="415" text="connects"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="4334" id="s20" semantic_type="TOPOLOGICAL" start="4328" text="houses"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="592" id="s1" semantic_type="DIRECTIONAL" start="588" text="east"/>
+<SPATIAL_SIGNAL cluster="" comment="" end="766" id="s2" semantic_type="TOPOLOGICAL" start="762" text="with"/>
+<MOTION_SIGNAL comment="" end="2170" id="ms2" motion_signal_type="PATH" start="2163" text="through"/>
+<MOTION_SIGNAL comment="" end="2253" id="ms3" motion_signal_type="PATH" start="2251" text="In"/>
+<MOTION_SIGNAL comment="" end="2307" id="ms4" motion_signal_type="PATH" start="2305" text="to"/>
+<MOTION_SIGNAL comment="" end="543" id="ms0" motion_signal_type="PATH" start="539" text="from"/>
+<MOTION_SIGNAL comment="" end="566" id="ms1" motion_signal_type="PATH" start="564" text="to"/>
+<MEASURE comment="" end="2162" id="me1" start="2149" text="several miles" unit="miles" value="gt2"/>
+<MEASURE comment="" end="3961" id="me2" start="3950" text="Quite a way" unit="" value="FAR"/>
+<MEASURE comment="" end="587" id="me0" start="580" text="A block" unit="blocks" value="1"/>
+<QSLINK comment="" fromID="pl47" fromText="" id="qsl0" landmark="pl36" relType="OUT" toID="pl36" toText="heart" trajector="pl47" trigger=""/>
+<QSLINK comment="" fromID="pl48" fromText="" id="qsl1" landmark="pl36" relType="OUT" toID="pl36" toText="heart" trajector="pl48" trigger=""/>
+<QSLINK comment="" fromID="pl4" fromText="neighborhoods" id="qsl2" landmark="pl3" relType="TPP" toID="pl3" toText="succession" trajector="pl4" trigger=""/>
+<QSLINK comment="" fromID="pl5" fromText="shops" id="qsl3" landmark="pl3" relType="IN" toID="pl3" toText="succession" trajector="pl5" trigger=""/>
+<QSLINK comment="" fromID="pl6" fromText="cinemas" id="qsl4" landmark="pl3" relType="IN" toID="pl3" toText="succession" trajector="pl6" trigger=""/>
+<QSLINK comment="" fromID="pl7" fromText="restaurants" id="qsl5" landmark="pl3" relType="IN" toID="pl3" toText="succession" trajector="pl7" trigger=""/>
+<QSLINK comment="" fromID="pl8" fromText="banks" id="qsl6" landmark="pl3" relType="IN" toID="pl3" toText="succession" trajector="pl8" trigger=""/>
+<QSLINK comment="" fromID="pl9" fromText="museums" id="qsl7" landmark="pl3" relType="IN" toID="pl3" toText="succession" trajector="pl9" trigger=""/>
+<QSLINK comment="" fromID="p1" fromText="avenue" id="qsl8" landmark="pl12" relType="PO" toID="pl12" toText="east" trajector="p1" trigger="s0"/>
+<QSLINK comment="" fromID="p1" fromText="avenue" id="qsl9" landmark="pl13" relType="PO" toID="pl13" toText="west" trajector="p1" trigger="s0"/>
+<QSLINK comment="" fromID="p1" fromText="avenue" id="qsl10" landmark="pl14" relType="PO" toID="pl14" toText="old" trajector="p1" trigger="s0"/>
+<QSLINK comment="" fromID="p1" fromText="avenue" id="qsl11" landmark="pl15" relType="PO" toID="pl15" toText="new Madrid" trajector="p1" trigger="s0"/>
+<QSLINK comment="" fromID="pl18" fromText="Museo Arqueológico" id="qsl12" landmark="pl19" relType="IN" toID="pl19" toText="c/ Serrano, 13" trajector="pl18" trigger=""/>
+<QSLINK comment="" fromID="se0" fromText="statuettes" id="qsl13" landmark="pl20" relType="NTPP" toID="pl20" toText="museum" trajector="se0" trigger="s2"/>
+<QSLINK comment="" fromID="se1" fromText="jewelry" id="qsl14" landmark="pl20" relType="NTPP" toID="pl20" toText="museum" trajector="se1" trigger="s2"/>
+<QSLINK comment="" fromID="se2" fromText="mosaics" id="qsl15" landmark="pl20" relType="NTPP" toID="pl20" toText="museum" trajector="se2" trigger="s2"/>
+<QSLINK comment="" fromID="e0" fromText="found" id="qsl16" landmark="pl22" relType="IN" toID="pl22" toText="Alicante province" trajector="e0" trigger="s3"/>
+<QSLINK comment="" fromID="se3" fromText="reproduction" id="qsl17" landmark="pl23" relType="IN" toID="pl23" toText="grounds" trajector="se3" trigger="s4"/>
+<QSLINK comment="" fromID="e1" fromText="discovered" id="qsl18" landmark="pl24" relType="NTPP" toID="pl24" toText="cave" trajector="e1" trigger="s6"/>
+<QSLINK comment="" fromID="pl24" fromText="cave" id="qsl19" landmark="pl25" relType="IN" toID="pl25" toText="Altamira" trajector="pl24" trigger="s7"/>
+<QSLINK comment="" fromID="pl25" fromText="Altamira" id="qsl20" landmark="pl26" relType="IN" toID="pl26" toText="Spain" trajector="pl25" trigger="s8"/>
+<QSLINK comment="" fromID="pl29" fromText="scene" id="qsl21" landmark="pl27" relType="EQ" toID="pl27" toText="Plaza de Colón" trajector="pl29" trigger=""/>
+<QSLINK comment="" fromID="e2" fromText="projects" id="qsl22" landmark="pl29" relType="IN" toID="pl29" toText="scene" trajector="e2" trigger=""/>
+<QSLINK comment="" fromID="pl34" fromText="facilities" id="qsl23" landmark="pl32" relType="IN" toID="pl32" toText="Centro Cultural de la Villa" trajector="pl34" trigger="s11"/>
+<QSLINK comment="" fromID="p7" fromText="avenue" id="qsl24" landmark="pl35" relType="IN" toID="pl35" toText="Madrid" trajector="p7" trigger=""/>
+<QSLINK comment="" fromID="pl36" fromText="heart" id="qsl25" landmark="pl37" relType="NTPP" toID="pl37" toText="city" trajector="pl36" trigger=""/>
+<QSLINK comment="" fromID="p7" fromText="avenue" id="qsl26" landmark="pl38" relType="EC" toID="pl38" toText="Salamanca district" trajector="p7" trigger="s12"/>
+<QSLINK comment="" fromID="m3" fromText="come" id="qsl27" landmark="pl40" relType="IN" toID="pl40" toText="area" trajector="m3" trigger="s13"/>
+<QSLINK comment="" fromID="pl44" fromText="townhouses" id="qsl28" landmark="pl45" relType="IN" toID="pl45" toText="area" trajector="pl44" trigger="s15"/>
+<QSLINK comment="" fromID="se7" fromText="balconies" id="qsl29" landmark="pl46" relType="TPP" toID="pl46" toText="blocks" trajector="se7" trigger="s16"/>
+<QSLINK comment="" fromID="pl49" fromText="Museo Lázaro Galdiano" id="qsl30" landmark="pl50" relType="IN" toID="pl50" toText="c/ Serrano, 122" trajector="pl49" trigger=""/>
+<QSLINK comment="" fromID="e4" fromText="Featured" id="qsl31" landmark="pl51" relType="IN" toID="pl51" toText="here" trajector="e4" trigger=""/>
+<QSLINK comment="" fromID="se8" fromText="pride" id="qsl32" landmark="pl54" relType="IN" toID="pl54" toText="niche" trajector="se8" trigger="s17"/>
+<QSLINK comment="" fromID="pl54" fromText="niche" id="qsl33" landmark="pl55" relType="IN" toID="pl55" toText="floor" trajector="pl54" trigger="s18"/>
+<QSLINK comment="" fromID="pl57" fromText="Museo         Sorolla" id="qsl34" landmark="pl58" relType="IN" toID="pl58" toText="Paseo del General Martínez Campos, 37" trajector="pl57" trigger=""/>
+<QSLINK comment="" fromID="se12" fromText="paintings" id="qsl35" landmark="pl61" relType="IN" toID="pl61" toText="It" trajector="se12" trigger=""/>
+<QSLINK comment="" fromID="se13" fromText="posters" id="qsl36" landmark="pl68" relType="NTPP" toID="pl68" toText="museum" trajector="se13" trigger="s20"/>
+<QSLINK comment="" fromID="se14" fromText="capes" id="qsl37" landmark="pl68" relType="NTPP" toID="pl68" toText="museum" trajector="se14" trigger="s20"/>
+<QSLINK comment="" fromID="se15" fromText="swords" id="qsl38" landmark="pl68" relType="NTPP" toID="pl68" toText="museum" trajector="se15" trigger="s20"/>
+<QSLINK comment="" fromID="se16" fromText="paintings" id="qsl39" landmark="pl68" relType="NTPP" toID="pl68" toText="museum" trajector="se16" trigger="s20"/>
+<QSLINK comment="" fromID="se17" fromText="photos" id="qsl40" landmark="pl68" relType="NTPP" toID="pl68" toText="museum" trajector="se17" trigger="s20"/>
+<QSLINK comment="" fromID="pl69" fromText="interior" id="qsl41" landmark="pl70" relType="NTPP" toID="pl70" toText="ring" trajector="pl69" trigger=""/>
+<OLINK comment="" frame_type="ABSOLUTE" fromID="pl0" fromText="" id="ol0" landmark="pl18" projective="FALSE" referencePt="EAST" relType="EAST" toID="pl18" toText="Museo Arqueológico" trajector="pl0" trigger="s1"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="se3" fromText="reproduction" id="ol1" landmark="p2" projective="FALSE" referencePt="p2" relType="BELOW" toID="p2" toText="ground" trajector="se3" trigger="s5"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="e3" fromText="operates" id="ol2" landmark="p5" projective="FALSE" referencePt="p5" relType="BELOW" toID="p5" toText="ground" trajector="e3" trigger="s9"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="e3" fromText="operates" id="ol3" landmark="se4" projective="FALSE" referencePt="se4" relType="BELOW" toID="se4" toText="statue" trajector="e3" trigger="s10"/>
+<OLINK comment="" frame_type="INTRINSIC" fromID="e3" fromText="operates" id="ol4" landmark="se5" projective="FALSE" referencePt="se5" relType="BELOW" toID="se5" toText="monument" trajector="e3" trigger="s10"/>
+<OLINK comment="" frame_type="ABSOLUTE" fromID="pl38" fromText="Salamanca district" id="ol5" landmark="p7" projective="FALSE" referencePt="WEST" relType="WEST" toID="p7" toText="avenue" trajector="pl38" trigger="s21"/>
+<OLINK comment="" frame_type="ABSOLUTE" fromID="pl40" fromText="area" id="ol6" landmark="pl41" projective="FALSE" referencePt="NORTH" relType="NORTH" toID="pl41" toText="Plaza de Colón" trajector="pl40" trigger="s14"/>
+<OLINK comment="" frame_type="ABSOLUTE" fromID="pl64" fromText="Plaza de         Toros y Museo Taurino" id="ol7" landmark="pl63" projective="FALSE" referencePt="EAST" relType="EAST" toID="pl63" toText="Salamanca barrio" trajector="pl64" trigger="s19"/>
+<MOVELINK comment="" fromID="m2" fromText="running" goal="pl48" goal_reached="YES" id="mvl0" landmark="" midPoint="pl36" motion_signalID="ms2" mover="p6" pathID="" source="pl47" toID="p6" toText="Paseo de la Castellana" trigger="m2"/>
+<MOVELINK comment="" fromID="m3" fromText="come" goal="pl42" goal_reached="YES" id="mvl1" landmark="" midPoint="" motion_signalID="ms4" mover="se6" pathID="" source="" toID="se6" toText="you" trigger="m3"/>
+<MOVELINK comment="Generic mover" fromID="m4" fromText="go" goal="pl67" goal_reached="YES" id="mvl2" landmark="" midPoint="" motion_signalID="" mover="" pathID="" source="" toID="m4" toText="go" trigger="m4"/>
+<MOVELINK comment="Generic mover" fromID="m5" fromText="visited" goal="pl68" goal_reached="YES" id="mvl3" landmark="" midPoint="" motion_signalID="" mover="" pathID="" source="" toID="m5" toText="visited" trigger="m5"/>
+<MOVELINK comment="" fromID="m0" fromText="expansion" goal="" goal_reached="" id="mvl4" landmark="" midPoint="" motion_signalID="" mover="pl1" pathID="" source="" toID="pl1" toText="Madrid" trigger="m0"/>
+<MOVELINK comment="" fromID="m1" fromText="runs" goal="pl17" goal_reached="YES" id="mvl5" landmark="" midPoint="" motion_signalID="ms0, ms1" mover="p3" pathID="" source="pl16" toID="p3" toText="Paseo de Recoletos" trigger="m1"/>
+<MEASURELINK comment="" endPoint1="" endPoint2="" fromID="pl0" fromText="" id="ml0" landmark="pl18" relType="DISTANCE" toID="pl18" toText="Museo Arqueológico" trajector="pl0" val="me0"/>
+<MEASURELINK comment="" endPoint1="" endPoint2="" fromID="m2" fromText="running" id="ml1" landmark="m2" relType="GENERAL_DIMENSION" toID="m2" toText="running" trajector="m2" val="me1"/>
+<MEASURELINK comment="" endPoint1="" endPoint2="" fromID="pl64" fromText="Plaza de         Toros y Museo Taurino" id="ml2" landmark="pl63" relType="DISTANCE" toID="pl63" toText="Salamanca barrio" trajector="pl64" val="me2"/>
+<METALINK comment="" fromID="pl0" fromText="" id="metal0" objectID1="pl0" objectID2="pl17" relType="COREFERENCE" toID="pl17" toText="Plaza Colón"/>
+<METALINK comment="" fromID="pl35" fromText="Madrid" id="metal1" objectID1="pl35" objectID2="pl1" relType="COREFERENCE" toID="pl1" toText="Madrid"/>
+<METALINK comment="" fromID="pl71" fromText="Madrid" id="metal2" objectID1="pl71" objectID2="pl1" relType="COREFERENCE" toID="pl1" toText="Madrid"/>
+<METALINK comment="" fromID="pl3" fromText="succession" id="metal3" objectID1="pl3" objectID2="pl2" relType="COREFERENCE" toID="pl2" toText="modern Madrid"/>
+<METALINK comment="" fromID="pl63" fromText="Salamanca barrio" id="metal4" objectID1="pl63" objectID2="pl10" relType="COREFERENCE" toID="pl10" toText="Barrio de Salamanca"/>
+<METALINK comment="" fromID="pl38" fromText="Salamanca district" id="metal5" objectID1="pl38" objectID2="pl10" relType="COREFERENCE" toID="pl10" toText="Barrio de Salamanca"/>
+<METALINK comment="" fromID="pl10" fromText="Barrio de Salamanca" id="metal6" objectID1="pl10" objectID2="pl11" relType="SUBCOREFERENCE" toID="pl11" toText="these"/>
+<METALINK comment="" fromID="pl11" fromText="these" id="metal7" objectID1="pl11" objectID2="pl4" relType="COREFERENCE" toID="pl4" toText="neighborhoods"/>
+<METALINK comment="" fromID="pl15" fromText="new Madrid" id="metal8" objectID1="pl15" objectID2="pl2" relType="COREFERENCE" toID="pl2" toText="modern Madrid"/>
+<METALINK comment="" fromID="pl27" fromText="Plaza de Colón" id="metal9" objectID1="pl27" objectID2="pl17" relType="COREFERENCE" toID="pl17" toText="Plaza Colón"/>
+<METALINK comment="" fromID="pl41" fromText="Plaza de Colón" id="metal10" objectID1="pl41" objectID2="pl17" relType="COREFERENCE" toID="pl17" toText="Plaza Colón"/>
+<METALINK comment="" fromID="pl20" fromText="museum" id="metal11" objectID1="pl20" objectID2="pl18" relType="COREFERENCE" toID="pl18" toText="Museo Arqueológico"/>
+<METALINK comment="" fromID="pl28" fromText="space" id="metal13" objectID1="pl28" objectID2="pl17" relType="COREFERENCE" toID="pl17" toText="Plaza Colón"/>
+<METALINK comment="" fromID="pl33" fromText="City Cultural Center" id="metal14" objectID1="pl33" objectID2="pl32" relType="COREFERENCE" toID="pl32" toText="Centro Cultural de la Villa"/>
+<METALINK comment="" fromID="pl37" fromText="city" id="metal15" objectID1="pl37" objectID2="pl1" relType="COREFERENCE" toID="pl1" toText="Madrid"/>
+<METALINK comment="" fromID="pl51" fromText="here" id="metal16" objectID1="pl51" objectID2="pl49" relType="COREFERENCE" toID="pl49" toText="Museo Lázaro Galdiano"/>
+<METALINK comment="" fromID="pl52" fromText="It" id="metal17" objectID1="pl52" objectID2="pl49" relType="COREFERENCE" toID="pl49" toText="Museo Lázaro Galdiano"/>
+<METALINK comment="" fromID="pl53" fromText="museum" id="metal18" objectID1="pl53" objectID2="pl49" relType="COREFERENCE" toID="pl49" toText="Museo Lázaro Galdiano"/>
+<METALINK comment="" fromID="pl57" fromText="Museo         Sorolla" id="metal19" objectID1="pl57" objectID2="pl56" relType="COREFERENCE" toID="pl56" toText="museum"/>
+<METALINK comment="" fromID="pl59" fromText="museum" id="metal20" objectID1="pl59" objectID2="pl56" relType="COREFERENCE" toID="pl56" toText="museum"/>
+<METALINK comment="" fromID="pl60" fromText="mansion" id="metal21" objectID1="pl60" objectID2="pl56" relType="COREFERENCE" toID="pl56" toText="museum"/>
+<METALINK comment="" fromID="pl61" fromText="It" id="metal22" objectID1="pl61" objectID2="pl56" relType="COREFERENCE" toID="pl56" toText="museum"/>
+<METALINK comment="" fromID="pl62" fromText="house" id="metal23" objectID1="pl62" objectID2="pl56" relType="COREFERENCE" toID="pl56" toText="museum"/>
+<METALINK comment="" fromID="pl65" fromText="Bullfighting Ring and Museum" id="metal24" objectID1="pl65" objectID2="pl64" relType="COREFERENCE" toID="pl64" toText="Plaza de         Toros y Museo Taurino"/>
+<METALINK comment="" fromID="pl67" fromText="This" id="metal25" objectID1="pl67" objectID2="pl64" relType="COREFERENCE" toID="pl64" toText="Plaza de         Toros y Museo Taurino"/>
+<METALINK comment="" fromID="pl68" fromText="museum" id="metal26" objectID1="pl68" objectID2="pl64" relType="COREFERENCE" toID="pl64" toText="Plaza de         Toros y Museo Taurino"/>
+<METALINK comment="" fromID="p1" fromText="avenue" id="metal27" objectID1="p1" objectID2="p0" relType="COREFERENCE" toID="p0" toText="Gran Vía"/>
+<METALINK comment="" fromID="p7" fromText="avenue" id="metal28" objectID1="p7" objectID2="p6" relType="COREFERENCE" toID="p6" toText="Paseo de la Castellana"/>
+<METALINK comment="" fromID="p8" fromText="it" id="metal29" objectID1="p8" objectID2="p6" relType="COREFERENCE" toID="p6" toText="Paseo de la Castellana"/>
+<METALINK comment="" fromID="se9" fromText="it" id="metal30" objectID1="se9" objectID2="se8" relType="COREFERENCE" toID="se8" toText="pride"/>
+<METALINK comment="" fromID="se10" fromText="portrait" id="metal31" objectID1="se10" objectID2="se8" relType="COREFERENCE" toID="se8" toText="pride"/>
+<METALINK comment="" fromID="se11" fromText="The Saviour" id="metal32" objectID1="se11" objectID2="se8" relType="COREFERENCE" toID="se8" toText="pride"/>
+</TAGS>
+<TOKENS>
+<s>
+  <lex begin='9' end='15'>Modern</lex>
+  <lex begin='16' end='22'>Madrid</lex>
+  <lex begin='31' end='37'>Madrid</lex>
+  <lex begin='37' end='39'>’s</lex>
+  <lex begin='40' end='45'>third</lex>
+  <lex begin='46' end='51'>major</lex>
+  <lex begin='52' end='61'>expansion</lex>
+  <lex begin='62' end='66'>took</lex>
+  <lex begin='67' end='72'>place</lex>
+  <lex begin='73' end='75'>in</lex>
+  <lex begin='76' end='79'>the</lex>
+  <lex begin='80' end='84'>19th</lex>
+  <lex begin='93' end='100'>century</lex>
+  <lex begin='100' end='101'>,</lex>
+  <lex begin='102' end='111'>resulting</lex>
+  <lex begin='112' end='114'>in</lex>
+  <lex begin='115' end='118'>the</lex>
+  <lex begin='119' end='130'>foundations</lex>
+  <lex begin='131' end='133'>of</lex>
+  <lex begin='134' end='140'>modern</lex>
+  <lex begin='141' end='147'>Madrid</lex>
+  <lex begin='147' end='148'>,</lex>
+  <lex begin='149' end='150'>a</lex>
+  <lex begin='151' end='160'>sprawling</lex>
+  <lex begin='169' end='179'>succession</lex>
+  <lex begin='180' end='182'>of</lex>
+  <lex begin='183' end='194'>residential</lex>
+  <lex begin='195' end='208'>neighborhoods</lex>
+  <lex begin='208' end='209'>,</lex>
+  <lex begin='210' end='215'>shops</lex>
+  <lex begin='215' end='216'>,</lex>
+  <lex begin='217' end='224'>cinemas</lex>
+  <lex begin='224' end='225'>,</lex>
+  <lex begin='226' end='237'>restaurants</lex>
+  <lex begin='237' end='238'>,</lex>
+  <lex begin='247' end='252'>banks</lex>
+  <lex begin='253' end='256'>and</lex>
+  <lex begin='257' end='264'>smaller</lex>
+  <lex begin='265' end='272'>museums</lex>
+  <lex begin='272' end='273'>.</lex>
+</s>
+<s>
+  <lex begin='274' end='280'>Barrio</lex>
+  <lex begin='281' end='283'>de</lex>
+  <lex begin='284' end='293'>Salamanca</lex>
+  <lex begin='294' end='296'>is</lex>
+  <lex begin='297' end='300'>the</lex>
+  <lex begin='301' end='305'>most</lex>
+  <lex begin='306' end='316'>attractive</lex>
+  <lex begin='325' end='328'>and</lex>
+  <lex begin='329' end='338'>exclusive</lex>
+  <lex begin='339' end='341'>of</lex>
+  <lex begin='342' end='347'>these</lex>
+  <lex begin='347' end='348'>,</lex>
+  <lex begin='349' end='352'>and</lex>
+  <lex begin='353' end='357'>Gran</lex>
+  <lex begin='358' end='361'>Vía</lex>
+  <lex begin='362' end='364'>is</lex>
+  <lex begin='365' end='368'>the</lex>
+  <lex begin='369' end='374'>great</lex>
+  <lex begin='375' end='394'>turn-of-the-century</lex>
+  <lex begin='403' end='409'>avenue</lex>
+  <lex begin='410' end='414'>that</lex>
+  <lex begin='415' end='423'>connects</lex>
+  <lex begin='424' end='428'>east</lex>
+  <lex begin='429' end='431'>to</lex>
+  <lex begin='432' end='436'>west</lex>
+  <lex begin='436' end='437'>,</lex>
+  <lex begin='438' end='441'>old</lex>
+  <lex begin='442' end='444'>to</lex>
+  <lex begin='445' end='448'>new</lex>
+  <lex begin='449' end='455'>Madrid</lex>
+  <lex begin='455' end='456'>.</lex>
+</s>
+<s>
+  <lex begin='465' end='470'>Paseo</lex>
+  <lex begin='471' end='473'>de</lex>
+  <lex begin='474' end='483'>Recoletos</lex>
+  <lex begin='484' end='486'>is</lex>
+  <lex begin='487' end='488'>a</lex>
+  <lex begin='489' end='501'>continuation</lex>
+  <lex begin='502' end='504'>of</lex>
+  <lex begin='505' end='510'>Paseo</lex>
+  <lex begin='511' end='514'>del</lex>
+  <lex begin='515' end='520'>Prado</lex>
+  <lex begin='529' end='533'>that</lex>
+  <lex begin='534' end='538'>runs</lex>
+  <lex begin='539' end='543'>from</lex>
+  <lex begin='544' end='549'>Plaza</lex>
+  <lex begin='550' end='552'>de</lex>
+  <lex begin='553' end='555'>la</lex>
+  <lex begin='556' end='563'>Cibeles</lex>
+  <lex begin='564' end='566'>to</lex>
+  <lex begin='567' end='572'>Plaza</lex>
+  <lex begin='573' end='578'>Colón</lex>
+  <lex begin='578' end='579'>.</lex>
+</s>
+<s>
+  <lex begin='580' end='581'>A</lex>
+  <lex begin='582' end='587'>block</lex>
+  <lex begin='588' end='592'>east</lex>
+  <lex begin='593' end='595'>is</lex>
+  <lex begin='596' end='599'>the</lex>
+  <lex begin='608' end='621'>distinguished</lex>
+  <lex begin='622' end='627'>Museo</lex>
+  <lex begin='628' end='640'>Arqueológico</lex>
+  <lex begin='641' end='642'>(</lex>
+  <lex begin='642' end='643'>c</lex>
+  <lex begin='643' end='644'>/</lex>
+  <lex begin='645' end='652'>Serrano</lex>
+  <lex begin='652' end='653'>,</lex>
+  <lex begin='654' end='656'>13</lex>
+  <lex begin='656' end='657'>)</lex>
+  <lex begin='657' end='658'>.</lex>
+</s>
+<s>
+  <lex begin='659' end='662'>The</lex>
+  <lex begin='663' end='669'>museum</lex>
+  <lex begin='669' end='671'>’s</lex>
+  <lex begin='680' end='691'>archaeology</lex>
+  <lex begin='692' end='702'>collection</lex>
+  <lex begin='703' end='712'>addresses</lex>
+  <lex begin='713' end='716'>the</lex>
+  <lex begin='717' end='720'>art</lex>
+  <lex begin='721' end='723'>of</lex>
+  <lex begin='724' end='731'>ancient</lex>
+  <lex begin='732' end='743'>inhabitants</lex>
+  <lex begin='744' end='746'>of</lex>
+  <lex begin='755' end='760'>Spain</lex>
+  <lex begin='760' end='761'>,</lex>
+  <lex begin='762' end='766'>with</lex>
+  <lex begin='767' end='777'>statuettes</lex>
+  <lex begin='778' end='781'>and</lex>
+  <lex begin='782' end='789'>jewelry</lex>
+  <lex begin='790' end='794'>from</lex>
+  <lex begin='795' end='806'>2nd-century</lex>
+  <lex begin='807' end='810'>b.c</lex>
+  <lex begin='810' end='811'>.</lex>
+</s>
+<s>
+  <lex begin='812' end='824'>Carthaginian</lex>
+  <lex begin='833' end='841'>settlers</lex>
+  <lex begin='842' end='845'>and</lex>
+  <lex begin='846' end='858'>miraculously</lex>
+  <lex begin='859' end='868'>preserved</lex>
+  <lex begin='869' end='876'>mosaics</lex>
+  <lex begin='877' end='881'>from</lex>
+  <lex begin='882' end='893'>2nd-century</lex>
+  <lex begin='894' end='897'>a.d</lex>
+  <lex begin='897' end='898'>.</lex>
+</s>
+<s>
+  <lex begin='899' end='904'>Roman</lex>
+  <lex begin='913' end='918'>Spain</lex>
+  <lex begin='918' end='919'>.</lex>
+</s>
+<s>
+  <lex begin='920' end='922'>An</lex>
+  <lex begin='923' end='936'>unforgettable</lex>
+  <lex begin='937' end='941'>item</lex>
+  <lex begin='942' end='944'>is</lex>
+  <lex begin='945' end='947'>La</lex>
+  <lex begin='948' end='952'>Dama</lex>
+  <lex begin='953' end='955'>de</lex>
+  <lex begin='956' end='961'>Elche</lex>
+  <lex begin='962' end='963'>(</lex>
+  <lex begin='963' end='966'>the</lex>
+  <lex begin='967' end='971'>Lady</lex>
+  <lex begin='972' end='974'>of</lex>
+  <lex begin='975' end='980'>Elche</lex>
+  <lex begin='980' end='981'>)</lex>
+  <lex begin='981' end='982'>,</lex>
+  <lex begin='983' end='984'>a</lex>
+  <lex begin='993' end='998'>stone</lex>
+  <lex begin='999' end='1008'>sculpture</lex>
+  <lex begin='1009' end='1014'>found</lex>
+  <lex begin='1015' end='1017'>in</lex>
+  <lex begin='1018' end='1026'>Alicante</lex>
+  <lex begin='1027' end='1035'>province</lex>
+  <lex begin='1036' end='1038'>in</lex>
+  <lex begin='1039' end='1043'>1897</lex>
+  <lex begin='1043' end='1044'>.</lex>
+</s>
+<s>
+  <lex begin='1045' end='1049'>This</lex>
+  <lex begin='1050' end='1060'>thoroughly</lex>
+  <lex begin='1069' end='1074'>noble</lex>
+  <lex begin='1075' end='1082'>goddess</lex>
+  <lex begin='1082' end='1083'>,</lex>
+  <lex begin='1084' end='1088'>with</lex>
+  <lex begin='1089' end='1098'>beautiful</lex>
+  <lex begin='1099' end='1109'>cheekbones</lex>
+  <lex begin='1109' end='1110'>,</lex>
+  <lex begin='1111' end='1115'>lips</lex>
+  <lex begin='1115' end='1116'>,</lex>
+  <lex begin='1117' end='1120'>and</lex>
+  <lex begin='1121' end='1125'>eyes</lex>
+  <lex begin='1125' end='1126'>,</lex>
+  <lex begin='1127' end='1130'>and</lex>
+  <lex begin='1131' end='1138'>wearing</lex>
+  <lex begin='1139' end='1140'>a</lex>
+  <lex begin='1149' end='1157'>fanciful</lex>
+  <lex begin='1158' end='1167'>headdress</lex>
+  <lex begin='1167' end='1168'>,</lex>
+  <lex begin='1169' end='1172'>may</lex>
+  <lex begin='1173' end='1175'>be</lex>
+  <lex begin='1176' end='1181'>2,500</lex>
+  <lex begin='1182' end='1187'>years</lex>
+  <lex begin='1188' end='1191'>old</lex>
+  <lex begin='1191' end='1192'>.</lex>
+</s>
+<s>
+  <lex begin='1193' end='1195'>On</lex>
+  <lex begin='1196' end='1199'>the</lex>
+  <lex begin='1200' end='1206'>museum</lex>
+  <lex begin='1207' end='1214'>grounds</lex>
+  <lex begin='1215' end='1216'>—</lex>
+  <lex begin='1217' end='1219'>or</lex>
+  <lex begin='1219' end='1220'>,</lex>
+  <lex begin='1229' end='1233'>more</lex>
+  <lex begin='1234' end='1243'>correctly</lex>
+  <lex begin='1243' end='1244'>,</lex>
+  <lex begin='1245' end='1250'>under</lex>
+  <lex begin='1251' end='1254'>the</lex>
+  <lex begin='1255' end='1261'>ground</lex>
+  <lex begin='1262' end='1263'>—</lex>
+  <lex begin='1264' end='1266'>is</lex>
+  <lex begin='1267' end='1268'>a</lex>
+  <lex begin='1269' end='1276'>careful</lex>
+  <lex begin='1277' end='1289'>reproduction</lex>
+  <lex begin='1290' end='1292'>of</lex>
+  <lex begin='1293' end='1296'>the</lex>
+  <lex begin='1305' end='1312'>painted</lex>
+  <lex begin='1313' end='1319'>scenes</lex>
+  <lex begin='1320' end='1330'>discovered</lex>
+  <lex begin='1331' end='1333'>in</lex>
+  <lex begin='1334' end='1335'>a</lex>
+  <lex begin='1336' end='1340'>cave</lex>
+  <lex begin='1341' end='1343'>in</lex>
+  <lex begin='1344' end='1352'>Altamira</lex>
+  <lex begin='1353' end='1355'>in</lex>
+  <lex begin='1356' end='1364'>northern</lex>
+  <lex begin='1365' end='1370'>Spain</lex>
+  <lex begin='1370' end='1371'>:</lex>
+  <lex begin='1380' end='1391'>prehistoric</lex>
+  <lex begin='1392' end='1402'>depictions</lex>
+  <lex begin='1403' end='1405'>of</lex>
+  <lex begin='1406' end='1413'>animals</lex>
+  <lex begin='1413' end='1414'>,</lex>
+  <lex begin='1415' end='1421'>dating</lex>
+  <lex begin='1422' end='1426'>back</lex>
+  <lex begin='1427' end='1433'>15,000</lex>
+  <lex begin='1434' end='1439'>years</lex>
+  <lex begin='1440' end='1443'>and</lex>
+  <lex begin='1452' end='1464'>representing</lex>
+  <lex begin='1465' end='1468'>man</lex>
+  <lex begin='1468' end='1470'>’s</lex>
+  <lex begin='1471' end='1476'>first</lex>
+  <lex begin='1477' end='1490'>illustrations</lex>
+  <lex begin='1491' end='1493'>of</lex>
+  <lex begin='1494' end='1497'>the</lex>
+  <lex begin='1498' end='1503'>world</lex>
+  <lex begin='1504' end='1510'>around</lex>
+  <lex begin='1511' end='1514'>him</lex>
+  <lex begin='1514' end='1515'>.</lex>
+</s>
+<s>
+  <lex begin='1516' end='1520'>They</lex>
+  <lex begin='1529' end='1532'>are</lex>
+  <lex begin='1533' end='1537'>said</lex>
+  <lex begin='1538' end='1540'>to</lex>
+  <lex begin='1541' end='1543'>be</lex>
+  <lex begin='1544' end='1548'>some</lex>
+  <lex begin='1549' end='1551'>of</lex>
+  <lex begin='1552' end='1555'>the</lex>
+  <lex begin='1556' end='1562'>finest</lex>
+  <lex begin='1563' end='1574'>prehistoric</lex>
+  <lex begin='1575' end='1579'>cave</lex>
+  <lex begin='1580' end='1588'>drawings</lex>
+  <lex begin='1589' end='1593'>ever</lex>
+  <lex begin='1602' end='1612'>discovered</lex>
+  <lex begin='1612' end='1613'>.</lex>
+</s>
+<s>
+  <lex begin='1622' end='1627'>Plaza</lex>
+  <lex begin='1628' end='1630'>de</lex>
+  <lex begin='1631' end='1636'>Colón</lex>
+  <lex begin='1637' end='1639'>is</lex>
+  <lex begin='1640' end='1641'>a</lex>
+  <lex begin='1642' end='1647'>large</lex>
+  <lex begin='1648' end='1652'>open</lex>
+  <lex begin='1653' end='1658'>space</lex>
+  <lex begin='1659' end='1663'>that</lex>
+  <lex begin='1664' end='1667'>has</lex>
+  <lex begin='1668' end='1672'>been</lex>
+  <lex begin='1673' end='1676'>the</lex>
+  <lex begin='1685' end='1691'>recent</lex>
+  <lex begin='1692' end='1697'>scene</lex>
+  <lex begin='1698' end='1700'>of</lex>
+  <lex begin='1701' end='1713'>far-reaching</lex>
+  <lex begin='1714' end='1726'>public-works</lex>
+  <lex begin='1727' end='1735'>projects</lex>
+  <lex begin='1735' end='1736'>.</lex>
+</s>
+<s>
+  <lex begin='1737' end='1740'>The</lex>
+  <lex begin='1741' end='1745'>city</lex>
+  <lex begin='1746' end='1753'>airport</lex>
+  <lex begin='1762' end='1765'>bus</lex>
+  <lex begin='1766' end='1774'>terminal</lex>
+  <lex begin='1775' end='1783'>operates</lex>
+  <lex begin='1784' end='1789'>below</lex>
+  <lex begin='1790' end='1796'>ground</lex>
+  <lex begin='1796' end='1797'>,</lex>
+  <lex begin='1798' end='1805'>beneath</lex>
+  <lex begin='1806' end='1808'>an</lex>
+  <lex begin='1809' end='1813'>1885</lex>
+  <lex begin='1814' end='1820'>statue</lex>
+  <lex begin='1821' end='1823'>of</lex>
+  <lex begin='1832' end='1843'>Christopher</lex>
+  <lex begin='1844' end='1852'>Columbus</lex>
+  <lex begin='1853' end='1856'>and</lex>
+  <lex begin='1857' end='1858'>a</lex>
+  <lex begin='1859' end='1867'>monument</lex>
+  <lex begin='1868' end='1870'>to</lex>
+  <lex begin='1871' end='1874'>the</lex>
+  <lex begin='1875' end='1884'>discovery</lex>
+  <lex begin='1885' end='1887'>of</lex>
+  <lex begin='1888' end='1891'>the</lex>
+  <lex begin='1892' end='1895'>New</lex>
+  <lex begin='1896' end='1901'>World</lex>
+  <lex begin='1901' end='1902'>.</lex>
+</s>
+<s>
+  <lex begin='1911' end='1916'>There</lex>
+  <lex begin='1917' end='1919'>is</lex>
+  <lex begin='1920' end='1924'>also</lex>
+  <lex begin='1925' end='1928'>the</lex>
+  <lex begin='1929' end='1935'>Centro</lex>
+  <lex begin='1936' end='1944'>Cultural</lex>
+  <lex begin='1945' end='1947'>de</lex>
+  <lex begin='1948' end='1950'>la</lex>
+  <lex begin='1951' end='1956'>Villa</lex>
+  <lex begin='1957' end='1958'>(</lex>
+  <lex begin='1958' end='1962'>City</lex>
+  <lex begin='1963' end='1971'>Cultural</lex>
+  <lex begin='1972' end='1978'>Center</lex>
+  <lex begin='1978' end='1979'>)</lex>
+  <lex begin='1979' end='1980'>,</lex>
+  <lex begin='1989' end='1993'>with</lex>
+  <lex begin='1994' end='2004'>facilities</lex>
+  <lex begin='2005' end='2008'>for</lex>
+  <lex begin='2009' end='2017'>concerts</lex>
+  <lex begin='2017' end='2018'>,</lex>
+  <lex begin='2019' end='2026'>theatre</lex>
+  <lex begin='2026' end='2027'>,</lex>
+  <lex begin='2028' end='2031'>art</lex>
+  <lex begin='2032' end='2043'>exhibitions</lex>
+  <lex begin='2043' end='2044'>,</lex>
+  <lex begin='2045' end='2048'>and</lex>
+  <lex begin='2049' end='2054'>films</lex>
+  <lex begin='2054' end='2055'>.</lex>
+</s>
+<s>
+  <lex begin='2064' end='2069'>Paseo</lex>
+  <lex begin='2070' end='2072'>de</lex>
+  <lex begin='2073' end='2075'>la</lex>
+  <lex begin='2076' end='2086'>Castellana</lex>
+  <lex begin='2087' end='2089'>is</lex>
+  <lex begin='2090' end='2096'>Madrid</lex>
+  <lex begin='2096' end='2098'>’s</lex>
+  <lex begin='2099' end='2108'>principal</lex>
+  <lex begin='2109' end='2120'>north-south</lex>
+  <lex begin='2129' end='2135'>avenue</lex>
+  <lex begin='2135' end='2136'>,</lex>
+  <lex begin='2137' end='2144'>running</lex>
+  <lex begin='2145' end='2148'>for</lex>
+  <lex begin='2149' end='2156'>several</lex>
+  <lex begin='2157' end='2162'>miles</lex>
+  <lex begin='2163' end='2170'>through</lex>
+  <lex begin='2171' end='2174'>the</lex>
+  <lex begin='2175' end='2180'>heart</lex>
+  <lex begin='2181' end='2183'>of</lex>
+  <lex begin='2184' end='2187'>the</lex>
+  <lex begin='2188' end='2192'>city</lex>
+  <lex begin='2193' end='2196'>and</lex>
+  <lex begin='2205' end='2214'>bordering</lex>
+  <lex begin='2215' end='2218'>the</lex>
+  <lex begin='2219' end='2228'>Salamanca</lex>
+  <lex begin='2229' end='2237'>district</lex>
+  <lex begin='2238' end='2240'>to</lex>
+  <lex begin='2241' end='2244'>its</lex>
+  <lex begin='2245' end='2249'>west</lex>
+  <lex begin='2249' end='2250'>.</lex>
+</s>
+<s>
+  <lex begin='2251' end='2253'>In</lex>
+  <lex begin='2254' end='2257'>the</lex>
+  <lex begin='2258' end='2262'>area</lex>
+  <lex begin='2263' end='2268'>north</lex>
+  <lex begin='2269' end='2271'>of</lex>
+  <lex begin='2280' end='2285'>Plaza</lex>
+  <lex begin='2286' end='2288'>de</lex>
+  <lex begin='2289' end='2294'>Colón</lex>
+  <lex begin='2294' end='2295'>,</lex>
+  <lex begin='2296' end='2299'>you</lex>
+  <lex begin='2300' end='2304'>come</lex>
+  <lex begin='2305' end='2307'>to</lex>
+  <lex begin='2308' end='2309'>a</lex>
+  <lex begin='2310' end='2315'>newer</lex>
+  <lex begin='2316' end='2323'>section</lex>
+  <lex begin='2324' end='2326'>of</lex>
+  <lex begin='2327' end='2331'>town</lex>
+  <lex begin='2331' end='2332'>,</lex>
+  <lex begin='2333' end='2338'>where</lex>
+  <lex begin='2339' end='2348'>patrician</lex>
+  <lex begin='2357' end='2367'>townhouses</lex>
+  <lex begin='2368' end='2370'>in</lex>
+  <lex begin='2371' end='2374'>the</lex>
+  <lex begin='2375' end='2382'>central</lex>
+  <lex begin='2383' end='2387'>area</lex>
+  <lex begin='2388' end='2392'>give</lex>
+  <lex begin='2393' end='2396'>way</lex>
+  <lex begin='2397' end='2399'>to</lex>
+  <lex begin='2400' end='2409'>luxurious</lex>
+  <lex begin='2410' end='2416'>modern</lex>
+  <lex begin='2417' end='2426'>apartment</lex>
+  <lex begin='2435' end='2441'>blocks</lex>
+  <lex begin='2442' end='2446'>with</lex>
+  <lex begin='2447' end='2457'>landscaped</lex>
+  <lex begin='2458' end='2467'>balconies</lex>
+  <lex begin='2467' end='2468'>.</lex>
+</s>
+<s>
+  <lex begin='2477' end='2482'>Museo</lex>
+  <lex begin='2483' end='2489'>Lázaro</lex>
+  <lex begin='2490' end='2498'>Galdiano</lex>
+  <lex begin='2499' end='2500'>(</lex>
+  <lex begin='2500' end='2501'>c</lex>
+  <lex begin='2501' end='2502'>/</lex>
+  <lex begin='2503' end='2510'>Serrano</lex>
+  <lex begin='2510' end='2511'>,</lex>
+  <lex begin='2512' end='2515'>122</lex>
+  <lex begin='2515' end='2516'>)</lex>
+  <lex begin='2517' end='2519'>is</lex>
+  <lex begin='2520' end='2522'>an</lex>
+  <lex begin='2523' end='2536'>astonishingly</lex>
+  <lex begin='2545' end='2557'>wide-ranging</lex>
+  <lex begin='2558' end='2561'>and</lex>
+  <lex begin='2562' end='2571'>priceless</lex>
+  <lex begin='2572' end='2579'>private</lex>
+  <lex begin='2580' end='2590'>collection</lex>
+  <lex begin='2590' end='2591'>.</lex>
+</s>
+<s>
+  <lex begin='2592' end='2600'>Featured</lex>
+  <lex begin='2601' end='2605'>here</lex>
+  <lex begin='2606' end='2609'>are</lex>
+  <lex begin='2618' end='2625'>ancient</lex>
+  <lex begin='2626' end='2633'>jewelry</lex>
+  <lex begin='2633' end='2634'>,</lex>
+  <lex begin='2635' end='2644'>including</lex>
+  <lex begin='2645' end='2646'>a</lex>
+  <lex begin='2647' end='2653'>Celtic</lex>
+  <lex begin='2654' end='2660'>diadem</lex>
+  <lex begin='2661' end='2665'>from</lex>
+  <lex begin='2666' end='2669'>the</lex>
+  <lex begin='2670' end='2673'>2nd</lex>
+  <lex begin='2674' end='2681'>century</lex>
+  <lex begin='2682' end='2685'>b.c</lex>
+  <lex begin='2685' end='2686'>.</lex>
+</s>
+<s>
+  <lex begin='2687' end='2688'>,</lex>
+  <lex begin='2697' end='2705'>medieval</lex>
+  <lex begin='2706' end='2709'>and</lex>
+  <lex begin='2710' end='2721'>Renaissance</lex>
+  <lex begin='2722' end='2734'>masterpieces</lex>
+  <lex begin='2735' end='2737'>in</lex>
+  <lex begin='2738' end='2743'>ivory</lex>
+  <lex begin='2744' end='2747'>and</lex>
+  <lex begin='2748' end='2754'>enamel</lex>
+  <lex begin='2754' end='2755'>,</lex>
+  <lex begin='2756' end='2760'>gold</lex>
+  <lex begin='2761' end='2764'>and</lex>
+  <lex begin='2773' end='2779'>silver</lex>
+  <lex begin='2779' end='2780'>,</lex>
+  <lex begin='2781' end='2785'>rare</lex>
+  <lex begin='2786' end='2792'>church</lex>
+  <lex begin='2793' end='2802'>vestments</lex>
+  <lex begin='2802' end='2803'>,</lex>
+  <lex begin='2804' end='2807'>and</lex>
+  <lex begin='2808' end='2816'>medieval</lex>
+  <lex begin='2817' end='2824'>weapons</lex>
+  <lex begin='2824' end='2825'>.</lex>
+</s>
+<s>
+  <lex begin='2826' end='2829'>Its</lex>
+  <lex begin='2830' end='2839'>paintings</lex>
+  <lex begin='2848' end='2856'>comprise</lex>
+  <lex begin='2857' end='2858'>a</lex>
+  <lex begin='2859' end='2868'>Rembrandt</lex>
+  <lex begin='2869' end='2877'>portrait</lex>
+  <lex begin='2878' end='2880'>of</lex>
+  <lex begin='2881' end='2887'>Saskia</lex>
+  <lex begin='2888' end='2891'>van</lex>
+  <lex begin='2892' end='2902'>Uylenburgh</lex>
+  <lex begin='2902' end='2903'>,</lex>
+  <lex begin='2904' end='2909'>dated</lex>
+  <lex begin='2910' end='2913'>the</lex>
+  <lex begin='2914' end='2918'>year</lex>
+  <lex begin='2927' end='2931'>they</lex>
+  <lex begin='2932' end='2936'>were</lex>
+  <lex begin='2937' end='2944'>married</lex>
+  <lex begin='2944' end='2945'>;</lex>
+  <lex begin='2946' end='2956'>Hieronymus</lex>
+  <lex begin='2957' end='2962'>Bosch</lex>
+  <lex begin='2963' end='2965'>at</lex>
+  <lex begin='2966' end='2969'>his</lex>
+  <lex begin='2970' end='2974'>most</lex>
+  <lex begin='2975' end='2985'>diabolical</lex>
+  <lex begin='2985' end='2986'>;</lex>
+  <lex begin='2987' end='2988'>a</lex>
+  <lex begin='2989' end='2993'>rich</lex>
+  <lex begin='3002' end='3012'>repository</lex>
+  <lex begin='3013' end='3015'>of</lex>
+  <lex begin='3016' end='3020'>Goya</lex>
+  <lex begin='3021' end='3029'>official</lex>
+  <lex begin='3030' end='3039'>portraits</lex>
+  <lex begin='3039' end='3040'>,</lex>
+  <lex begin='3041' end='3049'>colorful</lex>
+  <lex begin='3050' end='3058'>sketches</lex>
+  <lex begin='3059' end='3061'>of</lex>
+  <lex begin='3062' end='3066'>real</lex>
+  <lex begin='3067' end='3071'>life</lex>
+  <lex begin='3071' end='3072'>,</lex>
+  <lex begin='3081' end='3084'>and</lex>
+  <lex begin='3085' end='3093'>haunting</lex>
+  <lex begin='3094' end='3100'>scenes</lex>
+  <lex begin='3101' end='3103'>of</lex>
+  <lex begin='3104' end='3111'>witches</lex>
+  <lex begin='3112' end='3115'>and</lex>
+  <lex begin='3116' end='3123'>horrors</lex>
+  <lex begin='3123' end='3124'>;</lex>
+  <lex begin='3125' end='3127'>El</lex>
+  <lex begin='3128' end='3133'>Greco</lex>
+  <lex begin='3133' end='3135'>’s</lex>
+  <lex begin='3136' end='3145'>sensitive</lex>
+  <lex begin='3146' end='3149'>St.</lex>
+  <lex begin='3158' end='3165'>Francis</lex>
+  <lex begin='3166' end='3168'>of</lex>
+  <lex begin='3169' end='3175'>Assisi</lex>
+  <lex begin='3176' end='3179'>and</lex>
+  <lex begin='3180' end='3182'>an</lex>
+  <lex begin='3183' end='3188'>early</lex>
+  <lex begin='3189' end='3190'>(</lex>
+  <lex begin='3190' end='3194'>1562</lex>
+  <lex begin='3194' end='3195'>)</lex>
+  <lex begin='3196' end='3203'>picture</lex>
+  <lex begin='3204' end='3208'>from</lex>
+  <lex begin='3209' end='3212'>his</lex>
+  <lex begin='3213' end='3221'>Venetian</lex>
+  <lex begin='3222' end='3228'>period</lex>
+  <lex begin='3228' end='3229'>;</lex>
+  <lex begin='3238' end='3241'>and</lex>
+  <lex begin='3242' end='3245'>the</lex>
+  <lex begin='3246' end='3253'>English</lex>
+  <lex begin='3254' end='3262'>painters</lex>
+  <lex begin='3263' end='3271'>Reynolds</lex>
+  <lex begin='3271' end='3272'>,</lex>
+  <lex begin='3273' end='3285'>Gainsborough</lex>
+  <lex begin='3285' end='3286'>,</lex>
+  <lex begin='3287' end='3290'>and</lex>
+  <lex begin='3291' end='3300'>Constable</lex>
+  <lex begin='3300' end='3301'>.</lex>
+</s>
+<s>
+  <lex begin='3302' end='3305'>But</lex>
+  <lex begin='3306' end='3309'>the</lex>
+  <lex begin='3318' end='3324'>museum</lex>
+  <lex begin='3324' end='3326'>’s</lex>
+  <lex begin='3327' end='3335'>greatest</lex>
+  <lex begin='3336' end='3341'>pride</lex>
+  <lex begin='3341' end='3342'>,</lex>
+  <lex begin='3343' end='3354'>spotlighted</lex>
+  <lex begin='3355' end='3357'>in</lex>
+  <lex begin='3358' end='3361'>its</lex>
+  <lex begin='3362' end='3365'>own</lex>
+  <lex begin='3366' end='3371'>niche</lex>
+  <lex begin='3372' end='3374'>on</lex>
+  <lex begin='3375' end='3378'>the</lex>
+  <lex begin='3379' end='3385'>ground</lex>
+  <lex begin='3394' end='3399'>floor</lex>
+  <lex begin='3399' end='3400'>,</lex>
+  <lex begin='3401' end='3403'>is</lex>
+  <lex begin='3404' end='3405'>a</lex>
+  <lex begin='3406' end='3414'>portrait</lex>
+  <lex begin='3415' end='3417'>of</lex>
+  <lex begin='3418' end='3425'>angelic</lex>
+  <lex begin='3426' end='3432'>beauty</lex>
+  <lex begin='3432' end='3433'>,</lex>
+  <lex begin='3434' end='3441'>painted</lex>
+  <lex begin='3442' end='3448'>around</lex>
+  <lex begin='3449' end='3453'>1480</lex>
+  <lex begin='3454' end='3456'>by</lex>
+  <lex begin='3457' end='3465'>Leonardo</lex>
+  <lex begin='3474' end='3476'>Da</lex>
+  <lex begin='3477' end='3482'>Vinci</lex>
+  <lex begin='3482' end='3483'>,</lex>
+  <lex begin='3484' end='3492'>entitled</lex>
+  <lex begin='3493' end='3496'>The</lex>
+  <lex begin='3497' end='3504'>Saviour</lex>
+  <lex begin='3504' end='3505'>.</lex>
+</s>
+<s>
+  <lex begin='3514' end='3521'>Another</lex>
+  <lex begin='3522' end='3529'>smaller</lex>
+  <lex begin='3530' end='3533'>but</lex>
+  <lex begin='3534' end='3541'>equally</lex>
+  <lex begin='3542' end='3553'>interesting</lex>
+  <lex begin='3554' end='3560'>museum</lex>
+  <lex begin='3561' end='3563'>is</lex>
+  <lex begin='3564' end='3567'>the</lex>
+  <lex begin='3568' end='3573'>Museo</lex>
+  <lex begin='3582' end='3589'>Sorolla</lex>
+  <lex begin='3590' end='3591'>(</lex>
+  <lex begin='3591' end='3596'>Paseo</lex>
+  <lex begin='3597' end='3600'>del</lex>
+  <lex begin='3601' end='3608'>General</lex>
+  <lex begin='3609' end='3617'>Martínez</lex>
+  <lex begin='3618' end='3624'>Campos</lex>
+  <lex begin='3624' end='3625'>,</lex>
+  <lex begin='3626' end='3628'>37</lex>
+  <lex begin='3628' end='3629'>)</lex>
+  <lex begin='3629' end='3630'>.</lex>
+</s>
+<s>
+  <lex begin='3631' end='3634'>The</lex>
+  <lex begin='3635' end='3639'>only</lex>
+  <lex begin='3640' end='3646'>Madrid</lex>
+  <lex begin='3647' end='3653'>museum</lex>
+  <lex begin='3662' end='3669'>devoted</lex>
+  <lex begin='3670' end='3672'>to</lex>
+  <lex begin='3673' end='3674'>a</lex>
+  <lex begin='3675' end='3681'>single</lex>
+  <lex begin='3682' end='3689'>painter</lex>
+  <lex begin='3689' end='3690'>,</lex>
+  <lex begin='3691' end='3695'>this</lex>
+  <lex begin='3696' end='3703'>mansion</lex>
+  <lex begin='3704' end='3707'>was</lex>
+  <lex begin='3708' end='3711'>the</lex>
+  <lex begin='3712' end='3715'>hom</lex>
+  <lex begin='3716' end='3717'>e</lex>
+  <lex begin='3718' end='3721'>and</lex>
+  <lex begin='3722' end='3728'>studio</lex>
+  <lex begin='3729' end='3731'>of</lex>
+  <lex begin='3740' end='3747'>Joaquín</lex>
+  <lex begin='3748' end='3755'>Sorolla</lex>
+  <lex begin='3756' end='3757'>(</lex>
+  <lex begin='3757' end='3766'>1863–1923</lex>
+  <lex begin='3766' end='3767'>)</lex>
+  <lex begin='3767' end='3768'>.</lex>
+</s>
+<s>
+  <lex begin='3769' end='3771'>It</lex>
+  <lex begin='3772' end='3775'>has</lex>
+  <lex begin='3776' end='3781'>close</lex>
+  <lex begin='3782' end='3784'>to</lex>
+  <lex begin='3785' end='3788'>300</lex>
+  <lex begin='3789' end='3798'>paintings</lex>
+  <lex begin='3799' end='3801'>on</lex>
+  <lex begin='3802' end='3806'>view</lex>
+  <lex begin='3806' end='3807'>,</lex>
+  <lex begin='3816' end='3823'>showing</lex>
+  <lex begin='3824' end='3827'>the</lex>
+  <lex begin='3828' end='3837'>Valencian</lex>
+  <lex begin='3838' end='3851'>impressionist</lex>
+  <lex begin='3851' end='3853'>’s</lex>
+  <lex begin='3854' end='3862'>favorite</lex>
+  <lex begin='3863' end='3870'>seaside</lex>
+  <lex begin='3871' end='3877'>scenes</lex>
+  <lex begin='3878' end='3881'>and</lex>
+  <lex begin='3890' end='3900'>landscapes</lex>
+  <lex begin='3900' end='3901'>.</lex>
+</s>
+<s>
+  <lex begin='3902' end='3905'>The</lex>
+  <lex begin='3906' end='3911'>house</lex>
+  <lex begin='3912' end='3915'>has</lex>
+  <lex begin='3916' end='3917'>a</lex>
+  <lex begin='3918' end='3926'>charming</lex>
+  <lex begin='3927' end='3935'>lived-in</lex>
+  <lex begin='3936' end='3940'>feel</lex>
+  <lex begin='3940' end='3941'>.</lex>
+</s>
+<s>
+  <lex begin='3950' end='3955'>Quite</lex>
+  <lex begin='3956' end='3957'>a</lex>
+  <lex begin='3958' end='3961'>way</lex>
+  <lex begin='3962' end='3966'>east</lex>
+  <lex begin='3967' end='3969'>of</lex>
+  <lex begin='3970' end='3973'>the</lex>
+  <lex begin='3974' end='3983'>Salamanca</lex>
+  <lex begin='3984' end='3990'>barrio</lex>
+  <lex begin='3991' end='3993'>is</lex>
+  <lex begin='3994' end='3997'>the</lex>
+  <lex begin='3998' end='4003'>Plaza</lex>
+  <lex begin='4004' end='4006'>de</lex>
+  <lex begin='4015' end='4020'>Toros</lex>
+  <lex begin='4021' end='4022'>y</lex>
+  <lex begin='4023' end='4028'>Museo</lex>
+  <lex begin='4029' end='4036'>Taurino</lex>
+  <lex begin='4037' end='4038'>(</lex>
+  <lex begin='4038' end='4050'>Bullfighting</lex>
+  <lex begin='4051' end='4055'>Ring</lex>
+  <lex begin='4056' end='4059'>and</lex>
+  <lex begin='4060' end='4066'>Museum</lex>
+  <lex begin='4066' end='4067'>)</lex>
+  <lex begin='4067' end='4068'>,</lex>
+  <lex begin='4069' end='4079'>officially</lex>
+  <lex begin='4080' end='4086'>called</lex>
+  <lex begin='4095' end='4098'>the</lex>
+  <lex begin='4099' end='4104'>Plaza</lex>
+  <lex begin='4105' end='4107'>de</lex>
+  <lex begin='4108' end='4113'>Toros</lex>
+  <lex begin='4114' end='4124'>Monumental</lex>
+  <lex begin='4125' end='4127'>de</lex>
+  <lex begin='4128' end='4131'>Las</lex>
+  <lex begin='4132' end='4138'>Ventas</lex>
+  <lex begin='4138' end='4139'>.</lex>
+</s>
+<s>
+  <lex begin='4140' end='4144'>This</lex>
+  <lex begin='4145' end='4147'>is</lex>
+  <lex begin='4148' end='4153'>where</lex>
+  <lex begin='4154' end='4156'>to</lex>
+  <lex begin='4157' end='4159'>go</lex>
+  <lex begin='4160' end='4162'>to</lex>
+  <lex begin='4163' end='4166'>see</lex>
+  <lex begin='4175' end='4177'>an</lex>
+  <lex begin='4178' end='4187'>authentic</lex>
+  <lex begin='4188' end='4197'>bullfight</lex>
+  <lex begin='4197' end='4198'>,</lex>
+  <lex begin='4199' end='4200'>a</lex>
+  <lex begin='4201' end='4210'>seemingly</lex>
+  <lex begin='4211' end='4224'>anachronistic</lex>
+  <lex begin='4225' end='4232'>pursuit</lex>
+  <lex begin='4233' end='4237'>that</lex>
+  <lex begin='4246' end='4255'>continues</lex>
+  <lex begin='4256' end='4258'>to</lex>
+  <lex begin='4259' end='4266'>inspire</lex>
+  <lex begin='4267' end='4270'>the</lex>
+  <lex begin='4271' end='4279'>passions</lex>
+  <lex begin='4280' end='4282'>of</lex>
+  <lex begin='4283' end='4285'>so</lex>
+  <lex begin='4286' end='4290'>many</lex>
+  <lex begin='4291' end='4301'>Madrileños</lex>
+  <lex begin='4301' end='4302'>.</lex>
+</s>
+<s>
+  <lex begin='4303' end='4306'>The</lex>
+  <lex begin='4307' end='4312'>small</lex>
+  <lex begin='4321' end='4327'>museum</lex>
+  <lex begin='4328' end='4334'>houses</lex>
+  <lex begin='4335' end='4343'>historic</lex>
+  <lex begin='4344' end='4351'>posters</lex>
+  <lex begin='4351' end='4352'>,</lex>
+  <lex begin='4353' end='4358'>capes</lex>
+  <lex begin='4358' end='4359'>,</lex>
+  <lex begin='4360' end='4366'>swords</lex>
+  <lex begin='4366' end='4367'>,</lex>
+  <lex begin='4368' end='4377'>paintings</lex>
+  <lex begin='4377' end='4378'>,</lex>
+  <lex begin='4379' end='4382'>and</lex>
+  <lex begin='4383' end='4389'>photos</lex>
+  <lex begin='4398' end='4401'>for</lex>
+  <lex begin='4402' end='4413'>aficionados</lex>
+  <lex begin='4414' end='4416'>of</lex>
+  <lex begin='4417' end='4420'>the</lex>
+  <lex begin='4421' end='4428'>corrida</lex>
+  <lex begin='4428' end='4429'>,</lex>
+  <lex begin='4430' end='4433'>and</lex>
+  <lex begin='4434' end='4436'>is</lex>
+  <lex begin='4437' end='4444'>perhaps</lex>
+  <lex begin='4445' end='4449'>best</lex>
+  <lex begin='4450' end='4457'>visited</lex>
+  <lex begin='4458' end='4461'>out</lex>
+  <lex begin='4462' end='4464'>of</lex>
+  <lex begin='4473' end='4485'>bullfighting</lex>
+  <lex begin='4486' end='4492'>season</lex>
+  <lex begin='4493' end='4496'>for</lex>
+  <lex begin='4497' end='4502'>those</lex>
+  <lex begin='4503' end='4506'>who</lex>
+  <lex begin='4507' end='4511'>want</lex>
+  <lex begin='4512' end='4514'>to</lex>
+  <lex begin='4515' end='4518'>get</lex>
+  <lex begin='4519' end='4520'>a</lex>
+  <lex begin='4521' end='4528'>glimpse</lex>
+  <lex begin='4529' end='4531'>of</lex>
+  <lex begin='4532' end='4535'>the</lex>
+  <lex begin='4536' end='4544'>interior</lex>
+  <lex begin='4553' end='4555'>of</lex>
+  <lex begin='4556' end='4559'>the</lex>
+  <lex begin='4560' end='4564'>ring</lex>
+  <lex begin='4564' end='4565'>.</lex>
+</s>
+</TOKENS>
+
+</SpaceEvalTaskv1.2>
