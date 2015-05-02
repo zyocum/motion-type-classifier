@@ -357,10 +357,12 @@ Continues at 46N 15E
 <lex begin="939" end="943">edge</lex>
 <lex begin="943" end="944">.</lex>
 </s>
+<s>
 <lex begin="946" end="955">Continues</lex>
 <lex begin="956" end="958">at</lex>
 <lex begin="959" end="962">46N</lex>
 <lex begin="963" end="966">15E</lex>
-<lex begin="968" end="1013">﻿http://confluence.org/confluence.php?id=9787</lex>
+</s>
 </TOKENS>
+<URL>﻿http://confluence.org/confluence.php?id=9787</URL>
 </SpaceEvalTaskv1.2>

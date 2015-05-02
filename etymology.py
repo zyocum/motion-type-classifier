@@ -104,7 +104,7 @@ class Entry(dict):
         self.key = u'/'.join([self.text, self.pos])
         self.languages = search(
             self.definition,
-            sorted(LANGUAGES.keys(), key=len),
+            sorted(LANGUAGES, key=len),
             set()
         )
         self['languages'] = sorted(self.languages)
@@ -190,27 +190,33 @@ def affixes(etymologies):
 
 def etym(query, pos, dictionary):
     wn_pos = wordnet_pos(pos)
-    #try:
-    lemma = wnl.lemmatize(query, wn_pos)
-    #except KeyError:
-    #    lemma = query
-    #    print query, pos
+    try:
+        lemma = wnl.lemmatize(query, wn_pos)
+    except KeyError:
+        lemma = query
+        print query, pos
     results = dictionary.get(lemma, [])
     for result in results:
-        match = re.match(*map(wordnet_pos, (result['pos'], wn_pos)))
-        if match:
-            return lemma, [result]
+        if result['pos']:
+            try:
+                wn_pos_tags = map(wordnet_pos, (result['pos'], wn_pos))
+                match = re.match(*wn_pos_tags)
+            except TypeError:
+                print wn_pos_tags
+                match = False
+            if match:
+                return lemma, [result]
     return lemma, results
 
-#def languages(*args):
-#    lemma, results = etym(*args)
-#    languages = nest()
-#    if not results:
-#        query, _, dictionary = args
-#        lemma, results = etym(query, None, dictionary)
-#    for result in results:
-#        languages[lemma][(unicode(result['pos']))] = result['languages']
-#    return languages
+def lookup(*args):
+    lemma, results = etym(*args)
+    languages = nest()
+    if not results:
+        query, _, dictionary = args
+        lemma, results = etym(query, None, dictionary)
+    for result in results:
+        languages[lemma][(unicode(result['pos']))] = result['languages']
+    return languages
 
 def wordnet_pos(pos):
     pos = (pos or '').strip(punctuation + whitespace).lower()
@@ -222,24 +228,19 @@ def wordnet_pos(pos):
         return wordnet.NOUN
     elif pos.startswith('r') or 'adv'.startswith(pos):
         return wordnet.ADV
+    elif pos.startswith('in') or 'prep'.startswith(pos):
+        return u'p'
+    elif pos.startswith('fw'):
+        return u'v'
     else:
         return None
-
-etymology_file = os.path.join('resources', 'etymology.json')
-ETYMOLOGY = load(etymology_file)
-
-def languages(query, pos):
-    lemma, results = etym(query, pos, ETYMOLOGY)
-    languages = set()
-    if not results:
-        lemma, results = etym(query, None, ETYMOLOGY)
-    for result in results:
-        languages.update(set(result['languages']))
-    return languages
 
 site = os.path.expanduser(
     os.path.join('~', 'Downloads', 'www.etymonline.com')
 )
+
+
+etymology_file = os.path.join('resources', 'etymology.json')
 
 def setup():
     if not os.path.isfile(etymology_file):
@@ -251,7 +252,18 @@ def setup():
             affix_file = os.path.join('resources', '{}.json'.format(affix))
             if not os.path.isfile(affix_file):
                 dump(dictionary, affix_file)
-#setup()
+setup()
+
+ETYMOLOGY = load(etymology_file)
+
+def languages(query, pos):
+    lemma, results = etym(query, pos, ETYMOLOGY)
+    languages = set()
+    if not results:
+        lemma, results = etym(query, None, ETYMOLOGY)
+    for result in results:
+        languages.update(set(result['languages']))
+    return languages
 
 def main(args):
     print(args)

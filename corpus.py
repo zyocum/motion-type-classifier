@@ -19,8 +19,6 @@ import word2vec
 
 stanford_tagger = POSTagger(MODEL, JAR)
 
-FEATURES = load(os.path.join('resources', 'features.json'))
-
 class Sentence(object):
     def __init__(self, document, tokens):
         self.document = document
@@ -61,14 +59,11 @@ class Motion(dict):
         self.index = self.partition[1][-1]
         self.update({'sentence_index' : self.index})
         self.update({'document' : self.document.file})
-        for i in range(-3,4):
+        for i in range(-5,6):
             self.update(self.pos(offset=i))
             self.update(self.word(offset=i))
             self.update(self.cluster(offset=i))
         self.update(self.languages())
-        for feature in self.keys():
-            if not feature in FEATURES:
-                self.pop(feature)
     
     def _pos(self):
         _, center, _ = self.partition
@@ -76,7 +71,7 @@ class Motion(dict):
             _, pos = self.sentence.pos_tagged_tokens[center[-1]]
             return pos
         else:
-            return None
+            return ''
     
     def partition_sentence(self):
         left, center, right = [], [], []
@@ -93,7 +88,7 @@ class Motion(dict):
     def pos(self, offset=0):
         _, center, _ = self.partition
         if not center:
-            pos = None
+            pos = ''
         else:
             pos_tags = self.sentence.pos_tags
             bounds = range(len(pos_tags))
@@ -101,13 +96,13 @@ class Motion(dict):
             if target in bounds:
                 pos = pos_tags[target]
             else:
-                pos = None
+                pos = ''
         return {'pos[{}]'.format(offset) : pos }
     
     def word(self, offset=0):
         _, center, _ = self.partition
         if not center:
-            word = None
+            word = ''
         else:
             words = self.sentence.words
             bounds = range(len(words))
@@ -115,7 +110,7 @@ class Motion(dict):
             if target in bounds:
                 word = words[target]
             else:
-                word = None
+                word = ''
         return {'word[{}]'.format(offset) : word }
     
     def cluster(self, offset=0, filename='clusters.json'):
@@ -138,11 +133,8 @@ class Motion(dict):
     def languages(self):
         word = self['word[0]'].strip(punctuation + whitespace).lower()
         pos = self['pos[0]']
-        langs = dict((l, False) for l in LANGUAGES)
         results = languages(word, pos)
-        for l in results:
-            langs[l] = True
-        return langs
+        return dict((l, 1) for l in results)
 
 class Corpus(object):
     """A class for working with collections of Documents."""
@@ -174,9 +166,9 @@ class Corpus(object):
            self.dump(self.dumpfile)
     
     def __repr__(self):
-        return '<{name} with {n} documents>'.format(
+        return '{name}({path})'.format(
             name=self.__class__.__name__,
-            n=len(self.files)
+            path=repr(self.directory)
         )
     
     def __iter__(self):

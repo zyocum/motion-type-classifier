@@ -458,6 +458,7 @@ David
 <lex begin="1573" end="1580">weekend</lex>
 <lex begin="1580" end="1581">!</lex>
 </s>
+<s>
 <lex begin="1583" end="1585">In</lex>
 <lex begin="1586" end="1593">Bolivia</lex>
 <lex begin="1593" end="1594">,</lex>
@@ -471,5 +472,6 @@ David
 <lex begin="1624" end="1633">Patagonia</lex>
 <lex begin="1633" end="1634">,</lex>
 <lex begin="1636" end="1641">David</lex>
+</s>
 </TOKENS>
 </SpaceEvalTaskv1.2>
