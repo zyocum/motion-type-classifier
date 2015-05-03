@@ -1,3 +1,8 @@
+"""Module for constructing etymological dictionary from www.etymonline.com."""
+
+__author__ = "Zachary Yocum"
+__email__  = "zyocum@brandeis.edu"
+
 import codecs, os, json, re, sys, time
 from collections import defaultdict
 from operator import itemgetter
@@ -36,7 +41,6 @@ prefix = re.compile(
     re.VERBOSE
 )
 
-
 infix = re.compile(
     r"""
     ^             # start of line
@@ -71,15 +75,12 @@ AFFIXES = prefix, infix, suffix, word
 
 FIRST, SECOND, PENULTIMATE, ULTIMATE = map(itemgetter, range(2) + range(-2, 0))
 
-def index(items):
-    """Create an index/codebook that maps items to integers."""
-    return dict((v, k) for k, v in enumerate(sorted(items)))
-
 def nest():
     """A recursive dictionary."""
     return defaultdict(nest)
 
 def find_files(directory='.', pattern='.*', recursive=True):
+    """Search recursively for files matching a pattern"""
     if recursive:
         return (os.path.join(directory, filename)
             for directory, subdirectories, filenames in os.walk(directory)
@@ -90,6 +91,7 @@ def find_files(directory='.', pattern='.*', recursive=True):
             if re.match(pattern, filename))
 
 class Entry(dict):
+    """dict wrapper to represent an instance of an etymology entry."""
     def __init__(self, term, definition):
         super(Entry, self).__init__()
         self.parse(term)
@@ -113,6 +115,7 @@ class Entry(dict):
         return json.dumps(self, indent=4, ensure_ascii=False)
     
     def parse(self, dt):
+        """Parse the entry and update it."""
         entry = re.match(term, dt.text).groupdict()
         index = entry.pop('index')
         if not index:
@@ -128,6 +131,7 @@ class Entry(dict):
         self.update(entry)
     
 def search(text, languages, results):
+    """Find the set of all languages mentioned in text."""
     if not languages:
         return results
     else:
@@ -145,6 +149,7 @@ def load(filename):
 LANGUAGES = load(os.path.join('resources', 'languages.json'))
 
 def load_page(filename):
+    """Parse an HTML page and get a list of entries from it."""
     with open(filename, 'r') as file:
         soup = BS(file)
         dl = soup.find('dl')   # list of terms and their definitions
@@ -154,6 +159,7 @@ def load_page(filename):
     return entries
 
 def dump(data, filename):
+    """Dump an object to file as JSON."""
     with codecs.open(filename, mode='w', encoding='utf-8') as file:
         json.dump(
             data,
@@ -165,8 +171,9 @@ def dump(data, filename):
         )
 
 def etymologies(pages):
+    """Build the dictionary from the scraped list of pages."""
     etymologies = defaultdict(list)
-    print('building etymology dictionary...')
+    print('Building etymology dictionary...')
     with ProgressBar(maxval=len(pages)) as progress:
         for i, page in enumerate(pages):
             entries = (Entry(*e) for e in load_page(page))
@@ -176,6 +183,7 @@ def etymologies(pages):
     return etymologies
 
 def affixes(etymologies):
+    """Generate entries for affixes only."""
     for affix in AFFIXES:
         name = FIRST(affix.groupindex.keys())
         print('building {} dictionary...'.format(name))
@@ -189,26 +197,30 @@ def affixes(etymologies):
         yield name, dictionary
 
 def etym(query, pos, dictionary):
+    """Look up an etymology in the dictionary."""
     wn_pos = wordnet_pos(pos)
     try:
         lemma = wnl.lemmatize(query, wn_pos)
     except KeyError:
         lemma = query
-        print query, pos
     results = dictionary.get(lemma, [])
     for result in results:
-        if result['pos']:
-            try:
-                wn_pos_tags = map(wordnet_pos, (result['pos'], wn_pos))
-                match = re.match(*wn_pos_tags)
-            except TypeError:
-                print wn_pos_tags
-                match = False
-            if match:
-                return lemma, [result]
+        try:
+            wn_pos_tags = map(wordnet_pos, (result['pos'] or '', wn_pos))
+            match = re.match(*wn_pos_tags)
+        except TypeError:
+            #print 'query:', query
+            #print 'pos:', pos
+            #print 'wn_pos:', wn_pos
+            #print 'lemma:', lemma
+            #print 'wn_pos_tags:', wn_pos_tags
+            match = False
+        if match:
+            return lemma, [result]
     return lemma, results
 
 def lookup(*args):
+    """Returns a structured result from a query term + pos + dictionary."""
     lemma, results = etym(*args)
     languages = nest()
     if not results:
@@ -219,6 +231,7 @@ def lookup(*args):
     return languages
 
 def wordnet_pos(pos):
+    """Munge part-of-speech tags to be compatible with WordNet."""
     pos = (pos or '').strip(punctuation + whitespace).lower()
     if pos.startswith('j') or 'adj'.startswith(pos):
         return wordnet.ADJ
@@ -235,14 +248,12 @@ def wordnet_pos(pos):
     else:
         return None
 
-site = os.path.expanduser(
-    os.path.join('~', 'Downloads', 'www.etymonline.com')
-)
-
+site = os.path.expanduser(os.path.join('resources', 'www.etymonline.com'))
 
 etymology_file = os.path.join('resources', 'etymology.json')
 
 def setup():
+    """Setup the etymological dictionary and store it as JSON."""
     if not os.path.isfile(etymology_file):
         page = re.compile(r'index.php\?l=\w+&p=\d+&allowed_in_frame=0.html')
         pages = list(find_files(directory=site, pattern=page, recursive=False))
@@ -257,6 +268,7 @@ setup()
 ETYMOLOGY = load(etymology_file)
 
 def languages(query, pos):
+    """Look up a set of source languages for the query term."""
     lemma, results = etym(query, pos, ETYMOLOGY)
     languages = set()
     if not results:
@@ -272,9 +284,6 @@ def main(args):
         pos = args.pop(0)
     else:
         pos = ''
-    #lemma, results = etym(query, pos, ETYMOLOGY)
-    #for result in results:
-    #    print(lemma, ':', json.dumps(result, indent=True, ensure_ascii=False))
     print(
         json.dumps(
             languages(query, pos, ETYMOLOGY),

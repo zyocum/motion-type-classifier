@@ -173,7 +173,7 @@ Total: 15,921
 <NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="612" gquant="" id="e7" latLong="" mod="" scopes="" start="606" text="camped"/>
 <NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="72" gquant="" id="e0" latLong="" mod="" scopes="" start="67" text="write"/>
 <NONMOTION_EVENT comment="" countable="" domain="" elevation="" end="856" gquant="" id="e2" latLong="" mod="" scopes="" start="849" text="escaped"/>
-<MOTION comment="" countable="TRUE" domain="" elevation="" end="136" gquant="" id="m2" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="125" text="return home"/>
+<MOTION comment="" countable="TRUE" domain="" elevation="" end="131" gquant="" id="m2" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="125" text="return"/>
 <MOTION comment="" countable="" domain="" elevation="" end="1335" gquant="" id="m14" latLong="" mod="" motion_class="MOVE" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1329" text="rising"/>
 <MOTION comment="" countable="" domain="" elevation="" end="1590" gquant="" id="m1" latLong="" mod="" motion_class="REACH" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1583" text="visited"/>
 <MOTION comment="" countable="" domain="" elevation="" end="1864" gquant="" id="m19" latLong="" mod="" motion_class="HIT" motion_sense="LITERAL" motion_type="PATH" scopes="" start="1861" text="met"/>

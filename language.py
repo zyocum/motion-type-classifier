@@ -1,3 +1,8 @@
+"""Module for setting up etymological/language features."""
+
+__author__ = "Zachary Yocum"
+__email__  = "zyocum@brandeis.edu"
+
 import codecs, json, os, re
 from collections import defaultdict
 from string import *
@@ -66,10 +71,6 @@ def main():
             terms[t] = d
             if a in LANGUAGES:
                 terms[t]['type'] = 'language'
-    
-    #for abbreviation, d in terms.iteritems():
-    #    print abbreviation
-    #    print '\t' + '\n\t'.join(u'{} : {}'.format(*x) for x in d.iteritems())
     
     jsonfile = os.path.join('resources', 'abbreviation.json')
     

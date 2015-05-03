@@ -46,7 +46,7 @@ class Sentence(object):
         return pos_tagged
 
 class Motion(dict):
-    """docstring for Motion"""
+    """dict wrapper to represent a MOTION tag instance and its features."""
     def __init__(self, document, sentence, **kwargs):
         super(Motion, self).__init__(**kwargs)
         self.document = document
@@ -55,25 +55,31 @@ class Motion(dict):
         self.update({'start' : self.start})
         self.end = int(self['end'])
         self.update({'end' : self.end})
-        self.partition = self.partition_sentence()
-        self.index = self.partition[1][-1]
-        self.update({'sentence_index' : self.index})
+        self.partition = self._partition_sentence()
+        _, center, _ = self.partition
+        self.index = self.partition[1][0]
         self.update({'document' : self.document.file})
         for i in range(-5,6):
             self.update(self.pos(offset=i))
             self.update(self.word(offset=i))
             self.update(self.cluster(offset=i))
-        self.update(self.languages())
+        self.update(self.etymology())
+        for n in range(1,3):
+            self.update(self.context(n))
+        for key, value in self.iteritems():
+            if not value:
+                self[key] = 0
+        self.update({'lemma' : self.lemma()})
     
     def _pos(self):
         _, center, _ = self.partition
         if center:
-            _, pos = self.sentence.pos_tagged_tokens[center[-1]]
+            _, pos = self.sentence.pos_tagged_tokens[center[0]]
             return pos
         else:
             return ''
     
-    def partition_sentence(self):
+    def _partition_sentence(self):
         left, center, right = [], [], []
         for i, token in enumerate(self.sentence.tokens):
             start, end = map(int, (token.attrib['begin'], token.attrib['end']))
@@ -92,7 +98,7 @@ class Motion(dict):
         else:
             pos_tags = self.sentence.pos_tags
             bounds = range(len(pos_tags))
-            target = center[-1] + offset
+            target = center[0] + offset
             if target in bounds:
                 pos = pos_tags[target]
             else:
@@ -101,17 +107,21 @@ class Motion(dict):
     
     def word(self, offset=0):
         _, center, _ = self.partition
-        if not center:
-            word = ''
+        words = self.sentence.words
+        bounds = range(len(words))
+        if not offset:
+            targets = [center[i] + offset for i in range(len(center))]
         else:
-            words = self.sentence.words
-            bounds = range(len(words))
-            target = center[-1] + offset
+            targets = [center[0] + offset]
+        word = []
+        for target in targets:
             if target in bounds:
-                word = words[target]
-            else:
-                word = ''
-        return {'word[{}]'.format(offset) : word }
+                word.append(words[target])
+        word = u' '.join(word).strip(punctuation + whitespace)
+        if word:
+            return {'word[{}]'.format(offset) : word }
+        else:
+            return {}
     
     def cluster(self, offset=0, filename='clusters.json'):
         with codecs.open(filename, mode='r', encoding='utf-8') as file:
@@ -122,7 +132,7 @@ class Motion(dict):
         else:
             words = self.sentence.words
             bounds = range(len(words))
-            target = center[-1] + offset
+            target = center[0] + offset
             if target in bounds:
                 key = words[target].strip(punctuation + whitespace).lower()
                 cluster = clusters.get(key, 0)
@@ -130,11 +140,43 @@ class Motion(dict):
                 cluster = 0
         return {'cluster[{}]'.format(offset) : cluster }
     
-    def languages(self):
-        word = self['word[0]'].strip(punctuation + whitespace).lower()
-        pos = self['pos[0]']
-        results = languages(word, pos)
+    def etymology(self):
+        word = self.sentence.words[self.index]
+        query = word.strip(punctuation + whitespace).lower()
+        pos = self._pos()
+        results = languages(query, pos)
         return dict((l, 1) for l in results)
+    
+    def lemma(self):
+        word = self.sentence.words[self.index]
+        query = word.strip(punctuation + whitespace).lower()
+        wn_pos = wordnet_pos(self._pos())
+        try:
+            return wnl.lemmatize(query, wn_pos)
+        except KeyError:
+            pass
+        try:
+            return wnl.lemmatize(query, u'v')
+        except KeyError:
+            pass
+        try:
+            return wnl.lemmatize(query, u'n')
+        except KeyError:
+            pass
+        return lemma
+    
+    def context(self, n=2, distance=3):
+        left = [self.sentence.words[i] for i in self.partition[0]][-distance:]
+        center = [self.sentence.words[j] for j in self.partition[1]]
+        right = [self.sentence.words[k] for k in self.partition[2]][:distance]
+        labels = ('LEFT', 'CENTER', 'RIGHT')
+        parts = (left, center, right)
+        context = {}
+        for label, part in zip(labels, parts):
+            for ngram in ngrams(part, n=n):
+                key = u'{}<{}>'.format(label, u'-'.join(ngram).lower())
+                context[key] = 1
+        return context
 
 class Corpus(object):
     """A class for working with collections of Documents."""
@@ -204,7 +246,7 @@ class Corpus(object):
             json.dump(
                 self.motions,
                 file,
-                indent=True,
+                indent=4,
                 ensure_ascii=False,
                 sort_keys=True
             )
@@ -279,6 +321,7 @@ def word_clusters(
     binary='text.bin',
     clusters='clusters.txt'
 ):
+    """Produce word2vec word clusters."""
     words = []
     for corpus in corpora:
         for document in corpus.documents:
@@ -296,14 +339,22 @@ def word_clusters(
             (w, int(c)) for w, c in map(split, file.read().splitlines())
         )
     with codecs.open(json_clusters, mode='w', encoding='utf-8') as file:
-        json.dump(d, file, indent=True, ensure_ascii=False)
+        json.dump(d, file, indent=4, ensure_ascii=False)
     return d
 
 def load(filename):
+    """Load a JSON object from file."""
     with codecs.open(filename, mode='r', encoding='utf-8') as file:
         return json.load(file)
 
+def ngrams(items, n=2):
+    """Return all n-length slices of items in order."""
+    starts = [i for i in range(0, max(0, len(items)-n))]
+    ends = [j for j in range(min(n, len(items)), len(items))]
+    return [items[i:j] for i, j in zip(starts, ends)]
+
 def find_files(directory='.', pattern='.*', recursive=True):
+    """Search recursively for files matching a pattern"""
     if recursive:
         return (os.path.join(directory, filename)
             for directory, subdirectories, filenames in os.walk(directory)
