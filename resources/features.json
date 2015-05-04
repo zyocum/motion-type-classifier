@@ -394,6 +394,14 @@
     "lemma",
     "RIGHT"
   ],
+  "RightContext": [
+    "motion_type", 
+    "RIGHT"
+  ],
+  "Lemma": [
+    "motion_type", 
+    "lemma"
+  ],
   "Word+Lemma": [
     "motion_type", 
     "word",

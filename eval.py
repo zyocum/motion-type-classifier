@@ -8,6 +8,7 @@ import os, warnings
 from corpus import *
 
 import numpy as np
+from collections import Counter
 from scipy.stats.stats import pearsonr
 from sklearn import svm, metrics, cross_validation
 from sklearn.feature_extraction import DictVectorizer
@@ -221,6 +222,7 @@ def main(features):
     test_samples = all_samples[len(train_data):]
     vectorizer = DictVectorizer()
     features = vectorizer.fit_transform(all_data).toarray()
+    print 'Features vector shape (rows x columns):', '{} x {}'.format(*features.shape)
     train_features = features[:len(train_data)]
     test_features = features[len(train_data):]
     
@@ -263,8 +265,7 @@ def main(features):
         #'Logistic Regression' : logistic_regression,
         'Linear SVM' : lin_svc,
     })
-    
-    #for label, model in models.iteritems():
+
     fold = 10
     for label, model in models.iteritems():
         print 'Model={}'.format(label)
@@ -282,16 +283,19 @@ def main(features):
             target_names=labels
         )
         
-        print 'Train:Test={}-fold cross-validation'.format(label, fold)
-        model.fit(features, all_samples)
-        print tabulate(SCORES.keys(), cell=HEADER)
-        scores = cross_validation.cross_val_score(
-            model,
-            features,
-            all_samples,
-            cv=fold,
-            scoring=scorer
-        )
+################################################################################
+# Cross Validation
+################################################################################
+        #print 'Train:Test={}-fold cross-validation'.format(label, fold)
+        #model.fit(features, all_samples)
+        #print tabulate(SCORES.keys(), cell=HEADER)
+        #scores = cross_validation.cross_val_score(
+        #    model,
+        #    features,
+        #    all_samples,
+        #    cv=fold,
+        #    scoring=scorer
+        #)
         
 ################################################################################
 # Error Analysis
@@ -388,7 +392,18 @@ def main(features):
         #for i, row in enumerate(a):
         #    coefs = [u'{:1.2f}'.format(f) for f in a[i].tolist()]
         #    print u','.join(map(str, [lang_dict.keys()[i]] + coefs))
-        
+
+
+################################################################################
+# Correlation Coefficients
+################################################################################
+
+    #all_counts = Counter(all_samples)
+    #train_counts = Counter(train_samples)
+    #test_counts = Counter(test_samples)
+    #for counts in (train_counts, test_counts, all_counts):
+    #    print counts, sum(counts.values())
+
 if __name__ == '__main__':
     for label in sorted(FEATURE_SETS.keys(), key=len):
         features = FEATURE_SETS[label]
