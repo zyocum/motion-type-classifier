@@ -227,7 +227,7 @@ def lookup(*args):
         query, _, dictionary = args
         lemma, results = etym(query, None, dictionary)
     for result in results:
-        languages[lemma][(unicode(result['pos']))] = result['languages']
+        languages[lemma][unicode(result['pos'])] = result['languages']
     return languages
 
 def wordnet_pos(pos):
@@ -248,7 +248,7 @@ def wordnet_pos(pos):
     else:
         return None
 
-site = os.path.expanduser(os.path.join('resources', 'www.etymonline.com'))
+site = os.path.join('resources', 'www.etymonline.com')
 
 etymology_file = os.path.join('resources', 'etymology.json')
 
@@ -278,7 +278,6 @@ def languages(query, pos):
     return languages
 
 def main(args):
-    print(args)
     query = args.pop(0)
     if args:
         pos = args.pop(0)
@@ -286,7 +285,10 @@ def main(args):
         pos = ''
     print(
         json.dumps(
-            languages(query, pos, ETYMOLOGY),
+            {
+                'query' : filter(None, [query, pos]),
+                'results' : list(languages(query, pos))
+            },
             indent=True,
             ensure_ascii=False
         )
