@@ -11,13 +11,13 @@ from warnings import warn
 from xml.etree import ElementTree
 from xml.etree.ElementTree import Element
 
-from nltk.tag.stanford import POSTagger
+from nltk.tag.stanford import StanfordPOSTagger
 from progressbar import ProgressBar
 from stanford import JAR, MODEL
 from etymology import *
 import word2vec
 
-stanford_tagger = POSTagger(MODEL, JAR)
+stanford_tagger = StanfordPOSTagger(MODEL, JAR)
 
 class Sentence(object):
     def __init__(self, document, tokens):
