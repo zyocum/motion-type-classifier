@@ -10,6 +10,7 @@ from string import *
 
 from bs4 import BeautifulSoup as BS, CData
 from bs4.element import Tag
+from progressbar import ProgressBar, Percentage, Bar
 from language import LANGUAGES
 from nltk.stem import WordNetLemmatizer
 from nltk.corpus import wordnet
