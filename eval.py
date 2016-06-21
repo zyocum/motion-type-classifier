@@ -13,6 +13,7 @@ from scipy.stats.stats import pearsonr
 from sklearn import svm, metrics, cross_validation
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.linear_model import LogisticRegression
+from sklearn.learning_curve import *
 
 FEATURE_SETS = load(os.path.join('resources', 'features.json'))
 SCORES = OrderedDict.fromkeys([
@@ -269,7 +270,7 @@ def main(features):
     fold = 10
     for label, model in models.iteritems():
         print 'Model={}'.format(label)
-        print 'Train:Test={}:{}'.format(*map(len, (train, test)))
+        print 'Train:Test::{}:{}'.format(*map(len, (train, test)))
         model.fit(train_features, train_samples)
         
         reference = test_samples
@@ -282,6 +283,7 @@ def main(features):
             predicted,
             target_names=labels
         )
+        
         
 ################################################################################
 # Cross Validation
@@ -300,7 +302,6 @@ def main(features):
 ################################################################################
 # Error Analysis
 ################################################################################
-
         #motions = []
         #for datum in test_data:
         #    text = []
@@ -331,7 +332,6 @@ def main(features):
 ################################################################################
 # Sparse Feature Table
 ################################################################################
-        
         #label_dict = OrderedDict(
         #    (v,k) for k,v in enumerate(sorted(set(test_samples)))
         #)
@@ -356,11 +356,11 @@ def main(features):
         #            line.append(u'')
         #    line.append(label)
         #    lines.append(line)
-        ##header = ['Word', 'POS', 'Lemma'] + sorted(langs) + ['Reference Label']
-        ##print u' & ' .join(header)
-        ##t = Table(lines, rowdelim='\\\\\n', coldelim=u' & ', align='')
+        #header = ['Word', 'POS', 'Lemma'] + sorted(langs) + ['Reference Label']
+        #print u' & ' .join(header)
+        #t = Table(lines, rowdelim='\\\\\n', coldelim=u' & ', align='')
         ##print repr(t)
-        ##print t
+        #print t
         #print u',' + u','.join(sorted(set(test_samples)))
         #for i, row in enumerate(a):
         #    print u','.join(map(str, [lang_dict.keys()[i]] + np.divide(a[i], a[i].sum()).tolist()))
@@ -395,14 +395,19 @@ def main(features):
 
 
 ################################################################################
-# Correlation Coefficients
+# Motion-type Counts
 ################################################################################
-
     #all_counts = Counter(all_samples)
     #train_counts = Counter(train_samples)
     #test_counts = Counter(test_samples)
     #for counts in (train_counts, test_counts, all_counts):
     #    print counts, sum(counts.values())
+
+################################################################################
+# Learning Curve
+################################################################################
+        #lc = learning_curve(model, features, all_samples)
+        #train_sizes, train_scores, test_scores = lc
 
 if __name__ == '__main__':
     for label in sorted(FEATURE_SETS.keys(), key=len):
