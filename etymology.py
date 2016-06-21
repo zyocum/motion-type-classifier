@@ -3,7 +3,7 @@
 __author__ = "Zachary Yocum"
 __email__  = "zyocum@brandeis.edu"
 
-import codecs, os, json, re, sys, time
+import io, os, json, re, sys, time
 from collections import defaultdict
 from operator import itemgetter
 from string import *
@@ -143,7 +143,7 @@ def search(text, languages, results):
         return search(text, languages, results)
 
 def load(filename):
-    with codecs.open(filename, mode='r', encoding='utf-8') as file:
+    with io.open(filename, mode='r', encoding='utf-8') as file:
         return json.load(file)
 
 LANGUAGES = load(os.path.join('resources', 'languages.json'))
@@ -160,7 +160,7 @@ def load_page(filename):
 
 def dump(data, filename):
     """Dump an object to file as JSON."""
-    with codecs.open(filename, mode='w', encoding='utf-8') as file:
+    with io.open(filename, mode='w', encoding='utf-8') as file:
         json.dump(
             data,
             file,

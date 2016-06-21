@@ -3,7 +3,7 @@
 __author__ = "Zachary Yocum"
 __email__  = "zyocum@brandeis.edu"
 
-import codecs, json, os, re
+import io, json, os, re
 from collections import defaultdict
 from string import *
 
@@ -36,7 +36,7 @@ term = re.compile(
 )
 
 def dump(data, filename):
-    with codecs.open(filename, mode='w', encoding='utf-8') as file:
+    with io.open(filename, mode='w', encoding='utf-8') as file:
         json.dump(
             data,
             file,
@@ -47,7 +47,7 @@ def dump(data, filename):
         )
 
 def load(filename):
-    with codecs.open(filename, mode='r', encoding='utf-8') as file:
+    with io.open(filename, mode='r', encoding='utf-8') as file:
         return json.load(file)
 
 LANGUAGES = load(os.path.join('resources', 'languages.json'))
@@ -55,7 +55,7 @@ LANGUAGES = load(os.path.join('resources', 'languages.json'))
 def main():
     text = os.path.join('resources', 'abbreviation.txt')
     
-    with codecs.open(text, mode='r', encoding='utf-8') as file:
+    with io.open(text, mode='r', encoding='utf-8') as file:
         lines = unicode(file.read()).splitlines()
         
     entries = (re.match(entry, line).groupdict() for line in lines)

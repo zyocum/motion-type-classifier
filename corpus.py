@@ -3,7 +3,7 @@
 __author__ = "Zachary Yocum"
 __email__  = "zyocum@brandeis.edu"
 
-import codecs, os, json, re
+import io, os, json, re
 from collections import OrderedDict
 from itertools import chain
 from string import *
@@ -124,7 +124,7 @@ class Motion(dict):
             return {}
     
     def cluster(self, offset=0, filename='clusters.json'):
-        with codecs.open(filename, mode='r', encoding='utf-8') as file:
+        with io.open(filename, mode='r', encoding='utf-8') as file:
             clusters = json.load(file)
         _, center, _ = self.partition
         if not center:
@@ -242,7 +242,7 @@ class Corpus(object):
                 yield document, tag
     
     def dump(self, filename):
-        with codecs.open(filename, mode='w', encoding='utf-8') as file:
+        with io.open(filename, mode='w', encoding='utf-8') as file:
             json.dump(
                 self.motions,
                 file,
@@ -328,23 +328,23 @@ def word_clusters(
             for sentence in document.sentences:
                 for word in sentence.words:
                     words.append(word.lower().strip(punctuation + whitespace))
-    with codecs.open(text, mode='w', encoding='utf-8') as file:
+    with io.open(text, mode='w', encoding='utf-8') as file:
         file.write(u' '.join(words))
     word2vec.word2phrase(text, phrases, verbose=verbose)
     word2vec.word2vec(phrases, binary, size=size, verbose=verbose)
     word2vec.word2clusters(text, clusters, size, verbose=verbose)
     json_clusters = clusters.rstrip('.txt') + '.json'
-    with codecs.open(clusters, mode='r', encoding='utf-8') as file:
+    with io.open(clusters, mode='r', encoding='utf-8') as file:
         d = dict(
             (w, int(c)) for w, c in map(split, file.read().splitlines())
         )
-    with codecs.open(json_clusters, mode='w', encoding='utf-8') as file:
+    with io.open(json_clusters, mode='w', encoding='utf-8') as file:
         json.dump(d, file, indent=4, ensure_ascii=False)
     return d
 
 def load(filename):
     """Load a JSON object from file."""
-    with codecs.open(filename, mode='r', encoding='utf-8') as file:
+    with io.open(filename, mode='r', encoding='utf-8') as file:
         return json.load(file)
 
 def ngrams(items, n=2):
