@@ -278,11 +278,9 @@ def languages(query, pos):
     return languages
 
 def main(args):
-    query = args.pop(0)
-    if args:
-        pos = args.pop(0)
-    else:
-        pos = ''
+    args = dict(enumerate(args))
+    query = args.get(0, '')
+    pos = args.get(1, '')
     print(
         json.dumps(
             {
